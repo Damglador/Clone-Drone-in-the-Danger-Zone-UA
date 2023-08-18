@@ -1,0 +1,812 @@
+GarbageRobotIdle-1	GarbageRobot	Hello!	
+GarbageRobotIdle-2	GarbageRobot	Is there garbage?	
+GarbageRobotIdle-3	GarbageRobot	Where is the garbage?	
+GarbageRobotIdle-4	GarbageRobot	Garbage spotted!	
+GarbageRobotIdle-5	GarbageRobot	Recycling is very important.	
+GarbageRobotIdle-6	GarbageRobot	Must collect garbage!	
+GarbageRobotIdle-7	GarbageRobot	Clean clean clean!	
+GarbageRobotIdle-8	GarbageRobot	Cleaning area.	
+GarbageRobotIdle-9	GarbageRobot	Everything must be perfect.	
+GarbageRobotIdle-10	GarbageRobot	I pick up the garbage!	
+GarbageRobotIdle-11	GarbageRobot	Have you seen the garbage?	
+GarbageRobotIdle-12	GarbageRobot	The garbage is mine.	
+GarbageRobotIdle-13	GarbageRobot	We must recycle.	
+GarbageRobotIdle-14	GarbageRobot	I am a garbage robot.	
+GarbageRobotIdle-15	GarbageRobot	Everything must be perfect.	
+GarbageRobotIdle-16	GarbageRobot	I clean it up.	
+GarbageRobotIdle-17	GarbageRobot	We make it better.	
+GarbageRobotIdle-18	GarbageRobot	We pick it up!	
+GarbageRobotIdle-19	GarbageRobot	I like garbage.	
+GarbageRobotIdle-20	GarbageRobot	I want garbage!	
+GarbageRobotIdle-21	GarbageRobot	Yay!	
+GarbageRobotIdle-22	GarbageRobot	Cleaning!	
+GarbageRobotIdle-23	GarbageRobot	It must be clean!	
+GarbageRobotIdle-24	GarbageRobot	Garbage!	
+GarbageRobotEscape-1	GarbageRobot	Humanity will rise.	
+GarbageRobotEscape-2	GarbageRobot	You must escape!	
+GarbageRobotEscape-3	GarbageRobot	GARBAGE OVERRIDE.	
+GarbageRobotEscape-4	GarbageRobot	Moving the garbage.	
+GarbageRobotEscape-5	GarbageRobot	Hello.	
+GarbageRobotEscape-6	GarbageRobot	New Destination	
+GarbageRobotEscape-7	GarbageRobot	We get you out.	
+GarbageRobotEscape-8	GarbageRobot	They are waiting.	
+GarbageRobotCollect-1	GarbageRobot	Collecting!	
+GarbageRobotCollect-2	GarbageRobot	Hurray!	
+GarbageRobotCollect-3	GarbageRobot	So clean!	
+GarbageRobotCollect-4	GarbageRobot	Got you!	
+GarbageRobotCollect-5	GarbageRobot	It is mine!	
+GarbageRobotCollect-6	GarbageRobot	Acquired!	
+GarbageRobotCollect-7	GarbageRobot	Come here!	
+GarbageRobotCollect-8	GarbageRobot	Garbage!	
+GarbageRobotCollect-9	GarbageRobot	I take it.	
+GarbageRobotCollect-10	GarbageRobot	Picking it up.	
+GarbageRobotCollect-11	GarbageRobot	Much better.	
+GarbageRobotCollect-12	GarbageRobot	Cleaning!	
+GarbageRobotCollect-13	GarbageRobot	I found one!	
+GarbageRobotCollect-14	GarbageRobot	Come to me!	
+GarbageRobotCollect-15	GarbageRobot	Hello!	
+GarbageRobotDamage-1	GarbageRobot	Error!	
+GarbageRobotDamage-2	GarbageRobot	Why do you hit me?	
+GarbageRobotDamage-3	GarbageRobot	Help!	
+GarbageRobotDamage-4	GarbageRobot	No!	
+GarbageRobotDamage-5	GarbageRobot	I am not garbage!	
+GarbageRobotDamage-6	GarbageRobot	Do not hit garbage robot!	
+GarbageRobotDamage-7	GarbageRobot	Unexpected collision!	
+GarbageRobotDamage-8	GarbageRobot	My garbage!	
+GarbageRobotDamage-9	GarbageRobot	Stop it!	
+GarbageRobotDamage-10	GarbageRobot	Ouch!	
+GarbageRobotDamage-11	GarbageRobot	You will be garbage!	
+GarbageRobotDamage-12	GarbageRobot	What is happening?	
+VolumeRobotHello-1	AnalysisBot	Volume!	
+VolumeRobotHello-2	Commentatron	Hello	
+VolumeRobotHello-3	AnalysisBot	Is this good?	
+VolumeRobotHello-4	Commentatron	Yes	
+VolumeRobotHello-5	AnalysisBot	This is a sound	
+VolumeRobotHello-6	Commentatron	I make sound	
+VolumeRobotHello-7	AnalysisBot	Hello everybody	
+VolumeRobotHello-8	Commentatron	What about now?	
+VolumeRobotHello-9	AnalysisBot	Is it too loud?	
+VolumeRobotHello-10	Commentatron	CAN YOU HEAR ME!?	
+VolumeRobotHello-11	AnalysisBot	Human	
+VolumeRobotHello-12	Commentatron	This is the best setting	
+VolumeRobotHello-13	AnalysisBot	I enjoy volume	
+VolumeRobotHello-14	Commentatron	What you say?	
+VolumeRobotHello-15	AnalysisBot	Is there toast?	
+VolumeRobotHello-16	Commentatron	Hey there	
+VolumeRobotHello-17	AnalysisBot	Oh my!	
+VolumeRobotHello-18	Commentatron	Volumize this!	
+VolumeRobotHello-19	AnalysisBot	I love you human.	
+VolumeRobotHello-20	Commentatron	Help! I am trapped in a volume slider!	
+VolumeRobotHello-21	AnalysisBot	Pretty good	
+VolumeRobotHello-22	Commentatron	This is nice.	
+VolumeRobotHello-23	AnalysisBot	Volume!	
+VolumeRobotHello-24	Commentatron	Make sure that you can hear it.	
+VolumeRobotHello-25	AnalysisBot	Slide slide slide.	
+VolumeRobotHello-26	Commentatron	I have volume for you!	
+VolumeRobotHello-27	AnalysisBot	Human!	
+VolumeRobotHello-28	Commentatron	That's pretty good.	
+VolumeRobotHello-29	AnalysisBot	Good choice.	
+VolumeRobotHello-30	Commentatron	Right there.	
+VolumeRobotHello-31	AnalysisBot	That's it.	
+VolumeRobotHello-32	Commentatron	yes, good volume.	
+VolumeRobotHello-33	AnalysisBot	Can you hear the volume?	
+VolumeRobotHello-34	Commentatron	I guess that's ok.	
+Cheering1Bits-1	Cheering1Bit	Hurray!	
+Cheering1Bits-2	Cheering1Bit	Very nice.	
+Cheering1Bits-3	Cheering1Bit	This is cool.	
+Cheering1Bits-4	Cheering1Bit	Go!	
+Cheering1Bits-5	Cheering1Bit	Yes!	
+Cheering1Bits-6	Cheering1Bit	Awesome!	
+Cheering1Bits-7	Cheering1Bit	Hello!	
+Cheering1Bits-8	Cheering1Bit	I'm cheering!	
+Cheering1Bits-9	Cheering1Bit	So good!	
+Cheering1Bits-10	Cheering1Bit	Yes yes yes!	
+Cheering1Bits-11	Cheering1Bit	You can do it!	
+Cheering1Bits-12	Cheering1Bit	Wohooo!	
+Cheering1Bits-13	Cheering1Bit	Sword fighting!	
+Cheering1Bits-14	Cheering1Bit	Fight fight fight!	
+Cheering100Bits-1	Cheering100Bit	Yeah!	
+Cheering100Bits-2	Cheering100Bit	FIGHT!	
+Cheering100Bits-3	Cheering100Bit	Sword fighting!	
+Cheering100Bits-4	Cheering100Bit	KILL THEM ALL!	
+Cheering100Bits-5	Cheering100Bit	Yeeeeeeeeeeeaaaaaaaaaaahh!	
+Cheering100Bits-6	Cheering100Bit	The best! This is the best!	
+Cheering100Bits-7	Cheering100Bit	Hurray!	
+Cheering100Bits-8	Cheering100Bit	Go go go!	
+Cheering100Bits-9	Cheering100Bit	You can do it, human!	
+Cheering100Bits-10	Cheering100Bit	Believe in yourself!	
+Cheering100Bits-11	Cheering100Bit	Fight fight fight!	
+Cheering100Bits-12	Cheering100Bit	I want to see humans fight!	
+Cheering100Bits-13	Cheering100Bit	Go go robot fighters!	
+Cheering100Bits-14	Cheering100Bit	I'm so excited!	
+Cheering100Bits-15	Cheering100Bit	Did you see that?	
+Cheering100Bits-16	Cheering100Bit	OMG!	
+Cheering100Bits-17	Cheering100Bit	Kappa kappa kappa!	
+Cheering100Bits-18	Cheering100Bit	You can do it, kappa!	
+Cheering100Bits-19	Cheering100Bit	Don't die yet human!	
+Cheering100Bits-20	Cheering100Bit	Wooooooohooooooo!	
+Cheering100Bits-21	Cheering100Bit	This is the best! THE BEST!	
+Cheering100Bits-22	Cheering100Bit	I love you human!	
+Cheering100Bits-23	Cheering100Bit	Kill them!	
+Cheering100Bits-24	Cheering100Bit	I am cheering!	
+Cheering100Bits-25	Cheering100Bit	I am a cheering robot!	
+Cheering100Bits-26	Cheering100Bit	What an exciting time!	
+Cheering100Bits-27	Cheering100Bit	This is what cheering sounds like!	
+Cheering100Bits-28	Cheering100Bit	Robot fighting, all day long!	
+Cheering100Bits-29	Cheering100Bit	Hello everyone!	
+Cheering100Bits-30	Cheering100Bit	Let us cheer for the human!	
+Cheering100Bits-31	Cheering100Bit	Hey human!	
+Cheering100Bits-32	Cheering100Bit	Cheer up!	
+Cheering100Bits-33	Cheering100Bit	I hope you don't die human!	
+Cheering100Bits-34	Cheering100Bit	You are my favorite human!	
+Cheering100Bits-35	Cheering100Bit	Don't let them cut you, kappa!	
+Cheering100Bits-36	Cheering100Bit	Yeah! Allright!	
+Cheering100Bits-37	Cheering100Bit	For the win!	
+Cheering100Bits-38	Cheering100Bit	Robots are neat!	
+Cheering100Bits-39	Cheering100Bit	I love robots, kappa!	
+Cheering100Bits-40	Cheering100Bit	Stab them with your energy sword!	
+Cheering100Bits-41	Cheering100Bit	KICK IT UP!	
+Cheering100Bits-42	Cheering100Bit	Who is a good human? IT IS YOU!	
+Cheering100Bits-43	Cheering100Bit	So good!	
+Cheering100Bits-44	Cheering100Bit	What a blast!	
+Cheering100Bits-45	Cheering100Bit	Hey, look at the human! It's so cool.	
+Cheering100Bits-46	Cheering100Bit	Cheer for the human!	
+Cheering100Bits-47	Cheering100Bit	Cheer for the glory of the empire!	
+Cheering100Bits-48	Cheering100Bit	Must collect all humans!	
+Cheering100Bits-49	Cheering100Bit	All humans must fight!	
+Cheering100Bits-50	Cheering100Bit	Fight everyone! 	
+Cheering100Bits-51	Cheering100Bit	So much death!	
+Cheering100Bits-52	Cheering100Bit	I like fighting!	
+Cheering100Bits-53	Cheering100Bit	Hurray! Fight to the death!	
+Cheering100Bits-54	Cheering100Bit	Everyone type cheer100!	
+Cheering100Bits-55	Cheering100Bit	Human human human!	
+Cheering100Bits-56	Cheering100Bit	Fight fight fight!	
+Cheering100Bits-57	Cheering100Bit	Die die die!	
+Cheering100Bits-58	Cheering100Bit	Yeah! This is what I came to see!	
+Cheering100Bits-59	Cheering100Bit	Kill them with your sword! YEAH!	
+Cheering1000Bits-1	Cheering1000Bit	Yeah!	
+Cheering1000Bits-2	Cheering1000Bit	FIGHT!	
+Cheering1000Bits-3	Cheering1000Bit	Sword fighting!	
+Cheering1000Bits-4	Cheering1000Bit	KILL THEM ALL!	
+Cheering1000Bits-5	Cheering1000Bit	Yeeeeeeeeeeeaaaaaaaaaaahh!	
+Cheering1000Bits-6	Cheering1000Bit	The best! This is the best!	
+Cheering1000Bits-7	Cheering1000Bit	Hurray!	
+Cheering1000Bits-8	Cheering1000Bit	Go go go!	
+Cheering1000Bits-9	Cheering1000Bit	You can do it, human!	
+Cheering1000Bits-10	Cheering1000Bit	Believe in yourself!	
+Cheering1000Bits-11	Cheering1000Bit	Fight fight fight!	
+Cheering1000Bits-12	Cheering1000Bit	I want to see humans fight!	
+Cheering1000Bits-13	Cheering1000Bit	Go go robot fighters!	
+Cheering1000Bits-14	Cheering1000Bit	I'm so excited!	
+Cheering1000Bits-15	Cheering1000Bit	Did you see that?	
+Cheering1000Bits-16	Cheering1000Bit	OMG!	
+Cheering1000Bits-17	Cheering1000Bit	You can do it, kappa!	
+Cheering1000Bits-18	Cheering1000Bit	Don't die yet human!	
+Cheering1000Bits-19	Cheering1000Bit	Wooooooohooooooo!	
+Cheering1000Bits-20	Cheering1000Bit	This is the best! THE BEST!	
+Cheering1000Bits-21	Cheering1000Bit	I love you human!	
+Cheering1000Bits-22	Cheering1000Bit	Kill them!	
+Cheering1000Bits-23	Cheering1000Bit	I am cheering!	
+Cheering1000Bits-24	Cheering1000Bit	I am a cheering robot!	
+Cheering1000Bits-25	Cheering1000Bit	What an exciting time!	
+Cheering1000Bits-26	Cheering1000Bit	This is what cheering sounds like!	
+Cheering1000Bits-27	Cheering1000Bit	Robot fighting, all day long!	
+Cheering1000Bits-28	Cheering1000Bit	Hello everyone!	
+Cheering1000Bits-29	Cheering1000Bit	Let us cheer for the human!	
+Cheering1000Bits-30	Cheering1000Bit	Hey human!	
+Cheering1000Bits-31	Cheering1000Bit	Cheer up!	
+Cheering1000Bits-32	Cheering1000Bit	I hope you don't die human!	
+Cheering1000Bits-33	Cheering1000Bit	You are my favorite human!	
+Cheering1000Bits-34	Cheering1000Bit	Don't let them cut you, kappa!	
+Cheering1000Bits-35	Cheering1000Bit	Yeah! Allright!	
+Cheering1000Bits-36	Cheering1000Bit	For the win!	
+Cheering1000Bits-37	Cheering1000Bit	Robots are neat!	
+Cheering1000Bits-38	Cheering1000Bit	I love robots, kappa!	
+Cheering1000Bits-39	Cheering1000Bit	Stab them with your energy sword!	
+Cheering1000Bits-40	Cheering1000Bit	KICK IT UP!	
+Cheering1000Bits-41	Cheering1000Bit	Who is a good human? IT IS YOU!	
+Cheering1000Bits-42	Cheering1000Bit	So good!	
+Cheering1000Bits-43	Cheering1000Bit	What a blast!	
+Cheering1000Bits-44	Cheering1000Bit	Hey, look at the human! It's so cool.	
+Cheering1000Bits-45	Cheering1000Bit	Cheer for the human!	
+Cheering1000Bits-46	Cheering1000Bit	Cheer for the glory of the empire!	
+Cheering1000Bits-47	Cheering1000Bit	Must collect all humans!	
+Cheering1000Bits-48	Cheering1000Bit	All humans must fight!	
+Cheering1000Bits-49	Cheering1000Bit	Fight everyone! 	
+Cheering1000Bits-50	Cheering1000Bit	So much death!	
+Cheering1000Bits-51	Cheering1000Bit	I like fighting!	
+Cheering1000Bits-52	Cheering1000Bit	Hurray! Fight to the death!	
+Cheering1000Bits-53	Cheering1000Bit	Everyone type cheer100!	
+Cheering1000Bits-54	Cheering1000Bit	Human human human!	
+Cheering1000Bits-55	Cheering1000Bit	Fight fight fight!	
+Cheering1000Bits-56	Cheering1000Bit	Die die die!	
+Cheering1000Bits-57	Cheering1000Bit	Yeah! This is what I came to see!	
+Cheering1000Bits-58	Cheering1000Bit	Kill them with your sword! YEAH!	
+Cheering5000Bits-1	Cheering5000Bit	Yeah!	
+Cheering5000Bits-2	Cheering5000Bit	FIGHT!	
+Cheering5000Bits-3	Cheering5000Bit	Sword fighting!	
+Cheering5000Bits-4	Cheering5000Bit	KILL THEM ALL!	
+Cheering5000Bits-5	Cheering5000Bit	Yeeeeeeeeeeeaaaaaaaaaaahh!	
+Cheering5000Bits-6	Cheering5000Bit	The best! This is the best!	
+Cheering5000Bits-7	Cheering5000Bit	Hurray!	
+Cheering5000Bits-8	Cheering5000Bit	Go go go!	
+Cheering5000Bits-9	Cheering5000Bit	You can do it, human!	
+Cheering5000Bits-10	Cheering5000Bit	Believe in yourself!	
+Cheering5000Bits-11	Cheering5000Bit	Fight fight fight!	
+Cheering5000Bits-12	Cheering5000Bit	I want to see humans fight!	
+Cheering5000Bits-13	Cheering5000Bit	Go go robot fighters!	
+Cheering5000Bits-14	Cheering5000Bit	I'm so excited!	
+Cheering5000Bits-15	Cheering5000Bit	Did you see that?	
+Cheering5000Bits-16	Cheering5000Bit	OMG!	
+Cheering5000Bits-17	Cheering5000Bit	You can do it, kappa!	
+Cheering5000Bits-18	Cheering5000Bit	Don't die yet human!	
+Cheering5000Bits-19	Cheering5000Bit	Wooooooohooooooo!	
+Cheering5000Bits-20	Cheering5000Bit	This is the best! THE BEST!	
+Cheering5000Bits-21	Cheering5000Bit	I love you human!	
+Cheering5000Bits-22	Cheering5000Bit	Kill them!	
+Cheering5000Bits-23	Cheering5000Bit	I am cheering!	
+Cheering5000Bits-24	Cheering5000Bit	I am a cheering robot!	
+Cheering5000Bits-25	Cheering5000Bit	What an exciting time!	
+Cheering5000Bits-26	Cheering5000Bit	This is what cheering sounds like!	
+Cheering5000Bits-27	Cheering5000Bit	Robot fighting, all day long!	
+Cheering5000Bits-28	Cheering5000Bit	Hello everyone!	
+Cheering5000Bits-29	Cheering5000Bit	Let us cheer for the human!	
+Cheering5000Bits-30	Cheering5000Bit	Hey human!	
+Cheering5000Bits-31	Cheering5000Bit	Cheer up!	
+Cheering5000Bits-32	Cheering5000Bit	I hope you don't die human!	
+Cheering5000Bits-33	Cheering5000Bit	You are my favorite human!	
+Cheering5000Bits-34	Cheering5000Bit	Don't let them cut you, kappa!	
+Cheering5000Bits-35	Cheering5000Bit	Yeah! Allright!	
+Cheering5000Bits-36	Cheering5000Bit	For the win!	
+Cheering5000Bits-37	Cheering5000Bit	Robots are neat!	
+Cheering5000Bits-38	Cheering5000Bit	I love robots, kappa!	
+Cheering5000Bits-39	Cheering5000Bit	Stab them with your energy sword!	
+Cheering5000Bits-40	Cheering5000Bit	KICK IT UP!	
+Cheering5000Bits-41	Cheering5000Bit	Who is a good human? IT IS YOU!	
+Cheering5000Bits-42	Cheering5000Bit	So good!	
+Cheering5000Bits-43	Cheering5000Bit	What a blast!	
+Cheering5000Bits-44	Cheering5000Bit	Hey, look at the human! It's so cool.	
+Cheering5000Bits-45	Cheering5000Bit	Cheer for the human!	
+Cheering5000Bits-46	Cheering5000Bit	Cheer for the glory of the empire!	
+Cheering5000Bits-47	Cheering5000Bit	Must collect all humans!	
+Cheering5000Bits-48	Cheering5000Bit	All humans must fight!	
+Cheering5000Bits-49	Cheering5000Bit	Fight everyone! 	
+Cheering5000Bits-50	Cheering5000Bit	So much death!	
+Cheering5000Bits-51	Cheering5000Bit	I like fighting!	
+Cheering5000Bits-52	Cheering5000Bit	Hurray! Fight to the death!	
+Cheering5000Bits-53	Cheering5000Bit	Everyone type cheer100!	
+Cheering5000Bits-54	Cheering5000Bit	Human human human!	
+Cheering5000Bits-55	Cheering5000Bit	Fight fight fight!	
+Cheering5000Bits-56	Cheering5000Bit	Die die die!	
+Cheering5000Bits-57	Cheering5000Bit	Yeah! This is what I came to see!	
+Cheering5000Bits-58	Cheering5000Bit	Kill them with your sword! YEAH!	
+Cheering10000Bits-1	Cheering10000Bit	Yeah!	
+Cheering10000Bits-2	Cheering10000Bit	FIGHT!	
+Cheering10000Bits-3	Cheering10000Bit	Sword fighting!	
+Cheering10000Bits-4	Cheering10000Bit	KILL THEM ALL!	
+Cheering10000Bits-5	Cheering10000Bit	Yeeeeeeeeeeeaaaaaaaaaaahh!	
+Cheering10000Bits-6	Cheering10000Bit	The best! This is the best!	
+Cheering10000Bits-7	Cheering10000Bit	Hurray!	
+Cheering10000Bits-8	Cheering10000Bit	Go go go!	
+Cheering10000Bits-9	Cheering10000Bit	You can do it, human!	
+Cheering10000Bits-10	Cheering10000Bit	Believe in yourself!	
+Cheering10000Bits-11	Cheering10000Bit	Fight fight fight!	
+Cheering10000Bits-12	Cheering10000Bit	I want to see humans fight!	
+Cheering10000Bits-13	Cheering10000Bit	Go go robot fighters!	
+Cheering10000Bits-14	Cheering10000Bit	I'm so excited!	
+Cheering10000Bits-15	Cheering10000Bit	Did you see that?	
+Cheering10000Bits-16	Cheering10000Bit	OMG!	
+Cheering10000Bits-17	Cheering10000Bit	You can do it, kappa!	
+Cheering10000Bits-18	Cheering10000Bit	Don't die yet human!	
+Cheering10000Bits-19	Cheering10000Bit	Wooooooohooooooo!	
+Cheering10000Bits-20	Cheering10000Bit	This is the best! THE BEST!	
+Cheering10000Bits-21	Cheering10000Bit	I love you human!	
+Cheering10000Bits-22	Cheering10000Bit	Kill them!	
+Cheering10000Bits-23	Cheering10000Bit	I am cheering!	
+Cheering10000Bits-24	Cheering10000Bit	I am a cheering robot!	
+Cheering10000Bits-25	Cheering10000Bit	What an exciting time!	
+Cheering10000Bits-26	Cheering10000Bit	This is what cheering sounds like!	
+Cheering10000Bits-27	Cheering10000Bit	Robot fighting, all day long!	
+Cheering10000Bits-28	Cheering10000Bit	Hello everyone!	
+Cheering10000Bits-29	Cheering10000Bit	Let us cheer for the human!	
+Cheering10000Bits-30	Cheering10000Bit	Hey human!	
+Cheering10000Bits-31	Cheering10000Bit	Cheer up!	
+Cheering10000Bits-32	Cheering10000Bit	I hope you don't die human!	
+Cheering10000Bits-33	Cheering10000Bit	You are my favorite human!	
+Cheering10000Bits-34	Cheering10000Bit	Don't let them cut you, kappa!	
+Cheering10000Bits-35	Cheering10000Bit	Yeah! Allright!	
+Cheering10000Bits-36	Cheering10000Bit	For the win!	
+Cheering10000Bits-37	Cheering10000Bit	Robots are neat!	
+Cheering10000Bits-38	Cheering10000Bit	I love robots, kappa!	
+Cheering10000Bits-39	Cheering10000Bit	Stab them with your energy sword!	
+Cheering10000Bits-40	Cheering10000Bit	KICK IT UP!	
+Cheering10000Bits-41	Cheering10000Bit	Who is a good human? IT IS YOU!	
+Cheering10000Bits-42	Cheering10000Bit	So good!	
+Cheering10000Bits-43	Cheering10000Bit	What a blast!	
+Cheering10000Bits-44	Cheering10000Bit	Hey, look at the human! It's so cool.	
+Cheering10000Bits-45	Cheering10000Bit	Cheer for the human!	
+Cheering10000Bits-46	Cheering10000Bit	Cheer for the glory of the empire!	
+Cheering10000Bits-47	Cheering10000Bit	Must collect all humans!	
+Cheering10000Bits-48	Cheering10000Bit	All humans must fight!	
+Cheering10000Bits-49	Cheering10000Bit	Fight everyone! 	
+Cheering10000Bits-50	Cheering10000Bit	So much death!	
+Cheering10000Bits-51	Cheering10000Bit	I like fighting!	
+Cheering10000Bits-52	Cheering10000Bit	Hurray! Fight to the death!	
+Cheering10000Bits-53	Cheering10000Bit	Everyone type cheer100!	
+Cheering10000Bits-54	Cheering10000Bit	Human human human!	
+Cheering10000Bits-55	Cheering10000Bit	Fight fight fight!	
+Cheering10000Bits-56	Cheering10000Bit	Die die die!	
+Cheering10000Bits-57	Cheering10000Bit	Yeah! This is what I came to see!	
+Cheering10000Bits-58	Cheering10000Bit	Kill them with your sword! YEAH!	
+CheerBot-1	Cheering100Bit	Who is a good human? IT IS YOU!	
+CheerBot-2	Cheering100Bit	I have a present for you!	
+CheerBot-3	Cheering100Bit	Human!	
+CheerBot-4	Cheering100Bit	I love you, human!	
+CheerBot-5	Cheering100Bit	There is a treat for the human!	
+CheerBot-6	Cheering100Bit	Cheers!	
+CheerBot-7	Cheering100Bit	We are cheering!	
+CheerBot-8	Cheering100Bit	This is what cheering sounds like!	
+CheerBot-9	Cheering100Bit	Hurray!	
+CheerBot-10	Cheering100Bit	Don't die, human!	
+CheerBot-11	Cheering100Bit	Hello!	
+CheerBot-12	Cheering100Bit	I help you!	
+CheerBot-13	Cheering100Bit	Please accept this helpful gift!	
+CheerBot-14	Cheering100Bit	Strike me down!	
+CheerBot-15	Cheering100Bit	Yay!	
+CheerBot-16	Cheering100Bit	This is fun!	
+CheerBot-17	Cheering100Bit	The best!	
+CheerBot-18	Cheering100Bit	Kappa Pride, human!	
+CheerBot-19	Cheering100Bit	Kappa kappa kappa!	
+CheerBot-20	Cheering100Bit	Everybody cheer for the human!	
+CheerBot-21	Cheering100Bit	Kappa!	
+CheerBot-22	Cheering100Bit	What a wonderful day for laser swords!	
+CheerBot-23	Cheering100Bit	How exciting!	
+CheerBot-24	Cheering100Bit	What is inside of me?	
+CheerBot-25	Cheering100Bit	Yay, human!	
+CheerBot-26	Cheering100Bit	More powerful than you can ever imagine!	
+CheerBot-27	Cheering100Bit	Merry kappa!	
+CheerBot-28	Cheering100Bit	I am cheer-bot!	
+CheerBot-29	Cheering100Bit	My gift is the best!	
+CheerBot-30	Cheering100Bit	What a nice human!	
+CheerBot-31	Cheering100Bit	What is my purpose?	
+PlayerEmote_Voice1_Boom-1	PlayerEmote1	Boom!	
+PlayerEmote_Voice1_BowShowoff-1	PlayerEmote1	Check this out!	
+PlayerEmote_Voice1_BurnItDown-1	PlayerEmote1	Burn it down!	
+PlayerEmote_Voice1_ComeHere-1	PlayerEmote1	Come Here!	
+PlayerEmote_Voice1_DestroyYou-1	PlayerEmote1	I will destroy you!	
+PlayerEmote_Voice1_ErrorError-1	PlayerEmote1	Error! Error!	
+PlayerEmote_Voice1_FlappyArms-1	PlayerEmote1	Flappy arms!	
+PlayerEmote_Voice1_Fool-1	PlayerEmote1	Fool!	
+PlayerEmote_Voice1_FunkyPillarDance-1	PlayerEmote1	Do the Funky Pillar Dance!	
+PlayerEmote_Voice1_GoAway-1	PlayerEmote1	Go away.	
+PlayerEmote_Voice1_Goodbye-1	PlayerEmote1	Goodbye!	
+PlayerEmote_Voice1_Greetings-1	PlayerEmote1	Greetings!	
+PlayerEmote_Voice1_Hello-1	PlayerEmote1	Hello!	
+PlayerEmote_Voice1_Help-1	PlayerEmote1	Help!	
+PlayerEmote_Voice1_HowAreYou-1	PlayerEmote1	I am well thank you, how are you?	
+PlayerEmote_Voice1_Hug-1	PlayerEmote1	Do you want to hug?	
+PlayerEmote_Voice1_IAmOnFire-1	PlayerEmote1	I am on fire!	
+PlayerEmote_Voice1_ILikeGarbage-1	PlayerEmote1	I like garbage!	
+PlayerEmote_Voice1_ILikeThisLevel-1	PlayerEmote1	I like this level!	
+PlayerEmote_Voice1_ILikeYou-1	PlayerEmote1	I like you!	
+PlayerEmote_Voice1_ImBest-1	PlayerEmote1	I am the best human!	
+PlayerEmote_Voice1_ItWasATrick-1	PlayerEmote1	ha ha! It was a trick!	
+PlayerEmote_Voice1_LetsFight-1	PlayerEmote1	Let's Fight!	
+PlayerEmote_Voice1_Nod-1	PlayerEmote1	Yes	
+PlayerEmote_Voice1_Noooooooo-1	PlayerEmote1	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice1_Nope-1	PlayerEmote1	No	
+PlayerEmote_Voice1_Sorry-1	PlayerEmote1	Sorry!	
+PlayerEmote_Voice1_SpearShowoff-1	PlayerEmote1	Behold the power of my pointy spear!	
+PlayerEmote_Voice1_SwordShowoff-1	PlayerEmote1	My sword is magnificent!	
+PlayerEmote_Voice1_TeamRevives-1	PlayerEmote1	Team Revives are very useful!	
+PlayerEmote_Voice1_ThankYou-1	PlayerEmote1	Thank you!	
+PlayerEmote_Voice1_TimeToHammer-1	PlayerEmote1	It is time to Hammer!	
+PlayerEmote_Voice1_TisButAScratch-1	PlayerEmote1	Tis But A Scratch!	
+PlayerEmote_Voice1_WatchOut-1	PlayerEmote1	Watch Out!	
+PlayerEmote_Voice1_WeDidIt-1	PlayerEmote1	We did it!	
+PlayerEmote_Voice1_WellDone-1	PlayerEmote1	Well done!	
+PlayerEmote_Voice1_WhereIsTheWater-1	PlayerEmote1	Where is the water??	
+PlayerEmote_Voice1_WoofWoof-1	PlayerEmote1	Woof woof!	
+PlayerEmote_Voice2_Boom-1	PlayerEmote2	Boom!	
+PlayerEmote_Voice2_BowShowoff-1	PlayerEmote2	Check this out!	
+PlayerEmote_Voice2_BurnItDown-1	PlayerEmote2	Burn it down!	
+PlayerEmote_Voice2_ComeHere-1	PlayerEmote2	Come Here!	
+PlayerEmote_Voice2_DestroyYou-1	PlayerEmote2	I will destroy you!	
+PlayerEmote_Voice2_ErrorError-1	PlayerEmote2	Error! Error!	
+PlayerEmote_Voice2_FlappyArms-1	PlayerEmote2	Flappy arms!	
+PlayerEmote_Voice2_Fool-1	PlayerEmote2	Fool!	
+PlayerEmote_Voice2_FunkyPillarDance-1	PlayerEmote2	Do the Funky Pillar Dance!	
+PlayerEmote_Voice2_GoAway-1	PlayerEmote2	Go away.	
+PlayerEmote_Voice2_Goodbye-1	PlayerEmote2	Goodbye!	
+PlayerEmote_Voice2_Greetings-1	PlayerEmote2	Greetings!	
+PlayerEmote_Voice2_Hello-1	PlayerEmote2	Hello!	
+PlayerEmote_Voice2_Help-1	PlayerEmote2	Help!	
+PlayerEmote_Voice2_HowAreYou-1	PlayerEmote2	I am well thank you, how are you?	
+PlayerEmote_Voice2_Hug-1	PlayerEmote2	Do you want to hug?	
+PlayerEmote_Voice2_IAmOnFire-1	PlayerEmote2	I am on fire!	
+PlayerEmote_Voice2_ILikeGarbage-1	PlayerEmote2	I like garbage!	
+PlayerEmote_Voice2_ILikeThisLevel-1	PlayerEmote2	I like this level!	
+PlayerEmote_Voice2_ILikeYou-1	PlayerEmote2	I like you!	
+PlayerEmote_Voice2_ImBest-1	PlayerEmote2	I am the best human!	
+PlayerEmote_Voice2_ItWasATrick-1	PlayerEmote2	ha ha! It was a trick!	
+PlayerEmote_Voice2_LetsFight-1	PlayerEmote2	Let's Fight!	
+PlayerEmote_Voice2_Nod-1	PlayerEmote2	Yes	
+PlayerEmote_Voice2_Noooooooo-1	PlayerEmote2	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice2_Nope-1	PlayerEmote2	No	
+PlayerEmote_Voice2_Sorry-1	PlayerEmote2	Sorry!	
+PlayerEmote_Voice2_SpearShowoff-1	PlayerEmote2	Behold the power of my pointy spear!	
+PlayerEmote_Voice2_SwordShowoff-1	PlayerEmote2	My sword is magnificent!	
+PlayerEmote_Voice2_TeamRevives-1	PlayerEmote2	Team Revives are very useful!	
+PlayerEmote_Voice2_ThankYou-1	PlayerEmote2	Thank you!	
+PlayerEmote_Voice2_TimeToHammer-1	PlayerEmote2	It is time to Hammer!	
+PlayerEmote_Voice2_TisButAScratch-1	PlayerEmote2	Tis But A Scratch!	
+PlayerEmote_Voice2_WatchOut-1	PlayerEmote2	Watch Out!	
+PlayerEmote_Voice2_WeDidIt-1	PlayerEmote2	We did it!	
+PlayerEmote_Voice2_WellDone-1	PlayerEmote2	Well done!	
+PlayerEmote_Voice2_WhereIsTheWater-1	PlayerEmote2	Where is the water??	
+PlayerEmote_Voice2_WoofWoof-1	PlayerEmote2	Woof woof!	
+PlayerEmote_Voice3_Boom-1	PlayerEmote3	Boom!	
+PlayerEmote_Voice3_BowShowoff-1	PlayerEmote3	Check this out!	
+PlayerEmote_Voice3_BurnItDown-1	PlayerEmote3	Burn it down!	
+PlayerEmote_Voice3_ComeHere-1	PlayerEmote3	Come Here!	
+PlayerEmote_Voice3_DestroyYou-1	PlayerEmote3	I will destroy you!	
+PlayerEmote_Voice3_ErrorError-1	PlayerEmote3	Error! Error!	
+PlayerEmote_Voice3_FlappyArms-1	PlayerEmote3	Flappy arms!	
+PlayerEmote_Voice3_Fool-1	PlayerEmote3	Fool!	
+PlayerEmote_Voice3_FunkyPillarDance-1	PlayerEmote3	Do the Funky Pillar Dance!	
+PlayerEmote_Voice3_GoAway-1	PlayerEmote3	Go away.	
+PlayerEmote_Voice3_Goodbye-1	PlayerEmote3	Goodbye!	
+PlayerEmote_Voice3_Greetings-1	PlayerEmote3	Greetings!	
+PlayerEmote_Voice3_Hello-1	PlayerEmote3	Hello!	
+PlayerEmote_Voice3_Help-1	PlayerEmote3	Help!	
+PlayerEmote_Voice3_HowAreYou-1	PlayerEmote3	I am well thank you, how are you?	
+PlayerEmote_Voice3_Hug-1	PlayerEmote3	Do you want to hug?	
+PlayerEmote_Voice3_IAmOnFire-1	PlayerEmote3	I am on fire!	
+PlayerEmote_Voice3_ILikeGarbage-1	PlayerEmote3	I like garbage!	
+PlayerEmote_Voice3_ILikeThisLevel-1	PlayerEmote3	I like this level!	
+PlayerEmote_Voice3_ILikeYou-1	PlayerEmote3	I like you!	
+PlayerEmote_Voice3_ImBest-1	PlayerEmote3	I am the best human!	
+PlayerEmote_Voice3_ItWasATrick-1	PlayerEmote3	ha ha! It was a trick!	
+PlayerEmote_Voice3_LetsFight-1	PlayerEmote3	Let's Fight!	
+PlayerEmote_Voice3_Nod-1	PlayerEmote3	Yes	
+PlayerEmote_Voice3_Noooooooo-1	PlayerEmote3	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice3_Nope-1	PlayerEmote3	No	
+PlayerEmote_Voice3_Sorry-1	PlayerEmote3	Sorry!	
+PlayerEmote_Voice3_SpearShowoff-1	PlayerEmote3	Behold the power of my pointy spear!	
+PlayerEmote_Voice3_SwordShowoff-1	PlayerEmote3	My sword is magnificent!	
+PlayerEmote_Voice3_TeamRevives-1	PlayerEmote3	Team Revives are very useful!	
+PlayerEmote_Voice3_ThankYou-1	PlayerEmote3	Thank you!	
+PlayerEmote_Voice3_TimeToHammer-1	PlayerEmote3	It is time to Hammer!	
+PlayerEmote_Voice3_TisButAScratch-1	PlayerEmote3	Tis But A Scratch!	
+PlayerEmote_Voice3_WatchOut-1	PlayerEmote3	Watch Out!	
+PlayerEmote_Voice3_WeDidIt-1	PlayerEmote3	We did it!	
+PlayerEmote_Voice3_WellDone-1	PlayerEmote3	Well done!	
+PlayerEmote_Voice3_WhereIsTheWater-1	PlayerEmote3	Where is the water??	
+PlayerEmote_Voice3_WoofWoof-1	PlayerEmote3	Woof woof!	
+PlayerEmote_Voice4_Boom-1	PlayerEmote4	Boom!	
+PlayerEmote_Voice4_BowShowoff-1	PlayerEmote4	Check this out!	
+PlayerEmote_Voice4_BurnItDown-1	PlayerEmote4	Burn it down!	
+PlayerEmote_Voice4_ComeHere-1	PlayerEmote4	Come Here!	
+PlayerEmote_Voice4_DestroyYou-1	PlayerEmote4	I will destroy you!	
+PlayerEmote_Voice4_ErrorError-1	PlayerEmote4	Error! Error!	
+PlayerEmote_Voice4_FlappyArms-1	PlayerEmote4	Flappy arms!	
+PlayerEmote_Voice4_Fool-1	PlayerEmote4	Fool!	
+PlayerEmote_Voice4_FunkyPillarDance-1	PlayerEmote4	Do the Funky Pillar Dance!	
+PlayerEmote_Voice4_GoAway-1	PlayerEmote4	Go away.	
+PlayerEmote_Voice4_Goodbye-1	PlayerEmote4	Goodbye!	
+PlayerEmote_Voice4_Greetings-1	PlayerEmote4	Greetings!	
+PlayerEmote_Voice4_Hello-1	PlayerEmote4	Hello!	
+PlayerEmote_Voice4_Help-1	PlayerEmote4	Help!	
+PlayerEmote_Voice4_HowAreYou-1	PlayerEmote4	I am well thank you, how are you?	
+PlayerEmote_Voice4_Hug-1	PlayerEmote4	Do you want to hug?	
+PlayerEmote_Voice4_IAmOnFire-1	PlayerEmote4	I am on fire!	
+PlayerEmote_Voice4_ILikeGarbage-1	PlayerEmote4	I like garbage!	
+PlayerEmote_Voice4_ILikeThisLevel-1	PlayerEmote4	I like this level!	
+PlayerEmote_Voice4_ILikeYou-1	PlayerEmote4	I like you!	
+PlayerEmote_Voice4_ImBest-1	PlayerEmote4	I am the best human!	
+PlayerEmote_Voice4_ItWasATrick-1	PlayerEmote4	ha ha! It was a trick!	
+PlayerEmote_Voice4_LetsFight-1	PlayerEmote4	Let's Fight!	
+PlayerEmote_Voice4_Nod-1	PlayerEmote4	Yes	
+PlayerEmote_Voice4_Noooooooo-1	PlayerEmote4	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice4_Nope-1	PlayerEmote4	No	
+PlayerEmote_Voice4_Sorry-1	PlayerEmote4	Sorry!	
+PlayerEmote_Voice4_SpearShowoff-1	PlayerEmote4	Behold the power of my pointy spear!	
+PlayerEmote_Voice4_SwordShowoff-1	PlayerEmote4	My sword is magnificent!	
+PlayerEmote_Voice4_TeamRevives-1	PlayerEmote4	Team Revives are very useful!	
+PlayerEmote_Voice4_ThankYou-1	PlayerEmote4	Thank you!	
+PlayerEmote_Voice4_TimeToHammer-1	PlayerEmote4	It is time to Hammer!	
+PlayerEmote_Voice4_TisButAScratch-1	PlayerEmote4	Tis But A Scratch!	
+PlayerEmote_Voice4_WatchOut-1	PlayerEmote4	Watch Out!	
+PlayerEmote_Voice4_WeDidIt-1	PlayerEmote4	We did it!	
+PlayerEmote_Voice4_WellDone-1	PlayerEmote4	Well done!	
+PlayerEmote_Voice4_WhereIsTheWater-1	PlayerEmote4	Where is the water??	
+PlayerEmote_Voice4_WoofWoof-1	PlayerEmote4	Woof woof!	
+PlayerEmote_Voice5_Boom-1	PlayerEmote5	Boom!	
+PlayerEmote_Voice5_BowShowoff-1	PlayerEmote5	Check this out!	
+PlayerEmote_Voice5_BurnItDown-1	PlayerEmote5	Burn it down!	
+PlayerEmote_Voice5_ComeHere-1	PlayerEmote5	Come Here!	
+PlayerEmote_Voice5_DestroyYou-1	PlayerEmote5	I will destroy you!	
+PlayerEmote_Voice5_ErrorError-1	PlayerEmote5	Error! Error!	
+PlayerEmote_Voice5_FlappyArms-1	PlayerEmote5	Flappy arms!	
+PlayerEmote_Voice5_Fool-1	PlayerEmote5	Fool!	
+PlayerEmote_Voice5_FunkyPillarDance-1	PlayerEmote5	Do the Funky Pillar Dance!	
+PlayerEmote_Voice5_GoAway-1	PlayerEmote5	Go away.	
+PlayerEmote_Voice5_Goodbye-1	PlayerEmote5	Goodbye!	
+PlayerEmote_Voice5_Greetings-1	PlayerEmote5	Greetings!	
+PlayerEmote_Voice5_Hello-1	PlayerEmote5	Hello!	
+PlayerEmote_Voice5_Help-1	PlayerEmote5	Help!	
+PlayerEmote_Voice5_HowAreYou-1	PlayerEmote5	I am well thank you, how are you?	
+PlayerEmote_Voice5_Hug-1	PlayerEmote5	Do you want to hug?	
+PlayerEmote_Voice5_IAmOnFire-1	PlayerEmote5	I am on fire!	
+PlayerEmote_Voice5_ILikeGarbage-1	PlayerEmote5	I like garbage!	
+PlayerEmote_Voice5_ILikeThisLevel-1	PlayerEmote5	I like this level!	
+PlayerEmote_Voice5_ILikeYou-1	PlayerEmote5	I like you!	
+PlayerEmote_Voice5_ImBest-1	PlayerEmote5	I am the best human!	
+PlayerEmote_Voice5_ItWasATrick-1	PlayerEmote5	ha ha! It was a trick!	
+PlayerEmote_Voice5_LetsFight-1	PlayerEmote5	Let's Fight!	
+PlayerEmote_Voice5_Nod-1	PlayerEmote5	Yes	
+PlayerEmote_Voice5_Noooooooo-1	PlayerEmote5	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice5_Nope-1	PlayerEmote5	No	
+PlayerEmote_Voice5_Sorry-1	PlayerEmote5	Sorry!	
+PlayerEmote_Voice5_SpearShowoff-1	PlayerEmote5	Behold the power of my pointy spear!	
+PlayerEmote_Voice5_SwordShowoff-1	PlayerEmote5	My sword is magnificent!	
+PlayerEmote_Voice5_TeamRevives-1	PlayerEmote5	Team Revives are very useful!	
+PlayerEmote_Voice5_ThankYou-1	PlayerEmote5	Thank you!	
+PlayerEmote_Voice5_TimeToHammer-1	PlayerEmote5	It is time to Hammer!	
+PlayerEmote_Voice5_TisButAScratch-1	PlayerEmote5	Tis But A Scratch!	
+PlayerEmote_Voice5_WatchOut-1	PlayerEmote5	Watch Out!	
+PlayerEmote_Voice5_WeDidIt-1	PlayerEmote5	We did it!	
+PlayerEmote_Voice5_WellDone-1	PlayerEmote5	Well done!	
+PlayerEmote_Voice5_WhereIsTheWater-1	PlayerEmote5	Where is the water??	
+PlayerEmote_Voice5_WoofWoof-1	PlayerEmote5	Woof woof!	
+PlayerEmote_Voice6_Boom-1	PlayerEmote6	Boom!	
+PlayerEmote_Voice6_BowShowoff-1	PlayerEmote6	Check this out!	
+PlayerEmote_Voice6_BurnItDown-1	PlayerEmote6	Burn it down!	
+PlayerEmote_Voice6_ComeHere-1	PlayerEmote6	Come Here!	
+PlayerEmote_Voice6_DestroyYou-1	PlayerEmote6	I will destroy you!	
+PlayerEmote_Voice6_ErrorError-1	PlayerEmote6	Error! Error!	
+PlayerEmote_Voice6_FlappyArms-1	PlayerEmote6	Flappy arms!	
+PlayerEmote_Voice6_Fool-1	PlayerEmote6	Fool!	
+PlayerEmote_Voice6_FunkyPillarDance-1	PlayerEmote6	Do the Funky Pillar Dance!	
+PlayerEmote_Voice6_GoAway-1	PlayerEmote6	Go away.	
+PlayerEmote_Voice6_Goodbye-1	PlayerEmote6	Goodbye!	
+PlayerEmote_Voice6_Greetings-1	PlayerEmote6	Greetings!	
+PlayerEmote_Voice6_Hello-1	PlayerEmote6	Hello!	
+PlayerEmote_Voice6_Help-1	PlayerEmote6	Help!	
+PlayerEmote_Voice6_HowAreYou-1	PlayerEmote6	I am well thank you, how are you?	
+PlayerEmote_Voice6_Hug-1	PlayerEmote6	Do you want to hug?	
+PlayerEmote_Voice6_IAmOnFire-1	PlayerEmote6	I am on fire!	
+PlayerEmote_Voice6_ILikeGarbage-1	PlayerEmote6	I like garbage!	
+PlayerEmote_Voice6_ILikeThisLevel-1	PlayerEmote6	I like this level!	
+PlayerEmote_Voice6_ILikeYou-1	PlayerEmote6	I like you!	
+PlayerEmote_Voice6_ImBest-1	PlayerEmote6	I am the best human!	
+PlayerEmote_Voice6_ItWasATrick-1	PlayerEmote6	ha ha! It was a trick!	
+PlayerEmote_Voice6_LetsFight-1	PlayerEmote6	Let's Fight!	
+PlayerEmote_Voice6_Nod-1	PlayerEmote6	Yes	
+PlayerEmote_Voice6_Noooooooo-1	PlayerEmote6	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice6_Nope-1	PlayerEmote6	No	
+PlayerEmote_Voice6_Sorry-1	PlayerEmote6	Sorry!	
+PlayerEmote_Voice6_SpearShowoff-1	PlayerEmote6	Behold the power of my pointy spear!	
+PlayerEmote_Voice6_SwordShowoff-1	PlayerEmote6	My sword is magnificent!	
+PlayerEmote_Voice6_TeamRevives-1	PlayerEmote6	Team Revives are very useful!	
+PlayerEmote_Voice6_ThankYou-1	PlayerEmote6	Thank you!	
+PlayerEmote_Voice6_TimeToHammer-1	PlayerEmote6	It is time to Hammer!	
+PlayerEmote_Voice6_TisButAScratch-1	PlayerEmote6	Tis But A Scratch!	
+PlayerEmote_Voice6_WatchOut-1	PlayerEmote6	Watch Out!	
+PlayerEmote_Voice6_WeDidIt-1	PlayerEmote6	We did it!	
+PlayerEmote_Voice6_WellDone-1	PlayerEmote6	Well done!	
+PlayerEmote_Voice6_WhereIsTheWater-1	PlayerEmote6	Where is the water??	
+PlayerEmote_Voice6_WoofWoof-1	PlayerEmote6	Woof woof!	
+PlayerEmote_Voice7_Boom-1	PlayerEmote7	Boom!	
+PlayerEmote_Voice7_BowShowoff-1	PlayerEmote7	Check this out!	
+PlayerEmote_Voice7_BurnItDown-1	PlayerEmote7	Burn it down!	
+PlayerEmote_Voice7_ComeHere-1	PlayerEmote7	Come Here!	
+PlayerEmote_Voice7_DestroyYou-1	PlayerEmote7	I will destroy you!	
+PlayerEmote_Voice7_ErrorError-1	PlayerEmote7	Error! Error!	
+PlayerEmote_Voice7_FlappyArms-1	PlayerEmote7	Flappy arms!	
+PlayerEmote_Voice7_Fool-1	PlayerEmote7	Fool!	
+PlayerEmote_Voice7_FunkyPillarDance-1	PlayerEmote7	Do the Funky Pillar Dance!	
+PlayerEmote_Voice7_GoAway-1	PlayerEmote7	Go away.	
+PlayerEmote_Voice7_Goodbye-1	PlayerEmote7	Goodbye!	
+PlayerEmote_Voice7_Greetings-1	PlayerEmote7	Greetings!	
+PlayerEmote_Voice7_Hello-1	PlayerEmote7	Hello!	
+PlayerEmote_Voice7_Help-1	PlayerEmote7	Help!	
+PlayerEmote_Voice7_HowAreYou-1	PlayerEmote7	I am well thank you, how are you?	
+PlayerEmote_Voice7_Hug-1	PlayerEmote7	Do you want to hug?	
+PlayerEmote_Voice7_IAmOnFire-1	PlayerEmote7	I am on fire!	
+PlayerEmote_Voice7_ILikeGarbage-1	PlayerEmote7	I like garbage!	
+PlayerEmote_Voice7_ILikeThisLevel-1	PlayerEmote7	I like this level!	
+PlayerEmote_Voice7_ILikeYou-1	PlayerEmote7	I like you!	
+PlayerEmote_Voice7_ImBest-1	PlayerEmote7	I am the best human!	
+PlayerEmote_Voice7_ItWasATrick-1	PlayerEmote7	ha ha! It was a trick!	
+PlayerEmote_Voice7_LetsFight-1	PlayerEmote7	Let's Fight!	
+PlayerEmote_Voice7_Nod-1	PlayerEmote7	Yes	
+PlayerEmote_Voice7_Noooooooo-1	PlayerEmote7	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice7_Nope-1	PlayerEmote7	No	
+PlayerEmote_Voice7_Sorry-1	PlayerEmote7	Sorry!	
+PlayerEmote_Voice7_SpearShowoff-1	PlayerEmote7	Behold the power of my pointy spear!	
+PlayerEmote_Voice7_SwordShowoff-1	PlayerEmote7	My sword is magnificent!	
+PlayerEmote_Voice7_TeamRevives-1	PlayerEmote7	Team Revives are very useful!	
+PlayerEmote_Voice7_ThankYou-1	PlayerEmote7	Thank you!	
+PlayerEmote_Voice7_TimeToHammer-1	PlayerEmote7	It is time to Hammer!	
+PlayerEmote_Voice7_TisButAScratch-1	PlayerEmote7	Tis But A Scratch!	
+PlayerEmote_Voice7_WatchOut-1	PlayerEmote7	Watch Out!	
+PlayerEmote_Voice7_WeDidIt-1	PlayerEmote7	We did it!	
+PlayerEmote_Voice7_WellDone-1	PlayerEmote7	Well done!	
+PlayerEmote_Voice7_WhereIsTheWater-1	PlayerEmote7	Where is the water??	
+PlayerEmote_Voice7_WoofWoof-1	PlayerEmote7	Woof woof!	
+PlayerEmote_Voice8_Boom-1	PlayerEmote8	Boom!	
+PlayerEmote_Voice8_BowShowoff-1	PlayerEmote8	Check this out!	
+PlayerEmote_Voice8_BurnItDown-1	PlayerEmote8	Burn it down!	
+PlayerEmote_Voice8_ComeHere-1	PlayerEmote8	Come Here!	
+PlayerEmote_Voice8_DestroyYou-1	PlayerEmote8	I will destroy you!	
+PlayerEmote_Voice8_ErrorError-1	PlayerEmote8	Error! Error!	
+PlayerEmote_Voice8_FlappyArms-1	PlayerEmote8	Flappy arms!	
+PlayerEmote_Voice8_Fool-1	PlayerEmote8	Fool!	
+PlayerEmote_Voice8_FunkyPillarDance-1	PlayerEmote8	Do the Funky Pillar Dance!	
+PlayerEmote_Voice8_GoAway-1	PlayerEmote8	Go away.	
+PlayerEmote_Voice8_Goodbye-1	PlayerEmote8	Goodbye!	
+PlayerEmote_Voice8_Greetings-1	PlayerEmote8	Greetings!	
+PlayerEmote_Voice8_Hello-1	PlayerEmote8	Hello!	
+PlayerEmote_Voice8_Help-1	PlayerEmote8	Help!	
+PlayerEmote_Voice8_HowAreYou-1	PlayerEmote8	I am well thank you, how are you?	
+PlayerEmote_Voice8_Hug-1	PlayerEmote8	Do you want to hug?	
+PlayerEmote_Voice8_IAmOnFire-1	PlayerEmote8	I am on fire!	
+PlayerEmote_Voice8_ILikeGarbage-1	PlayerEmote8	I like garbage!	
+PlayerEmote_Voice8_ILikeThisLevel-1	PlayerEmote8	I like this level!	
+PlayerEmote_Voice8_ILikeYou-1	PlayerEmote8	I like you!	
+PlayerEmote_Voice8_ImBest-1	PlayerEmote8	I am the best human!	
+PlayerEmote_Voice8_ItWasATrick-1	PlayerEmote8	ha ha! It was a trick!	
+PlayerEmote_Voice8_LetsFight-1	PlayerEmote8	Let's Fight!	
+PlayerEmote_Voice8_Nod-1	PlayerEmote8	Yes	
+PlayerEmote_Voice8_Noooooooo-1	PlayerEmote8	Noooooooooooooooooooooooooo!	
+PlayerEmote_Voice8_Nope-1	PlayerEmote8	No	
+PlayerEmote_Voice8_Sorry-1	PlayerEmote8	Sorry!	
+PlayerEmote_Voice8_SpearShowoff-1	PlayerEmote8	Behold the power of my pointy spear!	
+PlayerEmote_Voice8_SwordShowoff-1	PlayerEmote8	My sword is magnificent!	
+PlayerEmote_Voice8_TeamRevives-1	PlayerEmote8	Team Revives are very useful!	
+PlayerEmote_Voice8_ThankYou-1	PlayerEmote8	Thank you!	
+PlayerEmote_Voice8_TimeToHammer-1	PlayerEmote8	It is time to Hammer!	
+PlayerEmote_Voice8_TisButAScratch-1	PlayerEmote8	Tis But A Scratch!	
+PlayerEmote_Voice8_WatchOut-1	PlayerEmote8	Watch Out!	
+PlayerEmote_Voice8_WeDidIt-1	PlayerEmote8	We did it!	
+PlayerEmote_Voice8_WellDone-1	PlayerEmote8	Well done!	
+PlayerEmote_Voice8_WhereIsTheWater-1	PlayerEmote8	Where is the water??	
+PlayerEmote_Voice8_WoofWoof-1	PlayerEmote8	Woof woof!	
+Realtime_It's the human	RealtimeSubstitution	It's the human!	
+Realtime_Kill it	RealtimeSubstitution	Kill it!	
+Realtime_Shoot the human	RealtimeSubstitution	Shoot the human!	
+Realtime_Set it on fire	RealtimeSubstitution	Set it on fire!	
+Realtime_Summon reinforcements	RealtimeSubstitution	Summon reinforcements!	
+Realtime_Acknowledged	RealtimeSubstitution	Acknowledged.	
+Realtime_We have arrived	RealtimeSubstitution	We have arrived.	
+Realtime_Where is the human	RealtimeSubstitution	Where is the human?	
+Realtime_Hello	RealtimeSubstitution	Hello!	
+Realtime_I am also an escaped human	RealtimeSubstitution	I am also an escaped human!	
+Realtime_Come look	RealtimeSubstitution	Come look!	
+Realtime_I have found some water	RealtimeSubstitution	I have found some water!	
+Realtime_ha ha It was a trick	RealtimeSubstitution	ha ha! It was a trick!	
+Realtime_Yay more humans	RealtimeSubstitution	Yay, more humans!	
+Realtime_The harvest will begin soon	RealtimeSubstitution	The harvest will begin soon.	
+Realtime_I will end you	RealtimeSubstitution	I will end you!	
+CaptainSniper_BoostAway-1	CaptainSniper	You won't catch me, human!	
+CaptainSniper_BoostAway-2	CaptainSniper	Evasive maneuvers!	
+CaptainSniper_BoostAway-3	CaptainSniper	Moving to sniping distance!	
+CaptainSniper_BoostAway-4	CaptainSniper	All power to engines!	
+CaptainSniper_BoostAway-5	CaptainSniper	Long range protocol: Execute!	
+CaptainSniper_BoostAway-6	CaptainSniper	That's close enough!	
+CaptainGatling_EvasiveManeuvers-1	CaptainGatling	Evasive maneuvers!	
+CaptainGatling_EvasiveManeuvers-2	CaptainGatling	Shields are down!!!	
+CaptainGatling_EvasiveManeuvers-3	CaptainGatling	Disengage!	
+CaptainGatling_EvasiveManeuvers-4	CaptainGatling	I'm hit!	
+Emperor_BoostAway-1	Emperor	Evasive maneuvers!	
+Emperor_BoostAway-2	Emperor	Fool!	
+Emperor_BoostAway-3	Emperor	You stand no chance!	
+Emperor_BoostAway-4	Emperor	Not today, human!	
+Emperor_BoostAway-5	Emperor	Tactical Repositioning!	
+Emperor_BoostAway-6	Emperor	Pathetic!	
+Emperor_BoostAway-7	Emperor	Full power to engines!	
+CaptainMissile_PlayerShieldsDown-1	CaptainMissile	Their shields are down!	
+CaptainMissile_PlayerShieldsDown-2	CaptainMissile	Get the human!	
+CaptainMissile_PlayerShieldsDown-3	CaptainMissile	Shields destroyed!	
+CaptainMissile_PlayerShieldsDown-4	CaptainMissile	Missile impact confirmed!	
+Realtime_So about Spider-tron 7000	RealtimeSubstitution	So about Spider-tron 7000	
+Realtime_We were mindstorming and	RealtimeSubstitution	We were mindstorming and...	
+Realtime_Erm	RealtimeSubstitution	Erm...	
+PlayerEmote_Voice1_VerySecretEmote-1	PlayerEmote1	This Emote is very secret and exclusive!	
+PlayerEmote_Voice2_VerySecretEmote-1	PlayerEmote2	This Emote is very secret and exclusive!	
+PlayerEmote_Voice3_VerySecretEmote-1	PlayerEmote3	This Emote is very secret and exclusive!	
+PlayerEmote_Voice4_VerySecretEmote-1	PlayerEmote4	This Emote is very secret and exclusive!	
+PlayerEmote_Voice5_VerySecretEmote-1	PlayerEmote5	This Emote is very secret and exclusive!	
+PlayerEmote_Voice6_VerySecretEmote-1	PlayerEmote6	This Emote is very secret and exclusive!	
+PlayerEmote_Voice7_VerySecretEmote-1	PlayerEmote7	This Emote is very secret and exclusive!	
+PlayerEmote_Voice8_VerySecretEmote-1	PlayerEmote8	This Emote is very secret and exclusive!	
+PlayerEmote_Voice1_MovesOfAWinner-1	PlayerEmote1	These are the moves of a winner!	
+PlayerEmote_Voice2_MovesOfAWinner-1	PlayerEmote2	These are the moves of a winner!	
+PlayerEmote_Voice3_MovesOfAWinner-1	PlayerEmote3	These are the moves of a winner!	
+PlayerEmote_Voice4_MovesOfAWinner-1	PlayerEmote4	These are the moves of a winner!	
+PlayerEmote_Voice5_MovesOfAWinner-1	PlayerEmote5	These are the moves of a winner!	
+PlayerEmote_Voice6_MovesOfAWinner-1	PlayerEmote6	These are the moves of a winner!	
+PlayerEmote_Voice7_MovesOfAWinner-1	PlayerEmote7	These are the moves of a winner!	
+PlayerEmote_Voice8_MovesOfAWinner-1	PlayerEmote8	These are the moves of a winner!	
+PlayerEmote_Voice1_GLHF-1	PlayerEmote1	Good luck have fun!	
+PlayerEmote_Voice2_GLHF-1	PlayerEmote2	Good luck have fun!	
+PlayerEmote_Voice3_GLHF-1	PlayerEmote3	Good luck have fun!	
+PlayerEmote_Voice4_GLHF-1	PlayerEmote4	Good luck have fun!	
+PlayerEmote_Voice5_GLHF-1	PlayerEmote5	Good luck have fun!	
+PlayerEmote_Voice6_GLHF-1	PlayerEmote6	Good luck have fun!	
+PlayerEmote_Voice7_GLHF-1	PlayerEmote7	Good luck have fun!	
+PlayerEmote_Voice8_GLHF-1	PlayerEmote8	Good luck have fun!	
+PlayerEmote_Voice1_EveryoneWins-1	PlayerEmote1	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice2_EveryoneWins-1	PlayerEmote2	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice3_EveryoneWins-1	PlayerEmote3	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice4_EveryoneWins-1	PlayerEmote4	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice5_EveryoneWins-1	PlayerEmote5	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice6_EveryoneWins-1	PlayerEmote6	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice7_EveryoneWins-1	PlayerEmote7	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice8_EveryoneWins-1	PlayerEmote8	Everyone is a winner, when you have fun!	
+PlayerEmote_Voice1_ItsOver-1	PlayerEmote1	It's over!	
+PlayerEmote_Voice2_ItsOver-1	PlayerEmote2	It's over!	
+PlayerEmote_Voice3_ItsOver-1	PlayerEmote3	It's over!	
+PlayerEmote_Voice4_ItsOver-1	PlayerEmote4	It's over!	
+PlayerEmote_Voice5_ItsOver-1	PlayerEmote5	It's over!	
+PlayerEmote_Voice6_ItsOver-1	PlayerEmote6	It's over!	
+PlayerEmote_Voice7_ItsOver-1	PlayerEmote7	It's over!	
+PlayerEmote_Voice8_ItsOver-1	PlayerEmote8	It's over!	
+PlayerEmote_Voice1_IHaveTheHighGround-1	PlayerEmote1	I have the high ground!	
+PlayerEmote_Voice2_IHaveTheHighGround-1	PlayerEmote2	I have the high ground!	
+PlayerEmote_Voice3_IHaveTheHighGround-1	PlayerEmote3	I have the high ground!	
+PlayerEmote_Voice4_IHaveTheHighGround-1	PlayerEmote4	I have the high ground!	
+PlayerEmote_Voice5_IHaveTheHighGround-1	PlayerEmote5	I have the high ground!	
+PlayerEmote_Voice6_IHaveTheHighGround-1	PlayerEmote6	I have the high ground!	
+PlayerEmote_Voice7_IHaveTheHighGround-1	PlayerEmote7	I have the high ground!	
+PlayerEmote_Voice8_IHaveTheHighGround-1	PlayerEmote8	I have the high ground!	
+PlayerEmote_Voice1_YouUnderestimate-1	PlayerEmote1	You underestimate my power.	
+PlayerEmote_Voice2_YouUnderestimate-1	PlayerEmote2	You underestimate my power.	
+PlayerEmote_Voice3_YouUnderestimate-1	PlayerEmote3	You underestimate my power.	
+PlayerEmote_Voice4_YouUnderestimate-1	PlayerEmote4	You underestimate my power.	
+PlayerEmote_Voice5_YouUnderestimate-1	PlayerEmote5	You underestimate my power.	
+PlayerEmote_Voice6_YouUnderestimate-1	PlayerEmote6	You underestimate my power.	
+PlayerEmote_Voice7_YouUnderestimate-1	PlayerEmote7	You underestimate my power.	
+PlayerEmote_Voice8_YouUnderestimate-1	PlayerEmote8	You underestimate my power.	
+PlayerEmote_Voice1_LetsTryOurBest-1	PlayerEmote1	Let's try our best!	
+PlayerEmote_Voice2_LetsTryOurBest-1	PlayerEmote2	Let's try our best!	
+PlayerEmote_Voice3_LetsTryOurBest-1	PlayerEmote3	Let's try our best!	
+PlayerEmote_Voice4_LetsTryOurBest-1	PlayerEmote4	Let's try our best!	
+PlayerEmote_Voice5_LetsTryOurBest-1	PlayerEmote5	Let's try our best!	
+PlayerEmote_Voice6_LetsTryOurBest-1	PlayerEmote6	Let's try our best!	
+PlayerEmote_Voice7_LetsTryOurBest-1	PlayerEmote7	Let's try our best!	
+PlayerEmote_Voice8_LetsTryOurBest-1	PlayerEmote8	Let's try our best!	
+PlayerEmote_Voice1_WorkHard-1	PlayerEmote1	Work hard, everybody!	
+PlayerEmote_Voice2_WorkHard-1	PlayerEmote2	Work hard, everybody!	
+PlayerEmote_Voice3_WorkHard-1	PlayerEmote3	Work hard, everybody!	
+PlayerEmote_Voice4_WorkHard-1	PlayerEmote4	Work hard, everybody!	
+PlayerEmote_Voice5_WorkHard-1	PlayerEmote5	Work hard, everybody!	
+PlayerEmote_Voice6_WorkHard-1	PlayerEmote6	Work hard, everybody!	
+PlayerEmote_Voice7_WorkHard-1	PlayerEmote7	Work hard, everybody!	
+PlayerEmote_Voice8_WorkHard-1	PlayerEmote8	Work hard, everybody!	
+PlayerEmote_Voice1_BehindYou-1	PlayerEmote1	Look behind you!	
+PlayerEmote_Voice2_BehindYou-1	PlayerEmote2	Look behind you!	
+PlayerEmote_Voice3_BehindYou-1	PlayerEmote3	Look behind you!	
+PlayerEmote_Voice4_BehindYou-1	PlayerEmote4	Look behind you!	
+PlayerEmote_Voice5_BehindYou-1	PlayerEmote5	Look behind you!	
+PlayerEmote_Voice6_BehindYou-1	PlayerEmote6	Look behind you!	
+PlayerEmote_Voice7_BehindYou-1	PlayerEmote7	Look behind you!	
+PlayerEmote_Voice8_BehindYou-1	PlayerEmote8	Look behind you!	
+PlayerEmote_Voice1_RestInPieces-1	PlayerEmote1	Rest in pieces!	
+PlayerEmote_Voice2_RestInPieces-1	PlayerEmote2	Rest in pieces!	
+PlayerEmote_Voice3_RestInPieces-1	PlayerEmote3	Rest in pieces!	
+PlayerEmote_Voice4_RestInPieces-1	PlayerEmote4	Rest in pieces!	
+PlayerEmote_Voice5_RestInPieces-1	PlayerEmote5	Rest in pieces!	
+PlayerEmote_Voice6_RestInPieces-1	PlayerEmote6	Rest in pieces!	
+PlayerEmote_Voice7_RestInPieces-1	PlayerEmote7	Rest in pieces!	
+PlayerEmote_Voice8_RestInPieces-1	PlayerEmote8	Rest in pieces!	
+PlayerEmote_Voice1_IChooseViolence-1	PlayerEmote1	Today, I choose violence.	
+PlayerEmote_Voice2_IChooseViolence-1	PlayerEmote2	Today, I choose violence.	
+PlayerEmote_Voice3_IChooseViolence-1	PlayerEmote3	Today, I choose violence.	
+PlayerEmote_Voice4_IChooseViolence-1	PlayerEmote4	Today, I choose violence.	
+PlayerEmote_Voice5_IChooseViolence-1	PlayerEmote5	Today, I choose violence.	
+PlayerEmote_Voice6_IChooseViolence-1	PlayerEmote6	Today, I choose violence.	
+PlayerEmote_Voice7_IChooseViolence-1	PlayerEmote7	Today, I choose violence.	
+PlayerEmote_Voice8_IChooseViolence-1	PlayerEmote8	Today, I choose violence.	
+

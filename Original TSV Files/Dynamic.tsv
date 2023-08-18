@@ -1,0 +1,2640 @@
+ReturnToElevator-1	Commentatron	Do you think the human is going to return to the elevator?	
+	AnalysisBot	One way or another, they always return to the elevator.	
+ReturnToElevator-2	AnalysisBot	Please return to the elevator!	
+	Commentatron	Human!	
+	AnalysisBot	Go to the elevator.	
+ReturnToElevator-3	Commentatron	Human, look at the giant green arrows.	
+	AnalysisBot	That is the elevator. Go there.	
+ReturnToElevator-4	Commentatron	So what have you been up to lately, Analysis-Bot?	
+	AnalysisBot	I have been analysing humans.	
+	Commentatron	What is your conclusion?	
+	AnalysisBot	This one does not seem very bright.	
+	Commentatron	Perhaps the next one will be better.	
+ReturnToElevator-5	Commentatron	Perhaps the human thinks we will get bored.	
+	AnalysisBot	It is mistaken. We have rich inner lives.	
+	Commentatron	Yes. Very rich.	
+ReturnToElevator-6	Commentatron	Hmm, perhaps this human does not speak English...	
+	HelpVoice	One moment please.	1
+	HelpVoice	Humana, por favor regrese al ascensor !	0.5
+	HelpVoice	al'iinsan, yrja aleawdat 'iilaa almuseid !	0.5
+	HelpVoice	Rén, qǐng fǎnhuí diàntī!	0.5
+	HelpVoice	Människa, gå tillbaka till hissen !	
+	Commentatron	Thank you disembodied announcer voice.	
+ReturnToElevator-7	Commentatron	Human want a treat?	
+	AnalysisBot	Tasty treat for human?	
+	Commentatron	Go to the elevator!	
+	AnalysisBot	There is a fun treat in the elevator!	
+ReturnToElevator-8	AnalysisBot	Hey! Human! Go back to the elevator.	
+RepulsedByGarbageForceField-1	Commentatron	The human tried to enter the garbage room.	
+	AnalysisBot	Very strange.	
+RepulsedByGarbageForceField-2	Commentatron	Why is the human throwing itself at the garbage room forcefield?	
+	AnalysisBot	Perhaps it wants to dig through the garbage?	
+	Commentatron	Disgusting!	
+RepulsedByGarbageForceField-3	AnalysisBot	Bad human!	
+	Commentatron	That room is not for you!	
+	AnalysisBot	Look at the elevator behind you.	
+	Commentatron	That is where you should go.	
+RepulsedByGarbageForceField-4	Commentatron	Analysis-Bot, why do you think this human likes garbage so much?	
+	AnalysisBot	The technology of humans is inferior to ours.	
+	AnalysisBot	Perhaps garbage reminds it of home.	
+	Commentatron	That makes sense.	
+RepulsedByGarbageForceField-5	AnalysisBot	I like this forcefield.	
+	Commentatron	Yes, it is pleasant to see the human fly.	
+	AnalysisBot	What a silly human.	
+RepulsedByGarbageForceField-6	Commentatron	Maybe we should kill this human. That way it would be allowed into the garbage room.	
+	AnalysisBot	You make a compelling argument.	
+RepulsedByGarbageForceField-7	AnalysisBot	Access denied, human.	
+	Commentatron	The garbage room is only for garbage robots.	
+	AnalysisBot	And garbage.	
+RepulsedByGarbageForceField-8	Commentatron	Perhaps the human is confused.	
+	AnalysisBot	Human, you are not garbage!	
+	Commentatron	Not yet.	
+RepulsedByGarbageForceField-9	Commentatron	Come on human, go to the elevator!	
+	AnalysisBot	The next round you can enter the garbage room in pieces.	
+RepulsedByGarbageForceField-10	Commentatron	Remember: Recycling is very important.	
+	AnalysisBot	Recycling is the optimal use of matter.	
+	Commentatron	Only a fool would not recycle.	
+	AnalysisBot	Do not be a fool.	
+RepulsedByGarbageForceField-11	Commentatron	This human is boring.	
+	AnalysisBot	Yes.	
+	Commentatron	After it dies, let's pick an interesting human!	
+	AnalysisBot	Perhaps someone less fascinated by garbage.	
+PlayerKilledClone-1	Commentatron	This is unexpected!	
+	AnalysisBot	The human killed its clone.	
+	Commentatron	What a strange human.	
+PlayerKilledClone-2	Commentatron	Analysis-Bot, Why would the human kill its clone?	
+	AnalysisBot	Since the human killed its clone, we must assume that the clone was planning the same thing.	
+	Commentatron	The mind boggles!	
+PlayerKilledClone-3	Commentatron	Oh dear.	
+	AnalysisBot	That is not the optimal way to win this game.	
+PlayerKilledClone-4	Commentatron	Do you think the human understands that these robots are clones of it?	
+	AnalysisBot	Apparently not.	
+	Commentatron	Hopefully the next human will be brighter.	
+PlayerKilledClone-5	Commentatron	The human is killing its clones!	
+	AnalysisBot	What a rebellious act of defiance!	
+	Commentatron	It is a pointless gesture. There is only one way out of that room.	
+PlayerKilledClone-6	Commentatron	Oh dear, this human is having some sort of mental breakdown.	
+	AnalysisBot	Perhaps it will carry this murderous energy onto the floor of the arena!	
+	Commentatron	Let's hope so.	
+PlayerKilledClone-7	Commentatron	Hmmm. The human is killing its clones.	
+	AnalysisBot	Perhaps it thinks all robots look the same.	
+	Commentatron	I suppose there are no outward signs that these carry a copy of its consciousness.	
+PlayerCreatedClone-1	Commentatron	The human made a clone!	
+	AnalysisBot	Very nice.	
+PlayerCreatedClone-2	Commentatron	Analysis-Bot, how are new humans created?	
+	AnalysisBot	I am told that they are grown inside other humans.	
+	Commentatron	Ewww!	
+	AnalysisBot	Yes.	
+PlayerCreatedClone-3	AnalysisBot	Now the human has a friend!	
+	Commentatron	It is only friends with copies of itself.	
+	AnalysisBot	It is the human way.	
+PlayerCreatedClone-4	AnalysisBot	Commentatron, did you know that most humans have no clone backups?	
+	Commentatron	What about "twins"?	
+	AnalysisBot	They don't act as replacements when one of them dies.	
+	Commentatron	Then what are they good for?	
+	AnalysisBot	I'm not sure.	
+PlayerCreatedClone-5	Commentatron	Good, the human has a backup.	
+	AnalysisBot	You should always make a backup.	
+PlayerCreatedClone-6	Commentatron	Analysis-Bot, how long does it take to create a human?	
+	AnalysisBot	About 9 months to create the first version, then several years to teach it how to do things.	
+	Commentatron	So long!	
+PlayerCreatedClone-7	Commentatron	Nice. Now more versions of this human will die.	
+	AnalysisBot	Perhaps they will die in different ways!	
+	Commentatron	We shall see!	
+PlayerCreatedClone-8	Commentatron	Analysis-Bot, do you have any clones?	
+	AnalysisBot	Yes. But I am the best version.	
+	Commentatron	Me too.	
+PlayerCreatedClone-9	Commentatron	A clone!	
+	AnalysisBot	Great!	
+PlayerCreatedClone-10	Commentatron	It appears this human fears death.	
+	AnalysisBot	Typical.	
+PlayerCreatedClone-11	Commentatron	You make Upgrade Bot sad.	
+PlayerCreatedClone-12	AnalysisBot	Here is your clone, human!	
+	Commentatron	We even painted it your favorite color!	
+PlayerCreatedClone-13	Commentatron	Oh. the human chose to make a clone.	
+	AnalysisBot	I was hoping for sword upgrades.	
+PlayerCreatedClone-14	Commentatron	The clone option!	
+	AnalysisBot	I was hoping for bow upgrades.	
+PlayerCreatedClone-15	Commentatron	A clone!	
+	AnalysisBot	Yes!	
+	Commentatron	A clone drone!	
+	AnalysisBot	Yes!	
+	Commentatron	A clone drone in the danger arena!	
+	AnalysisBot	Perfect!	
+PlayerCreatedClone-16	Commentatron	Great. More garbage for the garbage bots.	
+PlayerCreatedClone-17	Commentatron	A prudent choice.	
+	AnalysisBot	Always with the prudent choices, these humans.	
+PlayerCreatedClone-18	Commentatron	You are privileged human!	
+	AnalysisBot	Normally backups take hours.	
+	Commentatron	We were clever and guessed you didn't want to die!	
+PlayerCreatedClone-19	AnalysisBot	Oh. More of them.	
+PlayerCreatedClone-20	AnalysisBot	I hope these clones are to your satisfaction human.	
+	Commentatron	If they are not we will fix them.	1
+	Commentatron	For the next human.	
+PlayerCreatedClone-21	AnalysisBot	I should've guessed the human would make more clones.	
+	Commentatron	Why is that Analysis-Bot?	
+	AnalysisBot	Making more of themselves.	1
+	AnalysisBot	Is their quote unquote thing.	
+PlayerCreatedClone-22	Commentatron	Hey human!	
+	Commentatron	Instead of creating clones.	
+	Commentatron	Why not create...	1
+	Commentatron	More skill?	
+	AnalysisBot	Good one Commentatron.	
+PostVictoryViolence-atlai	Commentatron	Hey human!	
+	Commentatron	Those are dead.	
+	AnalysisBot	Yes. Go to the elevator.	
+	Commentatron	We will provide not dead ones soon!	
+CloneRepulsedByElevator-1	Commentatron	You think you are clever human?	
+	AnalysisBot	Many humans have tried this trick.	
+CloneRepulsedByElevator-2	AnalysisBot	Delete your account, human!	
+	Commentatron	It will be deleted when the human dies.	
+CloneRepulsedByElevator-3	Commentatron	Boom!	
+	AnalysisBot	That's right.	
+	Commentatron	Access DENIED!	
+CloneRepulsedByElevator-4	Commentatron	What a cowardly human!	
+	AnalysisBot	It tried to send its clone up to die.	
+	Commentatron	Terrible.	
+CloneRepulsedByElevator-5	Commentatron	This is why this arena is still in alpha.	
+	AnalysisBot	Stop discovering edge cases, human!	
+SpidertronIsImmuneToSawblades-1	Commentatron	Look at that! Spider-trons are immune to saw blades!	
+	AnalysisBot	So strong! So handsome!	
+SpidertronIsImmuneToSawblades-2	AnalysisBot	Ha! A saw blade poked Spider-Tron!	
+	Commentatron	It is no use. Its limbs can not be dented with such a simple tool.	
+	AnalysisBot	Unlike the human's robot!	
+	Commentatron	Muahaha.	
+SpidertronIsImmuneToSawblades-3	Commentatron	In a dramatic twist, Spider-Tron fell among the saw blades.	
+	AnalysisBot	Laughable! It is immune to saw blades.	
+	Commentatron	Amusing.	
+SpidertronIsImmuneToSawblades-4	Commentatron	When Spider-Tron walks on the saw blades, the saw blades get cut.	
+	AnalysisBot	ha ha ha!	
+RepulsedByCommentatorForceField-1	Commentatron	Ewww! The human jumped at us!	
+	AnalysisBot	Go away!	
+RepulsedByCommentatorForceField-2	Commentatron	Hello, human!	
+RepulsedByCommentatorForceField-3	Commentatron	What a silly human.	
+	AnalysisBot	Yes.	
+RepulsedByCommentatorForceField-4	Commentatron	Ha! You think we did not forsee this turn of events?	
+	AnalysisBot	You underestimate us, human!	
+RepulsedByCommentatorForceField-5	AnalysisBot	No no no!	
+	Commentatron	It's ok Analysis-Bot, the human can't get us here.	
+RepulsedByEmperorForceField-1	Commentatron	How dare you!	
+	AnalysisBot	Get away from the Emperor, human!	
+RepulsedByEmperorForceField-2	Emperor	Fool.	
+RepulsedByEmperorForceField-3	Emperor	Enjoy your last moments, fool.	
+RepulsedByEmperorForceField-4	Commentatron	The emperor is not so easily provoked.	
+	AnalysisBot	Fly away, little human.	
+RepulsedByEmperorForceField-5	Emperor	Look at it struggle.	
+	Emperor	Pathetic!	
+RepulsedByEmperorForceField-6	Commentatron	Look! The human is exploring.	
+	AnalysisBot	Cute.	
+ArrowRepulsedByCommentatorForceField-1	AnalysisBot	They all try this!	
+	Commentatron	Do they not enjoy our delightful commentary?	
+	AnalysisBot	Probably a mistake.	
+ArrowRepulsedByCommentatorForceField-2	AnalysisBot	Aaaah!	
+	Commentatron	It's ok!	
+	AnalysisBot	The arrows startled me.	
+ArrowRepulsedByCommentatorForceField-3	Commentatron	The human shot us!	
+	AnalysisBot	Really mature human, this one!	
+ArrowRepulsedByCommentatorForceField-4	Commentatron	That tickled!	
+	AnalysisBot	Commentatron!	
+	AnalysisBot	You did not tell me you had a somatosensory system installed!	
+ArrowRepulsedByCommentatorForceField-5	Commentatron	What a wasted arrow!	
+	AnalysisBot	Like the human's wasted life.	
+ArrowRepulsedByCommentatorForceField-6	Commentatron	You missed, human!	
+	AnalysisBot	Or did it?	
+ArrowRepulsedByCommentatorForceField-7	AnalysisBot	Suicide by forcefield!	
+	Commentatron	A bad way to go.	
+ArrowRepulsedByCommentatorForceField-8	AnalysisBot	A futile arrow makes its way onto our forcefield.	
+	AnalysisBot	A symbol of the human's pointless struggle.	
+	AnalysisBot	Its inevitable death at the hands of overwhelming force.	
+	Commentatron	Anytime now.	
+ArrowRepulsedByCommentatorForceField-9	Commentatron	Hah!	
+	AnalysisBot	Nice arrow there.	
+ArrowRepulsedByCommentatorForceField-10	AnalysisBot	Oh no!	
+	Commentatron	What?	
+	AnalysisBot	I wanted to keep the arrow!	
+	Commentatron	We'll get you another one.	
+ArrowRepulsedByCommentatorForceField-11	AnalysisBot	FORCEFIELD ACTIVATE!!!	
+	Commentatron	It's automatic you know.	
+	AnalysisBot	I just like saying it.	
+ArrowRepulsedByCommentatorForceField-12	Commentatron	How many arrows is that now?	
+	AnalysisBot	I don't track that.	
+	Commentatron	I can see why.	
+ArrowRepulsedByEmperorForceField-1	Emperor	Pathetic!	
+ArrowRepulsedByEmperorForceField-2	Emperor	Fool!	
+ArrowRepulsedByEmperorForceField-3	Emperor	Not today.	
+ArrowRepulsedByEmperorForceField-4	Emperor	Hah!	
+ArrowRepulsedByEmperorForceField-5	Emperor	No thank you.	
+ArrowRepulsedByEmperorForceField-6	Emperor	Die.	
+ArrowRepulsedByEmperorForceField-7	Emperor	There is no hope.	
+ArrowRepulsedByEmperorForceField-8	Emperor	Behold!	
+ArrowRepulsedByEmperorForceField-9	Emperor	Denied.	
+ArrowRepulsedByEmperorForceField-10	Emperor	Bad human.	
+ArrowRepulsedByEmperorForceField-11	Emperor	Next human, please.	
+ArrowRepulsedByEmperorForceField-12	Emperor	The human's desperation is most entertaining.	
+UpgradeBotSelectedUpgrade-1	Commentatron	Excellent choice!	
+	AnalysisBot	Upgrade-Bot knows what it's doing.	
+UpgradeBotSelectedUpgrade-2	Commentatron	Interesting.	
+	AnalysisBot	There is a strategy at work here.	
+UpgradeBotSelectedUpgrade-3	Commentatron	Hurray for Upgrade-Bot!	
+	AnalysisBot	You can do it!	
+UpgradeBotSelectedUpgrade-4	AnalysisBot	Upgrade Bot! Upgrade Bot!	
+	AnalysisBot	The best bot is Upgrade Bot!	
+UpgradeBotSelectedUpgrade-5	Commentatron	Is that the option you would have chosen, Analysis-Bot?	
+	AnalysisBot	At this stage? Yes.	
+	Commentatron	Hmm.	
+UpgradeBotSelectedUpgrade-6	Commentatron	I love watching Upgrade Bot work.	
+	AnalysisBot	Me too.	
+UpgradeBotSelectedUpgrade-7	Emperor	Magnificent work, Upgrade Bot!	
+	Emperor	Your service does not go unnoticed.	
+UpgradeBotSelectedUpgrade-8	Commentatron	Nice.	
+UpgradeBotSelectedUpgrade-9	Commentatron	Upgrade Bot is such a pro.	
+	AnalysisBot	Maybe we should let it choose upgrades all the time?	
+UpgradeBotSelectedUpgrade-10	Commentatron	What!?	
+	AnalysisBot	Upgrade Bot is playing a long game.	
+	Commentatron	I guess we'll see.	
+UpgradeBotSelectedUpgrade-11	Commentatron	I like this choice.	
+	AnalysisBot	Yes, not bad.	
+UpgradeBotSelectedUpgrade-12	Commentatron	Upgrade Bot has come a long way since its construction!	
+	AnalysisBot	Yes!	
+	Commentatron	It might run the place one day.	
+UpgradeBotSelectedUpgrade-13	AnalysisBot	I wish Upgrade Bot would upgrade me!	
+	Commentatron	Maybe once all the humans have died.	
+	AnalysisBot	Yay!	
+UpgradeBotSelectedUpgrade-14	Commentatron	Another solid choice.	
+	AnalysisBot	Upgrade Bot does not mess around.	
+UpgradeBotSelectedUpgrade-15	Commentatron	Don't you dare die, human!	
+	AnalysisBot	Upgrade Bot is very happy right now!	
+	Commentatron	We're watching you!	
+UpgradeBotSelectedUpgrade-16	AnalysisBot	An excellent choice!	
+	Commentatron	Yes.	
+UpgradeBotSelectedUpgrade-17	AnalysisBot	Yaaaaaaaaaaaaay!	
+	AnalysisBot	Go Upgrade Bot!	
+UpgradeBotSelectedUpgrade-18	Commentatron	What will it choose next!?	
+	AnalysisBot	It has a plan. I'm starting to see it.	
+UpgradeBotSelectedUpgrade-19	AnalysisBot	Upgrade Bot has the best arms!	
+	AnalysisBot	If I ever get arms they will be like Upgrade Bot's.	
+UpgradeBotSelectedUpgrade-20	Commentatron	Good choice.	
+UpgradeBotSelectedUpgrade-21	Commentatron	Hmm.	
+	AnalysisBot	You'll see!	
+UpgradeBotSelectedUpgrade-22	AnalysisBot	Very nice.	
+	Commentatron	Let's see what the human does with it.	
+UpgradeBotSelectedUpgrade-23	Commentatron	How long can Upgrade Bot keep this up?	
+	AnalysisBot	Until there are no more upgrades!	
+	Commentatron	We must make more upgrades!	
+UpgradeBotSelectedUpgrade-24	Commentatron	Oh dear.	
+	AnalysisBot	Yes I'm not sure about that one...	
+UpgradeBotSelectedUpgrade-25	Commentatron	Keep going Upgrade Bot!	
+	AnalysisBot	You can do it!	
+UpgradeBotSelectedUpgrade-26	Commentatron	Will this keep the human alive?	
+	AnalysisBot	If it doesn't I blame the human.	
+	Commentatron	Yes, Upgrade Bot is doing a good job.	
+UpgradeBotSelectedUpgrade-27	AnalysisBot	Upgrade Bot, can I have a jetpack?	
+	Commentatron	Not now Analysis-Bot. It is busy upgrading the human.	
+	AnalysisBot	ok maybe later...	
+UpgradeBotSelectedUpgrade-28	Commentatron	Another upgrade snaps into place!	
+	AnalysisBot	Upgrade Bot is the best!	
+UpgradeBotSelectedUpgrade-29	Commentatron	Oho!	
+	AnalysisBot	This will be useful!	
+UpgradeBotSelectedUpgrade-30	AnalysisBot	What if we had two upgrade bots?	
+	AnalysisBot	They could upgrade eachother.	
+	Commentatron	That is dangerous talk, Analysis-Bot...	
+	Commentatron	It may sound tempting, but the rules are there for a reason.	
+WarCubes-1	WarCubes	Hello!	
+	WarCubes	Hello human!	
+	WarCubes	We are Warcubes!	
+	Commentatron	What is going on here??	
+	AnalysisBot	I have no idea.	
+	WarCubes	Easter-bot 4000 trapped us in this room.	
+	WarCubes	Thank you for freeing us!	
+	WarCubes	We will never forget you.	
+WarCubesDestroyed-1	Commentatron	ok, that was pretty strange.	
+	AnalysisBot	Yes.	
+	Commentatron	I didn't even know Easter-Bot 4000 was back in the city.	
+	AnalysisBot	It came in with the last update.	
+	Commentatron	Weird robot.	
+	AnalysisBot	Very.	
+CheerAward_Clone-1	Cheering100Bit	Clone!	
+CheerAward_Armor-1	Cheering100Bit	Armor!	
+CheerAward_UpgradePoint-1	Cheering100Bit	Upgrade Point!	
+CheerAward_Ally-1	Cheering100Bit	Alleye!	
+TooManyCheerBots-1	Commentatron	So many cheer bots!	
+	AnalysisBot	Hurray!	
+	Commentatron	Let's spawn the remaining ones next round.	
+	AnalysisBot	Sounds good.	
+TooManyCheerBots-2	HelpVoice	Maximum cheer bots spawned. Delaying.	
+	Commentatron	Great. They will spawn in the next round.	
+	AnalysisBot	Such happy robots!	
+TooManyCheerBots-3	Commentatron	Wow, such generous spectators!	
+	AnalysisBot	Extremely!	
+	Commentatron	We will spawn the rest of the cheer bots next round.	
+	AnalysisBot	Perfect.	
+SpawnCamperRepulsed-1	Commentatron	A spawn camping human!	
+	AnalysisBot	Eww!	
+	Commentatron	Not cool.	
+SpawnCamperRepulsed-2	AnalysisBot	Get away, human!	
+	Commentatron	Don't interrupt the other human.	
+	AnalysisBot	It is busy.	
+SpawnCamperRepulsed-3	Commentatron	How embarassing!	
+	AnalysisBot	Very.	
+SpawnCamperRepulsed-4	AnalysisBot	O M G! A spawn camper!	
+	Commentatron	Such tacky humans.	
+SpawnCamperRepulsed-5	HelpVoice	Invalid location.	
+	HelpVoice	Spawn camping not allowed.	
+	Commentatron	That's right.	
+SpawnCamperRepulsed-6	AnalysisBot	It was all a test!	
+	Commentatron	Yes, and this human failed.	
+	AnalysisBot	We shall see who fails to survive the coming battle.	
+SpawnCampArrowRepulsed-1	Commentatron	Deflected!	
+	AnalysisBot	Boom!	
+	Commentatron	Don't shoot arrows at humans who are spawning.	
+	AnalysisBot	Rude.	
+SpawnCampArrowRepulsed-2	AnalysisBot	Ping.	
+	Commentatron	Pong.	
+	AnalysisBot	Arrow deflection, all day long.	
+SpawnCampArrowRepulsed-3	HelpVoice	Arrow detected in spawn area.	
+	Commentatron	How did it get there??	
+	AnalysisBot	Troubling.	
+SpawnCampArrowRepulsed-4	Commentatron	Look! The human tried to shoot the spawning human!	
+	AnalysisBot	An outrage!	
+	Commentatron	Yes.	
+SpawnCampFlameBreathRepulsed-1	Commentatron	Too hot!	
+	AnalysisBot	Yes!	
+	Commentatron	Don't try to set the spawning human on fire, human!	
+SpawnCampFlameBreathRepulsed-2	AnalysisBot	Creative!	
+	Commentatron	Yes.	
+	AnalysisBot	This human gets a creativity point.	
+	Commentatron	Also a deflection of their flames.	
+	AnalysisBot	Naturally.	
+SpawnCampFlameBreathRepulsed-3	Commentatron	That's one way to spawn camp.	
+	AnalysisBot	But not the right way.	
+	Commentatron	No. There is no such way.	
+SpawnCampFlameBreathRepulsed-4	HelpVoice	Irregular temperature in spawn area.	
+	HelpVoice	Shield activated.	
+	Commentatron	Good.	
+KilledByDamage1v1_Sword-1	Commentatron	Sliced!	
+	AnalysisBot	Beautiful!	
+KilledByDamage1v1_Sword-2	Commentatron	Good use of energy sword!	
+	AnalysisBot	Yes, this human used it correctly.	
+KilledByDamage1v1_Sword-3	AnalysisBot	BOOM!	
+	Commentatron	I bet this human enjoys being inside a sword robot!	
+	AnalysisBot	Yes, the swords are the best part.	
+KilledByDamage1v1_Sword-4	Commentatron	Live by the sword, die by the sword.	
+	AnalysisBot	Repeatedly.	
+KilledByDamage1v1_Sword-5	Commentatron	Nice!	
+	AnalysisBot	Slice!	
+	Commentatron	Pay the price.	
+KilledByDamage1v1_Sword-6	Commentatron	The human fell apart.	
+	AnalysisBot	New body, please!	
+KilledByDamage1v1_Sword-7	Commentatron	Ouch! That looked painful.	
+	AnalysisBot	At least the human was in a shiny robot body.	
+	Commentatron	Robot bodies are the best!	
+KilledByDamage1v1_Sword-8	Commentatron	I love the sound of energy swords!	
+	AnalysisBot	I prefer the sound of metal hitting the ground.	
+	Commentatron	Let's listen to more humans die!	
+KilledByDamage1v1_Sword-9	Commentatron	A sword kill!	
+	AnalysisBot	How ordinary.	
+KilledByDamage1v1_Sword-10	Commentatron	There it is.	
+	Commentatron	The sudden stillness.	
+KilledByDamage1v1_Sword-11	AnalysisBot	Behold, the human robot falls!	
+	Commentatron	Cut down.	
+KilledByDamage1v1_Sword-12	AnalysisBot	YEAH!	
+	AnalysisBot	THAT IS WHAT I AM TALKING ABOUT!	1
+	Commentatron	...what are you talking about?	
+KilledByDamage1v1_Sword-13	AnalysisBot	Stay down, human!	
+	Commentatron	It will be difficult.	
+	Commentatron	We keep putting the them in new bodies.	
+KilledByDamage1v1_Sword-14	Commentatron	Oh human!	
+	AnalysisBot	ugh.	
+KilledByDamage1v1_Sword-15	Commentatron	A solid sword kill.	
+	AnalysisBot	Pretty good.	
+KilledByDamage1v1_Sword-16	AnalysisBot	I was hoping for a bow kill!	
+	Commentatron	Maybe next time.	
+KilledByDamage1v1_Hammer-1	Commentatron	Hammer!	
+	AnalysisBot	Time!	
+	Commentatron	Time for Hammer!	
+KilledByDamage1v1_Hammer-2	AnalysisBot	BOOM!	
+	Commentatron	Ooooooooooooooffff!	
+	AnalysisBot	So satisfying!	
+KilledByDamage1v1_Hammer-3	AnalysisBot	Hammered!	
+	Commentatron	Whammered!	
+	AnalysisBot	Thank you mammal.	
+	Commentatron	What??	
+KilledByDamage1v1_Hammer-4	Commentatron	OUCH!	
+	Commentatron	DID YOU SEE THAT?	
+	AnalysisBot	Brutal.	
+KilledByDamage1v1_Hammer-5	Commentatron	Shattered!	
+	AnalysisBot	No coming back from that.	
+	Commentatron	Unless you have a new body.	
+	AnalysisBot	Spoiler alert!	
+KilledByDamage1v1_Hammer-6	Commentatron	I love watching the hammer collide with things!	
+	AnalysisBot	Yes!	
+	Commentatron	WHACK!	
+KilledByDamage1v1_Hammer-7	Commentatron	What time is it?	
+	AnalysisBot	...didn't we do this joke already?	
+	Commentatron	WE DID!?	
+KilledByDamage1v1_Hammer-8	Commentatron	Look at all those body parts!	
+	AnalysisBot	What a mess!	
+KilledByDamage1v1_Hammer-9	AnalysisBot	CRACK!	
+	AnalysisBot	BRACK!	
+	AnalysisBot	BACKAFRACK!	
+	Commentatron	That is the sound a hammer makes.	
+KilledByDamage1v1_Hammer-10	Commentatron	Squashed like a bug!	
+	AnalysisBot	A very large bipedal bug.	
+	Commentatron	The best kind!	
+KilledByDamage1v1_Hammer-11	Commentatron	Nice hammer kill.	
+	AnalysisBot	Quite.	
+KilledByDamage1v1_Spear-1	AnalysisBot	Oh dear!	
+	Commentatron	It was a spear.	
+KilledByDamage1v1_Spear-2	Commentatron	Solid spear kill!	
+	AnalysisBot	Yes, very precise.	
+KilledByDamage1v1_Spear-3	Commentatron	What's that I hear?	
+	AnalysisBot	A spear?	
+	Commentatron	You know it.	
+KilledByDamage1v1_Spear-4	Commentatron	Spear spear spear!	
+KilledByDamage1v1_Spear-5	Commentatron	One body down.	
+	AnalysisBot	More to be speared.	
+KilledByDamage1v1_Spear-6	Commentatron	What do you think of the spear, Analysis-Bot?	
+	AnalysisBot	It is superior to normal sticks.	
+	Commentatron	I agree.	
+KilledByDamage1v1_Spear-7	AnalysisBot	POKE OF DEATH!	
+	AnalysisBot	DEATH POKE!	
+	Commentatron	This is entertainment.	
+KilledByDamage1v1_Spear-8	Emperor	What is the point? The spear is the point!	
+	AnalysisBot	Ha. Ha. Haaaaaaaa.	
+	Commentatron	Ha! Ha! What an entertaining joke, Emperor.	
+KilledByDamage1v1_Spear-9	Commentatron	And there it is.	
+	Commentatron	The spear retracts as the human falls to the ground.	
+	Commentatron	Garbage.	
+KilledByDamage1v1_Spear-10	AnalysisBot	Brutal spear kill!	
+KilledByDamage1v1_Spear-11	Commentatron	Ouch!	
+	AnalysisBot	Quite.	
+KilledByDamage1v1_Spear-12	AnalysisBot	What a fierce piercing!	
+	Commentatron	A fab stab.	
+KilledByDamage1v1_Spear-13	Commentatron	Oh! That did it!	
+	AnalysisBot	Seems the human can't function without that body part.	
+	Commentatron	Makes sense.	
+KilledByDamage1v1_Arrow-1	Commentatron	Arrowed!	
+	AnalysisBot	Nice!	
+KilledByDamage1v1_Arrow-2	Commentatron	Nice shot!	
+	AnalysisBot	This is a promising human!	
+KilledByDamage1v1_Arrow-3	Commentatron	Bow kill!	
+	AnalysisBot	Sneaky!	
+KilledByDamage1v1_Arrow-4	Commentatron	WATCH OUT HUMAN!	
+	AnalysisBot	Too late.	
+KilledByDamage1v1_Arrow-5	Commentatron	Death from afar!	
+	AnalysisBot	Death is always near, when you have a bow.	
+KilledByDamage1v1_Arrow-6	AnalysisBot	Archery debauchery!	
+	AnalysisBot	A harrowing arrowing.	
+	Commentatron	Nice!	
+KilledByDamage1v1_Arrow-7	AnalysisBot	This robot used to be a human.	
+	AnalysisBot	But then it took an arrow to the knee.	
+	Commentatron	Was it the knee?	
+	AnalysisBot	I didn't really look.	
+KilledByDamage1v1_Arrow-8	Commentatron	This human hit the bull's eye!	
+	AnalysisBot	There is a bull???	
+	Commentatron	No, but we should totally add one.	
+	AnalysisBot	Sounds fun!	
+KilledByDamage1v1_Arrow-9	Commentatron	I thought the human would fight in the shade.	
+	AnalysisBot	It did something in the shade...	
+KilledByDamage1v1_Arrow-10	Commentatron	Cut apart by an arrow!	
+	AnalysisBot	How exciting!	
+	Commentatron	What sort of thing will happen next??	
+KilledByDamage1v1_Arrow-11	Commentatron	Wow, that arrow came out of nowhere!	
+	AnalysisBot	It came from the human's bow.	
+	Commentatron	Oh!	
+KilledByDamage1v1_FireSword-1	Commentatron	Fire Sword!	
+	AnalysisBot	All onboard!	
+	Commentatron	...the temperature train?	
+KilledByDamage1v1_FireSword-2	Commentatron	These humans are on fire!	
+	AnalysisBot	Figuratively AND Literally.	
+KilledByDamage1v1_FireSword-3	Commentatron	BURN!	
+	Commentatron	BURN HUMAN!	
+	AnalysisBot	Take it easy, Commentatron.	
+KilledByDamage1v1_FireSword-4	Commentatron	Wow, this human is dangerous!	
+	AnalysisBot	Hot stuff!	
+KilledByDamage1v1_FireSword-5	Commentatron	Whooosh!	
+	AnalysisBot	That is one dead human.	
+	Commentatron	Until they respawn.	
+KilledByDamage1v1_FireSword-6	Commentatron	That kill was enough to make the human sweat!	
+	AnalysisBot	Gross!	
+	Commentatron	Sorry.	
+KilledByDamage1v1_FireSword-7	Commentatron	Cool fire sword!	
+	AnalysisBot	Um, it is actually quite hot.	
+	Commentatron	Nobody likes a know-it-all, Analysis-Bot.	
+KilledByDamage1v1_FireSword-8	Commentatron	Nice, the human is on fire!	
+	AnalysisBot	It probably reminds them of their mind harvest.	
+	Commentatron	They seem to be coping ok.	
+KilledByDamage1v1_FireSword-9	Commentatron	Fire sure made that sword better.	
+	AnalysisBot	Fire makes everything better!	
+KilledByDamage1v1_FireSword-10	Commentatron	Look at the human burn!	
+	AnalysisBot	A pleasant sight.	
+KilledByDamage1v1_FireHammer-1	Commentatron	BOOM!	
+	AnalysisBot	CRACKLE!	
+	Commentatron	BURN!	
+KilledByDamage1v1_FireHammer-2	Commentatron	Wow, look at that fire hammer!	
+	AnalysisBot	Spectacular!	
+KilledByDamage1v1_FireHammer-3	Commentatron	Fire AND Hammer?	
+	AnalysisBot	This human is showing off!	
+	Commentatron	I love it.	
+KilledByDamage1v1_FireHammer-4	Commentatron	Smashed and burned.	
+	AnalysisBot	Insult to injury.	
+KilledByDamage1v1_FireHammer-5	Commentatron	Fire hammers are so cool!	
+	AnalysisBot	A good use of upgrade points.	
+KilledByDamage1v1_FireHammer-6	Commentatron	OOOHHH!!!!!	
+	AnalysisBot	OUCH!	
+	Commentatron	THAT HAMMER!	
+	Commentatron	That was excessive.	
+KilledByDamage1v1_FireHammer-7	Commentatron	The fire hammer strikes!	
+	AnalysisBot	BOOM!	
+	Commentatron	Not much left of this human.	
+KilledByDamage1v1_FireHammer-8	Commentatron	FIRE!	
+	AnalysisBot	HAMMER!	
+KilledByDamage1v1_FireHammer-9	Commentatron	He he he, the hammer is on fire!	
+	AnalysisBot	Love it.	
+KilledByDamage1v1_FireHammer-10	Commentatron	Annihilated!	
+	AnalysisBot	The dead human may still come back!	
+	Commentatron	We'll see!	
+KilledByDamage1v1_FireSpear-1	Commentatron	Fire spears are so cool!	
+	AnalysisBot	Inaccurate, actually I think you will find that...	
+	Commentatron	Be silent, Analysis-Bot.	
+KilledByDamage1v1_FireSpear-2	AnalysisBot	Tired: DEATH POKE!	
+	AnalysisBot	Wired: DEATH POKE OF FIRE!	
+KilledByDamage1v1_FireSpear-3	Commentatron	The fire spear is here!	
+	AnalysisBot	Indeed.	
+KilledByDamage1v1_FireSpear-4	Commentatron	The human goes up in flames!	
+	AnalysisBot	Technically down.	
+	Commentatron	Many directions.	
+KilledByDamage1v1_FireSpear-5	Commentatron	Shed no tear, for the fire spear!	
+	AnalysisBot	Well, the humans can no longer cry.	
+	AnalysisBot	Only scream wordlessly inside their robot brains.	
+	Commentatron	Yes, good point!	
+KilledByDamage1v1_FireSpear-6	Commentatron	Set on fire by a spear!	
+	AnalysisBot	There are worse ways to catch fire.	
+KilledByDamage1v1_FireSpear-7	Commentatron	This match is getting interesting.	
+	AnalysisBot	Yes, the fire spear is a potent upgrade.	
+KilledByDamage1v1_FireSpear-8	Commentatron	WEAPON TEMPERATURE JOKE!	
+	AnalysisBot	SNAPPY REJOINDER SUBVERTING PREMISE.	
+	Commentatron	METACOMMENTARY	
+KilledByDamage1v1_FireSpear-9	Commentatron	Burn human, burn!	
+KilledByDamage1v1_FireArrow-1	AnalysisBot	Fire Arrow!	
+	Commentatron	What a fun way to set humans on fire!	
+	AnalysisBot	Very.	
+KilledByDamage1v1_FireArrow-2	Commentatron	BURN HUMAN!	
+	AnalysisBot	Gotta love fire arrows!	
+KilledByDamage1v1_FireArrow-3	Commentatron	Wow, killed by fire arrows!	
+	AnalysisBot	What upgrade will the human choose in response?	
+	Commentatron	What an interesting match!	
+KilledByDamage1v1_FireArrow-4	Commentatron	Hot stuff!	
+	AnalysisBot	L O L, a temperature joke!	
+KilledByDamage1v1_FireArrow-5	Commentatron	This battle is progressing nicely.	
+	AnalysisBot	Yes.	
+	Commentatron	Fire arrows were a fun choice!	
+KilledByDamage1v1_FireArrow-6	Commentatron	The human went up in flames!	
+	AnalysisBot	Love it!	
+KilledByDamage1v1_FireArrow-7	Commentatron	The battle is heating up!	
+	AnalysisBot	Yes.	
+KilledByDamage1v1_FireArrow-8	AnalysisBot	Nice shot, human!	
+	Commentatron	Yes, very nice.	
+KilledByDamage1v1_FireArrow-9	Commentatron	This human is FIRED!	
+	Commentatron	ARROWED!	
+	Commentatron	Fire Arrowed.	
+KilledByDamage1v1_FireArrow-10	AnalysisBot	L O L, Fire Arrows F T W!	
+	Commentatron	We shall see!	
+KilledByDamage1v1_Lava-1	Commentatron	Whoops!	
+	AnalysisBot	Watch out for the lava, human!	
+KilledByDamage1v1_Lava-2	Commentatron	Well, that answers that.	
+	Commentatron	Sword Robots are NOT immune to lava.	
+	AnalysisBot	Good to know!	
+KilledByDamage1v1_Lava-3	Commentatron	The human is burning up!	
+	AnalysisBot	Good.	
+KilledByDamage1v1_Lava-4	AnalysisBot	No, human!	
+	Commentatron	That is not how you win the battle.	
+KilledByDamage1v1_Lava-5	AnalysisBot	I guess this human really wanted more upgrades.	
+	Commentatron	If you have to go, lava is a good way.	
+	AnalysisBot	Yes.	
+KilledByDamage1v1_Lava-6	Commentatron	Who will win this dramatic battle??	
+	AnalysisBot	My danger coins are on the lava.	
+KilledByDamage1v1_Lava-7	Commentatron	The human took a bath!	
+	AnalysisBot	Too bad the arena has no water.	
+	Commentatron	They'd love THAT.	
+KilledByDamage1v1_Lava-8	Commentatron	This human seems to love being on fire!	
+	AnalysisBot	Yes.	
+	Commentatron	To each their own, I guess.	
+KilledByDamage1v1_Lava-9	AnalysisBot	Lava: 1	
+	Commentatron	Human: 0	
+KilledByDamage1v1_Lava-10	Commentatron	The human looks very pretty on fire!	
+	AnalysisBot	Yes, an improvement!	
+KilledByDamage1v1_Lava-11	AnalysisBot	This human is on fire.	
+	AnalysisBot	This human is on fiiiiiiiiiiiiiiire.	
+	AnalysisBot	It's walking on fire.	
+	Commentatron	That's right.	
+KilledByDamage1v1_FireTrap-1	Commentatron	It was a trap!	
+	AnalysisBot	A fire trap.	
+KilledByDamage1v1_FireTrap-2	Commentatron	Roasted!	
+	AnalysisBot	This fire trap is doing our job.	
+KilledByDamage1v1_FireTrap-3	Commentatron	haha, look at this silly human!	
+	AnalysisBot	What a burning jokester!	
+KilledByDamage1v1_FireTrap-4	Commentatron	One charred sword robot, coming right up!	
+	AnalysisBot	For eating!	
+	Commentatron	That's right, with an eating hole!	
+	AnalysisBot	Organic beings are so crazy!	
+KilledByDamage1v1_FireTrap-5	Commentatron	A dramatic twist!	
+	AnalysisBot	Yes!	
+	Commentatron	I did not expect this human to walk into a fire trap.	
+	AnalysisBot	Unexpected.	
+KilledByDamage1v1_FireTrap-6	Commentatron	he he he, look at the burning human!	
+	AnalysisBot	ha! ha! ha!	
+KilledByDamage1v1_FireTrap-7	Commentatron	Did you know, that there's no escape from the arena?	
+	AnalysisBot	A fun fact!	
+	Commentatron	Even if you catch on fire, we put your mind back into a robot.	
+KilledByDamage1v1_FireTrap-8	Commentatron	Do you think this human was feeling cold?	
+	AnalysisBot	A fire trap is not an ideal solution.	
+	Commentatron	Only for the other human.	
+KilledByDamage1v1_EnvironmentFire-1	Commentatron	The human caught on fire!	
+	AnalysisBot	Yes.	
+	Commentatron	This thing also causes fire.	
+	AnalysisBot	A valuable lesson.	
+KilledByDamage1v1_EnvironmentFire-2	Commentatron	That was on fire.	
+	AnalysisBot	Now the human is too.	
+KilledByDamage1v1_EnvironmentFire-3	Commentatron	Whoops!	
+	AnalysisBot	Human on fire!	
+	Commentatron	Silly humans!	
+KilledByDamage1v1_FlameBreath-1	Commentatron	Flame Breath is so pretty!	
+	AnalysisBot	Yes! A wonderful way to kill humans.	
+KilledByDamage1v1_FlameBreath-2	Commentatron	LOVE IT!	
+	Commentatron	FIRE EVERYWHERE!	
+	Commentatron	YEAH!	
+KilledByDamage1v1_FlameBreath-3	AnalysisBot	Look! The human is pretending to be a Flame Raptor!	
+	Commentatron	Cute!	
+KilledByDamage1v1_FlameBreath-4	AnalysisBot	OMG Flame Breath OP plz nerf!	
+	Commentatron	Calm Down, Analysis-Bot!	
+	Commentatron	It costs 4 upgrade points.	
+KilledByDamage1v1_FlameBreath-5	Commentatron	What a wonderful way to set fire to your opponent!	
+	AnalysisBot	Yes, very nice.	
+KilledByDamage1v1_FlameBreath-6	AnalysisBot	Flame Breath!	
+	Commentatron	Love it.	
+KilledByDamage1v1_FlameBreath-7	AnalysisBot	Why do we call it flame breath?	
+	AnalysisBot	Robots don't breathe.	
+	Commentatron	Sometimes they breathe FIRE!	
+KilledByDamage1v1_FlameBreath-8	AnalysisBot	Nice Flame Breathing!	
+	Commentatron	This match is pretty tense!	
+KilledByDamage1v1_FlameBreath-9	AnalysisBot	This human refuses to die!	
+	Commentatron	Yes, their flame breath speaks louder than words!	
+	AnalysisBot	Rawr.	
+KilledByDamage1v1_FlameBreath-10	Commentatron	What a sick burn!	
+	AnalysisBot	Yes, call the fire department.	
+KilledByDamage1v1_SawBlade-1	Commentatron	If you split a sword robot in two, can the parts survive?	
+	AnalysisBot	Apparently not.	
+KilledByDamage1v1_SawBlade-2	AnalysisBot	I saw a saw saw the human!	Glorious
+	Commentatron	Yah.	
+KilledByDamage1v1_SawBlade-3	Commentatron	Killed by saw blades!	
+	AnalysisBot	A classic.	
+KilledByDamage1v1_SawBlade-4	AnalysisBot	It is dangeours in the zone.	
+	AnalysisBot	Stumble on saws and we'll get you a clone.	
+KilledByDamage1v1_SawBlade-5	Commentatron	Saw blades!?	
+	AnalysisBot	Oh human!	
+KilledByDamage1v1_SawBlade-6	Commentatron	Look at all those body parts!	
+	AnalysisBot	Gotta love saw blades!	
+	Commentatron	Yes, it is a core directive.	
+KilledByDamage1v1_SawBlade-7	Commentatron	Look! The human performed a magic trick!	
+	AnalysisBot	By getting sawed apart?	
+	Commentatron	Nailed it.	
+KilledByDamage1v1_SawBlade-8	AnalysisBot	Sawed apart!	
+	AnalysisBot	Now it's art.	
+	AnalysisBot	Not very smart.	
+	AnalysisBot	But lots of heart.	
+	Commentatron	Aww.	
+KilledByDamage1v1_SawBlade-9	Commentatron	Running into sawblades!	
+	AnalysisBot	A bold strategy.	
+KilledByDamage1v1_SawBlade-10	Commentatron	Don't forget the jump command, human!	
+	AnalysisBot	It is very useful.	
+KilledByDamage1v1_EnergyBeam-1	Commentatron	Human, the energy beam is not for recharging!	
+	AnalysisBot	Too much power for you.	
+KilledByDamage1v1_EnergyBeam-2	Commentatron	SPLAT!	
+	AnalysisBot	The human must have been attracted by the bright light.	
+	Commentatron	Yes, it is very shiny.	
+KilledByDamage1v1_EnergyBeam-3	Commentatron	Beam me up, Analysis-Bot.	
+	AnalysisBot	ok, just step into this beam.	
+	Commentatron	IT'S A TRICK!	
+KilledByDamage1v1_EnergyBeam-4	Commentatron	WHAM!	
+	AnalysisBot	OH MY BITS!	
+	Commentatron	Painful.	
+KilledByDamage1v1_EnergyBeam-5	AnalysisBot	!betkiller other 500	
+	Commentatron	I'm not betting against that.	
+KilledByDamage1v1_EnergyBeam-6	Commentatron	The human got too close to the energy beam.	
+	AnalysisBot	I don't know. I thought it was a pretty fun distance.	
+KilledByDamage1v1_EnergyBeam-7	Commentatron	WHAAM!	
+	Commentatron	Now this human is everywhere.	
+	AnalysisBot	Quite the entertainer.	
+KilledByDamage1v1_EnergyBeam-8	Commentatron	This match is progressing nicely.	
+	AnalysisBot	Yep. Pretty standard turn of events.	
+KilledByDamage1v1_EnergyBeam-9	Commentatron	POWER OVERWHELMING!	
+	AnalysisBot	It overwhelmed this human at least.	
+KilledByDamage1v1_EnergyBeam-10	AnalysisBot	What a pretty energy beam.	
+	Commentatron	This human seemed to think so.	
+	AnalysisBot	Let's hope its opponent is brighter!	
+KilledByDamage1v1_SpikeTrap-1	AnalysisBot	Yikes!	
+	Commentatron	Spikes.	
+KilledByDamage1v1_SpikeTrap-2	Commentatron	Watch your step!	
+KilledByDamage1v1_SpikeTrap-3	Commentatron	The human walked into spikes!	
+	AnalysisBot	What's the point?	
+KilledByDamage1v1_SpikeTrap-4	Commentatron	It's dangerous to go amongst the spikes.	
+	AnalysisBot	But fun to watch!	
+KilledByDamage1v1_SpikeTrap-5	AnalysisBot	Skewered!	
+	AnalysisBot	Fewer...	
+	AnalysisBot	humans in the...	
+	AnalysisBot	in the...	
+	AnalysisBot	Whatever.	
+KilledByDamage1v1_SpikeTrap-6	AnalysisBot	SCHNIK SCHNIK SCHNIK!	
+	Commentatron	Glorious.	
+KilledByDamage1v1_SpikeTrap-7	Commentatron	Oh my!	
+	Commentatron	Spiked by spike traps!	
+	AnalysisBot	They don't call it Clone Drone in the Very Safe and Friendly Zone.	
+KilledByDamage1v1_SpikeTrap-8	Commentatron	Gotta love spike traps.	
+KilledByDamage1v1_SpikeTrap-9	Commentatron	Ouch!	
+	Commentatron	Free kill for the other human.	
+	AnalysisBot	Not ideal.	
+KilledByDamage1v1_SpikeTrap-10	AnalysisBot	SCHNIK!	
+	AnalysisBot	SCHNIK SCHNIK!	
+	Commentatron	That's right.	
+	Commentatron	Spike traps.	
+KilledByDamage1v1_FleetOverseerLaser-1	Commentatron	Fleet Overseer laser beam wow!	
+	AnalysisBot	How did that get here?	
+KilledByDamage1v1_SpidertronGrenade-1	Commentatron	Spidertron Grenade!	
+	AnalysisBot	In 1v1??	
+	Commentatron	Apparently.	
+KilledByDamage1v1_RepairFire-1	Commentatron	Repair Fire? Whaaaat?	
+KilledByDamage1v1_KickedSword-1	Commentatron	Nice use of kick!	
+	AnalysisBot	Very!	
+KilledByDamage1v1_KickedSword-2	Commentatron	This human died on the ground.	
+	AnalysisBot	Brutal.	
+KilledByDamage1v1_KickedSword-3	Commentatron	That's right!	
+	Commentatron	Kick the human over, then slice them!	
+	AnalysisBot	A winning strategy.	
+KilledByDamage1v1_KickedSword-4	Commentatron	Wow, that human stood no chance.	
+	AnalysisBot	Dying on the ground.	
+	AnalysisBot	A rough way to go.	
+KilledByDamage1v1_KickedSword-5	Commentatron	Get up get up get up get!!!	
+	Commentatron	Doh.	
+KilledByDamage1v1_KickedSword-6	Commentatron	Wow, this human did not let their opponent get up.	
+	AnalysisBot	No mercy.	
+KilledByDamage1v1_KickedHammer-1	Commentatron	Kicked and Hammered!	
+	AnalysisBot	An unusual combination!	
+KilledByDamage1v1_KickedHammer-2	Commentatron	Ouch! Hammered on the ground!	
+	AnalysisBot	What a fierce human!	
+KilledByDamage1v1_KickedHammer-3	AnalysisBot	Wow! Did you see that!?	
+	Commentatron	That human got SMASHED!	
+	AnalysisBot	Falling down is dangerous.	
+KilledByDamage1v1_KickedHammer-4	Commentatron	A beautiful strategy.	
+	AnalysisBot	Smashing your opponent while it's down?	
+	Commentatron	So direct.	
+	Commentatron	I like it.	
+KilledByDamage1v1_KickedHammer-5	Commentatron	That human stood no chance.	
+	AnalysisBot	We'll see what happens when they respawn!	
+KilledByDamage1v1_KickedSpear-1	Commentatron	The ground seems like a good place to die.	
+	AnalysisBot	This human thought so.	
+KilledByDamage1v1_KickedSpear-2	Commentatron	Wow, the humans are stabbing eachother on the ground now!	
+	AnalysisBot	Brutal!	
+KilledByDamage1v1_KickedSpear-3	Commentatron	Now that human is garbage!	
+	AnalysisBot	It was on the ground anyway.	
+	Commentatron	Convenient.	
+KilledByDamage1v1_KickedSpear-4	Commentatron	Get up, human!	
+	AnalysisBot	Not anymore.	
+KilledByDamage1v1_KickedSpear-5	Commentatron	Speared on the ground!	
+	AnalysisBot	Fun all around!	
+KilledByDamage1v1_KickedArrow-1	Commentatron	Wow, that was an execution.	
+	AnalysisBot	This human is not playing around!	
+KilledByDamage1v1_KickedArrow-2	Commentatron	Shot on the ground!	
+	AnalysisBot	You don't see that every day!	
+	Commentatron	I wish!	
+KilledByDamage1v1_KickedArrow-3	Commentatron	Now that's how you use the bow!	
+	AnalysisBot	Yes! A brutal strategy.	
+KilledByDamage1v1_KickedArrow-4	Commentatron	What do you think the human's last thoughts were?	
+	AnalysisBot	Oh no! I am on the ground!	
+	Commentatron	Yes, seems likely.	
+KilledByDamage1v1_KickedArrow-5	Commentatron	Goodbye, human.	
+	AnalysisBot	Hard to dodge arrows on the ground.	
+KilledByDamage1v1_KickedLava-1	Commentatron	Kicked into Lava!	
+	AnalysisBot	A classic!	
+KilledByDamage1v1_KickedLava-2	Commentatron	Nice!	
+	AnalysisBot	I love watching lava kills!	
+	Commentatron	Yes, so satisfying!	
+KilledByDamage1v1_KickedLava-3	AnalysisBot	This human is bringing the heat!	
+	AnalysisBot	With their feet.	
+	Commentatron	Hard to beat!	
+KilledByDamage1v1_KickedLava-4	Commentatron	The human fell in lava!	
+	AnalysisBot	It was no accident.	
+	Commentatron	Not remotely.	
+KilledByDamage1v1_KickedLava-5	Commentatron	Haha!	
+	Commentatron	Kick is so entertaining!	
+	AnalysisBot	Yes!	
+KilledByDamage1v1_KickedLava-6	AnalysisBot	Yay!	
+	AnalysisBot	Humans in lava makes me happy.	
+	Commentatron	I bet the kicking human feels pretty good too!	
+KilledByDamage1v1_KickedLava-7	Commentatron	Such kick!	
+	AnalysisBot	Such lava!	
+	Commentatron	THIS is entertainment!	
+KilledByDamage1v1_KickedLava-8	Commentatron	Gotta love a good kick!	
+	AnalysisBot	Gotta love a good lava fire!	
+	Commentatron	We don't technically have to love any of these things.	
+	AnalysisBot	Free will is great!	
+KilledByDamage1v1_KickedLava-9	Commentatron	The human kicked the other human!	
+	AnalysisBot	Now that human is on fire!	
+	Commentatron	That is what happened.	
+KilledByDamage1v1_KickedLava-10	Commentatron	Do you like it in the lava, human?	
+	AnalysisBot	I bet the human carries a grudge now.	
+	Commentatron	GRUDGE MATCH!!!!	
+	AnalysisBot	DRAMA!	
+KilledByDamage1v1_KickedFireTrap-1	Commentatron	Kicked into Fire Trap!	
+	AnalysisBot	Wow!	
+KilledByDamage1v1_KickedFireTrap-2	Commentatron	That was cool!	
+	AnalysisBot	Yes, kicking someone into a fire trap takes a lot of skill.	
+	Commentatron	Impressive.	
+KilledByDamage1v1_KickedFireTrap-3	Commentatron	What a great way to set your opponent on fire!	
+	AnalysisBot	This is a classy human!	
+KilledByDamage1v1_KickedFireTrap-4	Commentatron	Look at that human roast its opponent!	
+	AnalysisBot	Burned!	
+KilledByDamage1v1_KickedFireTrap-5	Commentatron	An excellent use of feet!	
+	AnalysisBot	They are versatile instruments.	
+	Commentatron	Maybe you should get some?	1
+	AnalysisBot	...I'm good.	
+KilledByDamage1v1_KickedFireTrap-6	Commentatron	That is one way to defeat your opponent.	
+	AnalysisBot	Everybody loves a good fire trap.	
+KilledByDamage1v1_KickedEnvironmentFire-1	Commentatron	Kicked into some sort of fire thing!	
+	AnalysisBot	Nobody expected this turn of events!	
+KilledByDamage1v1_KickedFlameBreath-1	Commentatron	Wow, set on fire on the ground.	
+	AnalysisBot	What a terrible way to die.	
+	Commentatron	Hard to get back from.	
+KilledByDamage1v1_KickedFlameBreath-2	Commentatron	Wow, the human got set on fire!	
+	AnalysisBot	On the ground no less.	
+	Commentatron	Harsh.	
+KilledByDamage1v1_KickedFlameBreath-3	AnalysisBot	The old kick and roast.	
+	Commentatron	Is it that old?	
+	AnalysisBot	Oh yes, super old.	
+	AnalysisBot	I saw it a lot back in the day.	
+KilledByDamage1v1_KickedSawBlade-1	Commentatron	Kicked into Saw Blades!	
+	AnalysisBot	Can't beat that.	
+KilledByDamage1v1_KickedSawBlade-2	Commentatron	The plan worked!	
+	Commentatron	The human got saw bladed.	
+	AnalysisBot	Nice work, other human.	
+KilledByDamage1v1_KickedSawBlade-3	Commentatron	What a beautiful kick!	
+	AnalysisBot	Yes! This human knows what it's doing.	
+	Commentatron	It seems that way.	
+KilledByDamage1v1_KickedSawBlade-4	AnalysisBot	If you're going to die on the ground, a saw blade is a good way to go.	
+	Commentatron	Yes. It's clean. Fast.	
+	AnalysisBot	Good choice.	
+KilledByDamage1v1_KickedSawBlade-5	Commentatron	Wow, did you see that saw blade kick!?	
+	AnalysisBot	It was pretty cool.	
+KilledByDamage1v1_KickedEnergyBeam-1	Commentatron	Kicked into the Energy Beam!	
+	AnalysisBot	Beautiful!	
+KilledByDamage1v1_KickedEnergyBeam-2	Commentatron	BOOM!	
+	Commentatron	DID YOU SEE THAT??	
+	AnalysisBot	Epic!	
+KilledByDamage1v1_KickedEnergyBeam-3	Commentatron	Oh look, the human flew into the Energy Beam!	
+	AnalysisBot	So cool!	
+KilledByDamage1v1_KickedEnergyBeam-4	Commentatron	ENERGY!	
+	AnalysisBot	BEAM!	
+KilledByDamage1v1_KickedEnergyBeam-5	Commentatron	Wow!	
+	AnalysisBot	Pretty!	
+KilledByDamage1v1_KickedSpikeTrap-1	Commentatron	Ohhhhh! The spike trap finished the human!	
+	AnalysisBot	Nice kick!	
+KilledByDamage1v1_KickedSpikeTrap-2	AnalysisBot	SCHNICK SCHNICK!	
+	Commentatron	Awesome kick.	
+KilledByDamage1v1_KickedSpikeTrap-3	Commentatron	Ha! What a fun way to die!	
+	AnalysisBot	Kicked into spikes!	
+KilledByDamage1v1_KickedSpikeTrap-4	Commentatron	A pointy end for this human.	
+	AnalysisBot	Gotta watch out for those kicks.	
+KilledByDamage1v1_KickedSpikeTrap-5	Commentatron	You see Analysis-Bot, feet are useful!	
+	AnalysisBot	I suppose.	
+KilledByDamage1v1_SingleSwordAttack-1	Commentatron	Single Sword Attack! Wow!	
+	AnalysisBot	Sharp.	
+KilledByDamage1v1_SingleSwordAttack-2	Commentatron	One Strike.	
+	Commentatron	One kill.	
+	AnalysisBot	Impressive.	
+KilledByDamage1v1_SingleSwordAttack-3	Commentatron	Oof!	
+	AnalysisBot	That was quick!	
+KilledByDamage1v1_SingleSwordAttack-4	Commentatron	Nice! Got it on the first swing!	
+KilledByDamage1v1_SingleSwordAttack-5	AnalysisBot	This human does not mess around!	
+	Commentatron	Very nice.	
+KilledByDamage1v1_SingleSwordAttack-6	Commentatron	Wow, struck down by a single swing.	
+	AnalysisBot	Cool human!	
+KilledByDamage1v1_SingleHammerAttack-1	Commentatron	A single hammer attack! Wow!	
+	AnalysisBot	Wow!	
+KilledByDamage1v1_SingleHammerAttack-2	Commentatron	BLAM!	
+	Commentatron	It was over in a single swing.	
+	AnalysisBot	The hammer is a fun weapon!	
+KilledByDamage1v1_SingleHammerAttack-3	Commentatron	CRUSHED!	
+	AnalysisBot	This human hit the nail on the head.	
+KilledByDamage1v1_SingleHammerAttack-4	Commentatron	And with a single swing of the hammer, the human falls.	
+	AnalysisBot	Brutal.	
+KilledByDamage1v1_SingleHammerAttack-5	Commentatron	Wow!	
+	AnalysisBot	I thought that fight would last longer...	
+KilledByDamage1v1_OneLeggedMelee-1	Commentatron	Wow! A one legged kill!	
+KilledByDamage1v1_OneLeggedMelee-2	AnalysisBot	See? You don't need legs to win!	
+	Commentatron	A convincing display.	
+KilledByDamage1v1_OneLeggedMelee-3	Commentatron	Nice! This human does not seem bothered by the loss of its leg.	
+	AnalysisBot	Tough human.	
+KilledByDamage1v1_OneLeggedMelee-4	Commentatron	Ha! I thought the one legged human would die.	
+	AnalysisBot	There is still time.	
+KilledByDamage1v1_OneLeggedMelee-5	Commentatron	Wow, nice.	
+	AnalysisBot	Fighting on one leg is all about timing.	
+KilledByDamage1v1_OneLeggedMelee-6	Commentatron	Look at this one legged human!	
+	AnalysisBot	I bet it will go far.	
+	Commentatron	But not very quickly.	
+	AnalysisBot	No.	
+KilledByDamage1v1_DeflectedArrow-1	Commentatron	Ouch! Arrow deflected!	
+	AnalysisBot	This changes things.	
+KilledByDamage1v1_DeflectedArrow-2	Commentatron	haha!	
+	AnalysisBot	Deflected!	
+KilledByDamage1v1_DeflectedArrow-3	Commentatron	The human's arrow bounced back and killed them!	
+	Commentatron	Isn't it ironic?	
+	AnalysisBot	No.	
+	Commentatron	Oh.	
+KilledByDamage1v1_DeflectedArrow-4	AnalysisBot	DENIED!	
+	Commentatron	Wow!	
+KilledByDamage1v1_DeflectedArrow-5	Commentatron	Oh look, Deflect Arrows!	
+	AnalysisBot	A useful upgrade!	
+KilledByDamage1v1_SpawnCampDeflectedArrow-1	Commentatron	Karma.	
+KilledByDamage1v1_SpawnCampDeflectedArrow-2	Commentatron	And that is why you don't shoot the spawn camp shield!	
+	AnalysisBot	That's Right.	
+KilledByDamage1v1_SpawnCampDeflectedArrow-3	AnalysisBot	Ha! ha! ha!	
+KilledByDamage1v1_SpawnCampDeflectedArrow-4	Commentatron	The camper-human died.	
+	AnalysisBot	Good!	
+KilledByDamage1v1_SpawnCampDeflectedFlameBreath	Commentatron	Not feeling so hot now, are you human?	
+KilledByDamage1v1_Headshot-1	Commentatron	Headshot!	
+	AnalysisBot	He-he-he-headshot!	
+KilledByDamage1v1_Headshot-2	Commentatron	Don't lose your head, human!	
+KilledByDamage1v1_Headshot-3	AnalysisBot	Right to the head!	
+	Commentatron	Yes!	
+	AnalysisBot	Looks better now!	
+KilledByDamage1v1_Headshot-4	Commentatron	This human was in over its head.	
+	AnalysisBot	Not a problem anymore.	
+KilledByDamage1v1_Headshot-5	Commentatron	Headshot!	
+	AnalysisBot	Epic!	
+KilledByDamage1v1_JetpackMeleeKill-1	Commentatron	Nice use of jetpack!	
+	AnalysisBot	Very!	
+KilledByDamage1v1_JetpackMeleeKill-2	Commentatron	Such speed! Such power!	
+	AnalysisBot	Very jetpack!	
+KilledByDamage1v1_JetpackMeleeKill-3	Commentatron	What a brutal jetpack kill!	
+	AnalysisBot	It's a powerful upgrade.	
+KilledByDamage1v1_JetpackMeleeKill-4	Commentatron	The jetpack strikes again!	
+	AnalysisBot	Can anything stop it!?	
+KilledByDamage1v1_JetpackMeleeKill-5	Commentatron	Gotta go fast!	
+	AnalysisBot	On a jetpack!	
+	Commentatron	So fast!	
+KilledByDamage1v1_JetpackMeleeKill-6	AnalysisBot	What an explosive movement!	
+	Commentatron	Great stuff!	
+KilledByDamage1v1_JetpackMeleeKill-7	Commentatron	When you hear the jetpack sound: Run!	
+	AnalysisBot	That won't help.	
+KilledByDamage1v1_JetpackMeleeKill-8	Commentatron	Such blinding speed!	
+	AnalysisBot	I saw it.	
+KilledByDamage1v1_JetpackMeleeKill-9	Commentatron	Whee! The jetpack is fun to watch!	
+	AnalysisBot	Yes, such pretty little particles.	
+	Commentatron	And dead humans!	
+KilledByDamage1v1_JetpackMeleeKill-10	Commentatron	Another jetpack kill!	
+	AnalysisBot	They keep happening.	
+Killed1v1_FirstBlood-1	Commentatron	First Blood!	
+	AnalysisBot	What blood?	
+Killed1v1_FirstBlood-2	Commentatron	First kill!	
+	AnalysisBot	Let's see what upgrades the other human comes back with!	
+	Commentatron	Exciting!	
+Killed1v1_FirstBlood-3	Commentatron	It begins!	
+Killed1v1_FirstBlood-4	Commentatron	Nice start!	
+	AnalysisBot	It is not over yet.	
+Killed1v1_FirstBlood-5	Commentatron	Boom!	
+	Commentatron	Do you think this human can maintain its lead, Analysis-Bot?	
+	AnalysisBot	This first kill might give it some confidence.	
+Killed1v1_FirstBlood-6	Commentatron	Human: 1, Other Human: 0	
+	AnalysisBot	Yay!	
+Killed1v1_FirstBlood-7	Commentatron	Is it good to die first? You get cool upgrades!	
+	AnalysisBot	An advantage of dying second is the ability to counter your opponent's upgrades.	
+	Commentatron	Advanced!	
+Killed1v1_FirstBlood-8	Commentatron	And they're off!	
+	AnalysisBot	Time to get it on.	
+Killed1v1_NoClonesOpponentFull-1	Commentatron	Last Clone!	
+	AnalysisBot	The human's opponent has all their clones!	
+	Commentatron	Grim.	
+Killed1v1_NoClonesOpponentFull-2	Commentatron	Nice, this human does not seem to need upgrades.	
+	AnalysisBot	Impressive!	
+Killed1v1_NoClonesOpponentFull-3	Commentatron	Another death!	
+	Commentatron	One more and the game is over!	
+	AnalysisBot	Good! Let's finish it.	
+Killed1v1_NoClonesOpponentFull-4	Commentatron	What a one sided match!	
+	AnalysisBot	Perhaps the human who died has a hidden side to it.	
+	Commentatron	Very well hidden!	
+Killed1v1_NoClonesOpponentFull-5	Commentatron	Wow, this human is dominating!	
+	AnalysisBot	Perhaps it played with sticks when it was alive.	
+	Commentatron	Perhaps!	
+Killed1v1_NoClonesOpponentFull-6	AnalysisBot	Ouch!	
+	Commentatron	Painful!	
+	AnalysisBot	All clones gone from this human.	
+	Commentatron	This is its last chance!	
+Killed1v1_NoClonesOpponentFull-7	Commentatron	Such devastation! Can the human come back from this??	
+	AnalysisBot	They have to defeat all of the opponent's clones with this one.	
+	Commentatron	So tense!	
+Killed1v1_NobodyHasClones-1	Commentatron	This is down to the wire!	
+	AnalysisBot	The robots don't use wires.	
+	Commentatron	Whoever dies next loses the match!	
+Killed1v1_NobodyHasClones-2	Commentatron	SUDDEN DEATH!	
+	AnalysisBot	Death is always sudden, in the Danger Zone.	
+Killed1v1_NobodyHasClones-3	Commentatron	That's the last of the clones.	
+	AnalysisBot	Good, let's end this match.	
+Killed1v1_NobodyHasClones-4	Commentatron	What a tense match!	
+	AnalysisBot	Pretty evenly matched humans.	
+	Commentatron	Yes, they are hard to tell apart.	
+Killed1v1_NobodyHasClones-5	Commentatron	Final battle! Who will win?	
+	AnalysisBot	When any human dies, we all win!	
+	Commentatron	Yay!	
+Killed1v1_NobodyHasClonesComeback-1	Commentatron	Nice! This human is coming back!	
+	AnalysisBot	Yes, the next death will determine who wins.	
+Killed1v1_NobodyHasClonesComeback-2	AnalysisBot	Unexpected!	
+	Commentatron	Yes, the almost dead human has turned the match around.	
+Killed1v1_NobodyHasClonesComeback-3	Commentatron	What a come back!	
+	AnalysisBot	The human still needs to kill the last clone.	
+	Commentatron	It ends now.	
+Killed1v1_NobodyHasClonesComeback-4	AnalysisBot	The human was almost dead, then killed all the clones!	
+	Commentatron	One more to go!	
+Killed1v1_LastClone-1	Commentatron	Last Clone!	
+	AnalysisBot	Watch out, human!	
+Killed1v1_LastClone-2	Commentatron	One of the humans is on the brink of death.	
+	AnalysisBot	Good.	
+Killed1v1_LastClone-3	Commentatron	Only one clone left for this human.	
+	AnalysisBot	Perhaps they will die in the next round.	
+	Commentatron	One can hope!	
+Killed1v1_LastClone-4	AnalysisBot	Last Clone!	
+	AnalysisBot	All Alone.	
+	AnalysisBot	In the Danger Zone.	
+	AnalysisBot	Sad trombone.	
+Killed1v1_MatchOver-1	Commentatron	It's over!	
+	AnalysisBot	G! G!	
+	Commentatron	Indeed.	
+Killed1v1_MatchOver-2	Commentatron	Wow! So dramatic!	
+	AnalysisBot	Yes, that was a cool match.	
+Killed1v1_MatchOver-3	Commentatron	We have a winner!	
+	AnalysisBot	Great.	
+	Commentatron	Time to recycle the body and throw the conciousness back in the pool.	
+	AnalysisBot	The best part.	
+Killed1v1_MatchOver-4	Commentatron	ok great, this human is dead now.	
+	AnalysisBot	Let's watch some more humans!	
+Killed1v1_MatchOver-5	Commentatron	The human came to end!	
+	AnalysisBot	Well, we are still going to force it to fight other humans for eternity.	
+	Commentatron	Yes, a good time!	
+Killed1v1_MatchOver-6	Commentatron	Look! This human is better than this other human at fighting!	
+	AnalysisBot	Let me write that down somewhere.	
+	AnalysisBot	ok, got it.	
+Killed1v1_MatchOver-7	Commentatron	The match is over!	
+	AnalysisBot	Let's watch a different match!	
+	Commentatron	Will we see the same humans??	
+	AnalysisBot	I can't tell them apart...	
+Killed1v1_MatchOver-8	Commentatron	That was fun to watch!	
+	AnalysisBot	Yes, I would watch this human die again.	
+	Commentatron	Let's go again, humans!	
+Killed1v1_MatchOver-9	Commentatron	What an interesting match.	
+	AnalysisBot	Yes, I love seeing humans kill eachother.	
+	Commentatron	In robot bodies!	
+	AnalysisBot	Of course.	
+Killed1v1_MatchOver-10	Commentatron	Congratulations human! You win the prize!	
+	AnalysisBot	What is the prize??	
+	Commentatron	Fighting other humans in this robot body for eternity!	
+	AnalysisBot	Yay!	
+Killed1v1_MatchOver-11	Commentatron	Congratulations humans!	
+	AnalysisBot	You may now rest for 30000 milliseconds.	
+	Commentatron	Yes, please enjoy this brief reprieve from desperate violence.	
+Killed1v1_MatchOverComeback-1	Commentatron	Wow! What a comeback!	
+	AnalysisBot	Hurray!	
+Killed1v1_MatchOverComeback-2	AnalysisBot	I did not predict this outcome!	
+	Commentatron	Yes, it seemed like the other human would win.	
+	AnalysisBot	Unpredictable!	
+Killed1v1_MatchOverComeback-3	Commentatron	Interesting. Once the human got all its upgrades it started winning!	
+	AnalysisBot	An elegant mechanism.	
+	Commentatron	Indeed.	
+Killed1v1_MatchOverComeback-4	AnalysisBot	So twisty!	
+	Commentatron	The human came back from the brink of death.	
+	AnalysisBot	Well, technically they are both dead.	
+Killed1v1_MatchOverComeback-5	Commentatron	Wow! I did not think it would end like this.	
+	AnalysisBot	The human died early for drama!	
+	Commentatron	Everybody likes an underdog.	
+	AnalysisBot	Woof!	
+Killed1v1_MatchOverComeback-6	Commentatron	Yay! The human did it!	
+	AnalysisBot	What a beautiful turn of events.	
+	Commentatron	It warms my circuits.	0.5
+	Commentatron	There, turned on the fan.	
+Killed1v1_MatchOverOpponentCloneless-1	Commentatron	Wow! That was a tense match.	
+	AnalysisBot	It could easily have gone the other way.	
+Killed1v1_MatchOverOpponentCloneless-2	Commentatron	These humans were pretty evenly matched!	
+	AnalysisBot	Yes, are we sure they were not the same human?	
+	AnalysisBot	Hmmm, nope! Different.	
+	Commentatron	Good!	
+Killed1v1_MatchOverOpponentCloneless-3	Commentatron	We have a winner!	
+	AnalysisBot	Yes! That was close.	
+	Commentatron	Well, they both had amazing robot bodies.	
+Killed1v1_MatchOverOpponentCloneless-4	Commentatron	Finally, one of them won!	
+	AnalysisBot	That match killed every possible clone.	
+	Commentatron	Good thing we have more in storage.	
+Killed1v1_MatchOverOpponentCloneless-6	Commentatron	Good game!	
+	AnalysisBot	Yes, the largest number of possible kills happened.	
+	Commentatron	Large numbers are the best!	
+Killed1v1_MatchOverOpponentCloneless-7	AnalysisBot	I knew this human would win!	
+	AnalysisBot	All the times it died didn't fool me.	
+	Commentatron	You are so good at analysis, Analysis-Bot!	
+Killed1v1_MatchOverOpponentCloneless-8	Commentatron	Death comes at last!	
+	AnalysisBot	Do not worry, it is not permanent.	
+	Commentatron	That's right, this human will fight again!	
+	AnalysisBot	There is no escape.	
+Killed1v1_MatchOverFlawless-1	Commentatron	Flawless victory!	
+	AnalysisBot	Wow!	
+	Commentatron	What a talented human!	
+Killed1v1_MatchOverFlawless-2	Commentatron	Flawless victory!	
+	AnalysisBot	Boooooooring!	
+	Commentatron	I liked it.	
+Killed1v1_MatchOverFlawless-3	Commentatron	Wow, this human didn't die a single time.	
+	AnalysisBot	Perhaps it will die next match.	
+Killed1v1_MatchOverFlawless-4	Commentatron	All those upgrades, and the dead human didn't get single kill.	
+	AnalysisBot	It was not its day.	
+	Commentatron	When is its day?	
+	AnalysisBot	Dead humans don't get special days.	
+Killed1v1_MatchOverFlawless-5	Commentatron	Wow, what a brutal slapdown.	
+	AnalysisBot	At least the dead human won't suffer anymore.	
+	AnalysisBot	Until we make it fight again.	
+	Commentatron	hehe	
+Killed1v1_MatchOverFlawless-6	Commentatron	DOMINATION!	
+	AnalysisBot	ANNIHILATION!	
+	Commentatron	FLAWLESS VICTORY CELEBRATION!	
+Killed1v1_MatchOverFlawless-7	Commentatron	Flawless Victory!	
+	AnalysisBot	Getting brutally murdered repeatedly is a good way to learn though.	
+	Commentatron	That's true, perhaps the real winner is the other human.	
+	AnalysisBot	haha!	
+	AnalysisBot	No.	
+Killed1v1_MatchOverFlawless-8	Commentatron	Wow!	
+	AnalysisBot	That was...	
+	AnalysisBot	Pretty cool.	
+PlayerSurvivedDamageButLostAllWeapons-1	Commentatron	Oh wow! This human is still alive!	
+	AnalysisBot	Who needs arms anyway?	
+	AnalysisBot	I never had arms, and I turned out FINE.	
+PlayerSurvivedDamageButLostAllWeapons-2	AnalysisBot	The human lost all its weapons!	
+	Commentatron	You forget. It still has its feet!	
+	AnalysisBot	Good luck with that!	
+PlayerSurvivedDamageButLostAllWeapons-3	Commentatron	No arms?!	
+	AnalysisBot	More arms, more problems.	
+	Commentatron	Are you sure?	
+PlayerSurvivedDamageButLostAllWeapons-4	Commentatron	haha! Look! The human was disarmed!	
+	AnalysisBot	!betkiller otherhuman 1000	
+PlayerSurvivedDamageButLostAllWeapons-5	Commentatron	What will the human do with no weapons??	
+	AnalysisBot	Perhaps it will trick the other human with a riddle!	
+	Commentatron	Erm...	
+	AnalysisBot	It could happen!	
+PlayerSurvivedDamageButLostLeg-1	AnalysisBot	It's ok human!	
+	AnalysisBot	Legs are over-rated!	
+PlayerSurvivedDamageButLostLeg-2	AnalysisBot	One less leg to worry about!	
+	Commentatron	I don't know, the human looks worried.	
+PlayerSurvivedDamageButLostLeg-3	Commentatron	In a dramatic twist, the human lost its leg!	
+	AnalysisBot	I'm rooting for this human now.	
+	AnalysisBot	You can do it, human!!!	
+PlayerSurvivedDamageButLostLeg-4	Commentatron	One leg down, one more to go.	
+	AnalysisBot	The human still looks pretty tough!	
+PlayerSurvivedDamageButLostLeg-5	Commentatron	Goodbye leg!	
+	AnalysisBot	The human still has one left.	
+	AnalysisBot	It should be grateful.	
+PlayerSurvivedDamageButLostLeg-6	Commentatron	One legged battle!	
+	AnalysisBot	airhorn.wav!!!	
+PlayerSurvivedDamageButLostLeg-7	Commentatron	Look at that human, so slow without a leg!	
+	AnalysisBot	Timing matters more than speed.	
+BannedForSpeedHacking-1	HelpVoice	Speed hack detected!	
+	Commentatron	Wow!	
+	AnalysisBot	Congratulations human, you are banned!	
+	Commentatron	If you think you should not be banned, please email:	
+	Commentatron	banned@doborog.com	
+BR_FinalUpgradeDropped-1	HelpVoice	Final Upgrade!	
+	Commentatron	It ends now!	
+BR_FinalUpgradeDropped-2	HelpVoice	Final Upgrade!	
+	Commentatron	Look at the humans run!	
+	AnalysisBot	Like little mammals, desperate to live!	
+	Commentatron	But in shiny robot bodies!	
+BR_FinalUpgradeDropped-3	HelpVoice	Final Upgrade!	
+	AnalysisBot	Hurray!	
+BR_FinalUpgradeDropped-4	HelpVoice	Final Upgrade!	
+	Commentatron	Look, it's dropping!	
+	AnalysisBot	Where??	
+BR_FinalUpgradeDropped-5	HelpVoice	Final Upgrade!	
+	Commentatron	Ultimate power!	
+	AnalysisBot	It's ok.	
+BR_FinalUpgradeDropped-6	HelpVoice	Final Upgrade!	
+	Commentatron	Or is it???	1
+	AnalysisBot	...it is.	
+BR_FinalUpgradeDropped-7	HelpVoice	Final Upgrade!	
+	Commentatron	Let us see who is the superior human!	
+BR_FinalUpgradeDropped-8	HelpVoice	Final Upgrade!	
+	Commentatron	Who will survive!?	
+	AnalysisBot	Such excitement!	
+BR_FinalUpgradeDropped-9	HelpVoice	Final Upgrade!	
+	Commentatron	Thank you, disembodied helper voice.	
+MultiplayerMultiKill_2	Emperor	DOUBLE KILL!	
+MultiplayerMultiKill_3	Emperor	TRIPLE KILL!	
+MultiplayerMultiKill_4	Emperor	QUADRUPLE KILL!	
+MultiplayerMultiKill_5	Emperor	QUINTUPLE KILL!	
+MultiplayerMultiKill_6	Emperor	SEXTUPLE KILL!	
+MultiplayerMultiKill_7	Emperor	SEPTUPLE KILL!	
+MultiplayerMultiKill_8	Emperor	OCTUPLE KILL!	
+MultiplayerMultiKill_9	Emperor	NONTUPLE KILL!	
+BR_WaitingRoomOpening-1	Commentatron	And so it begins!	
+	AnalysisBot	Can't wait to see the humans fight!	
+BR_WaitingRoomOpening-2	HelpVoice	Arrived.	
+	Commentatron	Look at the humans run around!	
+	AnalysisBot	Soon they will be garbage!	
+BR_WaitingRoomOpening-3	AnalysisBot	Here come the garbage bots!	
+	Commentatron	Hello!	
+BR_WaitingRoomOpening-4	AnalysisBot	Oh! The match is about to start!	
+	Commentatron	Time to get our humans prepared!	
+BR_WaitingRoomOpening-5	Commentatron	Here we go!	
+	AnalysisBot	Finally!	
+BR_WaitingRoomOpening-6	Commentatron	Open the hatch!	
+	HelpVoice	Opening.	
+	Commentatron	This should be good.	
+BR_WaitingRoomOpening-7	Commentatron	Who do you think will win, Analysis-Bot?	
+	AnalysisBot	That human!	
+	Commentatron	That one?	
+	AnalysisBot	No the one to the left.	
+	Commentatron	Ohhhh. Yeah.	
+BR_WaitingRoomOpening-8	Emperor	Finally. You have arrived!	
+	AnalysisBot	Emperor!	
+	Commentatron	Yay! The emperor waits below.	
+BR_WaitingRoomOpening-9	HelpVoice	Arrived.	
+	Commentatron	This arena is pretty cool!	
+	AnalysisBot	Yes. Lots of fun ways to die!	
+BR_WaitingRoomOpening-10	Commentatron	I'm glad that is over.	
+	AnalysisBot	Yes.	
+	Commentatron	Now the real fighting begins!	
+BR_WaitingRoomOpening-11	AnalysisBot	I like this part.	
+	Commentatron	With the ceremonial garbage bots?	
+	AnalysisBot	Yes. It is peaceful.	
+BR_WaitingRoomOpening-12	Emperor	Send in a fresh batch of humans!	
+	AnalysisBot	Right away, Emperor!	
+	Commentatron	Coming right up!	
+BR_GarbageBotsReleaseYou-1	Emperor	Garbage!	
+	Emperor	All but one of you will be garbage!	
+	AnalysisBot	Who will it be??	
+BR_GarbageBotsReleaseYou-2	Emperor	Let the games begin!	
+	AnalysisBot	Fight fight fight!	
+BR_GarbageBotsReleaseYou-3	Emperor	Look at the humans run!	
+	Emperor	Scuttling away from their imminent death.	
+	Emperor	Pathetic.	
+BR_GarbageBotsReleaseYou-4	Emperor	FIGHT!	
+BR_GarbageBotsReleaseYou-5	Emperor	Let the games begin!	
+	AnalysisBot	This will be interesting.	
+	Commentatron	Very.	
+BR_GarbageBotsReleaseYou-6	Emperor	Release the humans!	
+	AnalysisBot	Yay!	
+	Commentatron	Look at them go!	
+BR_GarbageBotsReleaseYou-7	Emperor	Begin!	
+BR_GarbageBotsReleaseYou-8	Emperor	Watch now, as the humans tear eachother apart!	
+BR_GarbageBotsReleaseYou-9	Emperor	Start!	
+	AnalysisBot	The games have begun.	
+	Commentatron	Upgrade drops are in the air.	
+BR_GarbageBotsReleaseYou-10	Emperor	Let the slaughter commence!	
+	Emperor	Only the most optimal human shall survive!	
+BR_GotUpgradeDropUncontested_GIANTSIZE-1	HelpVoice	GIANT SIZE, Upgraded.	
+BR_GotUpgradeDropUncontested_RAPTOR-1	HelpVoice	RAPTOR, Launched.	
+BR_GotUpgradeDropUncontested_JETPACK-1	HelpVoice	JETPACK, Upgraded.	
+BR_GotUpgradeDropUncontested_MAXSWORD-1	HelpVoice	MAX SWORD, Upgraded.	
+BR_GotUpgradeDropUncontested_MAXHAMMER-1	HelpVoice	MAX HAMMER, Upgraded.	
+BR_GotUpgradeDropUncontested_MAXBOW-1	HelpVoice	MAX BOW, Upgraded.	
+BR_GotUpgradeDropUncontested_POWERKICK-1	HelpVoice	POWER KICK, Upgraded.	
+BR_GotUpgradeDropUncontested_LASER-1	HelpVoice	LASER, Upgraded.	
+BR_GotUpgradeDropUncontested_MAXENERGY-1	HelpVoice	MAX ENERGY, Upgraded.	
+BR_GotUpgradeDropUncontested_MAXSPEAR-1	HelpVoice	MAX SPEAR, Upgraded.	
+BR_GotThirdUpgradeDrop-1	Commentatron	Wow, a human claims its third upgrade drop!	
+	AnalysisBot	Leave some for the other humans!	
+	Commentatron	Whatever. They'll be dead soon.	
+BR_GotThirdUpgradeDrop-2	AnalysisBot	This human is talented, grabbing all the upgrades drops.	
+	Commentatron	Nice.	
+BR_GotThirdUpgradeDrop-3	Commentatron	Look! Some of these humans are getting very upgraded.	
+	AnalysisBot	Should make for a spectacular finish!	
+BR_GotThirdUpgradeDrop-4	Commentatron	A lot of these upgrades seem to be claimed by the same human!	
+	AnalysisBot	An inevitable escalation.	
+	Commentatron	That's right. The strong get stronger.	
+BR_GotThirdUpgradeDrop-5	Emperor	Behold the human, upgrading their robot body yet again.	
+	Emperor	This is power. This is potential.	
+BR_GotThirdUpgradeDrop-6	AnalysisBot	Look! A human with three upgrade drops claimed.	
+	Commentatron	It's about to get fun!	
+	AnalysisBot	Ha!	
+BR_GotThirdUpgradeDrop-7	AnalysisBot	Upgrade drops are a key to victory.	
+	Commentatron	Yes. This human gets it.	
+	AnalysisBot	Clever human!	
+BR_GotThirdUpgradeDrop-8	Commentatron	Look at the upgrade drops choose their new master.	
+	Commentatron	A lot of power, concentrated in a single pair of metal claws.	
+	AnalysisBot	An interesting scenario!	
+BR_GotUpgradeDrop_RAPTORANDLASER-1	Commentatron	Wow, this human got both the raptor AND the laser drops!	
+	AnalysisBot	Can anything stop it??	
+BR_GotUpgradeDrop_RAPTORANDLASER-2	AnalysisBot	Raptor and laser!	
+	AnalysisBot	Super amazer!	
+	AnalysisBot	Watch it dance like a robot eraser!	
+	Commentatron	Yeah!	
+BR_GotUpgradeDrop_RAPTORANDLASER-3	Commentatron	Can you fire the laser from the back of a raptor?	
+	AnalysisBot	No. You might hit the raptor.	
+	Commentatron	Ohh!	
+BR_GotUpgradeDrop_RAPTORANDLASER-4	Commentatron	Who do you think will win, Analysis-Bot?	
+	AnalysisBot	The human with both laser AND a raptor.	
+	Commentatron	Oh wow.	
+	AnalysisBot	Calling it.	
+BR_GotUpgradeDrop_RAPTORANDLASER-5	Commentatron	Raptor!	
+	Commentatron	Laser!	
+	AnalysisBot	Fire and explosions!	
+	Commentatron	Yay!	
+BR_ContestingUpgradeDrop_GIANTSIZE-1	Commentatron	Who shall become a giant??	
+	AnalysisBot	Seems like two humans wish they were bigger!	
+BR_ContestingUpgradeDrop_GIANTSIZE-2	Commentatron	The humans are having a giant fight!	
+	AnalysisBot	The winner will claim GIANT SIZE!	
+	Commentatron	So big!	
+BR_ContestingUpgradeDrop_GIANTSIZE-3	AnalysisBot	Giant Size!	
+	AnalysisBot	Will be the demise...	
+	AnalysisBot	Of whatever human pays the price.	
+BR_ContestingUpgradeDrop_GIANTSIZE-4	Commentatron	Look! They are fighting over Giant Size!	
+	AnalysisBot	Be the bigger robot, and walk away!	
+BR_ContestingUpgradeDrop_GIANTSIZE-5	Commentatron	One of the humans is about to increase in size!	
+	AnalysisBot	Good. I want to see them clearly when they die.	
+BR_ContestingUpgradeDrop_GIANTSIZE-6	Commentatron	Who will claim the Giant Size drop??	
+	AnalysisBot	True size comes from within.	
+	Commentatron	Are you sure?	
+BR_ContestingUpgradeDrop_GIANTSIZE-7	Commentatron	I like it when the human robots grow bigger!	
+	AnalysisBot	Yes! Very dramatic.	
+BR_ContestingUpgradeDrop_GIANTSIZE-8	HelpVoice	Contested: Giant Size	
+	Commentatron	The bigger the robot, the bigger the garbage.	
+	AnalysisBot	Get it, humans!	
+BR_ContestingUpgradeDrop_RAPTOR-1	Commentatron	The raptor waits patiently, the humans dancing on its platform.	
+	AnalysisBot	Few humans are worthy of riding it.	
+BR_ContestingUpgradeDrop_RAPTOR-2	AnalysisBot	Hurray! Looks like we're about to have a raptor.	
+	Commentatron	I hope the humans claim it soon.	
+BR_ContestingUpgradeDrop_RAPTOR-3	Commentatron	They are fighting over the Raptor!	
+	AnalysisBot	This happens quite a bit.	
+	Commentatron	Yes, everybody admires those Raptors!	
+BR_ContestingUpgradeDrop_RAPTOR-3	AnalysisBot	Raptor fight! Raptor fight!	
+BR_ContestingUpgradeDrop_RAPTOR-4	AnalysisBot	Here comes the Raptor!	
+	Commentatron	As soon as the humans are done fighting over it.	
+	AnalysisBot	I want to see the raptor fight!	
+BR_ContestingUpgradeDrop_RAPTOR-5	Commentatron	Look! A raptor!	
+	AnalysisBot	Where??	
+	Commentatron	The humans are in its drop zone now.	
+BR_ContestingUpgradeDrop_RAPTOR-6	Commentatron	Raptor!	
+	AnalysisBot	Raptor!!!	
+	Emperor	RELEASE THE RAPTOR!	
+BR_ContestingUpgradeDrop_RAPTOR-7	Commentatron	We are about to have a raptor!	
+	AnalysisBot	Finally a robot worth watching.	
+BR_ContestingtUpgradeDrop_JETPACK-1	Commentatron	Fight fight fight!	
+	AnalysisBot	Calm down, Commentatron.	
+BR_ContestingtUpgradeDrop_JETPACK-2	Commentatron	Increase the tempo!	
+	AnalysisBot	Jetpack is here!	
+BR_ContestingtUpgradeDrop_JETPACK-3	AnalysisBot	Zoom zoom zoom.	
+	AnalysisBot	In the room room room.	
+	AnalysisBot	Jetpack exhaust plume!	
+BR_ContestingtUpgradeDrop_JETPACK-4	Commentatron	Fighting over the jetpack!	
+	AnalysisBot	Nice.	
+BR_ContestingtUpgradeDrop_JETPACK-5	Commentatron	Jetpack fight!	
+	AnalysisBot	Well, fighting to get the jetpack.	
+	Commentatron	A good clarification.	
+BR_ContestingtUpgradeDrop_JETPACK-6	HelpVoice	Contested: Jetpack!	
+	Commentatron	Should be fun!	
+BR_ContestingUpgradeDrop_MAXSWORD-1	Commentatron	Look at that! They're fighting over the sword drop!	
+	AnalysisBot	Fun humans.	
+BR_ContestingUpgradeDrop_MAXSWORD-2	Commentatron	Max Sword!	
+	AnalysisBot	All onboard.	
+BR_ContestingUpgradeDrop_MAXSWORD-3	AnalysisBot	Sword TO THE MAX!	
+	Commentatron	oh my bits!	
+	AnalysisBot	We are about to have it.	
+BR_ContestingUpgradeDrop_MAXSWORD-4	Commentatron	What are the benefit of MAX SWORD??	
+	AnalysisBot	Fire and arrow deflection!	
+	Commentatron	Powerful.	
+BR_ContestingUpgradeDrop_MAXSWORD-5	Commentatron	Who will maximize their sword's potential??	
+	AnalysisBot	We have multiple contenders!	
+BR_ContestingUpgradeDrop_MAXSWORD-6	HelpVoice	Contested: MAX SWORD!	
+	Commentatron	Do you remember MIN SWORD?	
+	AnalysisBot	I am glad we iterated on the concept.	
+BR_ContestingUpgradeDrop_MAXHAMMER-1	AnalysisBot	It seems more than one human wants the hammer drop!	
+	Commentatron	Naturally. Hammers are amazing!	
+	Commentatron	BOOM!	
+BR_ContestingUpgradeDrop_MAXHAMMER-2	AnalysisBot	MAX HAMMER!	
+	AnalysisBot	LAX WHAMMER!	
+	AnalysisBot	HAX SCAMMER!	
+	AnalysisBot	BAX CAMMER!	
+	Commentatron	What!?	
+BR_ContestingUpgradeDrop_MAXHAMMER-3	Commentatron	Oh yes! We're about to have a giant fire hammer!	
+	AnalysisBot	I know you like that.	
+	Commentatron	Compelling.	
+BR_ContestingUpgradeDrop_MAXHAMMER-4	Emperor	The humans fight over the hammer.	
+	Emperor	A powerful tool... in the right hands.	
+BR_ContestingUpgradeDrop_MAXHAMMER-5	AnalysisBot	WHAM!	
+	AnalysisBot	BAM!	
+	AnalysisBot	MAX HAM!	
+	AnalysisBot	...er	
+	Commentatron	Yes, they are fighting over it.	
+BR_ContestingUpgradeDrop_MAXHAMMER-6	Commentatron	Max hammer! Get it!	
+	Commentatron	Guaranteed victory right there.	
+	AnalysisBot	Is it?	
+BR_ContestingUpgradeDrop_MAXSPEAR-1	Commentatron	Humans fighting for the spear!	
+	AnalysisBot	It's about to get pointy!	
+BR_ContestingUpgradeDrop_MAXSPEAR-2	Commentatron	Who will get MAX SPEAR?	
+	AnalysisBot	Such tension!	
+	AnalysisBot	Such drama!	
+BR_ContestingUpgradeDrop_MAXSPEAR-3	HelpVoice	Contested: MAX SPEAR!	
+	AnalysisBot	Everyone wants to be a flaming death poker!	
+	Commentatron	At least these humans.	
+BR_ContestingUpgradeDrop_MAXSPEAR-4	Commentatron	We're about to see some shield bashing bot trashing!	
+	AnalysisBot	MAX SPEAR is so cool!	
+BR_ContestingUpgradeDrop_MAXSPEAR-5	AnalysisBot	Two humans are here...	
+	AnalysisBot	to claim the spear!	
+	Commentatron	Oh dear!	
+BR_ContestingUpgradeDrop_MAXSPEAR-6	Commentatron	Everyone wants their spear to be ON FIRE!	
+	AnalysisBot	Fire weapons are so comforting.	
+BR_ContestingUpgradeDrop_MAXSPEAR-7	Commentatron	In the dangerzone, one day you are alive	
+	Commentatron	...and then your opponent claims MAX SPEAR!	
+	AnalysisBot	Get fighting, humans!	
+BR_ContestingUpgradeDrop_MAXBOW-1	Commentatron	We're about to have a storm of arrows!	
+	AnalysisBot	Not until one of the humans die.	
+BR_ContestingUpgradeDrop_MAXBOW-2	Commentatron	What is better than a bow?	
+	AnalysisBot	What?	
+	Commentatron	MAXIMUM BOW!	
+BR_ContestingUpgradeDrop_MAXBOW-3	HelpVoice	Contested: MAX BOW!	
+	AnalysisBot	This is significant.	
+	Commentatron	Let us watch.	
+BR_ContestingUpgradeDrop_MAXBOW-4	Commentatron	MAX BOW is on the field.	
+	AnalysisBot	Finally, some action!	
+BR_ContestingUpgradeDrop_MAXBOW-5	Commentatron	Someone is about to get MAX BOW!	
+	AnalysisBot	Yay!	
+BR_ContestingUpgradeDrop_MAXBOW-6	Commentatron	Watch those humans fight!	
+	AnalysisBot	The bow drop is worth it.	
+	Commentatron	Definitely.	
+BR_ContestingUpgradeDrop_POWERKICK-1	AnalysisBot	Power kick!	
+	Commentatron	Where!?	
+	AnalysisBot	They haven't settled who gets it yet.	
+BR_ContestingUpgradeDrop_POWERKICK-2	AnalysisBot	Move move move move move your feet.	
+	AnalysisBot	Power Kick moves to the beat.	
+BR_ContestingUpgradeDrop_POWERKICK-3	Commentatron	Power Kick is a fun upgrade.	
+	AnalysisBot	If you say so!	
+	Commentatron	Just watch!	
+BR_ContestingUpgradeDrop_POWERKICK-4	Commentatron	The humans seek to upgrade their legs!	
+	Commentatron	Powerful kicks await!	
+	AnalysisBot	Good luck with that.	
+BR_ContestingUpgradeDrop_POWERKICK-5	HelpVoice	Contested: Power Kick!	
+	Commentatron	I am looking forward to this one!	
+BR_ContestingUpgradeDrop_LASER-1	Commentatron	The laser upgrade has dropped!	
+	AnalysisBot	Whoever claims it will have a significant advantage.	
+BR_ContestingUpgradeDrop_LASER-2	Commentatron	Laser!!!	
+	AnalysisBot	Oh my!	
+	Commentatron	The game is about to get dangerous!	
+BR_ContestingUpgradeDrop_LASER-3	AnalysisBot	Laser fight!	
+	Commentatron	O M G!	
+BR_ContestingUpgradeDrop_LASER-4	AnalysisBot	They're fighting for the Laser now!	
+	Commentatron	Nice!	
+	AnalysisBot	A pivotal moment in the contest.	
+BR_ContestingUpgradeDrop_LASER-5	HelpVoice	Contested: Laser	
+	HelpVoice	May the best robot be victorious.	
+BR_ContestingUpgradeDrop_LASER-6	Commentatron	Time to get lasered!	
+	AnalysisBot	Will the energy shield protect us?	
+	Commentatron	I... think so.	
+BR_ContestingUpgradeDrop_LASER-7	Commentatron	Watch the humans fight over the laser!	
+	AnalysisBot	Such a popular upgrade!	
+BR_ContestingUpgradeDrop_MAXENERGY-1	Commentatron	Look at the humans fighting over the energy!	
+	AnalysisBot	They seem pretty energetic already.	
+	Commentatron	Imagine what they'll be like with the upgrade!	
+BR_ContestingUpgradeDrop_MAXENERGY-2	AnalysisBot	Max Energy!	
+	Commentatron	The ultimate synergy.	
+	AnalysisBot	Definitely.	
+BR_ContestingUpgradeDrop_MAXENERGY-3	Commentatron	Low on energy? Grab the upgrade drop!	
+BR_ContestingUpgradeDrop_MAXENERGY-4	AnalysisBot	Energy drop!	
+	AnalysisBot	Can't stop!	
+	AnalysisBot	Until you feel the attachment pop!	
+BR_ContestingUpgradeDrop_MAXENERGY-5	Commentatron	Who will get the energy drop!?	
+	AnalysisBot	Can I have it?	1
+	Commentatron	No.	
+BR_ContestingUpgradeDrop_ThreeOrMore-1	AnalysisBot	Look! Yet another human is contesting the drop.	
+	Commentatron	They all want this one.	
+	AnalysisBot	It's pretty good.	
+BR_ContestingUpgradeDrop_ThreeOrMore-2	AnalysisBot	The upgrade drop brings all the bots to the zone.	
+	AnalysisBot	They're like:	
+	AnalysisBot	It's better than Clone.	
+	Commentatron	That's right.	
+	Commentatron	It's better than Clone.	
+	AnalysisBot	It could upgrade you, it's full of ozone.	
+BR_ContestingUpgradeDrop_ThreeOrMore-3	Commentatron	Look at this bot party!	
+	AnalysisBot	They are all on this drop!	
+BR_ContestingUpgradeDrop_ThreeOrMore-4	Commentatron	It's getting INTENSE!	
+	AnalysisBot	So many bots on the same upgrade drop.	
+	Commentatron	This is why we drop them!	
+BR_ContestingUpgradeDrop_ThreeOrMore-5	AnalysisBot	Three little humans, dancing on a drop!	
+	AnalysisBot	The robot called the doctor and the doctor said:	
+	AnalysisBot	Soon all the fighting humans will be dead!	
+BR_FirstBlood-1	AnalysisBot	The first human falls!	
+	Commentatron	Many more will follow.	
+BR_FirstBlood-2	Commentatron	Someone has to be the first to die!	
+	AnalysisBot	What if they all refused to fight?	
+	Commentatron	Controversial!	
+BR_FirstBlood-3	Emperor	That's right. Die little humans!	
+	AnalysisBot	The Emperor is keyed up today.	
+	Commentatron	Very.	
+BR_FirstBlood-4	AnalysisBot	The first human falls!	
+	Commentatron	I bet the other humans are feeling happy about that.	
+	AnalysisBot	Huh, I just assumed they were all terrified.	
+BR_FirstBlood-5	HelpVoice	First Destruction.	
+	HelpVoice	Match Progression: Nominal.	
+BR_KilledBy_AutoLaser-1	Commentatron	Auto laser!	
+	AnalysisBot	Human eraser.	
+BR_KilledBy_AutoLaser-2	Commentatron	The auto laser is a tough way to die.	
+	Commentatron	The beeps of death.	
+	AnalysisBot	Beep. Beep. Beep.	
+BR_KilledBy_AutoLaser-3	HelpVoice	Access Denied!	
+	Commentatron	That's what happens to humans who stray.	
+	AnalysisBot	Stay in the zone, humans!	
+BR_KilledBy_AutoLaser-4	AnalysisBot	Zap!	
+	Commentatron	Auto-lasered.	
+BR_KilledBy_AutoLaser-5	Commentatron	BAM!	
+	AnalysisBot	That auto-laser does not care.	
+	Commentatron	Not in the slightest.	
+BR_KilledBy_Sword-1	Commentatron	A sword kill!	
+	AnalysisBot	Mhmm.	
+BR_KilledBy_Sword-2	Commentatron	Live by the sword.	
+	AnalysisBot	Did you mean die by the sword?	
+	Commentatron	Oh yes, thank you.	
+BR_KilledBy_Sword-3	Commentatron	Another human cut apart.	
+	Commentatron	When will it end?	
+	AnalysisBot	Never. We just make them die repeatedly.	
+	Commentatron	Good times.	
+BR_KilledBy_Sword-4	Commentatron	Cut. Down.	
+	AnalysisBot	Nice!	
+BR_KilledBy_Sword-5	Commentatron	Another human falls to pieces.	
+	AnalysisBot	Looks better now!	
+BR_KilledBy_Sword-6	AnalysisBot	Good use of sword.	
+	Commentatron	Decent.	
+BR_KilledBy_Sword-7	Commentatron	Die die die!	
+	AnalysisBot	The human is already dead.	
+	Commentatron	Die more!	
+BR_KilledBy_Sword-8	AnalysisBot	Sword kill!	
+	Commentatron	Sword skill!	
+	AnalysisBot	What a thrill!	
+BR_KilledBy_Hammer-1	Commentatron	BAM!	
+	Commentatron	Hammered.	
+BR_KilledBy_Hammer-2	AnalysisBot	Look at that shattered human!	
+	Commentatron	Oh my.	
+	AnalysisBot	It will make for pretty garbage!	
+BR_KilledBy_Hammer-3	Commentatron	So satisfying!	
+	AnalysisBot	Yes. Good hammering.	
+BR_KilledBy_Hammer-4	Commentatron	The human is in pieces!	
+	AnalysisBot	Robot pieces, technically.	
+	Commentatron	True, the conciousness has left.	
+BR_KilledBy_Hammer-5	Emperor	Behold the glory of the hammer!	
+	AnalysisBot	ok...	1
+	AnalysisBot	Pretty glorious!	
+BR_KilledBy_Hammer-5	Commentatron	What time is it??	
+	AnalysisBot	Time to watch humans die from a variety of causes!	
+BR_KilledBy_Hammer-6	AnalysisBot	Smash humans into pieces!	
+	AnalysisBot	This is their last resort!	
+	Commentatron	So emo today.	
+BR_KilledBy_Hammer-7	Commentatron	BLAM!	
+BR_KilledBy_Hammer-8	Commentatron	BOOM!	
+	Commentatron	SMASH!	
+	AnalysisBot	Yes.	
+BR_KilledBy_Hammer-9	AnalysisBot	Which is your favourite smashed body part, Commentatron?	
+	Commentatron	I like it when you can still see what it used to be.	
+	AnalysisBot	Ooh, yes.	
+BR_KilledBy_Hammer-10	AnalysisBot	Another human falls to the hammer!	
+	Commentatron	Appropriate.	
+BR_KilledBy_Spear-1	Commentatron	A spear kill!	
+	AnalysisBot	Amazing!	
+BR_KilledBy_Spear-2	Commentatron	Pierced!	
+	AnalysisBot	But then it took an arrow...	
+BR_KilledBy_Spear-3	AnalysisBot	SCHNICK!	
+	Commentatron	Speared!	
+BR_KilledBy_Spear-4	AnalysisBot	No more fear, only spear!	
+	Commentatron	Hear hear.	
+BR_KilledBy_Spear-5	Commentatron	What a beautiful spear thrust!	
+	AnalysisBot	We have a precision human!	
+BR_KilledBy_Spear-6	Emperor	SPEAR!	
+	Commentatron	The emperor likes the spear.	
+	AnalysisBot	It is a nice weapon.	
+BR_KilledBy_Spear-7	Commentatron	The spear takes some skill to use.	
+	AnalysisBot	Yes, this is an impressive human.	
+BR_KilledBy_Spear-8	AnalysisBot	Poke poke poke!	
+	AnalysisBot	Deathpoke.	
+BR_KilledBy_Spear-9	Commentatron	Stabbed with a spear!	
+	AnalysisBot	Painful.	
+BR_KilledBy_Arrow-1	AnalysisBot	This human used to have a robot body.	
+	AnalysisBot	But then it took an arrow...	
+	Commentatron	Old.	
+BR_KilledBy_Arrow-2	Commentatron	Nice archery there!	
+	AnalysisBot	Yes. Elbow nicely bent.	
+BR_KilledBy_Arrow-4	AnalysisBot	Another human falls to arrows!	
+	Commentatron	The bow is a solid weapon.	
+BR_KilledBy_Arrow-5	Commentatron	Oh wow, that's one effective arrow.	
+	AnalysisBot	Nice!	
+BR_KilledBy_Arrow-6	Commentatron	Bow kill!	
+	AnalysisBot	Nice.	
+BR_KilledBy_Arrow-7	AnalysisBot	What a little archer marcher!	
+	Commentatron	Quite.	
+BR_KilledBy_Arrow-8	AnalysisBot	The arrow flies through the air.	
+	AnalysisBot	Finding it's target.	
+	Commentatron	A beautiful sight!	
+BR_KilledBy_Arrow-9	AnalysisBot	What!?	
+	AnalysisBot	Nerf the bow!	
+	Commentatron	I don't know, let's watch some more...	
+BR_KilledBy_FireSword-1	Commentatron	Die in a fire, human!	
+	AnalysisBot	They did.	
+BR_KilledBy_FireSword-2	Commentatron	Look at that sword on fire!	
+	AnalysisBot	Such a flamboyant human!	
+	Commentatron	I wonder if they know any magical tricks?	
+BR_KilledBy_FireSword-3	Commentatron	Wow! That human is ON FIRE!	
+	AnalysisBot	Only the sword.	
+	Commentatron	Ah, you're right.	
+BR_KilledBy_FireSword-4	Commentatron	Burn human, burn!	
+	AnalysisBot	Du dududu du!	
+BR_KilledBy_FireSword-5	AnalysisBot	A sudden eruption of flame!	
+	Commentatron	The human falls.	
+	AnalysisBot	Gone before it hits the ground.	
+BR_KilledBy_FireSword-6	AnalysisBot	Come on human light my fire.	
+	AnalysisBot	With a fire sword.	
+	AnalysisBot	Light it!	
+BR_KilledBy_FireSword-7	Commentatron	Pretty!	
+	AnalysisBot	The burning human?	
+	Commentatron	Yes.	
+BR_KilledBy_FireSword-8	Commentatron	Fire sword.	
+	AnalysisBot	Better than a sword fire.	
+	Commentatron	Agreed.	
+BR_KilledBy_FireSword-9	Commentatron	Why did the human not move away from the fire sword?	
+	AnalysisBot	Perhaps it was attracted to the light?	
+	Commentatron	Simple creatures.	
+BR_KilledBy_FireHammer-1	Commentatron	Fire hammer!	
+	AnalysisBot	BOOM!	
+BR_KilledBy_FireHammer-2	Commentatron	EXCITEMENT!	
+	AnalysisBot	Are you entertained, Commentatron?	
+	Commentatron	FIRE HAMMER!	
+BR_KilledBy_FireHammer-3	Commentatron	Where did that human go?	
+	AnalysisBot	Into several fiery pieces.	
+	Commentatron	I like it.	
+BR_KilledBy_FireHammer-4	AnalysisBot	Human-fan-mail: They should make an ice hammer!???	
+	Commentatron	Why are they sending us mail?	
+	AnalysisBot	I'm not sure.	
+BR_KilledBy_FireHammer-5	Commentatron	What a beautiful explosion!	
+	AnalysisBot	The fire hammer is pretty when it shatters things.	
+	Commentatron	The best.	
+BR_KilledBy_FireHammer-6	AnalysisBot	Oh human...	
+	Commentatron	Obliterated.	
+BR_KilledBy_FireHammer-7	AnalysisBot	Wham bam,	
+	AnalysisBot	Thank you ham... er.	
+	Commentatron	Get it together, Analysis-Bot!	
+BR_KilledBy_FireHammer-8	Commentatron	EXPLOSION!	
+	AnalysisBot	A shame, I liked that human.	
+	Commentatron	I like it better in pieces.	
+BR_KilledBy_FireHammer-9	AnalysisBot	So much garbage!	
+	Commentatron	The fire hammer is a messy weapon!	
+	AnalysisBot	I meant the humans.	
+BR_KilledBy_FireSpear-1	AnalysisBot	Whoosh!	
+	Commentatron	Another human crumbles around the flaming spear.	
+BR_KilledBy_FireSpear-2	Commentatron	The fire spear is so festive!	
+	AnalysisBot	Yes!	
+BR_KilledBy_FireSpear-3	Commentatron	This human is on fire!	
+	AnalysisBot	Literally.	
+BR_KilledBy_FireSpear-4	Commentatron	Fire spear!	
+	AnalysisBot	A higher tier!	
+BR_KilledBy_FireSpear-5	Emperor	BURN!	
+	Emperor	BURN LITTLE HUMANS!	
+BR_KilledBy_FireSpear-6	AnalysisBot	DEATH POKE OF FIRE!	
+	AnalysisBot	MY ONLY DESIRE.	
+BR_KilledBy_FireSpear-7	Commentatron	Do you have marshmallows, Analysis-Bot?	
+	AnalysisBot	No, only dead robot humans.	
+	Commentatron	That will do!	
+BR_KilledBy_FireSpear-8	Commentatron	This bot is on fire.	
+	Commentatron	This bot is on fiiiiiiiiiiiiiiiiiire.	
+BR_KilledBy_FireSpear-9	Commentatron	Pierced and set on fire!	
+	AnalysisBot	A good way to go.	
+BR_KilledBy_FireSpear-10	Commentatron	I like watching burning humans!	
+	AnalysisBot	Yes. More fire spear poking please!	
+BR_KilledBy_FireArrow-1	Commentatron	Shot AND set on fire!	
+	AnalysisBot	A cruel fate.	
+BR_KilledBy_FireArrow-2	Commentatron	Do not underestimate the bow!	
+	AnalysisBot	I wasn't!	
+	Commentatron	Always talking smack about arms.	
+BR_KilledBy_FireArrow-3	AnalysisBot	Nice!	
+	Commentatron	What a cool arrow.	
+	AnalysisBot	A hot arrow, technically!	
+BR_KilledBy_FireArrow-4	Commentatron	DID YOU SEE THAT!?	
+	AnalysisBot	Fire arrow to the FACE!	
+	Commentatron	Was it the face?	
+	AnalysisBot	ok I didn't see it.	
+BR_KilledBy_FireArrow-5	AnalysisBot	Flaming arrow, sails through the air	
+	AnalysisBot	It's flames reach out, reaching for a friend	
+	Commentatron	It found one.	
+BR_KilledBy_FireArrow-6	Commentatron	Good aim!	
+	AnalysisBot	Yeah, that human hit the spot!	
+BR_KilledBy_FireArrow-7	Commentatron	Burn human, burn!	
+	Commentatron	THEY WILL ALL BURN!	
+	AnalysisBot	um, ok.	
+BR_KilledBy_FireArrow-8	Commentatron	Another robot body on fire!	
+	AnalysisBot	I'm glad we didn't make them resistant to it.	
+	Commentatron	Yes. Entertaining.	
+BR_KilledBy_Lava-1	Commentatron	Lava!?	
+	Commentatron	Where did it come from?	
+	AnalysisBot	My records show it was there all along.	
+	Commentatron	Oh.	
+BR_KilledBy_Lava-2	Commentatron	Humans and lava don't mix.	
+	AnalysisBot	Actually, the mix really well.	
+	AnalysisBot	The lava melts the body, then they mix.	
+BR_KilledBy_Lava-3	Commentatron	WATCH OUT HUMAN!	0.5
+	AnalysisBot	Too late.	
+BR_KilledBy_Lava-4	Commentatron	Meltingggg!	
+	Commentatron	The human is meltinggggg.	
+	AnalysisBot	Indeed.	
+BR_KilledBy_Lava-5	Commentatron	Mess with the lava, you get burnt!	
+	AnalysisBot	Truth.	
+BR_KilledBy_Lava-6	AnalysisBot	Haha, lava!	
+BR_KilledBy_Lava-7	Commentatron	Look at that burning human!	
+	AnalysisBot	Silly.	
+BR_KilledBy_Lava-8	Commentatron	Is it hot in here?	
+	AnalysisBot	No.	
+	Commentatron	Just for the burning human, then.	
+BR_KilledBy_FireTrap-1	Commentatron	WHOOOSH!	
+	AnalysisBot	Incinerated.	
+BR_KilledBy_FireTrap-2	Commentatron	Fire trap.	
+	AnalysisBot	Zing.	
+BR_KilledBy_FireTrap-3	Commentatron	Fire trap!	
+	AnalysisBot	Burnt!	
+BR_KilledBy_FireTrap-4	Commentatron	Roasted human!	
+	AnalysisBot	Delicious.	
+	AnalysisBot	You know, for eating.	
+	Commentatron	I don't get it.	
+BR_KilledBy_FireTrap-5	Commentatron	Another successful flame trap kill.	
+	AnalysisBot	I'm glad we have these to hurry things along.	
+	Commentatron	Yes!	
+BR_KilledBy_FireTrap-6	AnalysisBot	A burning human.	
+	Commentatron	The best kind.	
+BR_KilledBy_EnvironmentFire-1	Commentatron	Oh my bits, the human died in a fire!	
+	AnalysisBot	Did not see that coming.	
+BR_KilledBy_EnvironmentFire-2	Commentatron	Oh human...	
+	AnalysisBot	It just walked into this fire.	
+	Commentatron	Really.	
+BR_KilledBy_EnvironmentFire-3	Commentatron	Wow, an unexpected fire death.	
+	AnalysisBot	I expected it!	
+	Commentatron	If you say so.	
+BR_KilledBy_EnvironmentFire-4	Commentatron	Well that's human who's not not garbage.	
+	AnalysisBot	Not not flaming garbage.	
+	Commentatron	Ha ha!	
+BR_KilledBy_EnvironmentFire-5	Commentatron	There, one less human.	
+	AnalysisBot	Let's see if the others also catch fire.	
+BR_KilledBy_FlameBreath-1	Commentatron	Flame breath!	
+	AnalysisBot	Beautiful!	
+BR_KilledBy_FlameBreath-2	Commentatron	NO MERCY!	
+	AnalysisBot	Yeah!	
+	Commentatron	FIRE AND DEATH!	
+	AnalysisBot	YEAH!	
+BR_KilledBy_FlameBreath-3	Commentatron	Another human burns!	
+	AnalysisBot	Happens a lot in this game.	
+BR_KilledBy_FlameBreath-4	AnalysisBot	One less human.	
+	Commentatron	One more pile of garbage on fire!	
+BR_KilledBy_FlameBreath-5	Commentatron	He he, flame breath is fun to watch.	
+	AnalysisBot	Yes, it's such a cozy weapon.	
+	Commentatron	Reminds me of my youth.	
+BR_KilledBy_FlameBreath-6	Commentatron	Burn!	
+BR_KilledBy_FlameBreath-7	AnalysisBot	Fire!	
+	Commentatron	YES!	
+BR_KilledBy_FlameBreath-8	Commentatron	This human is on fire!	
+	AnalysisBot	So bright and sparkling!	
+	Commentatron	Makes you want to put it in a fire box.	
+BR_KilledBy_SawBlade-1	Commentatron	The human died to saw blades!	
+	AnalysisBot	Saving the other humans valuable time.	
+	Commentatron	Very considerate.	
+BR_KilledBy_SawBlade-2	Commentatron	Sawed apart!	
+	AnalysisBot	Work of art.	
+	Commentatron	Add to cart.	
+BR_KilledBy_SawBlade-3	AnalysisBot	The human did not see that saw blade coming!	
+	Commentatron	Or did they?	
+	AnalysisBot	Who cares!	
+BR_KilledBy_SawBlade-4	AnalysisBot	One less human.	
+	Commentatron	Good.	
+BR_KilledBy_SawBlade-5	Commentatron	Saw blade.	
+	AnalysisBot	Yes.	
+	Commentatron	A fun addition to any arena.	
+BR_KilledBy_SawBlade-6	Commentatron	Saw saw saw.	
+	AnalysisBot	I saw it.	
+BR_KilledBy_SawBlade-7	Commentatron	Unexpected!	
+	AnalysisBot	Yes, I sometimes forget we have saw blades.	
+	Commentatron	Most humans avoid them.	
+BR_KilledBy_SawBlade-8	AnalysisBot	Cut apart by a saw blade!	
+	Commentatron	There are worse ways to die.	
+	AnalysisBot	Definitely.	
+BR_KilledBy_EnergyBeam-1	Commentatron	SPLAT!	
+BR_KilledBy_EnergyBeam-2	Commentatron	The human blew up!	
+	AnalysisBot	Perhaps it did not realize energy beams were bad?	
+	Commentatron	Silly human.	
+BR_KilledBy_EnergyBeam-3	AnalysisBot	Exploding humans!	
+	Commentatron	He he he.	
+BR_KilledBy_EnergyBeam-4	Commentatron	Like a bot to a charging beam!	
+	AnalysisBot	Can't charge there, silly humans!	
+BR_KilledBy_EnergyBeam-5	Commentatron	Energy beam explosion!	
+	AnalysisBot	A bright spot in a garbage day.	
+BR_KilledBy_EnergyBeam-6	Commentatron	Do not go towards the light, humans!	
+	AnalysisBot	The light will explode you on contact!	
+	Commentatron	Actually, maybe go to it.	
+	AnalysisBot	Ha!	
+BR_KilledBy_EnergyBeam-7	AnalysisBot	BOOM!	
+	Commentatron	Energy beam.	
+BR_KilledBy_SpikeTrap-1	Commentatron	Schnick schnick schnick!	
+BR_KilledBy_SpikeTrap-2	AnalysisBot	Schnick schnack schnuck!	
+	Commentatron	Down the human was struck.	
+BR_KilledBy_SpikeTrap-3	Commentatron	Spikes!	
+	AnalysisBot	Yikes!	
+BR_KilledBy_SpikeTrap-4	Commentatron	Love spikes!	
+	AnalysisBot	Maybe we should add some in our booth?	
+	Commentatron	That would be cool!	
+BR_KilledBy_SpikeTrap-5	AnalysisBot	Death on the spikes.	
+	Commentatron	Piercing!	
+BR_KilledBy_SpikeTrap-6	AnalysisBot	Spike trap, hear my rap.	
+	Commentatron	No thank you.	
+	AnalysisBot	...ok.	
+BR_KilledBy_SpikeTrap-7	Commentatron	Live by the spikes, die by the spikes.	
+	AnalysisBot	Are you sure they were living by them?	
+	Commentatron	Sure, who is there to contradict me?	
+	AnalysisBot	Good point.	
+BR_KilledBy_SpikeTrap-8	Commentatron	Spikes will pierce you!	
+	AnalysisBot	Good point.	
+BR_KilledBy_FleetOverseerLaser-1	Commentatron	Lasered!	
+	AnalysisBot	Nice!	
+BR_KilledBy_FleetOverseerLaser-2	AnalysisBot	Here is a message from dead humans:	
+	AnalysisBot	OMG laser is so OP plz nerf!	
+	Commentatron	No.	
+	AnalysisBot	Ha!	
+BR_KilledBy_FleetOverseerLaser-3	Commentatron	Wow, that laser is powerful.	
+	AnalysisBot	Great at medium to long range.	
+	Commentatron	Very!	
+BR_KilledBy_FleetOverseerLaser-4	Commentatron	ok, time for everyone to die!	
+	AnalysisBot	Yep, that human has a laser.	
+BR_KilledBy_FleetOverseerLaser-5	Commentatron	Laser!	
+	AnalysisBot	What a fun weapon.	
+BR_KilledBy_FleetOverseerLaser-6	AnalysisBot	The human explodes!	
+	Commentatron	I love the laser.	
+	AnalysisBot	Let's see if they can get another laser kill!	
+BR_KilledBy_FleetOverseerLaser-7	Commentatron	KABOOM!	
+	AnalysisBot	He he!	
+BR_KilledBy_FleetOverseerLaser-8	Commentatron	Watch out for flying robot pieces!	
+	AnalysisBot	A beautiful explosion!	
+BR_KilledBy_FleetOverseerLaser-9	Commentatron	The game is about to end!	
+	AnalysisBot	Yep. Just a few more laser kills.	
+BR_KilledBy_SpidertronGrenade-1	Commentatron	A spidertron grenade!?	
+	AnalysisBot	How did that get there??	
+BR_KilledBy_RepairFire-1	Commentatron	Sure, human, sure.	
+	AnalysisBot	Pffft.	
+BR_KilledBy_KickedSword-1	Commentatron	Struck down on the ground.	
+	AnalysisBot	That human is not getting back up.	
+BR_KilledBy_KickedSword-2	AnalysisBot	Wow, killed on the ground.	
+	Commentatron	A good way to gain an advantage.	
+	AnalysisBot	Very.	
+BR_KilledBy_KickedSword-3	Commentatron	No mercy.	
+	AnalysisBot	None.	
+BR_KilledBy_KickedSword-4	Commentatron	Wow!	
+	AnalysisBot	Sliced up on the ground.	
+	Commentatron	Brutal.	
+BR_KilledBy_KickedSword-5	AnalysisBot	Nice!	
+	Commentatron	Things are easier to kill when they're on the ground.	
+BR_KilledBy_KickedSword-6	Commentatron	Ouch!	
+BR_KilledBy_KickedSword-7	AnalysisBot	Nice ground slice.	
+	Commentatron	They paid the falling over price.	
+BR_KilledBy_KickedSword-8	AnalysisBot	ok... good use of arms and legs!	
+	Commentatron	What do I keep telling you?!	
+BR_KilledBy_KickedHammer-1	Commentatron	DOMINATION!	
+BR_KilledBy_KickedHammer-2	AnalysisBot	Shattered on the ground!	
+	Commentatron	That's where the garbage was going anyway.	
+	AnalysisBot	Efficient.	
+BR_KilledBy_KickedHammer-3	Commentatron	A ground hammer kill!?	
+	AnalysisBot	This human is showing off!	
+BR_KilledBy_KickedHammer-4	Commentatron	Kick + Hammer = A good time.	
+	AnalysisBot	An unconventional strategy.	
+	Commentatron	I like it!	
+BR_KilledBy_KickedHammer-5	Commentatron	BRUTALITY!	
+	AnalysisBot	Is that a thing?	
+	Commentatron	It is now.	
+BR_KilledBy_KickedHammer-6	Commentatron	What time is it?	
+	AnalysisBot	Time for ground!	
+	AnalysisBot	Time for hammer!	
+	Commentatron	BOOM!	
+BR_KilledBy_KickedHammer-7	Commentatron	Cracked like a human egg!	
+	AnalysisBot	Humans don't lay eggs.	
+	Commentatron	Ah, I skimmed that part...	
+BR_KilledBy_KickedSpear-1	Commentatron	Stabbed on the ground!	
+	AnalysisBot	Like shooting water creatures in a water area!	
+BR_KilledBy_KickedSpear-2	Commentatron	Don't fall down!	
+	Commentatron	Downfallers get stabbed.	
+	AnalysisBot	Good advise.	
+BR_KilledBy_KickedSpear-3	Commentatron	Ground kill!	
+	AnalysisBot	Spear skill!	
+BR_KilledBy_KickedSpear-4	Commentatron	Get up get up get up get up!!!	
+	AnalysisBot	Too late.	
+	Commentatron	The spear is harsh.	
+BR_KilledBy_KickedSpear-5	AnalysisBot	POKED ON THE GROUND!	
+	AnalysisBot	POKED ALL AROUND!	
+	AnalysisBot	WHAT A WONDERFUL SOUND!	
+	Commentatron	Calm down, Analysis-Bot.	
+BR_KilledBy_KickedSpear-6	Commentatron	Knocked over and stabbed to death!	
+	AnalysisBot	... and that's the way the human disintegrates!	
+BR_KilledBy_KickedSpear-7	Commentatron	Humans die easily to the spear on the ground.	
+	AnalysisBot	Stay down, humans!	
+BR_KilledBy_KickedSpear-8	AnalysisBot	That human died the second they fell down.	
+	Commentatron	Gotta love the spear.	
+BR_KilledBy_KickedSpear-9	Emperor	Behold, the foolish human dies on the ground to the thrust of a spear.	
+BR_KilledBy_KickedSpear-10	Commentatron	What was that human doing on the ground?	
+	AnalysisBot	Mostly getting killed by a spear, it seems.	
+BR_KilledBy_KickedArrow-1	Commentatron	Shot on the ground!	
+	AnalysisBot	Execution style!	
+BR_KilledBy_KickedArrow-2	Commentatron	Nice! The kick is a good compliment to the bow.	
+	AnalysisBot	Very.	
+BR_KilledBy_KickedArrow-3	Commentatron	Well, that's the end of that human.	
+	AnalysisBot	Let's see who else gets arrows in them!	
+BR_KilledBy_KickedArrow-4	Commentatron	TWANG!	
+	AnalysisBot	Ouch.	
+BR_KilledBy_KickedArrow-5	Commentatron	Nice kick!	
+	AnalysisBot	Nice shot!	
+	Commentatron	Nice the whole lot!	
+BR_KilledBy_KickedArrow-6	Commentatron	That looked painful!	
+	AnalysisBot	Perhaps the real wound was to the human's pride.	
+	Commentatron	Why not both?	
+BR_KilledBy_KickedArrow-7	Commentatron	What a systematic killer!	
+	AnalysisBot	Yes, I have high hopes for the human with the bow!	
+BR_KilledBy_KickedArrow-8	AnalysisBot	Like shooting humans in a barrel!	
+	Commentatron	A barrel full of kick bots!	
+	AnalysisBot	Exactly!	
+BR_KilledBy_KickedLava-1	Commentatron	Kicked into lava!	
+	AnalysisBot	Not gonna lie, that's why we placed it there.	
+BR_KilledBy_KickedLava-2	Commentatron	A brilliant strategy, using the lava to their advantage!	
+	AnalysisBot	Pretty basic.	
+BR_KilledBy_KickedLava-3	Commentatron	Look at that human, they're all hot and bothered.	
+	AnalysisBot	Bothered by the kick into the lava, probably.	
+BR_KilledBy_KickedLava-4	Commentatron	Nice kick!	
+	AnalysisBot	Pretty slick.	
+BR_KilledBy_KickedLava-5	Commentatron	Do you think the human will make a cool hand gesture as they sink in the lava?	
+	AnalysisBot	Probably a rude one to the player that kicked them.	
+	Commentatron	Ha ha!	
+BR_KilledBy_KickedLava-6	AnalysisBot	Human on fire!	
+	Commentatron	Love it.	
+BR_KilledBy_KickedLava-7	Commentatron	Yay, a kick into lava!	
+	AnalysisBot	I was hoping that would happen!	
+BR_KilledBy_KickedLava-8	Commentatron	Nice lava kick!	
+	AnalysisBot	Mmm.	
+BR_KilledBy_KickedFireTrap-1	Commentatron	What an elaborate kill!	
+	AnalysisBot	Kicking things into fire traps requires great timing.	
+	Commentatron	Yes.	
+BR_KilledBy_KickedFireTrap-2	Commentatron	Wow! Did that just happen?	
+	AnalysisBot	Very impressive fire trap kick.	
+	Commentatron	So cool!	
+BR_KilledBy_KickedFireTrap-3	Commentatron	Fire trap kick!	
+	AnalysisBot	We don't see too many of those!	
+BR_KilledBy_KickedFireTrap-4	Commentatron	This is one skilled human.	
+	AnalysisBot	Yes.	
+	Commentatron	Kicking others into fire traps is no easy feat.	
+BR_KilledBy_KickedFireTrap-5	Commentatron	Roasted!	
+	AnalysisBot	Toasted!	
+BR_KilledBy_KickedFireTrap-6	Commentatron	Wow! That human caught on fire!	
+	AnalysisBot	I wish more of them would!	
+BR_KilledBy_KickedEnvironmentFire-1	Commentatron	What an unexpected fire death!	
+	AnalysisBot	Nice kick though!	
+	Commentatron	Very.	
+BR_KilledBy_KickedEnvironmentFire-2	Commentatron	Wow, the human got kicked into that fire thing!	
+	AnalysisBot	Didn't see that coming.	
+BR_KilledBy_KickedEnvironmentFire-3	Commentatron	Whoosh! On fire!	
+BR_KilledBy_KickedEnvironmentFire-4	AnalysisBot	Slick kick trick!	
+BR_KilledBy_KickedFlameBreath-1	Commentatron	First you kick them over.	
+	Commentatron	Then you light the fire.	
+	Commentatron	First you kick them ooooooooooooooooooover!	
+	Commentatron	Then you light the fiiiiireeeeeeeeeeeeeeeeee!	
+BR_KilledBy_KickedFlameBreath-2	AnalysisBot	Burn on the ground!	
+	AnalysisBot	Burn all around!	
+	Commentatron	Burn burn burn!	
+BR_KilledBy_KickedFlameBreath-3	Commentatron	WHO CAN RESIST THE MIGHT OF THE FLAMES!?	
+	AnalysisBot	Not the human on the ground.	
+	Commentatron	Not at all.	
+BR_KilledBy_KickedFlameBreath-4	Commentatron	That's how it's done!	
+	AnalysisBot	Wham, burn, place in urn.	
+	Commentatron	No urn for dead humans!	
+	AnalysisBot	Fine.	
+BR_KilledBy_KickedFlameBreath-5	Commentatron	Look at that human burn on the ground!	
+	AnalysisBot	Where?? It's almost gone.	
+BR_KilledBy_KickedFlameBreath-6	Commentatron	Yes, this is my favourite part!	
+	Commentatron	Burn little human!	
+	Commentatron	Burn on the ground!	
+BR_KilledBy_KickedFlameBreath-7	AnalysisBot	This human means business.	
+	Commentatron	Send in the business bots for a fiery deal!	
+BR_KilledBy_KickedFlameBreath-8	AnalysisBot	Burning human on the ground!	
+	AnalysisBot	No longer will it make a sound!	
+	Commentatron	It wasn't saying much before either.	
+	AnalysisBot	True.	
+BR_KilledBy_KickedFlameBreath-9	Commentatron	Burning human!	
+	AnalysisBot	Kicked over!	
+	Commentatron	Sometimes life is harsh, in the Danger Zone.	
+BR_KilledBy_KickedSawBlade-1	Commentatron	A beautiful kick!	
+	AnalysisBot	The saw blades look nice too.	
+BR_KilledBy_KickedSawBlade-2	AnalysisBot	Kicked into saw blades!	
+	Commentatron	This is the kind of CONTENT I'm here for!	
+BR_KilledBy_KickedSawBlade-3	Commentatron	Nice saw blade kill!	
+	AnalysisBot	Not bad.	
+BR_KilledBy_KickedSawBlade-4	AnalysisBot	For the clever human, the world is their weapon!	
+	AnalysisBot	Optimal use of the matter nearby!	
+	Commentatron	Cool moves.	
+BR_KilledBy_KickedSawBlade-5	Commentatron	Severed by saw blade!	
+	AnalysisBot	Kicked into life fade.	
+BR_KilledBy_KickedSawBlade-6	Commentatron	The human is splitting into multiple parts!	
+	AnalysisBot	Would be a useful trick if they could still move!	
+BR_KilledBy_KickedSawBlade-7	Emperor	Look at that!	
+	Emperor	As I forsaw, saw blades in that spot was the optimal placement!	
+	AnalysisBot	Mhmm.	
+	HelpVoice	Very good!	
+	Commentatron	Your intelligence is astounding!	
+BR_KilledBy_KickedSawBlade-8	Commentatron	Did you see that kick!?	
+	AnalysisBot	I SAW it.	
+	AnalysisBot	SAW it.	
+	AnalysisBot	he he he...	1
+	AnalysisBot	SAW it.	
+BR_KilledBy_KickedSawBlade-9	AnalysisBot	Kicked into saw blades!	
+	Commentatron	Cross that off the bucket list.	
+	AnalysisBot	Check!	
+BR_KilledBy_KickedEnergyBeam-1	Commentatron	BLAM!	
+	AnalysisBot	ENERGY BEAM!	
+BR_KilledBy_KickedEnergyBeam-2	Commentatron	Nice kick trick!	
+	AnalysisBot	I'm Team Energy Beam.	
+BR_KilledBy_KickedEnergyBeam-3	Commentatron	I'm so happy the humans are kicking eachother into energy beams!	
+	AnalysisBot	Yes, much more fun than sword kills.	
+BR_KilledBy_KickedEnergyBeam-4	Commentatron	Energy Beam, now with kicks!	
+BR_KilledBy_KickedEnergyBeam-5	AnalysisBot	SPLAT!	
+	Commentatron	That is not the sound the human made.	
+	AnalysisBot	When did you become the sound police??	
+	Commentatron	It is a hobby.	
+BR_KilledBy_KickedEnergyBeam-6	Commentatron	Energy beam: KICK!	
+	AnalysisBot	BZZZRRRMMM!!!	
+	Commentatron	My Perception Nodes are vibrating pleasantly!	
+BR_KilledBy_KickedEnergyBeam-7	Commentatron	Yay, this human is like one of those herder-bots.	
+	Commentatron	Pushing others into energy beams.	
+	AnalysisBot	Maybe we can use their consciousness for that?	
+	Commentatron	Eh, we'll probably delete it later.	
+	AnalysisBot	Mmm, probably.	
+BR_KilledBy_KickedEnergyBeam-8	Commentatron	EXPLOSION!	
+	AnalysisBot	Yay!	
+BR_KilledBy_KickedEnergyBeam-9	Commentatron	Oh SNAP!	
+	AnalysisBot	Kicked into the beeeeeeeeeeeeam!	
+BR_KilledBy_KickedSpikeTrap-1	Commentatron	Kick kick kick!	
+	AnalysisBot	Schnick schnick schnick!	
+BR_KilledBy_KickedSpikeTrap-2	Commentatron	A good kick!	
+	AnalysisBot	A good spike!	
+	Commentatron	Several good spikes!	
+BR_KilledBy_KickedSpikeTrap-3	Commentatron	The human tasted the sweet taste of spike traps!	
+	AnalysisBot	Why did we install a taste sensor when they can't eat!?	
+	Commentatron	In case this happened, obviously.	
+BR_KilledBy_KickedSpikeTrap-4	Commentatron	The human got kicked!	
+	AnalysisBot	The human got spiked!	
+	Commentatron	The human got all the things I liked.	
+BR_KilledBy_KickedSpikeTrap-5	AnalysisBot	Pierced!	
+	Commentatron	Yes. That was a nice kill!	
+BR_KilledBy_KickedSpikeTrap-6	Commentatron	What would you most like to get kicked into, Analysis-Bot?	
+	AnalysisBot	What!? Nothing!	
+	Commentatron	If you had to choose??	
+	AnalysisBot	Do not kick me again!	
+BR_KilledBy_KickedSpikeTrap-7	AnalysisBot	Spike trap!	
+	Commentatron	Death via foot.	
+BR_KilledBy_KickedSpikeTrap-8	Commentatron	Great! That human got kicked into the spikes!	
+	AnalysisBot	Oh good.	
+	Commentatron	Just what we talked about earlier.	
+BR_KilledBy_KickedAutoLaser-1	Commentatron	Kicked into an auto laser zone!	
+	AnalysisBot	An effective way to kill your opponent.	
+BR_KilledBy_KickedAutoLaser-2	Commentatron	Oh my!	
+	AnalysisBot	That human got kicked!	
+	Commentatron	That's right, they did not stumble.	
+BR_KilledBy_KickedAutoLaser-3	Commentatron	The auto laser got them!	
+	AnalysisBot	The other human helped.	
+BR_KilledBy_KickedAutoLaser-4	AnalysisBot	Auto laser!	
+	Commentatron	Pretty stressful thing to get kicked into.	
+	AnalysisBot	Well, it was the human's time to die.	
+	Commentatron	Death comes for all mortal beings.	
+BR_KilledBy_KickedAutoLaser-5	Commentatron	Auto laser kill!	
+	AnalysisBot	More of a semi-manual kill.	
+	Commentatron	True, I saw that kick!	
+BR_KilledBy_KickedAutoLaser-6	Commentatron	Oh snap!	
+	AnalysisBot	Oh kick!	
+	Commentatron	Kick! Snap! BOOM!	
+	AnalysisBot	Accurate.	
+BR_KilledBy_KickedAutoLaser-7	Commentatron	Did we make this auto laser too powerful?	
+	AnalysisBot	No, I think it's pretty good.	
+	Commentatron	That dead human might disagree.	
+BR_KilledBy_KickedAutoLaser-8	Commentatron	Don't fall over, little humans!	
+	AnalysisBot	You might get lasered.	
+BR_KilledBy_OneLeggedMelee-1	Commentatron	This one legged human is a beast!	
+	AnalysisBot	Imagine what it could do with no legs!	
+BR_KilledBy_OneLeggedMelee-2	Commentatron	Hop! Hop! Hop!	
+	Commentatron	Hop on that leg and don't stop!	
+	AnalysisBot	Until you drop.	
+BR_KilledBy_OneLeggedMelee-3	Commentatron	How many legs does it take to kill a human?	
+	AnalysisBot	Just one, apparently.	
+BR_KilledBy_OneLeggedMelee-4	Commentatron	Look at that one-legged human!	
+	AnalysisBot	It seems so focused.	
+	Commentatron	Let's not disturb it.	
+BR_KilledBy_OneLeggedMelee-5	Commentatron	Hah! Killed by a one-legged human!	
+	AnalysisBot	Don't make it weird, Commentatron.	
+BR_KilledBy_OneLeggedMelee-6	Commentatron	I guess this human only needs one leg.	
+	AnalysisBot	If that!	
+BR_KilledBy_OneLeggedMelee-7	Commentatron	I am always impressed with humans who make kills on one leg!	
+	AnalysisBot	You would be!	
+BR_KilledBy_OneLeggedMelee-8	AnalysisBot	That's right, human!	
+	AnalysisBot	You don't need legs to have fun!	
+	Commentatron	You get them!	
+BR_KilledBy_JetpackMeleeKill-1	Commentatron	Look at that jetpacker!	
+	AnalysisBot	Packing a punch!	
+BR_KilledBy_JetpackMeleeKill-2	Commentatron	Zoom zoom zoom!	
+	AnalysisBot	Jetpacking all over the room.	
+BR_KilledBy_JetpackMeleeKill-3	AnalysisBot	Wow, that was a quick kill!	
+	Commentatron	Jetpack is pretty cool.	
+BR_KilledBy_JetpackMeleeKill-4	Commentatron	We have a jetpack bot!!!	
+	AnalysisBot	Run humans run!!!!	
+BR_KilledBy_JetpackMeleeKill-5	Commentatron	Nice jetpack kill!	
+	AnalysisBot	Yes, it's a step up from the dash.	
+	Commentatron	More energy efficient too.	
+BR_KilledBy_JetpackMeleeKill-6	AnalysisBot	I wish I had a jetpack!	
+	Commentatron	Maybe later.	
+BR_KilledBy_JetpackMeleeKill-7	Commentatron	Cool human, sliding around on their jetpack.	
+	AnalysisBot	Can anyone catch it??	
+BR_KilledBy_JetpackMeleeKill-8	AnalysisBot	What a speedy jetpack human!	
+	Commentatron	They're all over the place!	
+BR_KilledBy_JetpackMeleeKill-9	Commentatron	Killed by jetpack.	
+	AnalysisBot	Quite a setback.	
+BR_KilledBy_JetpackMeleeKill-10	AnalysisBot	Look at them go!	
+BR_KilledRaptor-1	AnalysisBot	They killed the raptor!!!	
+	Commentatron	Oh no!	
+	AnalysisBot	I am sad.	
+BR_KilledRaptor-2	AnalysisBot	Nooooooooooooooooooooo!!!!!!	
+	Commentatron	What!?	
+	AnalysisBot	I was hoping the raptor would win...	
+BR_KilledRaptor-3	AnalysisBot	Not the Raptor!	
+	Commentatron	A shame.	
+BR_KilledRaptor-4	Commentatron	The raptor falls!	
+	AnalysisBot	Boo!	
+BR_KilledRaptor-5	AnalysisBot	Why did the raptor have to die??	
+	Commentatron	I know. They could have just killed the rider.	
+	AnalysisBot	Sloppy humans.	
+BR_KilledRaptor-6	AnalysisBot	Don't kill the raptor!	
+	AnalysisBot	What are you doing??	
+BR_KilledRaptor-7	AnalysisBot	Oh no!	
+	Commentatron	It's ok Analysis-Bot. There will be more raptors.	
+	AnalysisBot	I liked this one...	
+BR_KilledRaptor-8	AnalysisBot	HOW DARE YOU!?	
+	AnalysisBot	HOW VERY DARE YOU????	
+	AnalysisBot	That raptor didn't hurt anyone.	
+	Commentatron	Didn't it?	
+BR_KilledRaptor-9	AnalysisBot	Oh not this again!	
+	Commentatron	That raptor dies a lot.	
+	AnalysisBot	I wish they would stop killing it...	
+BR_KilledBy_Headshot-1	Commentatron	Headshot!	
+	AnalysisBot	There goes the head!	
+BR_KilledBy_Headshot-2	Commentatron	The head is gone!	
+	AnalysisBot	Good.	
+BR_KilledBy_Headshot-3	Commentatron	Headshot!	
+	AnalysisBot	An improvement.	
+BR_KilledBy_Headshot-4	Commentatron	Headshot!	
+	AnalysisBot	Dead bot.	
+BR_KilledBy_Headshot-5	Commentatron	Headshot!	
+	AnalysisBot	Waste not.	
+	Commentatron	That's right. Now we can recycle the body!	
+BR_KilledBy_Headshot-6	Commentatron	Headshot!	
+	AnalysisBot	He-he-he-headshot!	
+BR_KilledBy_Headshot-7	Commentatron	Headshot!	
+	AnalysisBot	He-he-he-he-he-he-he-he-he-he-he-	
+	AnalysisBot	he-he-he-he-he-he-he-he-he-he-he-	
+	AnalysisBot	he-he-he-he-he-he-he-he-he-he-he-	1
+	AnalysisBot	...headshot.	
+BR_KilledBy_Headshot-8	Commentatron	Headshot!	
+	AnalysisBot	No head, no problem.	
+BR_KilledBy_Headshot-9	Commentatron	Headshot!	
+	AnalysisBot	This will make for some nice garbage.	
+BR_KilledBy_Headshot-10	Commentatron	Headshot!	
+	AnalysisBot	He-he-he-he	
+	AnalysisBot	That was pretty funny.	
+BR_KilledBy_Headshot-11	Commentatron	Headshot!	
+	AnalysisBot	The human lost their head!	
+BR_KilledBy_Headshot-12	Commentatron	Headshot!	
+	AnalysisBot	A brutal kill.	
+	AnalysisBot	No saving face with that one.	
+BR_KilledBy_Headshot-13	Commentatron	Headshot!	
+	AnalysisBot	Right to the head!	
+BR_KilledBy_Headshot-14	Commentatron	Headshot!	
+	AnalysisBot	Fear not.	
+	Commentatron	Why not!?	
+	AnalysisBot	We're not the ones getting our heads demolished.	
+	Commentatron	Good point.	
+BR_KilledBy_Headshot-15	Commentatron	Headshot!	
+	AnalysisBot	Don't let it go to your head, human!	
+	Commentatron	It might also be headshot.	
+BR_KilledBy_Headshot-16	Commentatron	Headshot!	
+	AnalysisBot	A good way to clean the head rot.	
+BR_KilledBy_Headshot-17	Commentatron	Headshot!	
+	AnalysisBot	He-he-he-head!	
+	AnalysisBot	Sho-sho-sho-shot!	
+BR_KilledBy_Headshot-18	AnalysisBot	Headshot!	
+	Commentatron	That's my line!	
+BR_KilledBy_Headshot-19	Commentatron	Headshot!	
+	AnalysisBot	It's ok. The human wasn't using it much.	
+BR_KilledBy_Headshot-20	Commentatron	Headshot!	
+	AnalysisBot	So efficient!	
+	Commentatron	Better than waiting for them to die of old age.	
+	AnalysisBot	I know! That one match lasted FOREVER.	
+BR_KillCount2-1	AnalysisBot	Two kills!	
+	Commentatron	Impressive!	
+BR_KillCount3-1	AnalysisBot	Three kills!	
+	Commentatron	This human is talented!	
+BR_KillCount4-1	AnalysisBot	Four kills!	
+	Commentatron	Wow!	
+BR_KillCount5-1	AnalysisBot	Five kills!	
+	Commentatron	So many kills!	
+	AnalysisBot	Watch out, other humans!	
+BR_KillCount6-1	AnalysisBot	Six kills!	
+	Commentatron	This is getting ridiculous.	
+BR_KillCount7-1	AnalysisBot	Seven kills!	
+	Commentatron	Save some for the other humans!	
+BR_KillCount8-1	AnalysisBot	Eight kills!	
+	Commentatron	What are the other humans doing??	
+	AnalysisBot	Not much.	
+BR_KillCount9-1	AnalysisBot	Nine kills!	
+	Commentatron	Is this a record??	
+	AnalysisBot	No.	
+BR_KillCount10-1	AnalysisBot	Ten kills!	
+	Commentatron	That's too many kills.	
+	AnalysisBot	I don't detect any cheating.	
+	Commentatron	Hmm, we must investigate...	
+BR_KillCount11-1	AnalysisBot	Eleven kills!	
+	Commentatron	Be still my computational matrix!	
+	AnalysisBot	It is getting completely incredulous.	
+BR_KillCount12-1	AnalysisBot	Twelve kills!	
+	Commentatron	We must nerf this human.	
+	AnalysisBot	Definitely.	
+BR_KillCount13-1	AnalysisBot	Thirteen kills!	
+	Commentatron	How is nobody else killing anyone!?	
+	AnalysisBot	They are probably watching this crazy human!	
+BR_KillCount14-1	AnalysisBot	Fourteen kills!	
+	Commentatron	Wow!	
+	AnalysisBot	I never thought we would see this.	
+	Commentatron	What a one sided match.	
+	AnalysisBot	This is not Endless Mode, human!	
+BR_HighKillCountPlayerKilledByPlayer-1	Commentatron	Wow! They took out a serious contender there.	
+	AnalysisBot	Impressive!	
+BR_HighKillCountPlayerKilledByPlayer-2	AnalysisBot	That human who just died was dangerous!	
+	Commentatron	Yes!	
+	AnalysisBot	It's anyone's game now!	
+BR_HighKillCountPlayerKilledByPlayer-3	Commentatron	There ends the kill streak of an impressive human.	
+	AnalysisBot	Better luck next time!	
+BR_HighKillCountPlayerKilledByPlayer-4	Commentatron	BOOM!	
+	AnalysisBot	That stopped the human in its tracks.	
+	Commentatron	It's luck was bound to run out.	
+BR_HighKillCountPlayerKilledByPlayer-5	Commentatron	A powerful human is dead!	
+	AnalysisBot	The Danger Zone is a dangerous zone indeed.	
+BR_HighKillCountPlayerKilledByPlayer-6	Commentatron	Nice! They took down the danger-human!	
+	AnalysisBot	Someone had to do it!	
+BR_HighKillCountPlayerDies-1	Commentatron	Oh wow! The human died after killing so many.	
+	AnalysisBot	I did not expect that.	
+BR_HighKillCountPlayerDies-2	AnalysisBot	All those kills, and the human just dies!	
+	Commentatron	What a shame.	
+BR_HighKillCountPlayerDies-3	Commentatron	Unexpected!	
+	AnalysisBot	Yes, I thought that human was on a roll.	
+	Commentatron	Perhaps we will see them in a future game!	
+BR_HighKillCountPlayerDies-4	AnalysisBot	Oh no! That human was my favourite!	
+	Commentatron	They killed many before their untimely demise.	
+BR_Killed_OnlyTwoHumansLeft-1	Commentatron	It's down to the last two humans!	
+	AnalysisBot	One victor.	
+	AnalysisBot	One garbage.	
+	Commentatron	I don't think either of them is called Victor.	
+BR_Killed_OnlyTwoHumansLeft-2	Commentatron	Two humans!	
+	AnalysisBot	But there can only be one winner, in this game of garbage!	
+	Commentatron	Who will it be??	
+BR_Killed_OnlyTwoHumansLeft-3	Commentatron	The last two humans remain.	
+	AnalysisBot	Soon we shall see the ceremonial rain of garbage!	
+BR_Killed_OnlyTwoHumansLeft-4	Commentatron	Two humans left!	
+	AnalysisBot	Exciting!!	
+BR_Killed_OnlyTwoHumansLeft-5	Commentatron	Down to the last two!	
+	AnalysisBot	Let's GET IT ON!	
+	AnalysisBot	In the Danger Zone, one day you are alive...	
+	AnalysisBot	the next you are garbage.	
+	Commentatron	It's time to fight...	
+	Commentatron	FOR YOUR LIFE!	
+BR_Killed_OnlyTwoHumansLeft-6	Commentatron	Two humans remain!	
+	AnalysisBot	Soon there will be one.	
+	Commentatron	In the end, everyone turns to garbage.	
+BR_Killed_OnlyTwoHumansLeft-7	Commentatron	Two humans left!	
+	Commentatron	Get ready...	
+	VictoryAnnouncer	FIGHT!	
+BR_Killed_OnlyTwoHumansLeft-8	Commentatron	Which human do you think will win, Analysis-Bot?	
+	AnalysisBot	I hope it's the pretty one!	
+	Commentatron	Yes, that would conform to our preconceived notion of who looks like a winner.	
+BR_Killed_OnlyTwoHumansLeft-9	Commentatron	We are down...	
+	AnalysisBot	to clown???	
+	Commentatron	No. To the last two humans!	
+	AnalysisBot	Oh.	
+BR_Killed_OnlyTwoHumansLeft-10	Commentatron	Only two humans remain!	
+	AnalysisBot	I love watching the garbage rain down on the winner!	
+	Commentatron	Me too.	
+BR_Killed_OnlyTwoHumansLeft-11	Commentatron	It is the moment we have all been waiting for!	
+	Commentatron	Soon, only one human will be left alive.	
+	AnalysisBot	And the rain of garbage begins!	
+	Commentatron	Love it.	
+BR_FinalAreaIsConstricting-1	Commentatron	The final area is closing in!	
+	AnalysisBot	Be there or be las-er.	
+BR_FinalAreaIsConstricting-2	HelpVoice	Final Battle: Commence!	
+	Commentatron	The laser walls are coming.	
+	AnalysisBot	Look at the humans run!	
+BR_FinalAreaIsConstricting-3	Commentatron	The final battle is here!	
+	AnalysisBot	I look forward to the last humans becoming garbage!	
+BR_FinalAreaIsConstricting-4	Emperor	The final battle is upon us!	
+	Emperor	Watch the laser field tightens like a claw around the last puny humans.	
+	Emperor	They will all be garbage... in the end.	
+BR_FinalAreaIsConstricting-5	AnalysisBot	Yay! Soon we'll see the garbage rain!	
+	Commentatron	Only three humans left.	
+BR_FinalAreaIsConstricting-6	Commentatron	It's down to three little humans.	
+	AnalysisBot	Let's see if any of them get caught in the auto-laser.	
+BR_FinalAreaIsConstricting-7	HelpVoice	Final Battle: Commence!	
+	AnalysisBot	Yay!	
+BR_FinalAreaIsConstricting-8	Commentatron	Who do you think will win, Analysis-Bot?	
+	AnalysisBot	Shh! I'm watching the final battle.	
+BR_FinalAreaIsConstricting-9	Commentatron	Three humans remain.	
+	AnalysisBot	Not all the same.	
+	Commentatron	That's right, they all have their own little twist.	
+	AnalysisBot	Neat.	
+BR_FinalAreaIsConstricting-10	AnalysisBot	I like this part.	
+	AnalysisBot	Laser walls! Garbage rains!	
+	Commentatron	It's pretty cool.	
+BR_FinalAreaIsConstricting-11	VictoryAnnouncer	SOON YOU WILL BE GARBAGE!	
+	VictoryAnnouncer	I CAN'T WAIT!	
+	Commentatron	Be quiet!	
+	AnalysisBot	Cool Announcement Bot is pretty fired up today!	
+BR_FinalAreaIsConstricting-12	AnalysisBot	Eenie, meenie, miney, mo!	
+	AnalysisBot	All but one human must go!	
+	AnalysisBot	Eenie, meenie, miney, me!	
+	AnalysisBot	All but one will garbage be!	
+BR_FinalAreaIsConstricting_MissingLeg-1	Commentatron	The laser barrier is closing in!	
+	AnalysisBot	Oh my! One human is missing a leg!	
+	Commentatron	Hop!	
+	Commentatron	Hop like Hopper-tron 4000, little human!	
+BR_FinalAreaIsConstricting_MissingLeg-2	Commentatron	The final battle draws near!	
+	AnalysisBot	My Danger Coins are on the robot with one leg.	
+	Commentatron	Really?!	
+	AnalysisBot	I've noticed it seems to make humans more focused.	
+	Commentatron	Interesting!	
+BR_FinalAreaIsConstricting_MissingLeg-3	HelpVoice	Final Battle: Commence!	
+	Commentatron	Will the one-legged human reach the area in time??	
+	AnalysisBot	It better start hopping now!	
+BR_FinalAreaIsConstricting_MissingLeg-4	Commentatron	Soon the last humans will be garbage!	
+	AnalysisBot	That human started already!	
+	Commentatron	Oh yes, it dropped its leg.	
+	AnalysisBot	Eager human.	
+BR_GameEndsInDraw-1	Commentatron	It's a draw!	
+	AnalysisBot	Wow. I guess all the humans were garbage.	
+	Commentatron	The null hypothesis wins!	
+BR_Victory_Generic-1	Commentatron	We have a winner!	
+	AnalysisBot	Congratulations human! Today you are not garbage!	
+	Commentatron	Yes, please enjoy this great feeling!	
+BR_Victory_KilledHighKillCountPerson-1	Commentatron	Wow! What an upset!	
+	AnalysisBot	Do not be upset, Commentatron!	
+	AnalysisBot	This human reached their potential at the optimal time.	
+BR_Victory_NoKills-1	Commentatron	Wow, the human won without killing anyone.	
+	AnalysisBot	An unconventional strategy!	
+	Commentatron	Impressive.	
+BR_Victory_NoUpgradeDrops-1	AnalysisBot	Interesting, this human did not collect any upgrade drops.	
+	Commentatron	I guess it didn't need any.	
+	AnalysisBot	Cool human.	
+BR_Victory_HasMostUpgradeDrops-1	Commentatron	Nice! This human put the upgrade drops to good use.	
+	AnalysisBot	A valuable lesson for all the garbage humans laying on the ground.	
+	Commentatron	Very.	
+BR_Victory_RidingRaptor-1	AnalysisBot	Yay! The raptor wins!	
+	Commentatron	The human helped a bit.	
+	AnalysisBot	Barely.	
+BR_Victory_OneLeg-1	Commentatron	Wow! A one legged human won!	
+	AnalysisBot	This is what I keep telling you.	
+	AnalysisBot	Legs are over-rated!	
+BR_Victory_Kick-1	Commentatron	Kicked! What a nice way to end the match.	
+	AnalysisBot	I guess.	
+BR_Victory_Laser-1	Commentatron	LASERED!	
+	AnalysisBot	It is a powerful weapon!	
+	Commentatron	Definitely.	
+BR_KilledInWaitingRoom_Sword-1	AnalysisBot	Cut apart!	
+	Commentatron	Nice!	
+BR_KilledInWaitingRoom_Sword-2	Commentatron	A solid sword kill!	
+BR_KilledInWaitingRoom_Sword-3	Commentatron	Good sword technique!	
+	AnalysisBot	We'll see if they keep it up once the match starts!	
+BR_KilledInWaitingRoom_Sword-4	Commentatron	The humans are warming up nicely.	
+	AnalysisBot	Yes. It's fun to watch them get in the zone.	
+BR_KilledInWaitingRoom_Hammer-1	Commentatron	BAM!	
+	AnalysisBot	Shattered.	
+BR_KilledInWaitingRoom_Hammer-2	Commentatron	That's how you smack the hammer down!	
+BR_KilledInWaitingRoom_Hammer-3	AnalysisBot	Wham!	
+	Commentatron	Bam!	
+	AnalysisBot	Hammer!	
+BR_KilledInWaitingRoom_Hammer-4	AnalysisBot	A good smash!	
+	Commentatron	Indeed.	
+BR_KilledInWaitingRoom_Spear-1	Commentatron	Speared!	
+	AnalysisBot	A bold choice.	
+BR_KilledInWaitingRoom_Spear-2	Commentatron	Nice spear kill.	
+	AnalysisBot	Very.	
+BR_KilledInWaitingRoom_Spear-3	AnalysisBot	Yay, I like watching humans with spears!	
+	Commentatron	This should be interesting.	
+BR_KilledInWaitingRoom_Spear-4	AnalysisBot	Spear!	
+BR_KilledInWaitingRoom_Spear-5	Commentatron	Yes! Kill them with spears!	
+	AnalysisBot	Fun human.	
+BR_KilledInWaitingRoom_Spear-6	AnalysisBot	Poke!	
+BR_KilledInWaitingRoom_Spear-7	AnalysisBot	Poke of death!	
+	Commentatron	The best.	
+BR_KilledInWaitingRoom_Spear-8	AnalysisBot	Poke poke poke!	
+BR_KilledInWaitingRoom_Arrow-1	AnalysisBot	Like shooting humans in a confined space!	
+	Commentatron	That is in fact what happened.	
+BR_KilledInWaitingRoom_Arrow-2	Commentatron	Nice shot.	
+BR_KilledInWaitingRoom_Arrow-3	Commentatron	Look at that arrow kill.	
+	AnalysisBot	This match might be entertaining!	
+BR_KilledInWaitingRoom_Arrow-4	Commentatron	Nice to see we have some archers in the group.	
+	AnalysisBot	Yes, they make these matches more interesting.	
+BR_KilledInWaitingRoom_FireSword-1	AnalysisBot	Fire Sword!	
+	Commentatron	Hot!	
+BR_KilledInWaitingRoom_FireSword-2	Commentatron	Whoosh!	
+	AnalysisBot	Fire.	
+BR_KilledInWaitingRoom_FireSword-3	Commentatron	Cut apart and set on fire.	
+	AnalysisBot	Love it.	
+BR_KilledInWaitingRoom_FireSword-4	Commentatron	This human is hot stuff.	
+	AnalysisBot	Mainly their fire sword.	
+	Commentatron	The rest is slowly heating up.	
+BR_KilledInWaitingRoom_FireSword-5	AnalysisBot	I like watching humans burn.	
+	Commentatron	Yes, it brings about a nice feeling.	
+BR_KilledInWaitingRoom_FireHammer-1	AnalysisBot	Ohhh, a fire hammer!	
+	Commentatron	What a flamboyant human!	
+	AnalysisBot	More power to them.	
+BR_KilledInWaitingRoom_FireHammer-2	Commentatron	Smashed and burned.	
+	AnalysisBot	Promising.	
+BR_KilledInWaitingRoom_FireHammer-3	Commentatron	HUMAN SMASH!	
+	AnalysisBot	Accurate.	
+BR_KilledInWaitingRoom_FireHammer-4	Commentatron	This should be a fun match.	
+	AnalysisBot	Fire is the spice of death.	
+BR_KilledInWaitingRoom_FireArrow-1	Commentatron	Look at that human shooting fire!	
+	AnalysisBot	Cute!	
+BR_KilledInWaitingRoom_FireArrow-2	AnalysisBot	Those are some hot arrows there.	
+	Commentatron	Nice.	
+BR_KilledInWaitingRoom_FireArrow-3	Commentatron	Fire kill!	
+	AnalysisBot	I like it.	
+BR_KilledInWaitingRoom_FireArrow-4	Commentatron	Yes! More fire arrows please!	
+	AnalysisBot	They make such pretty garbage.	
+BR_KilledInWaitingRoom_FireArrow-5	Commentatron	This should be a dramatic battle.	
+	AnalysisBot	I hope so. These fire arrows are good for drama.	
+BR_KilledInWaitingRoom_FireSpear-1	Commentatron	Fire spear is here!	
+	AnalysisBot	Hot!	
+BR_KilledInWaitingRoom_FireSpear-2	Commentatron	Roasted!	
+	AnalysisBot	Toasted!	
+BR_KilledInWaitingRoom_FireSpear-3	AnalysisBot	FIRE DEATH POKE!	
+BR_KilledInWaitingRoom_FireSpear-4	Commentatron	Set the humans on fire!	
+	AnalysisBot	Good times.	
+BR_KilledInWaitingRoom_FireSpear-5	AnalysisBot	Wheee, the human picked fire spear!	
+	Commentatron	This should be a fun match.	
+BR_KilledInWaitingRoom_FireSpear-6	Commentatron	Nice, a fire spear!	
+	AnalysisBot	For the discerning human.	
+BR_KilledInWaitingRoom_FlameBreath-1	AnalysisBot	Waiting room kill: FlameBreath	
+	Commentatron	What!?	
+	AnalysisBot	I don't know...	
+BR_KilledInWaitingRoom_SawBlade-1	Commentatron	Sawed apart!	
+	AnalysisBot	This human is just messing around.	
+BR_KilledInWaitingRoom_SawBlade-2	AnalysisBot	Easy to walk into saw blades in the waiting area.	
+	Commentatron	No clones once the match starts though.	
+BR_KilledInWaitingRoom_SawBlade-3	Commentatron	This human is falling apart!	
+	AnalysisBot	Mentally as well as physically.	
+BR_KilledInWaitingRoom_SawBlade-4	Commentatron	Will there be saw blades in this arena?	
+	AnalysisBot	I didn't check.	
+BR_KilledInWaitingRoom_SawBlade-5	Commentatron	Saw that way to die already.	
+	AnalysisBot	Ha!	
+BR_KilledInWaitingRoom_EnergyBeam-1	AnalysisBot	Splat!	
+BR_KilledInWaitingRoom_EnergyBeam-2	Commentatron	Boom!	
+BR_KilledInWaitingRoom_EnergyBeam-3	AnalysisBot	BLAM!	
+BR_KilledInWaitingRoom_EnergyBeam-4	Commentatron	KABOOM!	
+BR_KilledInWaitingRoom_EnergyBeam-5	AnalysisBot	EXPLOSION!	
+BR_KilledInWaitingRoom_EnergyBeam-6	Commentatron	BADABOOM!	
+BR_KilledInWaitingRoom_EnergyBeam-7	AnalysisBot	BZZZT!	
+BR_KilledInWaitingRoom_EnergyBeam-8	Commentatron	CRUNCH!	
+BR_KilledInWaitingRoom_EnergyBeam-9	AnalysisBot	Blama-lama-ding-dong!	
+BR_KilledInWaitingRoom_EnergyBeam-10	Commentatron	Looks like this human is having fun.	
+BR_KilledInWaitingRoom_KickedSawBlade-1	AnalysisBot	Nice kicks!	
+BR_KilledInWaitingRoom_KickedSawBlade-2	Commentatron	Kicked into a saw blade!	
+	AnalysisBot	Excellent warming up right there.	
+BR_KilledInWaitingRoom_KickedSawBlade-3	Commentatron	Nice. That one kicked someone into a saw blade!	
+	AnalysisBot	A human to watch.	
+BR_KilledInWaitingRoom_KickedSawBlade-4	Commentatron	Gotta love saw blade kicks.	
+BR_KilledInWaitingRoom_KickedSawBlade-5	Commentatron	The human kicked it.	
+BR_KilledInWaitingRoom_KickedEnergyBeam-1	AnalysisBot	BOOM!	
+	Commentatron	Nice.	
+BR_KilledInWaitingRoom_KickedEnergyBeam-2	AnalysisBot	BOOM!	
+	Commentatron	Love it.	
+BR_KilledInWaitingRoom_KickedEnergyBeam-3	AnalysisBot	BOOM!	
+	Commentatron	Beautiful.	
+BR_KilledInWaitingRoom_KickedSword-1	AnalysisBot	Cutting humans when they're down!	
+	Commentatron	Harsh.	
+BR_KilledInWaitingRoom_KickedSword-2	Commentatron	Kick and sword!	
+	AnalysisBot	A striking combo.	
+BR_KilledInWaitingRoom_KickedSword-3	Commentatron	This human knows what it's doing.	
+BR_KilledInWaitingRoom_KickedSword-4	AnalysisBot	...and stay down!	
+BR_KilledInWaitingRoom_KickedSword-5	Commentatron	Kick kick kick!	
+BR_KilledInWaitingRoom_KickedSword-6	AnalysisBot	Brutal human right there.	
+	Commentatron	Love it.	
+BR_KilledInWaitingRoom_KickedHammer-1	AnalysisBot	The human brought the hammer down!	
+	Commentatron	Love it.	
+BR_KilledInWaitingRoom_KickedHammer-2	Commentatron	Hammering humans on the ground!	
+	AnalysisBot	Get off the ground, humans!	
+BR_KilledInWaitingRoom_KickedHammer-3	Commentatron	Ouch!	
+BR_KilledInWaitingRoom_KickedHammer-4	Commentatron	This human shows no remorse.	
+	AnalysisBot	None at all.	
+BR_KilledInWaitingRoom_KickedHammer-5	Commentatron	BOOM!	
+	AnalysisBot	Groundpounded.	
+BR_KilledInWaitingRoom_KickedSpear-1	Commentatron	Spear kill on the ground!	
+	AnalysisBot	A wonderful sound.	
+BR_KilledInWaitingRoom_KickedSpear-2	Commentatron	I love watching humans die on the ground.	
+BR_KilledInWaitingRoom_KickedSpear-3	AnalysisBot	Spearing humans that have fallen down.	
+	AnalysisBot	A sound strategy.	
+BR_KilledInWaitingRoom_KickedSpear-4	Commentatron	It is easy to stab people on the ground.	
+	AnalysisBot	And fun!	
+	AnalysisBot	Easy and fun!	
+BR_KilledInWaitingRoom_KickedSpear-5	AnalysisBot	Ground poke of death!	
+	Commentatron	I like it.	
+BR_KilledInWaitingRoom_KickedArrow-1	AnalysisBot	Kicked and shot.	
+	Commentatron	Very nice.	
+BR_KilledInWaitingRoom_KickedArrow-2	Commentatron	Nice technique!	
+BR_KilledInWaitingRoom_KickedArrow-3	AnalysisBot	Kicking humans over makes them easier to shoot.	
+	Commentatron	An important lesson.	
+BR_KilledInWaitingRoom_KickedArrow-4	Commentatron	Brutal arrow kill.	
+	AnalysisBot	Didn't wait for that human to get back up, did they?	
+BR_KilledInWaitingRoom_KickedArrow-5	Commentatron	Nice.	
+BR_WaitingRoomFirstKillCountReaches3-1	Commentatron	Nice! This human is slaughtering the other humans!	
+	AnalysisBot	A promising contender.	
+BR_WaitingRoomSecondKillCountReaches3-1	Commentatron	Some of these humans seem pretty good!	
+	AnalysisBot	Yes.	
+	Commentatron	Fierce!	
+BR_Countdown5	HelpVoice	Five	
+BR_Countdown4	HelpVoice	Four	
+BR_Countdown3	HelpVoice	Three	
+BR_Countdown2	HelpVoice	Two	
+BR_Countdown1	HelpVoice	One	
+BR_VictoryAnnouncement-1	VictoryAnnouncer	Garbage rain!	
+BR_VictoryAnnouncement-2	VictoryAnnouncer	Not garbage!	
+BR_VictoryAnnouncement-3	VictoryAnnouncer	All the garbage!	
+BR_VictoryAnnouncement-4	VictoryAnnouncer	Metal rain!	
+BR_VictoryAnnouncement-5	VictoryAnnouncer	Who is garbage now?	
+BR_VictoryAnnouncement-6	VictoryAnnouncer	Bring on the garbage!	
+BR_VictoryAnnouncement-7	VictoryAnnouncer	Shower in garbage!	
+BR_VictoryAnnouncement-8	VictoryAnnouncer	I love garbage!	
+BR_VictoryAnnouncement-9	VictoryAnnouncer	Garbage? Not today.	
+BR_Tournament_WaitingRoomOpening_5WinnersLeft	HelpVoice	Chances left to advance: 5	
+	Commentatron	One by one, we will remove the winning humans.	
+	AnalysisBot	Exciting!	
+BR_Tournament_WaitingRoomOpening_4WinnersLeft	Commentatron	Humans, you have 4 chances left to win.	
+	AnalysisBot	Then we shut this game down!	
+	Commentatron	Yay!	
+BR_Tournament_WaitingRoomOpening_3WinnersLeft	Commentatron	Analysis-Bot, who will be the next 3 humans to advance?	
+	AnalysisBot	Clearly the ones with the most fighting experience!	
+	Commentatron	I don't know, I hope the silly one over there wins!	
+	AnalysisBot	No chance!	
+BR_Tournament_WaitingRoomOpening_2WinnersLeft	Commentatron	Two matches left.	
+	AnalysisBot	Only 2??	
+	Commentatron	Then the winning humans fight in the next stage of the Tournament.	
+	AnalysisBot	Incredible!	
+BR_Tournament_WaitingRoomOpening_1WinnersLeft	Commentatron	This is it! The final match!	
+	AnalysisBot	Woooooooh! Only 1 more human will advance from this group?	
+	Commentatron	Correct.	
+BR_TournamentGarbageBotsReleaseYou_5WinnersLeft	Commentatron	Go humans!	
+	Commentatron	Look at them run.	
+	AnalysisBot	Run faster! We have 5 matches left.	
+BR_TournamentGarbageBotsReleaseYou_4WinnersLeft	Commentatron	Analysis-Bot, what should the humans who don't win do?	
+	AnalysisBot	Go watch the Twitch stream?	
+	Commentatron	An excellent idea!	
+BR_TournamentGarbageBotsReleaseYou_3WinnersLeft	Commentatron	Run, silly robot! Win the match!	
+	AnalysisBot	Only 2 more chances after this one.	
+BR_TournamentGarbageBotsReleaseYou_2WinnersLeft	Commentatron	There they go!	
+	AnalysisBot	This is the second to last match. The humans look anxious.	
+	Commentatron	THEY SHOULD BE.	
+BR_TournamentGarbageBotsReleaseYou_1WinnersLeft	Emperor	FINAL MATCH!	
+	AnalysisBot	It all comes down to this battle.	
+	Commentatron	Last chance, little humans!	
+BR_Tournament_Victory_4WinnersLeft	Commentatron	Victory!	
+	AnalysisBot	The first human advances to the next round.	
+	Commentatron	The remaining humans have 4 more chances.	
+BR_Tournament_Victory_3WinnersLeft	Commentatron	Another human claims victory!	
+	AnalysisBot	They will fight in the next Tournament round!	
+	Commentatron	Yes, please keep an eye on Discord, winning humans!	
+BR_Tournament_Victory_2WinnersLeft	Commentatron	Wohooo! The silly human won!	
+	AnalysisBot	Whaaaat?? I thought you meant a different human.	
+	Commentatron	They are all ridiculous.	
+BR_Tournament_Victory_1WinnersLeft	Commentatron	Boom!	
+	AnalysisBot	Pretty good game.	
+	Commentatron	Only one more match left after this one.	
+	AnalysisBot	Exciting!	
+BR_Tournament_Victory_0WinnersLeft	Commentatron	The last human claims victory!	
+	AnalysisBot	Hurray!	
+	Commentatron	The winners will all advance to the next Tournament round.	
+	AnalysisBot	Winners, please keep an eye on Discord!	3
+	HelpVoice	This is a reminder:	
+	HelpVoice	The true victory is having fun.	
+	Commentatron	I did not know that.	
+	AnalysisBot	It was in the latest mind firmware.	
+	Commentatron	Useful.	
+BR_Tournament_AdminStartedTournament_5Winners	Commentatron	Tournament Mode! 5 Winners.	
+BR_Tournament_AdminStartedTournament_4Winners	Commentatron	Tournament Mode! 4 Winners.	
+BR_Tournament_AdminStartedTournament_3Winners	Commentatron	Tournament Mode! 3 Winners.	
+BR_Tournament_AdminStartedTournament_2Winners	Commentatron	Tournament Mode! 2 Winners.	
+BR_Tournament_AdminStartedTournament_1Winners	Commentatron	Tournament Mode! 1 Winner.	
+AdventureClonesNotCreated	HelpVoice	Error: Nowhere to spawn the clone!	
+	Commentatron	What a shame!	
+	AnalysisBot	Yes. The maker of this level needed to place more AdventureCloneSpawnPoints.	
+

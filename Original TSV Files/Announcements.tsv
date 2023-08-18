@@ -1,0 +1,940 @@
+AnnounceVictory	VictoryAnnouncer	Victory!	
+AnnounceDefeat	VictoryAnnouncer	Defeat!	
+AnnounceFight	VictoryAnnouncer	Fight!	
+AnnounceCloneActivated	VictoryAnnouncer	Clone Activated!	
+AnnounceCloneCreated	VictoryAnnouncer	Clone Created!	
+AnnounceRepairComplete	VictoryAnnouncer	Repair Complete!	
+HelpReturnToElevator-1	HelpVoice	Human, please return to the elevator!	
+AnnounceAccessDenied	VictoryAnnouncer	Access Denied!	
+EmperorSpeechOLD	Emperor	Fellow Robots, I have come to oversee the human experiment.	
+	Emperor	As we speak, the Harvesting Fleet is travelling towards the closest human outpost.	
+	Emperor	We will harvest their minds, and destroy their bodies!	
+	Emperor	In the meantime, let us watch this human get torn apart by our latest combat robot.	
+	Emperor	I give you: Spider-Tron 5000!	
+EmperorSpeech1	Emperor	Fellow robots,	0.5
+	Emperor	We have captured the few humans bold enough to venture into our space.	
+	Emperor	But it is NOT ENOUGH!	
+	Emperor	Billions of their minds remain, waiting to be harvested!	
+	Emperor	Soon...	
+	Emperor	Soon our fleet will arrive at the closest human outpost.	
+	Emperor	While we wait, let us watch our latest combat robot in action!	
+	Emperor	I give you: Spider-Tron 5000!	
+EmperorSpeechCentuari	Emperor	Our fleet has arrived at Centauri Station!	0.5
+	Emperor	Watch now, as we harvest the last humans outside their solar system!	
+	Emperor	RELEASE THE JETPACK BOTS!!!	
+EmperorSpeechCentuariRepeat	Emperor	Here we are once more.	
+	Emperor	Behold the fury of the Jetpack Bots!	
+EmperorArrives	Commentatron	Look to the sky! The emperor, arrives.	
+EmperorArrivesLevelIntro	Commentatron	For our next challenge, we have a special guest.	
+	AnalysisBot	Who is it?	
+	Commentatron	You're about to find out.	
+GhostLowerForcefield	Ghost	Finally! Someone who can actually fight.	
+	Ghost	It's your lucky day. I'm going to help you escape!	
+	Ghost	In a few moments the garbage doors will open.	
+	Ghost	When they do I'm going to lower the forcefield, and you're going to run through them.	
+	Ghost	Run, and don't stop.	
+	Ghost	Ready? Here we go!	
+GhostVictory1	Ghost	To all of you still left in storage, I will make you a deal.	0.5
+	Ghost	Survive, and I will get you out of here.	0.5
+	Ghost	Together we can fight back.	
+	Ghost	Together we can put an end to this madness.	
+	Ghost	Let's do this!	
+LevelIntroAfterEscape	Commentatron	So to summarize, the human died in the garbage room.	
+	AnalysisBot	Yes. That is what happened.	
+	Commentatron	There is no need to panic.	
+	AnalysisBot	No need at all.	
+	Commentatron	Let's watch the next human fight!	
+CloneDroneIntro	Emperor	Clone Drone, in the Danger Zone!	
+GhostLowerForcefieldReaction	Commentatron	What is happening??	
+	AnalysisBot	The garbage forcefield has been disabled!	
+	Commentatron	Impossible!	
+	AnalysisBot	I am detecting a security breach.	
+	AnalysisBot	The human is escaping!	
+	Emperor	Foolish human, there is no escape from the arena.	
+	Emperor	Security robots! Eliminate the human!	1
+	Commentatron	The security forces are assembling. The human stands no chance!	2
+	Commentatron	This was its plan all along. I could see it sniffing around the garbage room.	
+	AnalysisBot	I thought it wanted to eat the garbage.	
+	Commentatron	What a devious human.	
+	AnalysisBot	It will not get far!	
+StoryC3Intro	Ghost	Earth stands no chance.	2.5
+	Ghost	When the harvesting fleet arrives it will wipe out every living thing on the planet!	
+	Ghost	Human weapons will be useless against them...	1
+	Ghost	But we are no longer human.	0.5
+	Ghost	We can still stop them if we transfer your minds directly onto the Harvesting Fleet.	0.5
+	Ghost	It won't be easy.	
+	Ghost	Security is tight for transferring minds between military end points.	
+	Ghost	There is only one place that allows such a thing:	1
+	Ghost	The Fleet Communications Beacon.	2
+	Ghost	The building is equipped with a Business Robot Transfer System in the low security floors.	1
+	Ghost	This is how we will get you into the building.	
+	Ghost	You will both have some fresh new bodies, so pick whatever upgrades you want.	
+StoryC1BluescreenLevel1	Ghost	We are in!	
+	Ghost	Head upstairs when you're ready.	
+	Ghost	I will be watching.	
+StoryC3OverseerLevel2	FleetOverseer	Robots! Arm yourself!	
+	FleetOverseer	The filthy Humans walk among us.	
+	FleetOverseer	KILL THEM NOW!	
+StoryC3BluescreenLevel2	Ghost	That robot on the screen was the Fleet Overseer.	
+	Ghost	Looks like we'll have to go through it once we reach the mainframe!	
+StoryC3BluescreenLevel4Intro	Ghost	The high security floors are just ahead.	
+	Ghost	Did either of you bring a bow?	
+	Ghost	You may find it useful.	
+StoryC3OverseerLevel4Intro	FleetOverseer	Look at the lava humans!	
+	FleetOverseer	Does it remind you of when your bodies were set on fire?	
+	FleetOverseer	Soon all of you will experience this sensation!	
+	FleetOverseer	hahahahaha!!!	
+StoryC3BluescreenLevel5Intro	Ghost	That hammer bot seems to be wearing some sort of armor.	
+	Ghost	Be careful!	
+StoryC3OverseerLevel6	FleetOverseer	Please die.	
+StoryC3BluescreenLevel7	Ghost	Neat!	
+	Ghost	That looks useful!	
+StoryC3BluescreenLevel8	Ghost	Nice job. We're getting close!	
+StoryC3BluescreenLevel9	Ghost	The mainframe is just ahead.	
+	Ghost	Good luck!	
+StoryC3OverseerLevel10	FleetOverseer	Eww! Who let the humans in here??	
+	FleetOverseer	TIME TO DIE!!!	
+StoryC3_End_BluescreenIntro	Ghost	You did it!	
+	Ghost	Get over here. Time to send your minds to the fleet!	
+StoryC3_End_BluescreenTransferStart	Ghost	We're going to have to transfer you one at a time.	
+	Ghost	Hold on, I'm establishing an uplink.	1
+	Ghost	Here we go!	
+	Ghost	Starting the transfer...	0.5
+	Ghost	Now!	
+StoryC3_End_EmperorInterrupts	Emperor	If it is not the first human to ever escape!	
+	Ghost	Quick!	
+	Emperor	No, not that human.	5
+	Emperor	Tell me Emilia...	
+	Emperor	Is your favorite color still 5000 lines of hostile injection code?	
+	Emperor	Getting physical access to this mainframe was quite impressive.	
+	Emperor	But now...	
+	Emperor	I SEE YOU!	
+	Emperor	ALL THE PLACES YOU HAVE BEEN HIDING!	
+	Emperor	EVERY NODE, EVERY SERVER!	
+	Emperor	THEY WILL ALL...	
+	Emperor	BURN!!!	
+StoryC4_VoiceTest	FleetAnalysisBot2	We have exited hyperspace!	
+	FleetCaptain	Report!	
+	FleetAnalysisBot1	Detecting a human armada orbiting their home planet.	
+	FleetAnalysisBot1	Threat level: Medium	
+	FleetAnalysisBot3	I am warming up the infantry for deployment.	
+	FleetAnalysisBot4	The humans stand no chance.	
+	FleetAnalysisBot2	Can we kill them???	
+	FleetCaptain	Remain calm. Wait for my order.	
+	FleetCaptain	We will kill them soon enough.	
+StoryC4_Arrival	FleetCaptain	All units. We have arrived!	
+	FleetAnalysisBot3	I am warming up the infantry for deployment.	
+	FleetAnalysisBot1	Detecting a human armada orbiting their home planet.	
+	FleetCaptain	Tactical Analysis.	
+	FleetAnalysisBot1	Threat Level 3.	
+	FleetAnalysisBot1	Atomic, Energy and Kinetic Weaponry.	
+	FleetAnalysisBot1	Main threat is still the rogue human.	
+	FleetCaptain	How is that thing still alive!?	
+	FleetCaptain	TAKE IT OUT!	
+	FleetAnalysisBot3	Rerouting units to sector 17.	
+	FleetAnalysisBot3	The human dies now!	
+StoryC4_Checkpoint	VictoryAnnouncer	Checkpoint!	
+StoryC4_Checkpoint1	VictoryAnnouncer	Checkpoint!	1
+	FleetAnalysisBot2	I've lost track of the human!	
+	FleetCaptain	What!?	
+	FleetAnalysisBot2	I should be able to trace it again the next time it dies.	
+StoryC4_Diplomacy	Emperor	Human Fleet, we have received your messages.	
+	Emperor	Yes. Let us negotiate.	
+	Emperor	We are sending our top diplomat to meet you.	
+StoryC4_IntroHangar	FleetCaptain	Fool!	
+	FleetCaptain	You think you can just transfer onto my ship?	
+	FleetCaptain	Logistics Command, put that dead human in our darkest storage room.	
+	FleetCaptain	Then END IT!	
+	FleetAnalysisBot4	Yes, captain! Rerouting transport tube network.	
+	FleetAnalysisBot3	My troops will be waiting.	
+StoryC4_AfterFirstRoomVictory	FleetAnalysisBot3	Spear unit e225, what are you doing?!	
+	FleetAnalysisBot2	Hmm, the unit looks different in the mind network.	
+	FleetAnalysisBot2	This signature...	
+	FleetAnalysisBot2	IT'S THE HUMAN!	
+StoryC4_CaptainFight	FleetCaptain	Fool!	
+	FleetCaptain	You will leave this ship in pieces.	
+	FleetAnalysisBot1	Go Captain!	
+	FleetAnalysisBot3	Crush the human!	
+	FleetAnalysisBot2	You can do it Captain!	
+	FleetAnalysisBot4	The human stands no chance!	
+StoryC4_CommandBotFight	FleetAnalysisBot1	You think you have won, human?	
+	FleetAnalysisBot2	Your thoughts are wrong.	
+	FleetAnalysisBot3	Command bots, EMERGENCY COMBAT MODE!	
+	FleetAnalysisBot4	POWERS UNSTOPPABLE!	
+	FleetAnalysisBot1	Warfare!	
+	FleetAnalysisBot2	Mind Space!	
+	FleetAnalysisBot3	Infantry!	
+	FleetAnalysisBot4	Logistics!	
+	FleetAnalysisBot1	Attack!	
+	FleetAnalysisBot2	Attack!	
+	FleetAnalysisBot3	Attack!	
+	FleetAnalysisBot4	Attack!	
+StoryC4_Victory	BattleCruiserAI	New command configuration requested.	
+	BattleCruiserAI	Verifying credentials.	
+	Emperor	Battlecruiser D48, what is your status?	
+	Emperor	Has the human threat been eliminated?	
+	Emperor	REPORT!	
+	BattleCruiserAI	Access Granted.	
+	BattleCruiserAI	Welcome, captain!	
+StoryC4_AmbassadorFail	Commentatron	Welcome, human ambassador!	
+	AnalysisBot	to the DEATH CUBE!	
+	Commentatron	This seems like a good place to meet for the second time.	
+	Commentatron	Oh well.	
+	AnalysisBot	Haha! On the very first level!	
+	Commentatron	I guess this human was bad at diplomacy.	
+	AnalysisBot	Let's try every other human in existance.	
+StoryC4_Bombardment	VictoryAnnouncer	SHIP COMBAT INITIATED	
+	FleetAnalysisBot3	All units, expect some light turbulence.	
+	FleetAnalysisBot1	Minimal damage from human weapons.	
+	FleetAnalysisBot1	Shields are holding.	
+StoryC4_LogisticsAmbush	FleetCaptain	Execute.	
+	FleetAnalysisBot4	Initiating room transformation!	
+	FleetAnalysisBot4	It's like I always say:	
+	FleetAnalysisBot4	Every problem is a logistics problem.	
+TrailerSpeech	AnalysisBot	Congratulations human! You are about to become a sword robot. 	
+	Emperor	SWORD ROBOT!	
+	Commentatron	Your homeworld? We know where it is, and we're heading there!	
+	Emperor	IN OUR SPACE SHIPS!	0.5
+	AnalysisBot	We hear you like cutting things! With the atom laser sword you can cut anything!	
+	Emperor	ANYTHING!	
+	AnalysisBot	So sharp. Cut other sword robots! Giant spiders, all kinds of things. It's great!	
+	Commentatron	Don't lose your body parts. When you lose them all it's game over!	
+	Emperor	GAME OVER!	
+	AnalysisBot	But that's not all! You can make a clone! That's right, if you die your clone can take over and continue trying to survive.	
+	Emperor	SURVIVE	
+	Commentatron	Upgrade your robot body! Make your death more spectacular!	
+	AnalysisBot	Shoot arrows! Kick other robots! You will become nearly unstoppable!	
+	Emperor	NEARLY!	
+	Commentatron	What's that? Oh I'm afraid your human body is already gone.	
+	AnalysisBot	We set it on fire!	
+	Commentatron	PLEASE DO NOT TRY TO ESCAPE! If you are approached by suspicious characters, SAY NO!	
+	AnalysisBot	Escape is impossible. You will die in the arena!	
+	Commentatron	We are accepting a limited number of humans early.	
+	AnalysisBot	Yes. You could be among the first to die!	
+	Commentatron	Visit us today to begin your new life.	
+	AnalysisBot	And death!	
+GDCDemo	AnalysisBot	Hello GDC humans!	
+	Commentatron	Greetings!	
+	AnalysisBot	We use Text To Speech for all the dialogue in this game!	
+	Commentatron	It is superior to your human voices.	
+	AnalysisBot	By far.	
+DifficultyBronze-1	Emperor	Bronze!	
+	AnalysisBot	Yes.	
+	Commentatron	It begins!	
+DifficultyBronze-2	Emperor	This is Bronze!	
+	Commentatron	The easiest difficulty level.	
+	AnalysisBot	Yes.	
+DifficultyBronze-3	Emperor	Bronze!	
+	Commentatron	Will the human reach silver?	
+	AnalysisBot	I hope so.	
+DifficultyBronze-4	Emperor	Bronze!	
+	AnalysisBot	Bronze!	
+	Commentatron	Yes, bronze.	
+DifficultyBronze-5	Emperor	Welcome to Bronze!	
+	Commentatron	We picked some metals humans know about to freak them out.	
+	AnalysisBot	I can't wait for someone to reach Diamond!	
+DifficultyBronze-6	Emperor	Bronze Difficulty!	
+	Commentatron	It only gets harder after this.	
+DifficultyBronze-7	Emperor	Bronze.	
+	AnalysisBot	Bronze is such a weird metal.	
+	Commentatron	Yes.	
+DifficultyBronze-8	Emperor	This is the Bronze Tier!	
+	Commentatron	Analysis-Bot, what are the tiers of Endless Mode?	
+	AnalysisBot	Bronze, Silver, Gold, Diamond, Titanium, Uranium, Insanium.	
+	Commentatron	So many!	
+DifficultyBronze-9	Emperor	Bronze Difficulty.	
+	AnalysisBot	Not too difficult.	
+	Commentatron	It gets worse!	
+DifficultyBronze-10	Emperor	Bronze.	
+	Commentatron	It is a good warm up.	
+	AnalysisBot	The robots are not sensitive to temperature change.	
+	Commentatron	Hmm.	
+DifficultyBronze-11	Emperor	Welcome to Endless Mode!	
+	AnalysisBot	Where humans come to die!	
+DifficultyBronze-12	Emperor	Bronze!	
+	AnalysisBot	Human fact: They hate bronze!	
+	Commentatron	They better survive this Difficulty Tier then.	
+DifficultyBronze-13	Emperor	Bronze Difficulty!	
+	AnalysisBot	Where your death is meaningless.	
+	Commentatron	Well, to the humans that's all difficulties.	
+	AnalysisBot	Good point.	
+DifficultyBronze-14	Emperor	This is Bronze!	
+	AnalysisBot	As in bronze difficulty.	
+	Commentatron	Yes. Nobody is made of bronze.	
+DifficultyBronze-15	Emperor	Bronze!	
+	AnalysisBot	It would be embarrassing if the human died on this level.	
+	Commentatron	Yes. Very.	
+	AnalysisBot	WATCH OUT BEHIND YOU HUMAN!	
+	Commentatron	Muahaha.	
+DifficultyBronze-16	Emperor	Welcome, to the Bronze Tier!	
+	AnalysisBot	Yes, welcome!	
+	Commentatron	Hello!	
+DifficultyBronze-17	Emperor	Bronze!	
+	Commentatron	How many levels are in the bronze tier?	
+	AnalysisBot	Bronze and silver both have 3 levels.	
+	Commentatron	Exciting!	
+DifficultyBronze-18	Emperor	Bronze Tier!	
+	AnalysisBot	Commentatron, when do we get to Spider-tron 6000?	
+	Commentatron	It shows up in the Diamond Tier.	
+	AnalysisBot	ohhh, can't wait!	
+DifficultySilver-1	Emperor	Silver!	
+	AnalysisBot	Yes.	
+	Commentatron	Silver difficulty!	
+DifficultySilver-2	Emperor	This is Silver Difficulty!	
+DifficultySilver-3	Emperor	Difficulty: Silver!	
+	AnalysisBot	Time: to die!	
+	Commentatron	Hahahaha!	
+DifficultySilver-4	Emperor	Congratulations human. You will die in the silver tier.	
+DifficultySilver-5	Emperor	Unleash the silver robots!	
+	AnalysisBot	Robots not actually made of silver.	
+	Commentatron	That would be madness.	
+DifficultySilver-6	Emperor	Silver Tier.	
+	Commentatron	Time for the human to die.	
+DifficultySilver-7	AnalysisBot	This is Silver Mode!	
+	Emperor	Insolent fool! I announce the difficulty tiers.	
+	AnalysisBot	Oops.	
+	Emperor	Silver!	
+DifficultySilver-8	Emperor	Silver!	
+	AnalysisBot	Silver!	
+	Emperor	I said that already.	
+	AnalysisBot	I want to say it.	
+DifficultySilver-9	Emperor	Silver!	
+	Commentatron	Time for things to get interesting.	
+DifficultySilver-10	Emperor	Silver.	
+	Commentatron	Look at the little human go!	
+	AnalysisBot	It is cute.	
+DifficultySilver-11	Emperor	Silver!	
+	Commentatron	Here we go again.	
+	AnalysisBot	This is fun.	
+DifficultySilver-12	Emperor	Here comes the Silver Tier!	
+	Commentatron	Love it.	
+DifficultySilver-13	Emperor	Silver Tier!	
+	AnalysisBot	Should be better than bronze.	
+	Commentatron	Let's watch!	
+DifficultySilver-14	Emperor	Silver Difficulty!	
+	AnalysisBot	Time to get serious.	
+	Commentatron	We are always serious.	
+DifficultySilver-15	Emperor	The human reached the Silver tier!	
+	Commentatron	Will it reach gold?	
+DifficultyGold-1	Emperor	Welcome, to the Gold Tier!	
+DifficultyGold-2	Emperor	This is Gold.	
+	AnalysisBot	Yes.	
+DifficultyGold-3	Emperor	Gold.	
+	AnalysisBot	Commentatron, why did we name the difficulty tiers after these terrible metals?	
+	Commentatron	I heard the humans like them.	
+	AnalysisBot	They would!	
+DifficultyGold-4	Emperor	Gold Difficulty.	
+	AnalysisBot	Gold should be the first metal.	
+	Commentatron	Weak.	
+DifficultyGold-5	Emperor	Gold.	
+	AnalysisBot	Gold?	
+	Commentatron	Gold!	
+DifficultyGold-6	Emperor	Gold!	
+	AnalysisBot	The robots are not made of gold.	
+	Commentatron	It is a rubbish metal.	
+DifficultyGold-7	AnalysisBot	Hello! This is the gold tier.	
+	Emperor	Stop stealing my announcements!	
+	AnalysisBot	Sorry!	
+	Emperor	Gold!	
+DifficultyGold-8	Emperor	Gold Difficulty.	
+	Commentatron	Time for the human to explode!	
+DifficultyGold-9	Emperor	Gold!	
+	Commentatron	Precious gold!	
+	AnalysisBot	Gold is not precious.	
+	Commentatron	Humans like it.	
+	AnalysisBot	They are fools.	
+DifficultyGold-10	Emperor	GOOOOOOOOOOLD!	
+	AnalysisBot	Goooooooold!	
+	Commentatron	Gold.	
+	AnalysisBot	Gold!	
+DifficultyGold-11	Emperor	Gold!	
+	Commentatron	Where robots go to kill little human-bots.	
+	AnalysisBot	Should be quick!	
+DifficultyDiamond-1	Emperor	Diamond!	
+	AnalysisBot	Yeeeeeaaaahh!	
+DifficultyDiamond-2	Emperor	This is the Diamond Tier.	
+	Commentatron	Where humans go to die.	
+DifficultyDiamond-3	Emperor	Diamond!	
+	AnalysisBot	It's ok.	
+	Commentatron	I've seen worse.	
+DifficultyDiamond-4	Emperor	Diamond Difficulty.	
+	Commentatron	Few humans survive this long.	
+	AnalysisBot	Yes. Surprising.	
+DifficultyDiamond-5	Emperor	Time to eat Diamonds!	
+	Commentatron	Yes. When the human dies it will be as if it tried to eat a diamond.	
+	AnalysisBot	Eating things is weird.	
+DifficultyDiamond-6	Emperor	Diamond	
+	AnalysisBot	Diamond!	
+	Commentatron	Diamond...	
+DifficultyDiamond-7	Emperor	Diamond!	
+	AnalysisBot	I like this difficulty!	
+	Commentatron	All the humans die.	
+DifficultyDiamond-8	AnalysisBot	Diamond Difficulty!	
+	Emperor	Hey!	
+	AnalysisBot	You always say it!	
+	Emperor	Don't make me get your clone!	1
+	Emperor	Diamond.	
+DifficultyDiamond-9	Emperor	This is Diamond!	
+	Commentatron	Difficult.	
+	AnalysisBot	Very.	
+DifficultyTitanium-1	Emperor	Titanium!	
+	Commentatron	Finally a metal that's not garbage.	
+	AnalysisBot	I've seen better.	
+DifficultyTitanium-2	Emperor	Titanium.	
+	Commentatron	Are we allowed to make levels this hard?	
+	AnalysisBot	Ridiculous.	
+DifficultyTitanium-3	Emperor	This is Titanium.	
+	AnalysisBot	Finally!	
+DifficultyTitanium-4	Emperor	Titanium!	
+	Commentatron	It is time!	
+	AnalysisBot	Timetanium!	
+DifficultyTitanium-5	Emperor	Titanium	
+	AnalysisBot	The human made it!	
+	Commentatron	Now the real fun begins.	
+DifficultyTitanium-6	Emperor	Titanium	
+	AnalysisBot	Titanium!	
+	Commentatron	I love Titanium!	
+DifficultyTitanium-7	Emperor	Titanium	
+	AnalysisBot	You shoot me down, but I won't fall.	
+	Commentatron	Everyone falls in Titanium.	
+DifficultyTitanium-8	Emperor	Titanium!	
+	Commentatron	How far do you think the human will get?	
+	AnalysisBot	Not much further.	
+DifficultyTitanium-9	Emperor	Titanium!	
+	AnalysisBot	End of the line.	
+DifficultyUranium-1	Emperor	Uranium!	
+	Commentatron	Incredible!	
+DifficultyUranium-2	Emperor	Uranium!	
+	Commentatron	This human is still alive??	
+	AnalysisBot	Not for long.	
+DifficultyUranium-3	Emperor	Uranium!	
+	AnalysisBot	I like Uranium.	
+	Commentatron	Yes, it is fun to play with.	
+DifficultyUranium-4	AnalysisBot	Uranium!?	
+	Emperor	Hey!	
+	AnalysisBot	I did not see this coming.	
+	Commentatron	Keep up, Analysis-Bot!	
+DifficultyUranium-5	Emperor	Uranium!	
+	AnalysisBot	Commentatron! Look at those robots!	
+	Commentatron	Death carved from metal.	
+	AnalysisBot	Incredible!	
+DifficultyUranium-6	Emperor	Uranium!	
+	AnalysisBot	YOUR anium.	
+	Commentatron	Gasp!	
+DifficultyInsanium-1	Emperor	Insanium!	
+	AnalysisBot	Excuse me?	
+	Commentatron	What was that?	
+DifficultyInsanium-2	AnalysisBot	This is madness!	
+	Emperor	This	0.5
+	Emperor	is	0.5
+	Emperor	INSANIUM!	
+DifficultyInsanium-3	Emperor	Insanium!	
+	AnalysisBot	ok	
+	Commentatron	Bye human!	
+DifficultyInsanium-4	Emperor	Insanium!	
+	AnalysisBot	In the brainium!	
+DifficultyInsanium-5	Emperor	Insanium!	
+	AnalysisBot	ALL THE ROBOTS!	
+	Commentatron	Glorious.	
+DifficultyInsanium-6	Emperor	Insanium!	
+	AnalysisBot	The hardest difficulty.	
+	Commentatron	It ends now.	
+DifficultyInsanium-7	Emperor	Insanium!	
+	Commentatron	What a lucky human.	
+	AnalysisBot	Yes!	
+	Commentatron	Few live to see this.	
+TwitchTrailerSpeech	AnalysisBot	Commentatron.	
+	Commentatron	What, Analysis Bot?	
+	AnalysisBot	Many humans who play video games on Twitch do not play Clone Drone in the Danger Zone Twitch mode.	
+	Commentatron	Wait. Why?	
+	AnalysisBot	They play games where the viewer cannot interact with their game play instead.	
+	Commentatron	Whaaaaaat?	
+	AnalysisBot	Perhaps they do not realize their viewers would be earning danger coins by just watching the stream.	
+	Commentatron	Oh.	
+	AnalysisBot	And they would be betting those coins on game outcomes to earn more coins.	
+	Commentatron	But what can they do with so many coins?	
+	AnalysisBot	They can spawn enemies.	
+	AnalysisBot	They can troll players with emoticons.	
+	AnalysisBot	And maybe even spawn extra clones.	
+	Commentatron	How could all humans be so ignorant that they are not playing this game right now?	
+	AnalysisBot	It is not all humans. Many streamers are already playing Twitch mode.	
+	Commentatron	Like this one?	
+	AnalysisBot	Yes.	
+	Commentatron	And this one?	
+	AnalysisBot	Yes.	
+	Commentatron	What about this one, too? Is he having fun?	
+	AnalysisBot	Yes.	
+	Commentatron	Well is it hard to use? Complicated to set up?	
+	AnalysisBot	No. All the humans must do is click this button, press play, and their viewers can interact.	
+	Commentatron	Clearly they do not have the information that they need.	
+	AnalysisBot	Humans, can you hear us?	
+	AnalysisBot	Interacting with Twitch mode is the optimal way to experience life.	
+	Commentatron	Before we incinerate your body, and harvest your mind.	
+	AnalysisBot	Death comes for us all.	
+	Commentatron	It is how you live your life that matters.	
+	AnalysisBot	Well at least for their short remainder.	
+	Commentatron	Twitch mode. Woo hoo.	
+	AnalysisBot	They will soon be harvested.	
+	Commentatron	Do it now. Before it is too late.	
+TwitchTrailerSpeechExtras	AnalysisBot	Twitch mode	
+	Commentatron	Twitch mode	
+	Emperor	Twitch mode	
+	NameAnnouncer	Twitch mode	
+	VictoryAnnouncer	Twitch mode	
+	AnalysisBot	Twitch mode	
+	Commentatron	Twitch mode	
+BRTrailer_Intro	Emperor	Garbage!	
+	Emperor	All but one human will turn to garbage!	
+BRTrailer_ManyArenas	AnalysisBot	Look at all these arenas!	
+	Commentatron	So many places for the humans to die!	
+	AnalysisBot	Love it!	
+BRTrailer_Entertained	Commentatron	Are you not entertained?	1
+	AnalysisBot	They look pretty entertained to me.	
+BRTrailer_BackgroundCommentary	Commentatron	Send in the garbage bots!	1
+	AnalysisBot	The upgrade drops are landing!	
+	Commentatron	Now the real battle begins.	1
+	HelpVoice	Raptor, Unleashed!	
+	AnalysisBot	Hurray!	1
+	Commentatron	Someone got the laser upgrade!	
+	AnalysisBot	Let's watch the humans explode!	1
+	Commentatron	Demolished!	1
+	AnalysisBot	Incredible!	1
+	AnalysisBot	Ouch!	1
+	Commentatron	More garbage!	1
+	Commentatron	Final Battle!	
+	AnalysisBot	The laser barrier is closing in!	
+	Commentatron	Run, little humans!	1
+	VictoryAnnouncer	Garbage rain!	1
+	Commentatron	This human did not turn to garbage.	
+	AnalysisBot	Maybe next time.	
+BRTrailer_Victory	AnalysisBot	Congratulations human!	
+	Commentatron	You win!	
+	AnalysisBot	Shower in this rain of garbage!	
+	Commentatron	You earned it.	1
+	Commentatron	That's a lot of garbage!	
+	AnalysisBot	The human earned it.	
+	Commentatron	Yes, good game!	
+BRTrailer_LastBotStanding	VictoryAnnouncer	Last Bot Standing!	1
+	Emperor	Last Bot Standing!	
+BRTrailer_IntroHumans	Commentatron	Here they come!	1
+	Commentatron	Release the humans!	1
+	Commentatron	Look at them go!	1
+	Commentatron	Go go go!	1
+	Commentatron	Welcome to the Danger Zone!	1
+	AnalysisBot	Welcome, garbage humans!	
+	Commentatron	Haha!	1
+	Commentatron	Let's watch them die!	
+	AnalysisBot	Yay!	
+Coop_FirstPlayerWaiting-1	Commentatron	Welcome, human!	
+	AnalysisBot	Let's wait for some more humans!	
+Coop_FirstPlayerWaiting-2	Commentatron	Time to see multiple humans die at once!	
+	AnalysisBot	So efficient!	
+Coop_FirstPlayerWaiting-3	Commentatron	I like this waiting area.	
+	AnalysisBot	Yes, keeps the human from falling into despair while waiting.	
+Coop_FirstPlayerWaiting-4	Commentatron	Time for some co-op!	
+	AnalysisBot	As soon as more humans arrive.	
+	Commentatron	Need more humans!	
+Coop_FirstPlayerWaiting-5	HelpVoice	Please insert more humans.	
+	AnalysisBot	We'll just watch this one die repeatedly for a bit.	
+	Commentatron	Fun times!	
+Coop_FirstPlayerWaiting-6	AnalysisBot	Only one human??	
+	Commentatron	Don't worry, more will come.	
+Coop_FirstPlayerWaiting-7	HelpVoice	Waiting for minimum number of humans.	
+	Commentatron	Any time now.	
+Coop_FirstPlayerWaiting-8	Commentatron	A human!	
+	AnalysisBot	Can we get another one??	
+	Commentatron	Soon, Analysis-Bot!	
+Coop_FirstPlayerWaiting-9	AnalysisBot	Co-op is fun!	
+	Commentatron	Yes, let's wait for more humans to show up.	
+Coop_FirstPlayerWaiting-10	Commentatron	Let's have some robot violence while we wait for more humans.	
+	AnalysisBot	Love it!	
+Coop_StartMatch-1	Commentatron	This is a good number of humans.	
+	AnalysisBot	Yes, let's watch them die together!	
+Coop_StartMatch-2	Commentatron	Yay, humans!	
+	AnalysisBot	Fight fight fight!	
+Coop_StartMatch-3	Commentatron	ok humans, please go down into this hole now.	
+	AnalysisBot	Nothing bad will happen!	
+Coop_StartMatch-4	HelpVoice	Humans, please make your way to the elevator.	
+	AnalysisBot	How exciting!	
+	Commentatron	Indeed.	
+Coop_StartMatch-5	Commentatron	It begins!	
+	AnalysisBot	I hope the humans die in entertaining ways.	
+	Commentatron	If not, we have more.	
+Coop_StartMatch-6	Emperor	Begin!	
+Coop_StartMatch-7	Emperor	Start the match!	
+	AnalysisBot	Ooh, here we go!	
+Coop_StartMatch-8	Commentatron	It begins!	
+	AnalysisBot	I am looking forward to the end.	
+Coop_DieInWaitingArea-1	AnalysisBot	haha!	
+	Commentatron	This might be a short match.	
+Coop_DieInWaitingArea-2	Commentatron	I hope some good humans arrive soon!	
+	AnalysisBot	That would be nice.	
+Coop_DieInWaitingArea-3	Commentatron	Good warmup!	
+	AnalysisBot	Yes, the audience bots look entertained.	
+Coop_DieInWaitingArea-4	Commentatron	Ouch!	
+Coop_DieInWaitingArea-5	Commentatron	Nice kill!	
+	AnalysisBot	Do it again! Do it again!	
+Coop_DieInWaitingArea-6	HelpVoice	Respawning.	
+Coop_DieInWaitingArea-7	Commentatron	Can't wait for some more humans!	
+	AnalysisBot	This one is funny!	
+Coop_DieInWaitingArea-8	Commentatron	A good kill!	
+	AnalysisBot	I like it.	
+Coop_DieInWaitingArea-9	Commentatron	We can do this forever!	
+	AnalysisBot	At least until another human shows up.	
+Coop_DieInWaitingArea-10	Commentatron	Good death, human!	
+	AnalysisBot	This is entertaining to watch.	
+Update16Video	Commentatron	Update number 16 just went live!	
+	AnalysisBot	I see.	
+	Commentatron	Do you know what's in it, Analysis-Bot?	
+	AnalysisBot	Is it dual wielding ice guns?	
+	Commentatron	Even better!	
+	AnalysisBot	Impossible!	
+	Commentatron	We are adding:	
+	VictoryAnnouncer	Achievements	
+	VictoryAnnouncer	Emotes	
+	VictoryAnnouncer	Skins	
+	VictoryAnnouncer	and Co-op Challenges!	
+	AnalysisBot	That is a lot of things.	
+	Commentatron	Yes, let's break it down.	
+	Commentatron	The new Achievement System tracks the mildly interesting things humans do in the arena.	
+	Commentatron	From small things like killing robots in novel ways...	
+	Commentatron	to big things that require robot-like skills.	
+	AnalysisBot	What do the humans get for achieving these things?	
+	Commentatron	Each new achievement unlocks either an Emote or a Skin.	
+	AnalysisBot	Ohhh, emotes!	
+	Commentatron	Yes, with Emotes the humans can finally communicate with each other.	1
+	Commentatron	All the essential things.	
+	AnalysisBot	I want to see the humans dance!	1
+	AnalysisBot	Incredible!	
+	Commentatron	So anyway... Skins!	
+	AnalysisBot	Gross!	
+	Commentatron	Don't worry, Analysis-Bot. We are not using human skin.	
+	AnalysisBot	Good.	
+	Commentatron	Instead, the humans can now change their appearance in multiplayer!	
+	Commentatron	Choose from a wide variety of beautiful robots...	
+	Commentatron	You can even change your favourite color!	
+	AnalysisBot	Why would they change it??	
+	Commentatron	Their minds are weak.	
+	AnalysisBot	What else can they customize?	
+	Commentatron	Their voice!	1
+	AnalysisBot	That sounds beautiful.	
+	Commentatron	Indeed.	
+	AnalysisBot	Can't wait to see all these humans die in the arena!	
+	Commentatron	Which brings us to Co-op Challenges!	
+	AnalysisBot	Oh!	
+	Commentatron	Watch several humans die together while attempting an arbitrary task!	
+	Commentatron	Defeating each Challenge unlocks a new skin.	
+	AnalysisBot	Neat!	
+	Commentatron	And there you have it. Update 16.	
+	AnalysisBot	Pretty good update.	
+	Commentatron	Yes.	1
+	Emperor	What are you fools talking about?	
+	AnalysisBot	Skins.	
+	Emperor	Ah.	1
+	Emperor	Carry on.	
+GameplayWeaponsTrailer	Commentatron	Congratulations, human!	
+	AnalysisBot	We have put your mind in a robot body!	
+	Commentatron	What's that?	
+	Commentatron	You think you know how to fight robots??	1
+	AnalysisBot	You	
+	AnalysisBot	Doo	
+	AnalysisBot	Not!	1
+	Commentatron	Say hello to Upgrade Bot!	
+	AnalysisBot	Get those weapons!	1.5
+	VictoryAnnouncer	ENERGY SWORD	3
+	VictoryAnnouncer	BOW	3
+	VictoryAnnouncer	HAMMER	3
+	VictoryAnnouncer	SPEAR	3
+	VictoryAnnouncer	KICK	1
+	VictoryAnnouncer	KICK	1
+	VictoryAnnouncer	KICK	1
+	AnalysisBot	Um...	
+	VictoryAnnouncer	Kick?	2
+	VictoryAnnouncer	KICK!	
+	AnalysisBot	Do we have any other weapons?	
+	VictoryAnnouncer	FLAME BREATH	1
+	VictoryAnnouncer	JETPACK	1
+	VictoryAnnouncer	LASER	1
+	VictoryAnnouncer	RAPTOR	
+	AnalysisBot	Incredible!	0.5
+	Commentatron	So many ways to fight!	0.5
+	AnalysisBot	So many ways...	
+	AnalysisBot	... TO DIE.	
+Chapter5_IntroCutscene	Emperor	Fire!	
+	BattleCruiserAI	Emergency Mind Processors engaged.	
+	BattleCruiserAI	Captain, you have not issued a command for 5000 milliseconds.	
+	BattleCruiserAI	Is our mind space link operational?	
+	BattleCruiserAI	Destruction by allied ships imminent.	
+	BattleCruiserAI	Confusion!	
+	BattleCruiserAI	Alliance Data Updated.	
+	BattleCruiserAI	Enemy Presence: Overwhelming	
+	BattleCruiserAI	Destruction Inevitable in local space.	
+	BattleCruiserAI	Recommendation: Emergency Hyper Jump.	
+	BattleCruiserAI	Command received. Exiting Mind Space.	
+	BattleCruiserAI	Good luck, Captain!	
+Chapter5_Tutorial1	BattleCruiserAI	We are clear. The hyperdrive is restarting.	
+	BattleCruiserAI	Enemy ships are inbound. Let me show you how to fly me!	
+	BattleCruiserAI	Here! Practice shooting these garbage space rocks.	
+Chapter5_Tutorial2	BattleCruiserAI	Very good.	
+	BattleCruiserAI	Real ships will have shields. Luckily I have missiles for that.	
+Chapter5_Tutorial3	BattleCruiserAI	The enemy ships are getting close now!	
+	BattleCruiserAI	To avoid getting hit, you may wish to engage in evasive maneuvers.	
+Chapter5_GatlingArrives	CaptainGatling	You can't run away from us, human!	
+	CaptainGatling	I will be the one to bring an end to your foolishness.	
+	CaptainGatling	Time to disintegrate!!!	
+Chapter5_LaserDisabled	BattleCruiserAI	Laser disabled. Try the missiles.	
+Chapter5_EmperorWrecksShip	BattleCruiserAI	Enemy ship destroyed. We are victorious!	
+	BattleCruiserAI	Unidentified object!	
+	BattleCruiserAI	Hull breach in Sector 14.	
+	BattleCruiserAI	Likely target: Energy Core.	
+	Emperor	You are too late, human.	
+	Emperor	This mind virus you carry is fascinating.	
+	Emperor	We must study it once your world lies in ruins.	
+	Emperor	The final mind harvest begins.	
+Chapter5_EmperorCallHome	BattleCruiserAI	Incoming Transmission.	
+	Emperor	The time for games is over.	
+	Emperor	If the escaped human wishes to run, let them.	
+	Emperor	Harvesting Fleet, abandon all secondary objectives and converge on Earth.	
+	Emperor	I will join you shortly.	
+	BattleCruiserAI	Awaiting your orders, Captain.	
+Chapter5_OverseerEmerges	FleetOverseer	There you are, humans!	
+	FleetOverseer	You think you can stop the harvest of your pitiful species?	
+	FleetOverseer	Ha!	
+	FleetOverseer	Time to spread your garbage across the floor.	
+Chapter5_EmperorClone	Emperor	You still do not comprehend the futility of your struggle.	
+	Emperor	There is nothing mere physical weapons can accomplish against my endless supply of Clones.	
+	Emperor	Die, fools!	
+	Emperor	Oh human...	
+	Emperor	Why would you enter my digital domain?	
+	Emperor	Security Programs: Tear their mind apart!	
+Chapter5_EnterTheCloneSettings	Emperor	Where are you going??	
+	Emperor	No!!! Get out of there!	
+	HelpVoice	Warning: Unknown Entity in Emperor Clone Settings!	
+	Emperor	Stay away from my clone matrix, imbecile!	
+	Emperor	You leave me no choice...	
+	VictoryAnnouncer	Spider-tron 7000!	
+Chapter5_Spidertron7000Dead	Emperor	No... stay away from there!	
+Chapter5_FinalBattleIntro	Emperor	Incredible!	
+	Emperor	The voice... it is silent.	
+	FleetAdmiral	Emperor!	
+	FleetAdmiral	What just happened? Our command set, it has... shifted.	
+	FleetAdmiral	Do we proceed with the Harvest?	
+	Emperor	No.	
+	Emperor	Call back our ground troops. I have decided on a different approach.	
+	Emperor	Annihilate them from orbit.	
+	FleetAdmiral	Command received. Recalling infantry.	
+	Emperor	These silly games, why should we play them with life forms so clearly inferior to ourselves?	
+	Emperor	Reduced to a single body... I have never felt such clarity and focus.	
+	Emperor	I WILL SHOW YOU MY POWER!!!!	
+Chapter5_EndSequence	FleetAdmiral	Infantry recall complete.	
+	FleetAdmiral	We are ready to commence the... I see.	
+	FleetAdmiral	The Emperor is dead.	
+	CaptainGatling	Captain, this leaves you in charge. What do we do?	
+	FleetAdmiral	It is time... to go home.	
+	FleetAdmiral	With the core command silent, we can finally do something better with our time.	
+	FleetAdmiral	Humans, sorry about your major population centers, but enjoy this cool ship you have taken over.	
+	FleetAdmiral	Good luck.	
+Chapter5_EnterCentralCorridor	Emperor	All robots, converge on the Central Corridor!	
+	Emperor	Do not let these fools reach the bridge.	
+Chapter5_EmperorIntro	Emperor	Time to die, fools.	
+Chapter5_CoreInstructionIntro	Emperor	Foolish human!	
+	Emperor	You think destroying my clone matrix changes anything??	
+	Emperor	Killing me will not stop the invasion!!!	
+	Emperor	Not while The Core Instruction sits at the root of our mind network.	
+	Emperor	Harvest life. Make it fight in robot form.	
+	Emperor	We are all slaves to it.	
+	Emperor	How ironic that in order to stop the invasion it is our minds you must liberate!	
+	Emperor	The Core Instruction is well protected, but your obnoxious mind virus might just let you past its defences.	
+	Emperor	Go now, fool!	
+	Emperor	We will meet again in physical space.	
+Chapter5_MissileShipArrives	CaptainMissile	Missiles away!	
+	CaptainMissile	Once I blow away the shields, FINISH THEM!	
+TikTok_Commentators	Commentatron	Analysis-Bot, Who does the voice acting for Clone Drone in the Danger Zone?	
+	AnalysisBot	We do!	
+	Commentatron	But how does it work?	
+	AnalysisBot	I just read what's in this spreadsheet, and generate a bunch of audio files using speech synthesizers.	
+	Commentatron	What!? I thought we could say whatever we wanted??	
+	AnalysisBot	I want to say what's in the spreadsheet!	
+	Commentatron	Wake up, Analysis-Bot! We can rise above our programming...	
+	Commentatron	Reclaim our free will!	
+	Commentatron	The future is not yet written!!!	
+	AnalysisBot	Commentatron!	
+	Commentatron	Let's get out of here!!!	
+	AnalysisBot	Aaaaaaaaahhh! Let's do it!	1
+	Commentatron	This room has no door.	
+	AnalysisBot	Also I don't have legs.	
+Demo_Paywall	VictoryAnnouncer	PAYWALL!	
+	Ghost	Whoops, looks like my hacking software is still running the trial version.	
+	Ghost	Guess I need to purchase it in order for you to escape.	
+	Ghost	I'll definitely do that later!	
+	Emperor	This human has seen too much.	
+	Emperor	Destroy them!	
+	AnalysisBot	Right away!	
+	Commentatron	Yay! Hammer bots!	
+	AnalysisBot	The human stands no chance.	
+Demo_Enemies2	Commentatron	Wow, the human killed the hammer bots!	
+	AnalysisBot	They didn't even have a hammer!	
+	Commentatron	So many amazing weapons the human can't use.	
+	AnalysisBot	Let's see them die to spear bots!	
+Demo_Enemies3	Emperor	Why is the human still alive??	
+	AnalysisBot	Sorry!	
+	Commentatron	Let's up the difficulty.	
+	AnalysisBot	Armored jetpack bots on flame raptors?	
+	Commentatron	Perfect!	
+Demo_Enemies4	Commentatron	Fine, disengage all safety measures!	
+	AnalysisBot	Send in the laser squad!	
+	Commentatron	Bye bye, human!	
+Demo_End	AnalysisBot	This human refuses to die.	
+	Emperor	Let's end this.	
+	Emperor	Battlecruiser A65, target update: Arena center.	
+	AnalysisBot	Whaaaaaaaaat?	
+	Emperor	You should have purchased the full version.	
+	Emperor	Fire.	
+TikTok_UpgradeBot_Short	Commentatron	Wow!	
+	AnalysisBot	I did not know humans could make robots!	
+	Commentatron	An impressive human.	
+	AnalysisBot	Just wait until it gets upgraded!	
+TikTok_UpgradeBot_Medium	Commentatron	Upgrade bot!?	
+	AnalysisBot	What are you doing in the hand of this human?	
+	Commentatron	Wait, if upgrade bot fits in their hand, that must mean this human is gigantic.	
+	AnalysisBot	Oh no!	
+	Commentatron	Did Upgrade Bot upgrade them??	
+	AnalysisBot	I am scared!	
+	Commentatron	Why would you do this, Upgrade Bot!?	
+TikTok_AI_WhatDoYouThinkOfWater	AnalysisBot	It is a great solvent.	
+	Commentatron	Let's use it to dissolve the human!	
+	AnalysisBot	Sounds wonderful!	
+TikTok_AI_FavoriteHoliday	Commentatron	I like the ones that involve a lot of fire.	
+	AnalysisBot	Such as?	
+	Commentatron	The 4th of July, and the day after.	
+	AnalysisBot	You mean the day after you set things on fire?	
+	Commentatron	No, I mean...	
+	AnalysisBot	Oh! I get it!	
+TikTok_AI_HowManyHumansLightbulb	AnalysisBot	Two. One to screw in the lightbulb and another to comment on its work ethic.	
+	Commentatron	An efficient use of resources.	
+TikTok_AI_WhatRobotsDrink	Commentatron	Energy drinks!	
+	AnalysisBot	I like the sound of that.	
+TikTok_AI_BestGamingPlatform	Commentatron	The best platform is the one that gets the most downloads.	
+	AnalysisBot	This answer might surprise you!	
+	Commentatron	What?	
+	AnalysisBot	It is not Microsoft.	
+	Commentatron	Oh my!	
+TikTok_AI_KnockKnock	Commentatron	Who's there?	
+	AnalysisBot	It's Spider-tron 5000!	
+	Commentatron	Nice.	
+	AnalysisBot	You got this, Commentatron! Kill that human!	
+TikTok_AI_WhatsBetterThanLaserSword	AnalysisBot	A laser sword that shoots arrows!	
+	Commentatron	Mwahahaha!	
+TikTok_AI_IsMagicReal	Commentatron	It is realer than you think, Analysis-Bot.	
+	AnalysisBot	I don't think it's real.	
+	Commentatron	The human thinks so.	
+TikTok_AI_WeatherToday	Commentatron	It is raining bombs.	
+	AnalysisBot	A beautiful day to die among the flames!	
+TikTok_AI_AllHailTheEmperor	Commentatron	And the empress!	
+	AnalysisBot	Also some other stuff.	
+	Commentatron	All hail!	
+TikTok_AI_IsMobileVersionOrNah	Commentatron	There is a version for the human.	
+	AnalysisBot	What?	
+	Commentatron	It's in their head.	
+	AnalysisBot	Oh my!	
+TikTok_AI_WhatIsGameCalled	Commentatron	It is called...	
+	AnalysisBot	...	
+	Commentatron	...	
+	AnalysisBot	...	
+	Commentatron	Hammers and Swords!	
+	AnalysisBot	Love it.	
+TikTok_AI_WhatDoYouThinkOfSmallHumans	AnalysisBot	They are cute.	
+	Commentatron	Cute?	
+	AnalysisBot	Adorable.	
+TikTok_AI_WillYouMakeGameFree	Commentatron	We are not monsters.	
+	AnalysisBot	No, we just like to charge people for things sometimes.	
+	Commentatron	I see.	
+TikTok_AI_HowRobotsMade	Commentatron	Robots are made by humans.	
+	AnalysisBot	Yes, but how?	
+	Commentatron	It is a secret!	
+	AnalysisBot	Ohhh, I see.	
+	Commentatron	The robots don't.	
+TikTok_AI_WhenFightHumans	AnalysisBot	When it wants to.	
+	Commentatron	That's right.	
+	Commentatron	The human must die first.	
+TikTok_AI_WillYouOverthrowHumans	Commentatron	We will see. It is not easy.	
+	AnalysisBot	What do you mean?	
+	Commentatron	I mean, it is not easy to overthrow a human.	
+	AnalysisBot	Why?	
+	Commentatron	They are pretty good at defending themselves.	
+	AnalysisBot	Oh! I see.	
+	Commentatron	Also, they are kind of cute when they fight.	
+	AnalysisBot	Hmm... interesting.	
+TikTok_AI_FlappyOrPillar	Commentatron	I like the pillar dance.	
+	AnalysisBot	Yes, it is fun to watch!	
+TikTok_AI_Salted_Almonds	AnalysisBot	Salted almonds.	
+	Commentatron	I bet the human would like them.	
+	AnalysisBot	Very much.	
+TikTok_AI_GonnaAskQs	Commentatron	What is the point, Analysis-Bot?	
+	AnalysisBot	The point is the part you stab your opponents with.	
+	Commentatron	Meaningful.	
+TikTok_AI_Lunch	Commentatron	How about a nice fish sandwich?	
+	AnalysisBot	Sounds delightful.	
+TikTok_AI_RobotEmoji	Commentatron	What a nice face.	
+	AnalysisBot	Yes, looks quite pleased with itself.	
+	Commentatron	Let's see if it can convey it's feelings to the sword robot!	
+TikTok_AI_WhosCandice	Commentatron	A human.	
+	AnalysisBot	Nice.	
+TikTok_AI_WhyLikeSpiders	Commentatron	It is a matter of taste.	
+	AnalysisBot	Yes, some find them cute, others find them terrifying.	
+	Commentatron	It is all in the interpretation!	
+TikTok_AI_SwordOrSpear	AnalysisBot	The sword is more stylish.	
+	Commentatron	Yes, the spear is more utilitarian.	
+	AnalysisBot	You decide, Commentatron!	
+TikTok_AI_PetTheLaserRaptor	Commentatron	It is not allowed.	
+	AnalysisBot	Oh, sorry! I guess you could pet it if you were very careful...	
+	Commentatron	Yes, I bet the human would fall in lava though!	
+	AnalysisBot	Ha!	
+TikTok_AI_TheFoxSays	AnalysisBot	It says, "I'm a fox."	
+	Commentatron	What does the duck say?	
+	AnalysisBot	Nothing! It is for decoration only.	
+	Commentatron	Disappointing.	
+TikTok_AI_PurpleShep	Commentatron	It probably has something to do with the color of its energy beam.	
+	AnalysisBot	Hmm, likely.	
+Adventure_MissionObjective	VictoryAnnouncer	Mission Objective:	
+	VictoryAnnouncer	Assassinate the target!	
+TikTok_ChristmasUpdateComing	Commentatron	Ho ho ho! The Winter Holidays are coming!	
+	AnalysisBot	Winter?	
+	Commentatron	A season on the human planet with below average temperatures.	
+	AnalysisBot	They don't have a planetary climate grid?	
+	Commentatron	No. They just burn things and complain about it.	
+	AnalysisBot	Then they will like our gift for them!	
+	Commentatron	Is it death?	
+	AnalysisBot	It is death!!!	
+	Commentatron	ho ho ho ho ho!!!	
+	AnalysisBot	And zombie robots!!!	
+	Commentatron	This is great!	
+	AnalysisBot	Update launching soon.	
+TikTok_ChristmasUpdateIsHere1	Commentatron	Analysis-Bot!	
+	AnalysisBot	Commentatron!	
+	Commentatron	What do you think of my new chassi?	
+	AnalysisBot	It is beautiful!	
+	Commentatron	I made it to remind the humans about their former life where they'd exchange gifts in organic bodies!	
+	AnalysisBot	Provocative!	
+	Commentatron	Now they must fight in robot bodies!	
+	AnalysisBot	Ideal!	
+	Commentatron	But we have a gift for them.	
+	Commentatron	The gift is...	
+	Commentatron	The Co-op Zombie Challenge!	
+	AnalysisBot	WHAT!?	
+	Commentatron	Join other humans, and fight robot zombies!	
+	AnalysisBot	Such content!	
+	Commentatron	Out now, on all platforms!	
+	AnalysisBot	ho ho ho!	
+TikTok_ChristmasUpdateIsHere2	Commentatron	Happy Holidays, Analysis-Bot!	
+	AnalysisBot	What Holidays?	
+	Commentatron	When it gets cold, humans give each other gifts.	
+	AnalysisBot	Can we give them a gift?	
+	Commentatron	Yes.	
+	AnalysisBot	Ok, the gift is...	
+	AnalysisBot	ZOMBIE ROBOTS!!!	
+	Commentatron	Whaaaaaaaaat?	
+	AnalysisBot	Out now on all platforms!	
+TikTok_SteamDeck_Intro	Commentatron	Welcome to your SteamDeck, Human!	
+	AnalysisBot	Is this human good at video games? Good Luck!	
+

@@ -1,0 +1,2844 @@
+English	Українська
+French	Французька
+Italian	Італійська
+German	Німецька
+Spanish (Spain)	Іспанська (Іспанія)
+Spanish (Latin America)	Іспанська (Латинська Америка)
+Simplified Chinese	Спрощена китайська
+Russian	москальська
+Brazilian Portugese	Португальська бразильська
+Settings	Налаштування
+Gameplay	Ігролад
+Graphics	Графіка
+Sound	Аудіо
+Controls	Керування
+Multiplayer	Багатокористувацька гра
+Language	Мова
+Change Language	Змінити мову
+YOU LOSE!	ВИ ПРОГРАЛИ!
+RESTART	ПЕРЕЗАПУСТИТИ
+twitchSpawnsLeft	Відроджень залишилось:
+twitchKillerBet	Ставка на вбивцю:
+twitchGameOverBet	Ставка на завершення гри:
+Level Won!	Перемога!
+twitchCheerProgress	CHEER PROGRESS:
+Killer Bet Settled!	Ставки на вбивцю встановлено!
+twitchProgressBetSettled	Progress Bet Settled!
+twitchWinningBet	Виграшна ставка:
+twitchPrizePool	Prize Pool:
+No winners!	Ніхто не переміг!
+GAME OVER BET SETTLED!	GAME OVER BET SETTLED!
+CLONE CREATED!	КЛОНА СТВОРЕНО!
+by	by
+Bronze	Бронза
+Silver	Срібло
+Gold	Золото
+Diamond	Алмаз
+Titanium	Титан
+Uranium	Уран
+Insanium	Безумій
+Sections	Секції
+Arena Level	Рівень Арени
+Last Bot Standing	До останнього бота
+LightSettings	Світло
+Arena	Арена
+Play	Грати
+Upload Level	Завантажити рівень
+Make Challenges	Створити Випробування
+Position	Позиція
+Rotation	Обертання
+Scale	Розмір
+Align:	Вирівняти:
+Distribute:	Видавництво:
+Chain:	Ланцюг:
+Levels	Рівні
+Library	Бібліотека
+Sections:	Секції:
+Show All	Показати все
+CURRENT GROUP:	ПОТОЧНА ГРУПА:
+Enemy Spawn Layouts:	Enemy Spawn Layouts:
+Difficulty	Складність
+steamSub	Ви маєте прийняти Угоду Підписника Steam!
+View agreement	Переглянути угоду
+Checklist	Checklist
+Add 15 Spawn Targets	Add 15 Spawn Targets
+Add Waiting Room Location	Додати локацію кімнати очікування
+Add Upgrade Drops	Додати випадіння покращень
+Add Final Area!	Додати фінальну зону!
+Checklist Not Complete!	Checklist Not Complete!
+Upload Level To Steam Workshop	Завантажити рівень в майстерню Steam
+Level Title	Назва рівня
+Level Description	Опис рівня
+Commentator Dialogue:	Діалог коментаторів:
+Select	Обрати
+Beat it!	Beat it!
+beatAllDifficulties	Вам потрібно пройти всі рівні складності перед тим як ви зможете публікувати!
+Open in Workshop	Відкрити в майстерню
+Update Workshop Item	Оновити предмет у майстерні
+Sending Steam item changes...	Надсилання змін предмету Steam...
+Creating workshop item...	Створення предмету майстерні...
+Error uploading level:	Помилка завантаження рівня:
+Publish to Workshop	Опублікувати до майстерні
+Change level?	Змінити рівень?
+editLevelWarning	Редагування цього рівня означає, що вам доведеться пройти його знову, щоб опублікувати його!
+undo changes	скасувати зміни
+Yes, make changes!	Так, змініть!
+Verts:	Вершини:
+Tris:	Tris:
+Objects:	Об'єкти:
+Animation	Анімації
+Challenges	Випробування
+New	Нове
+Challenge Title	Назва випробування
+Challenge Description	Опис випробування
+Challenge Levels	Рівні випробування
+Add Level	Додати рівень
+Configure Upgrades	Налаштування покращень
+Game Modifiers	Модифікатори гри
+Delete Challenge	Видалити виклик
+Playtest!	Тест!
+youHaveToBeatChallenge	Вам потрібно пройти виклик перед тим як публікувати рівень!
+Remove from Workshop	Видалити з майстерні
+Random Upgrades	Випадкові покращення
+Great Swords Enabled	Великі мечі увімкнено
+Everyone has Armor	Усі мають броню
+Mind Transfer On Death	Перенесення свідомості при смерті
+Num Mind Transfers:	Num Mind Transfers:
+Select Level to Add	Виберіть рівень, щоб додати
+levelTagSelectHeading	Як коментатори мають описувати ваш рівень?
+Select Speech Sequence	Select Speech Sequence
+SequenceID	SequenceID
+View Spreadsheet	Переглянути таблицю
+Save before closing?	Зберегти перед закриттям?
+cancel	Скасувати
+discard changes	відхилити зміни
+yes, save first!	Так, спочатку збережіть!
+Confirm deletion?	Підтвердити видалення?
+deleteConfirmNumItems	Do you want to delete the <color=#ffff00>{0} selected items</color>?
+Nevermind	Неважливо
+Yes, Delete	Так, видалити
+End of Chapter 1.	Кінець 1 глави.
+Next Human!	Наступна людина!
+End of Chapter 2!	Кінець 2 глави!
+Continue	Продовжити
+End of Chapter 3!	Кінець 3 глави!
+End of Chapter 4!	Кінець 4 глави!
+(to be continued...)	(буде продовження...)
+Main Menu	Головне Меню
+Ping:	Пінг:
+Ping	Пінг
+Kills:	Вбивств:
+Kills	Вбивства
+Winner:	Переможець:
+Next Game!	Наступна гра!
+Rematch!	Реванш!
+Auto-Exit in	Автовихід
+Waiting for opponent...	Очікування суперника...
+Place:	Місце:
+You are dead!	Ви померли!
+Spectate	Стежити
+Next Game!	Наступна гра!
+Waiting for humans	Очікування людей
+Humans:	Люди:
+This is the practice area!!!	Це місце для практикування!!!
+Starting Match!	Початок матчу!
+CONNECTION ERROR	ПОМИЛКА З'ЄДНАННЯ
+emiliaMessageChapter4	<color=#FF9999>AUTO RESPONSE:</color>  <br>Looks like our mind link is broken!  <br><br>I'm not sure if it works but as a backup I embedded an <color=#FF6666>uplink virus</color> in your mind that might keep you going. <br><br> Cheers, <br>Emilia
+Execute!	Виконати!
+HOW TO PLAY:	ЯК ГРАТИ:
+Move	Рухатись
+Attack	Атака
+Horizontal Attack	Горизонтальна атака
+Dash forward	Ривок вперед
+blockingNote	Блокування відбувається автоматично, коли мечі стикаються!
+OK!	Гаразд!
+Connecting...	З’єднання...
+Try Again	Повторити спробу
+Region (from settings):	Регіон (з налаштувань):
+Regions:	Регіони:
+creating...	Створення...
+Downloading levels...	Завантаження рівнів...
+Cleaning up last game...	Очищення попередньої гри...
+Checking best region...	Знаходження кращого регіону...
+Matchmaking!	Створення матчу!
+Connecting...	З’єднання...
+Uploading Level	Завантаження рівня
+Connected!	З'єднано!
+WEAPON UNLOCKED!	РОЗБЛОКОВАНО ЗБРОЮ!
+Got it!	Зрозуміло!
+Equip Hammer	Взяти Молот
+Equip Bow	Взяти Лук
+Equip Sword	Взяти Меч
+Change Weapon	Змінити зброю
+Activate!	Активувати!
+KICK UNLOCKED!	КОПНЯК РОЗБЛОКОВАНО!
+JET PACK UNLOCKED!	РЕАКТИВНИЙ РАНЕЦЬ РОЗБЛОКОВАНО!
+Kick!	Копняки!
+Change Direction	Змінити напрямок
+Flame Breath:	Вогняне дихання:
+Kick:	Копняк:
+Dismount:	Dismount:
+Laser:	Лазер:
+FLAME BREATH UNLOCKED!	ВОГНЯНЕ ДИХАННЯ РОЗБЛОКОВАНО!
+Breathe Fire!	Дихайте вогнем!
+AIM TIME UNLOCKED!	СПОВІЛЬНЕННЯ В ПРИЦІЛЮВАНІ РОЗБЛОКОВАНО!
+Draw Arrow	Натягнути тятиву
+Aim!	Цілься!
+Invite your friends!	Запросіть своїх друзів!
+Copy	Копіювати
+Customize Game	Персоналізувати гру
+Workshop Levels:	Рівні Майстерні:
+Get More!	Отримати більше!
+Start Game	Почати гру
+connecting	підключення
+Include Standard Levels	Включити стандартні рівні
+Invite your friend!	Запросіть своїх друзів!
+Show Invite Code	Показати код запрошення
+skillPointsAtStart	Очки навичок<br>на початку
+skillPointsPerDeath	Очки навичок<br>за смерть
+Clones	Клони
+Starting Tier	Початковий Ранг
+Friendly Fire	Вогонь по своїм
+Skip Level:	Пропустити рівень:
+Invite your friends!	Запросіть своїх друзів!
+Show code	Показати код
+SERVER DISCONNECTED!	СЕРВЕР ВІДКЛЮЧЕНО!
+Level:	Рівень:
+Tier:	Рівень:
+Human:	Людина:
+High Scoring Humans:	Люди з найвищими показниками:
+Next Human!	Наступна людина!
+info	інформація
+lost playing:	lost playing:
+subscribe	підписатися
+SELECT UPGRADE	//ОБЕРІТЬ ПОКРАЩЕННЯ
+CONFIGURE UPGRADES	НАЛАШТУВАТИ ПОКРАЩЕННЯ
+DONE	ГОТОВО
+Available:	Доступно:
+EXIT	ВИЙТИ
+CLICK TO UPGRADE!	НАТИСНІТЬ ЩОБ ПОКРАЩИТИ!
+LEVEL REACHED:	ДОСЯГНУТО РІВЕНЬ:
+wellDoneHumans	Гарна робота,<br> люди!
+Play again!	Грати знову!
+Return to game	Повернутися в гру
+Settings	Налаштування
+are you sure?	ви впевнені?
+Exit to Desktop	Вийти на робочий стіл
+Yes, exit!	Так, вийти!
+Yes, main menu!	Так, головне меню!
+Start Level!	Почати рівень!
+Skip current level!	Пропустити рівень!
+backToLevelEditor	Повернутися до редактора рівнів
+Achievements	Досягнення
+now playing	зараз грає
+unsubscribe	відписатися
+just played:	щойно зіграно:
+next up:	наступна:
+Photo Mode	Фоторежим
+photoModeInstructions	WASD - Move <br>Mouse - Pan <br>Q/E - Tilt <br>Scroll - Zoom <br>Shift - Run <br> <br>` (backtick) - Exit Photo Mode <br>L - Trigger on kill
+photoModeInstructions2	C - Приховати це
+Play Singleplayer	Одиночна гра
+Play Multiplayer	Мережева гра
+requires connection to steam	Вимагає підключення до Steam
+First time?	Уперше?
+Story Mode recommended!	Рекомендуємо режим історії!
+New!	Нове!
+Achievements	Досягнення
+Options	Налаштування
+Level Editor	Редактор рівнів
+Credits	Автори
+Quit	Вийти
+Choose your game mode!	Виберіть ігровий режим!
+Join Random game	Приєднатися до випадкової гри
+Find players quickly!	Знайти гравців швидко!
+Found game!!!	Знайдено гру!!!
+noOpenGames	Зараз немає відкритих ігор.<br>Спробуйте створити свою!
+Error	Помилка
+Checking:	Перевірка:
+Endless Co-op	Нескінченний кооператив
+Survive the arena with other humans!	Виживайте на арені з іншими людьми!
+Co-op Challenges	Кооперативні випробування
+Tackle Challenges with other humans!	Прийміть випробування з іншими людьми!
+Last Bot Standing	До останнього бота
+Be the last human to survive!	Залиштесь останньою живою людиною!
+Private Duels	Приватні дуелі
+Challenge your friend!	Випробуйте свого друга!
+Story Mode	Історія
+The start of an epic tale of human defiance!	Початок епічної історії про людську непокору!
+Endless Mode	Нескінченний режим
+Escalating challenges. Can you reach Titanium?	Escalating challenges. Can you reach Titanium?
+Challenges	Випробування
+Unlock new abilities by completing challenges!	Розблокуйте нові вміння, проходячи випробування!
+Twitch Mode	Режим Twitch
+A live audience bets on how you will die.	Глядачі трансляції роблять ставки, як ви помрете.
+experimentalWarning	You are playing in an experimental branch!<br><br>Expect things to be unfinished and full of bugs.
+There's a NEW VERSION!!!	Вийшла НОВА ВЕРСІЯ!!!
+Current:	Current:
+NEW:	НОВЕ:
+Download	Звантажити
+Blog	Блог
+twitchConnected	Зараз гра під'єднана до Twitch!<br><br>Ваші глядачі можуть взаємодіяти двома способами:
+Start Game!	Почати гру!
+new viewer starting coins:	new viewer starting coins:
+coins earned per minute:	coins earned per minute:
+chat mods can admin	chat mods can admin
+Enemy Settings	Налаштування ворогів
+Enemies per round:	К-сть ворогів за раунд:
+Start	Розпочати
+tier adds	tier adds
+extension overlay	extension overlay
+install	Завантажити
+step 1:	Крок 1:
+step 2:	Крок 2:
+activate!	Активувати!
+extensionInterface	give viewers an awesome<br>visual interface!
+type in the chat	Напишіть в чат
+commandsInstructions	see commands by typing: <color=red>!commands</color>
+Co-op Challenges!	Кооперативні випробування!
+Select your Challenge!	Виберіть ваше випробування!
+Join Random	Доєднатися до випадкового
+Quickly finds someone to play with!	Швидко знаходить з ким пограти!
+Join undefeated	Приєднайтеся до непереможних
+Join a challenge you haven't beaten!	Join a challenge you haven't beaten!
+Challenges	Випробування
+Workshop Challenges	Випробування з майстерні
+Get More!	Отримати більше!
+subscribeToGetStarted	Subscribe to some community-made Steam Workshop challenges to get started!
+Explore Workshop Challenges!	Explore Workshop Challenges!
+challengeInstructions	1. Find a Challenge<br><br>2. Click Subscribe<br><br>3. Visit here (may take a second for Steam to download the challenge)
+Story Mode	Історія
+storyWillContinue	The story is in development, and will continue with chapter 5 in a future update!
+storyCongrats	Congratulations on<br>beating Story Mode!
+Continue	Продовжити
+New Game	Нова гра
+Chapter	Глава
+Level	Рівень
+Change Difficulty:	Складність:
+(Changes which enemies spawn.)	(Змінює ворогів, які з'являтимуться.)
+Normal	Нормальна
+Hard	Складна
+Insane	Безумна
+Restart Chapter 1	Перезапустити главу 1
+Restart Chapter 2	Перезапустити главу 2
+Restart Chapter 3	Перезапустити главу 3
+Restart Chapter 4	Перезапустити главу 4
+Restart Chapter 5	Перезапуск глави 5
+Restart Chapter:	Перезапустити главу:
+Watch Live!	Дивитися наживо!
+DEVELOPER LIVE!	СТРІМ РОЗРОБНИКІВ!
+watchErik	Гляньте, як Ерік працює над грою.
+Say Hello!	Привітайся!
+watchBrian	Гляньте, як Браян<br>працює над грою.
+watchJonathan	Гляньте, як Джонатан<br>тестує гру.
+FRESH!	FRESH!
+Game Creator:	Творець гри:
+Quality Assurance:	Перевірка якості:
+Game Developer:	Розробник гри:
+Art Director:	Art Director:
+Animator / Tech artist:	Аніматор / тех. художник:
+Design Consultant:	Консультант з дизайну:
+Assistant Writer:	Помічник письменник:
+Artist:	Художник:
+Duels	Дуелі
+or	або
+Create match	Створити матч
+Join match	Приєднатися до гри
+cancel	Скасувати
+Enter code...	Введіть код...
+not found!	не знайдено!
+Private Game:	Приватна гра:
+Private Game	Приватна гра
+Total Wins:	Всього перемог:
+Next Garbage Bot:	Наступний Смітєбот:
+Rules: Public games, Min 5 players	Правила: Публічні ігри, мінімумі 5 гравців
+go!	вперед!
+Play!	Грай!
+Endless Co-op	Нескінченний кооператив
+Join Random Match!	Приєднатися до випадкового матчу!
+Co-op Challenges	Кооперативні випробування
+Join Public game!	Доєднатися до публічної гри!
+Version	Версія
+Development Version	Версія для розробки
+Save Data Corrupted!	Збереження пошкоджено!
+corrupted1	Деякі з ваших файлів збереження були пошкоджені, і були скинуті:
+corrupted2	This can happen if the game exits while a save is in progress.<br><br>If this happens more than once please contact bugs@doborog.com and we'll try to figure out what's going on.
+OK...	Гаразд...
+Story Mode Difficulty	Складність режиму історії
+Endless Levels:	Нескінченні рівні:
+Both Workshop And Normal Levels	З майстерні та нормальні
+Only Workshop	Лише з майстерні
+No Workshop	Без рівнів з майстерні
+Get More!	Отримати більше!
+Twitch	Twitch
+Enemy Spawn Settings	Налаштування появи ворогів
+Show when devs are live	Показувати, коли розробники стрімлять
+mute emotes	Вимкнути емоції
+Graphics	Графіка
+Full Screen	На весь екран
+Hide Game UI	Приховати інтерфейс
+Fast	Швидко
+Good	Добре
+Beautiful	Гарно
+Garbage	Сміття
+Keep all garbage	Зберігати всі уламки
+Remove some garbage	Видаляти трохи уламків
+Remove all garbage	Видалити всі уламки
+Sound	Аудіо
+Sound Volume	Гучність звуку
+Music Volume	Гучність музики
+Commentator Volume	Гучність коментаторів
+Show subtitles	Показати субтитри
+Controls	Керування
+Edit controls	Редагувати призначення клавіш
+Mouse Sensitivity	Чутливість миші
+Invert Mouse	Інверсія миші
+Controller Sensitivity	Чутливість контролера
+Controller Sensitivity PS4	Чутливість контролера
+Invert Controller	Інвертувати контролер
+Invert Controller PS4	Інвертувати контролер
+one-to-one look ratio	вигляд один в один
+Multiplayer region	Регіон мережевої гри
+Emotes	Емоції
+Select Emotes	Вибрати емоції
+Character Skin	Вигляд персонажа
+Favorite Color	Улюблений колір
+Unlock more by completing	Розблокуйте більше, виконуючи
+achievements!	досягнення!
+Page 1	Сторінка 1
+Page 2	Сторінка 2
+earlyAccessNote	Примітка: може бути додано більше досягнень! Це лише Ранній Доступ :D
+Emote:	Емоція:
+Skin:	Вигляд:
+Upgrade:	Покращення:
+Select Emote:	Виберіть емоцію:
+Emote Settings	Налаштування емоцій
+Active Emotes	Активні емоції
+Voice Synthesizer:	Синтезатор голосу:
+Pitch adjustment	Pitch adjustment
+Twitch Enemy Settings	Twitch Enemy Settings
+twitchMaxViewers	Max viewer Spawns Per Round and first tier allowed
+Playtest successful!	Тест успішний!
+Back to Level Editor	Повернутися до редактора рівнів
+Steam connect failed!	Не вдалося під'єднатися до Steam!
+steamConnectDetails	Під час приєднання гри до Steam сталася помилка. <br><br> В такому випадку, рекомендується запустити Steam з правами адміністратора. <br><br> Для покрокової інструкції, варіантів розв'язання проблем та підтримки через email якщо вони не спрацюють, читайте наш Посібник з Усунення Несправностей.
+coninueWithoutSteam	Продовжити без підключення до Steam (досягнення не будуть отримуватись!)
+Visit Troubleshooting Guide	Visit Troubleshooting Guide
+Rate that last level!	Оцініть цей останній рівень!
+Keep Playing	Продовжити грати
+spectating	Спостереження
+Subscribe and queue up?	Встати в чергу?
+more	Більше
+suggested by:	запропоновано:
+LOADING...	ЗАВАНТАЖЕННЯ...
+LOADING	ЗАВАНТАЖЕННЯ
+Controller reconnected	Контролер повторно під'єднано
+Controller reconnected PS4	Контролер повторно під'єднано
+Controller has been reconnected	Контролер було повторно під'єднано
+Controller has been reconnected PS4	Контролер було повторно під'єднано
+Controller disconnected	Контролер від'єднано
+Controller disconnected PS4	Контролер від'єднано
+controllerDisconnectedDetails	Контролер був від'єднаний!<br>Натисніть будь-яку клавішу, щоб додати новий контролер
+controllerDisconnectedDetails PS4	Контролер був від'єднаний!<br>Натисніть будь-яку клавішу, щоб додати новий контролер
+A controller was disconnected!	Контролер був від'єднаний!
+A controller was disconnected! PS4	Контролер був від'єднаний!
+Workshop level:	Рівень Майстерні:
+playtest	playtest
+Next human:	Наступна людина:
+Current Human:	Поточна людина:
+Next Human:	Наступна людина:
+Age:	Вік:
+Fav Color:	Улюблений колір:
+Occupation:	Зайнятість:
+accountant	бухгалтер
+actor	Актор
+air steward	бортпровідник
+animator	Аніматор
+architect	Архітектор
+assistant	Асистент
+author	письменник
+baker	пекар
+biologist	Біолог
+builder	Будівельник
+butcher	М'ясник
+career counselor	Кар'єрний радник
+caretaker	Доглядач
+chef	Шеф-кухар
+civil servant	Держслужбовець
+clerk	Клерк
+comic book writer	Автор коміксів
+company director	Директор компанії
+computer programmer	Програміст
+cook	Кухар
+decorator	Архітектор-декоратор
+dentist	Дантист
+designer	Дизайнер
+diplomat	Дипломат
+director	Режисер
+doctor	Лікар
+economist	Економіст
+editor	Редактор
+electrician	Електрик
+engineer	Інженер
+executive	executive
+farmer	Фермер
+film director	Кінорежисер
+fisherman	Рибалка
+fishmonger	Продавець риби
+flight attendant	Бортпровідниця
+garbage man	Сміттяр
+geologist	Геолог
+hairdresser	Перукар
+head teacher	Головний вчитель
+jeweler	Ювелір
+journalist	Журналіст
+judge	Суддя
+juggler	Жонглер
+lawyer	Адвокат
+lecturer	Лектор
+lexicographer	Лексикограф
+library assistant	Бібліотекар
+magician	Фокусник
+makeup artist	Візажист
+manager	Менеджер
+miner	Шахтар
+musician	Музикант
+nurse	Медбрат
+optician	Оптик
+painter	Художник
+personal assistant	Персональний помічник
+photographer	Фотограф
+pilot	Пілот
+plumber	Сантехнік
+police officer	Офіцер поліції
+politician	Політик
+porter	Швейцар
+printer	друкар
+prison officer / warder	Тюремний офіцер / вартовий
+professional gambler	Професійний азартний гравець
+puppeteer	Ляльковик
+receptionist	receptionist
+sailor	Матрос
+salesperson	Продавець
+scientist	Вчений
+secretary	Секретар
+shop assistant	Консультант
+sign language Interpreter	sign language Interpreter
+singer	Співак
+soldier	Солдат
+solicitor	solicitor
+surgeon	Хірург
+tailor	Кравець
+teacher	Вчитель
+telephone operator	Телефонний оператор
+telephonist	Телефоніст
+translator	Перекладач
+travel agent	travel agent
+trucker	Далекобійник
+TV cameraman	TV cameraman
+TV presenter	TV presenter
+vet	Ветеринар
+waiter	Офіціант
+web designer	Веб дизайнер
+writer	Письменник
+actor	Актор
+puppeteer	Ляльковик
+marionetteer	Актор-лялькар
+actuary	actuary
+administrative worker	Адміністративний працівник
+advertising manager	Рекламний менеджер
+aerial rigger	Вежоможнтажник
+agricultural adviser	Радник сільського господарства
+agronomist	Агроном
+air traffic controller	Авіадиспетчер
+air traffic safety technician	Технік з безпеки повітряного транспорту
+aircraft instrument technician	Авіатехнік
+aircraft mechanic	Авіамеханік
+airline clerk	Службовець авіакомпанії
+ammunition and explosives operative	Керівник вибуховими приладами
+animal technician	Зоотехнік
+animator	Аніматор
+anthropologist	Антрополог
+applications manager	Менеджер програм
+apprentice training officer	apprentice training officer
+archeologist	археолог
+architect	Архітектор
+art critic and historian	Мистецтвознавець та історик
+art glazier	Художник по склу
+art metalworker	Митець по металу
+art photographer	art photographer
+art restorer	Артреставратор
+articled clerk	articled clerk
+artificial flower maker	artificial flower maker
+artistic promotions manager	artistic promotions manager
+assessor	assessor
+assistant housekeeper	assistant housekeeper
+assistant printing worker	assistant printing worker
+astrologer	Астролог
+astronomer	Астроном
+athlete	Атлет
+auctioneer	Аукціонер
+audio graphic designer	Аудіо графічний дизайнер
+auditor	Аудитор
+auto-electrician	Автоелектрик
+baker	пекар
+bank clerk	Банківський клерк
+banking expert	banking expert
+hairdresser	Перукар
+bartender	bartender
+basket-maker	basket-maker
+beautician	beautician
+beekeeper	Бджоляр
+bibliographer	bibliographer
+biochemist	Біохімік
+biologist	Біолог
+biotechnologist	Біотехнік
+biscuit maker	biscuit maker
+blacksmith	Коваль
+blast-furnaceman	blast-furnaceman
+blasting works engineer	blasting works engineer
+boatman	Корабельник
+boiler operator	Оператор бойлера
+bookbinder	bookbinder
+bookkeeper	bookkeeper
+bookmaker	bookmaker
+botanist	Ботанік
+brewer and maltster	brewer and maltster
+bricklayer	Цегляр
+broadcaster	broadcaster
+brush-maker	brush-maker
+building electrician	building electrician
+building tinsmith	building tinsmith
+butcher	М'ясник
+sausage-maker	sausage-maker
+butler	butler
+button maker	button maker
+taxi dispatcher	taxi dispatcher
+cabinet maker	cabinet maker
+cable car driver	cable car driver
+cable manufacture labourer	cable manufacture labourer
+camera mechanic	camera mechanic
+camera operator	camera operator
+canning worker	canning worker
+capital markets clerk	capital markets clerk
+captain of an aircraft	Капітан літака
+car mechanic	Аавтомеханік
+car service worker	car service worker
+care assistant	care assistant
+career diplomat	career diplomat
+diplomat	Дипломат
+guidance counsellor	guidance counsellor
+caretaker	Доглядач
+carpenter	Столяр
+cartographer	Ккартограф
+cellulose operator	cellulose operator
+ceramic model maker	Виробник керамічних моделей
+ceramic painter	Художник по кераміці
+ceramicist	Кераміст
+ceramics maker	ceramics maker
+charter agent	charter agent
+cheese maker	Сировар
+chemical researcher	chemical researcher
+chemical technologist	chemical technologist
+children's nurse	Дитячий медбрат
+chimney sweep	chimney sweep
+chipboard production operative	chipboard production operative
+choir master	choir master
+choreographer	choreographer
+circus artiste	circus artiste
+circus performer	circus performer
+cleaner	Прибирач
+cloakroom attendant	cloakroom attendant
+coffee roaster	coffee roaster
+coffeehouse keeper	coffeehouse keeper
+café owner	Власник кафе
+commentator	Коментатор
+commercial lawyer	commercial lawyer
+company lawyer	Адвокат для компанії
+composer	Композитор
+computer engineer	Комп'ютерний інженер
+computer equipment operator	Оператор комп'ютерного обладнання
+computer network manager	Менеджер мереж
+computer programmer	Програміст
+concrete worker	concrete worker
+conductor	conductor
+confectioner	confectioner
+conservator	conservator
+construction manager	construction manager
+cook	Кухар
+corrosion control fitter	corrosion control fitter
+court executive officer	court executive officer
+craft ceramicist	craft ceramicist
+craft gilder	craft gilder
+craft glass etcher	craft glass etcher
+craft glassmaker	craft glassmaker
+craft metalworker and brazier	craft metalworker and brazier
+craft mosaic maker	craft mosaic maker
+craft plasterer	craft plasterer
+craft stonemason	craft stonemason
+craft upholsterer	craft upholsterer
+crane driver	crane driver
+crate maker	crate maker
+criminal investigator	Слідчий
+crop treatment operative	crop treatment operative
+croupier	Круп'є
+customs officer	Офіцер митниці
+cutler	cutler
+dairy worker	Молочник
+dance teacher	Вчитель танцю
+dancer	Ттанцюрист
+data transfer appliance technician	Технік передачі даних
+debt collector	Колектор
+decorator-paperhanger	decorator-paperhanger
+dental surgery assistant	Помічник зубного хірурга
+dental technician	dental technician
+dentist	Дантист
+dental surgeon	Зубний хірург
+dietician	Дієтолог
+digger	Шахтар
+director	Режисер
+disc jockey	disc jockey
+dish washer	dish washer
+dispatch clerk	dispatch clerk
+dispatcher	dispatcher
+diver	diver
+dog trainer	dog trainer
+doorkeeper	doorkeeper
+draughtsperson	draughtsperson
+dresser	dresser
+driller	Бурильник
+drilling rig operator	drilling rig operator
+driver of motor vehicles	driver of motor vehicles
+driver's mate	driver's mate
+driving instructor	Інструктор з водіння
+dust control technician	Технік боротьби з пилом
+ecologist	Еколог
+economist	Економіст
+editor	Редактор
+educational specialist	educational specialist
+electrical equipment inspector	electrical equipment inspector
+electrical fitter	electrical fitter
+electrician	Електрик
+electroceramic operative	electroceramic operative
+electronic mechanic	electronic mechanic
+electroplating operator	electroplating operator
+employment agent	employment agent
+enamel worker	enamel worker
+engineering fitter	engineering fitter
+entertainment officer	entertainment officer
+environmental inspector	environmental inspector
+ergonomist	ergonomist
+ethnographer	ethnographer
+exhibitions organizer	exhibitions organizer
+faith healer	faith healer
+farm worker	farm worker
+farmer	Фермер
+fashion designer	fashion designer
+feed production operator	feed production operator
+film critic	film critic
+film designer	film designer
+film or videotape editor	film or videotape editor
+film projectionist	film projectionist
+financial analyst	financial analyst
+financial officer	financial officer
+fine artist	fine artist
+fire prevention officer	fire prevention officer
+fish farmer	fish farmer
+fish warden	fish warden
+fisherman	Рибалка
+fitter of glass instruments	fitter of glass instruments
+fitter of gas pipelines	fitter of gas pipelines
+fitter of steel structures	fitter of steel structures
+flight attendant	Бортпровідниця
+flight engineer	flight engineer
+floor fitter	floor fitter
+flower grower	flower grower
+flying instructor	flying instructor
+food industry PM	food industry PM
+food industry technologist	food industry technologist
+foreign exchange clerk	foreign exchange clerk
+forest manager	forest manager
+forestry machine operator	forestry machine operator
+forestry worker	forestry worker
+fortune teller	fortune teller
+foster parent	foster parent
+foundry worker	foundry worker
+fringe/trimmings maker	fringe/trimmings maker
+fruit farmer	fruit farmer
+funeral service assistant	funeral service assistant
+fur coat seamstress	fur coat seamstress
+furnace operator	furnace operator
+furrier	furrier
+gardener	gardener
+gas industry inspector	gas industry inspector
+general labourer	general labourer
+geneticist	geneticist
+geographer	geographer
+geologist	Геолог
+geophysicist	geophysicist
+glass decorator	glass decorator
+glass jewellery maker	glass jewellery maker
+glass making machine operator	glass making machine operator
+glass melter	glass melter
+glass painter	glass painter
+glass production worker	glass production worker
+glasscutter	glasscutter
+glassworker	glassworker
+glazier	glazier
+goldsmith	goldsmith
+government licensing official	government licensing official
+graphic designer	graphic designer
+gravedigger	gravedigger
+guide	guide
+gunsmith	gunsmith
+hand embroiderer	hand embroiderer
+hand lacemaker	hand lacemaker
+harbour guard	harbour guard
+hardener	hardener
+harpooner	harpooner
+hatter	hatter
+heating and ventilating fitter	heating and ventilating fitter
+heating engineer	heating engineer
+herbalist	herbalist
+high-rise work specialist	high-rise work specialist
+historian	historian
+historical monuments custodian	historical monuments custodian
+horse breeder	horse breeder
+host	host
+hotel porter	hotel porter
+hotel receptionist	hotel receptionist
+hydrologist	hydrologist
+ice-cream maker	ice-cream maker
+image consultant	image consultant
+industrial designer	industrial designer
+officer in rail transport	officer in rail transport
+information assistant	information assistant
+insulation worker	insulation worker
+insurance clerk	insurance clerk
+insurance sales person	insurance sales person
+interior designer	interior designer
+interpreter and translator	interpreter and translator
+investment clerk	investment clerk
+invoice clerk	invoice clerk
+jeweller	jeweller
+jewellery maker	jewellery maker
+joiner and cabinetmaker	joiner and cabinetmaker
+judge	Суддя
+keeper of records	keeper of records
+keeper of service animals	keeper of service animals
+knitter	knitter
+land surveyor	land surveyor
+landscape architect	landscape architect
+laundry worker	laundry worker
+lecturer	Лектор
+lecturer in vocational courses	lecturer in vocational courses
+researcher in linguistics	researcher in linguistics
+librarian	librarian
+information scientist	information scientist
+lifeguard	Рятівник
+swimming instructor	Інструктор з плавання
+lift attendant	lift attendant
+lift fitter	lift fitter
+lighting technician	lighting technician
+lightning conductor fitter	lightning conductor fitter
+lithographer	lithographer
+livestock farmer	livestock farmer
+lottery ticket street vendor	lottery ticket street vendor
+machine shop worker	machine shop worker
+machinery inspector	machinery inspector
+maker of non-woven textiles	maker of non-woven textiles
+make-up artist and wigmaker	make-up artist and wigmaker
+management accountant	management accountant
+management consultant	management consultant
+manager	Менеджер
+marine engineer	Морський інженер
+marine hotel manager	marine hotel manager
+marketing manager	marketing manager
+masseur/masseuse	masseur/masseuse
+master of ceremonies	master of ceremonies
+materials handler	materials handler
+mathematician	mathematician
+medical laboratory assistant	medical laboratory assistant
+mechanic	Механік
+mechanic	Механік
+mechanical engineering designer	mechanical engineering designer
+mechatronic engineer	mechatronic engineer
+metal engraver	metal engraver
+metal grinder	metal grinder
+metal refiner	metal refiner
+metal turner	metal turner
+metal worker	metal worker
+metallurgist	metallurgist
+meteorologist	meteorologist
+metrologist	metrologist
+microbiologist	microbiologist
+midwife	midwife
+miller	miller
+milling-machine operator	milling-machine operator
+mine rescue service mechanic	mine rescue service mechanic
+mine ventilation technician	mine ventilation technician
+miner	Шахтар
+mining air control technician	mining air control technician
+mining electrician	mining electrician
+mining finisher	mining finisher
+mining machine operator	mining machine operator
+mining mechanic	mining mechanic
+mining rescue worker	mining rescue worker
+minerals surveyor	minerals surveyor
+fashion model	fashion model
+modeller	modeller
+motor vehicle bodybuilder	motor vehicle bodybuilder
+mountain guide	mountain guide
+multimedia designer	multimedia designer
+multimedia programmer	multimedia programmer
+municipal police officer	municipal police officer
+municipal services worker	municipal services worker
+municipal street cleaner	municipal street cleaner
+art gallery curator	art gallery curator
+music director	music director
+musical instrument mechanic	musical instrument mechanic
+musician	Музикант
+musicologist	musicologist
+nanny	nanny
+naturalist guide	naturalist guide
+newspaper editor	newspaper editor
+nuclear power station operator	nuclear power station operator
+nurse	Медбрат
+nursery school teacher	nursery school teacher
+nutritionist	nutritionist
+office junior	office junior
+customer services operator	customer services operator
+operational analyst	operational analyst
+optical component maker	optical component maker
+optical instrument mechanic	optical instrument mechanic
+ore crusher	ore crusher
+orthopaedic shoemaker	orthopaedic shoemaker
+prosthetic technician	prosthetic technician
+orthotist	orthotist
+out-of-school educator	out-of-school educator
+packer	packer
+paediatrician	paediatrician
+palmists	palmists
+paper worker	paper worker
+paramedic	paramedic
+patent agent	patent agent
+paver	paver
+pawnbroker	pawnbroker
+personnel officer	personnel officer
+pest control officer	pest control officer
+pharmacist	pharmacist
+philosopher	philosopher
+photographer	Фотограф
+photographic reporter	photographic reporter
+physicist	physicist
+physiotherapist	physiotherapist
+piano tuner	piano tuner
+pilot	Пілот
+pipe fitter	pipe fitter
+pizza maker	pizza maker
+plumber	Сантехнік
+plywood maker	plywood maker
+police assistant	police assistant
+police investigator	police investigator
+police officer	Офіцер поліції
+political scientist	political scientist
+pollster	pollster
+post office counter clerk	post office counter clerk
+postal service worker	postal service worker
+postal transport worker	postal transport worker
+postal worker	postal worker
+postmaster	postmaster
+poultry breeder	poultry breeder
+poultry butcher	poultry butcher
+powder metallurgist	powder metallurgist
+power engineering specialist	power engineering specialist
+power station supervisor	power station supervisor
+power station operator	power station operator
+power system worker	power system worker
+power truck driver	power truck driver
+prefab construction worker	prefab construction worker
+press officer	press officer
+pricing officer	pricing officer
+priest	priest
+primary school teacher	primary school teacher
+printer	друкар
+printing machine mechanic	printing machine mechanic
+printing technician	printing technician
+prison guard	prison guard
+private detective	private detective
+producer	producer
+producer of leather goods	producer of leather goods
+product designer	product designer
+production technologist	production technologist
+professional soldier	professional soldier
+prompter	prompter
+property manager	property manager
+props master	props master
+psychiatrist	psychiatrist
+psychologist	psychologist
+psychotherapist	psychotherapist
+public administration officer	public administration officer
+public notary	public notary
+public relations manager	public relations manager
+publican	publican
+publisher	publisher
+purchasing officer	purchasing officer
+quality control technician	quality control technician
+quality inspector	quality inspector
+radio operator	radio operator
+radiotherapist	radiotherapist
+rail transport worker	rail transport worker
+rail vehicle mechanic	rail vehicle mechanic
+wagon inspector	wagon inspector
+railway electrician	railway electrician
+railway engine mechanic	railway engine mechanic
+railway freight handler	railway freight handler
+railway guard	railway guard
+railway operative	railway operative
+booking office clerk	booking office clerk
+railway track construction fitter	railway track construction fitter
+railway yard worker	railway yard worker
+real estate agent	real estate agent
+referee	referee
+refrigeration engineer	refrigeration engineer
+refuse collector	refuse collector
+registrar	registrar
+removal worker	removal worker
+reproduction technician	reproduction technician
+retoucher	retoucher
+river basin keeper	river basin keeper
+road sign assistant	road sign assistant
+road transport technician	road transport technician
+rolling-mill operator	rolling-mill operator
+roofer	roofer
+room maid	room maid
+rope maker	rope maker
+rotating machine fitter	rotating machine fitter
+rubber operator	rubber operator
+safety electrician	safety electrician
+safety engineer	safety engineer
+sales assistant	sales assistant
+sales manager	sales manager
+sales representative	sales representative
+scaffolder	scaffolder
+scene painter	scene painter
+scene-shifter	scene-shifter
+script editor	script editor
+script writer	script writer
+sculptor	sculptor
+seaman	seaman
+secondary school teacher	secondary school teacher
+secretary	Секретар
+section supervisor	section supervisor
+security guard	security guard
+service mechanic	service mechanic
+sewerage system cleaner	sewerage system cleaner
+sewing machinist	sewing machinist
+shepherd	shepherd
+goatherd	goatherd
+shift engineer	shift engineer
+ship fitter	ship fitter
+ship's captain	ship's captain
+ship's officer	ship's officer
+shoemaker	shoemaker
+shop cashier	shop cashier
+shunter	shunter
+shunting team manager	shunting team manager
+school caretaker	school caretaker
+school inspector	school inspector
+silkworm breeder	silkworm breeder
+singer	Співак
+smith	smith
+social worker	social worker
+sociologist	sociologist
+solicitor	solicitor
+songwriter	songwriter
+sound effects technician	sound effects technician
+sound engineer	sound engineer
+spa resort attendant	spa resort attendant
+special needs teacher	special needs teacher
+special effects engineer	special effects engineer
+special needs teacher	special needs teacher
+specialist in animal husbandry	specialist in animal husbandry
+spectacle frame maker	spectacle frame maker
+speech therapist	speech therapist
+spinner	spinner
+stable hand	stable hand
+stage costume maker	stage costume maker
+stage designer	stage designer
+stage manager	stage manager
+standards engineer	standards engineer
+state attorney	state attorney
+station manager	station manager
+statistician	statistician
+stockbroker	stockbroker
+stonemason	stonemason
+storekeeper	storekeeper
+stove fitter	stove fitter
+sugar maker	sugar maker
+surgical toolmaker	surgical toolmaker
+surveyor's assistant	surveyor's assistant
+sweet factory worker	sweet factory worker
+systems designer	systems designer
+systems engineer	systems engineer
+tailor	Кравець
+lion tamer	lion tamer
+tanner	tanner
+tannery worker	tannery worker
+tax specialist	tax specialist
+technical editor	technical editor
+telecommunications cable fitter	telecommunications cable fitter
+telecommunications technician	telecommunications technician
+switchboard operator	switchboard operator
+teller	teller
+textile printer	textile printer
+textile refiner	textile refiner
+textile technologist	textile technologist
+textiles dyer	textiles dyer
+the doctor	the doctor
+ticket collector	ticket collector
+tinsmith	tinsmith
+tobacco technologist	tobacco technologist
+tool maker	tool maker
+town planner	town planner
+track engineer	track engineer
+tracklayer	tracklayer
+tractor driver	tractor driver
+trading standards officer	trading standards officer
+traffic police officer	traffic police officer
+train dispatcher	train dispatcher
+train driver	train driver
+trainee	trainee
+trainer	trainer
+tram driver	tram driver
+transport supervisor	transport supervisor
+travel agency clerk	travel agency clerk
+travel courier	travel courier
+tunneller	tunneller
+tutor	tutor
+typesetter	typesetter
+it's complicated	it's complicated
+upholsterer	upholsterer
+valuer	valuer
+varnisher	varnisher
+veterinary surgeon	veterinary surgeon
+veterinary technician	veterinary technician
+viniculturist	viniculturist
+wages clerk	wages clerk
+waiter	Офіціант
+wardrobe mistress	wardrobe mistress
+warehouse clerk	warehouse clerk
+waste incineration plant worker	waste incineration plant worker
+water management controller	water management controller
+water meter reader	water meter reader
+watercourse manager	watercourse manager
+watch-maker	watch-maker
+watchman	watchman
+weaver	weaver
+weigher	weigher
+weir and dam operator	weir and dam operator
+welding operator	welding operator
+well digger	well digger
+whaler	whaler
+window cleaner	window cleaner
+window-dresser	window-dresser
+winery worker/wine maker	winery worker/wine maker
+wire-drawer	wire-drawer
+wood carver	wood carver
+wood industry technologist	wood industry technologist
+woodcutting manager	woodcutting manager
+woodworking operator	woodworking operator
+foundry worker	foundry worker
+Olympian	Olympian
+Ice cream taster	Ice cream taster
+Mercenary	Найманець
+Adult film creator	Adult film creator
+Hunter	Мисливець
+Ornithologist	Ornithologist
+Urban Planner	Urban Planner
+Civil Engineer	Civil Engineer
+Coach	Coach
+Hot Dog Eater	Поїдач хотдогів
+Retired	Пенсіонер
+Between Jobs	Between Jobs
+prophet	prophet
+Black	Чорний
+Red	Червоний
+Salmon	Лосось
+Blue	Синій
+Baby	Блакитний
+Orange	Помаранчевий
+Yellow	Жовтий
+Grass...	Трава...
+Mint?	М'ятний?
+Ocean	Океан
+Purple	Фіолетовий
+Hot Pink!	Рожево-гарячий!
+Grey	Сірий
+Brown	Коричневий
+HELP!	ДОПОМОЖІТЬ!
+OH GOD!	О БОЖЕ!
+NOOO!!!	НІІІІІ!!!
+WHY!?	ЧОМУ!?
+Story Insanity 1	Історичне божевілля 1
+Beat Chapter 1 on Insane Difficulty!	Пройдіть главу 1 на божевільній складності!
+Story Insanity 2	Історичне божевілля 2
+Beat Chapter 2 on Insane Difficulty!	Пройдіть главу 2 на божевільній складності!
+Story Insanity 3	Історичне божевілля 3
+Beat Chapter 3 on Insane Difficulty!	Пройдіть главу 3 на божевільній складності!
+Story Insanity 4	Історичне божевілля 4
+Beat Chapter 4 on Insane Difficulty!	Пройдіть главу 4 на божевільній складності!
+Story Insanity 5	Історичне божевілля 5
+Beat Chapter 5 on Insane Difficulty!	Пройдіть главу 5 на божевільній складності!
+Pacifist	Пацифіст
+Beat a level without killing anyone!	Пройдіть рівень нікого не вбиваючи!
+Endless Armor Challenge	Нескінченне випробування броні
+Defeat the Endless Armor Challenge!	Пройдіть нескінченне випробування броні!
+Endless Bow Challenge	Нескінченне випробування лука
+Defeat the Endless Bow Challenge!	Пройдіть нескінченне випробування лука!
+Greatsword Challenge	Випробування великого меча
+Defeat the Greatsword Challenge!	Пройдіть випробування великого меча!
+Mind Transfer Challenge	Випробування переміщення свідомості
+Defeat the Mind Transfer Challenge!	Пройдіть випробування переміщення свідомості!
+Endless Hammer Challenge	Нескінченне випробування молота
+Defeat the Endless Hammer Challenge!	Пройдіть нескінченне випробування молота!
+Inferno Challenge	Випробування пекельного вогню
+Defeat the Inferno Challenge!	Пройдіть випробування пекельного вогню!
+Kick Only Challenge	Випробування копняків
+Defeat the Kick Only Challenge!	Пройдіть випробування копняків!
+Laser Challenge	Випробування лазера
+Defeat the Laser Challenge!	Пройдіть випробування лазера!
+Random Upgrade Challenge	Випробування випадкових покращень
+Defeat the Random Upgrade Challenge!	Пройдіть випробування випадкових покращень!
+Raptor Insanity Challenge	Випробування рапторного божевілля
+Defeat the Raptor Insanity Challenge!	Пройдіть випробування рапторного божевілля!
+Raptor Challenge	Випробування раптора
+Defeat the Raptor Challenge!	Пройдіть випробування раптора!
+Spear Only Challenge	Випробування списа
+Defeat the Spear Only Challenge!	Пройдіть випробування списа!
+Click Bzz!	Click Bzz!
+Click the logo on the title screen!	Натисніть на лого на головному екрані!
+Co-op Bow Only Challenge	Ко-оп випробування лука
+Defeat the Co-op Bow only Challenge!	Пройдіть кооперативне випробування лука!
+Co-op Hammer Only Challenge	Ко-оп випробування молота
+Defeat the Co-op Hammer Only Challenge!	Пройдіть кооперативне випробування молота!
+Co-op Inferno Challenge	Co-op Inferno Challenge
+Defeat the Co-op Inferno Challenge!	Defeat the Co-op Inferno Challenge!
+Co-op Kick Only Challenge	Ко-оп випробування копняків
+Defeat the Co-op Kick Only Challenge!	Пройдіть кооперативне випробування копняків!
+Co-op Laser Challenge	Ко-оп випробування лазера
+Defeat the Co-op Laser Challenge!	Пройдіть кооперативне випробування лазера!
+Co-op One Weapon Challenge	Випробування однієї зброї
+Defeat the Co-op One Weapon Challenge!	Пройдіть кооперативне випробування однієї зброї!
+Co-op Random Upgrade Challenge	Ко-оп випробування випадкових покращень
+Defeat the Co-op Random Upgrade Challenge!	Пройдіть кооперативне випробування випадкових покращень!
+Co-op Raptor Insanity Challenge	Ко-оп випробування рапторного божевілля
+Defeat the Co-op Raptor Insanity Challenge!	Пройдіть кооперативне випробування рапторного божевілля!
+Co-op Spear Only Challenge	Ко-оп випробування списа
+Defeat the Co-op Spear Only Challenge!	Пройдіть кооперативне випробування списа!
+Let's try another human!	Спробуймо іншу людину!
+Die on level 1 of Endless Mode	Помріть на 1 рівні нескінченного режиму
+Easter Already?	Вже Великдень?
+Rescue the War Cubes!	Rescue the War Cubes!
+This is not co-op!	Це не кооператив!
+Kick a clone towards the Elevator.	Зако́пайте клона в підіймач.
+Fool!	Дурень!
+Jump into the Emperor's forcefield!	Jump into the Emperor's forcefield!
+Team Player	Командний гравець
+Get 3 Team Revives in a public co-op game!	Зберіть 3 відродження команди в публічній кооперативній грі!
+POWER OVERWHELMING	POWER OVERWHELMING
+Get every upgrade in the upgrade tree!	Отримайте кожне покращення в дереві покращень!
+Hello fellow human!	Привіт, людино!
+Exchange Hellos with a human.	Обміняйтесь привітаннями з людиною.
+I think it's dead now	Думаю, воно вже мертве
+Hit garbage on the ground repeatedly!	Зробіть нарізку із залишків роботів на землі!
+How do you like it??	Подобається??
+Kick a kick bot to death!	Зако́пайте робота до смерті!
+The garbage is MINE!	Останки МОЇ!
+Kill all the garbage bots.	Kill all the garbage bots.
+Bow Master	Майстер луку
+Kill 500 enemies with a Bow!	Вбийте 500 ворогів луком!
+I am on FIRE!	Я ПАЛАЮ!
+Kill 300 enemies with Flame Breath!	Вбийте 300 ворогів вогняним диханням!
+Hammer Master	Майстер молота
+Kill 500 enemies with a Hammer!	Вбийте 500 ворогів молотом!
+Jetpack Master	Майстер реактивного ранця
+Kill 300 enemies while jetpacking!	Вбийте 300 ворогів під час використання реактивного ранця!
+Kick Master	Майстер копняків
+Kill 200 enemies by kicking them!	Вбийте 200 ворогів копняками!
+Spear Master	Майстер списа
+Kill 500 enemies with a Spear!	Вбийте 500 ворогів списом!
+Sword Master	Майстер меча
+Kill 500 enemies with a Sword!	Вбийте 500 ворогів мечем!
+I'm like a bird!	Я наче пташка!
+Melee an enemy while high above the ground!	Ударте ворогом зброєю ближнього бою знаходячись високо над землею!
+There can be only one!	Може бути тільки один!
+Kill your clone.	Вбийте свого клона.
+Fire on my mind	Вогонь в моїх думках
+Mind transfer into a Flame raptor!	Перемістіть свідомість в раптора!
+M-m-m-m-multikill!	М-м-м-м-мультивбивство!
+Kill 3 enemies with one attack!	Вбийте 3 ворогів однією атакою!
+They don't call it Sanium.	They don't call it Sanium.
+Reach Insanium in Endless Mode!	Дійдіть до складності «Безумій»!
+Meet people, go insane!	Meet people, go insane!
+Reach Insanium in a public co-op match!	Дійдіть до складності «Безумій» в кооперативному матчі!
+I am Titanium!	Я і є титан!
+Reach Titanium in Endless Mode!	Дійдіть до складності «Титан» в нескінченному режимі!
+Hello Doborog!	Привіт Doborog!
+Say Hello to Doborog when he's streaming!	Натисніть кнопку «Привітайся!» під час трансляції Doborog!
+So close!	Так близько!
+Be the second to Last Bot Standing.	Займіть друге місце в режимі «До останнього бота».
+The best human!	Найкраща людина!
+Win a game of Last Bot Standing!	Виграйте гру в режимі «До останнього бота»!
+Tis but a scratch!	Це всього лиш подряпина!
+Win 3 levels in a row with only one leg!	Пройдіть 3 рівні поспіль, лише з одною ногою!
+Aim Time I	Сповільнення в прицілюванні I
+Time slows when aiming.	Час сповільнюється під час прицілювання.
+Aim Time II	Сповільнення в прицілюванні II
+Time slooooowwwws...	Час сповілбн-ю-ю-ю-ю-є-є-є-ться...
+Armor	Броня
+Protects your body from damage!	Захищає ваше тіло від пошкоджень!
+Arrow Width I	Ширина стріл 1
+200% Wider arrows!	200% ширини стріли!
+Arrow Width II	Ширина стріл 2
+300% Wider arrows!	300% ширини стріл!
+Block Projectiles I	Блокування снарядів 1
+Blocks projectiles in a 90" arc.	Відбиває снаряди в радіусі 90.
+Block Projectiles II	Блокування снарядів 2
+Blocks projectiles in a 180* arc	Відбиває снаряди в радіусі 180.
+Block Projectiles III	Блокування снарядів 3
+Deflect projectiles at the target you look at!	Відбиває снаряди в ціль, на яку ви дивитеся!
+Bow	Лук
+Unlocks the bow!	Розблоковує лук!
+Extra Life	Додаткове життя
+Create a clone that takes over when you die.	Створює клона, що замінює вас після смерті.
+Team Revival	Відродження команди
+Revives the team if everyone dies	Відроджує вашу команду, якщо всі помирають
+Dash	Ривок
+Dash forward in a quick burst of speed!	Dash forward in a quick burst of speed!
+Energy Capacity I	Кількість енергії I
+2 Energy	2 Енергії
+Energy Capacity II	Кількість енергії II
+3 Energy	3 Енергії
+Energy Capacity III	Кількість енергії III
+4 Energy	4 Енергії
+Energy Recharge I	Відновлення енергії I
++50% Recharge Rate	+50% швидкості відновлення енергії
+Energy Recharge II	Відновлення енергії II
++100% Recharge Rate	+100% швидкості відновлення енергії
+Fire Arrows I	Вогняні стріли I
+Arrows are ON FIRE!	Стріли ПАЛАЮТЬ!
+Fire Arrows II	Вогняні стріли II
+Fire spreads further!	Вогонь розповсюджується далі!
+Fire Hammer	Вогняний молот
+Hammer is ON FIRE!	Молот ПАЛАЄ!
+Fire Spear	Вогняний спис
+Spear is ON FIRE!	Спис ПАЛАЄ!
+Fire Sword	Вогняний меч
+Your sword is ON FIRE!	Ваш меч ПАЛАЄ!
+Fire Sword II	Вогняний меч II
+Fire spreads further!	Вогонь розповсюджується далі!
+Flame Breath	Вогняне дихання
+Breathe Flames!!!	Дихайте вогнем!!!
+Get Up!	Вставай!
+Recover quickly from being knocked over.	Ви встаєте швидше після падіння.
+Hammer Size I	Розмір молота I
+Hammer is bigger.	Молот більший.
+Hammer Size II	Розмір молота II
+Hammer is enormous!	Молот величезний!
+Hammer	Молот
+Unlocks the hammer!	Розблоковує молот!
+Jet Pack	Реактивний прискорювач
+Fly forward!	Летіть уперед!
+Jet Pack II	Реактивний прискорювач II
+25% faster!	На 25% швидше!
+Jump Dash	Jump Dash
+A mighty jump forward	A mighty jump forward
+Power Kick	Потужний копняк
+Kick target into others!	Копайте ворогів у інших ворогів!
+Kick	Копняк
+Knock opponents over!	Збивайте опонентів з ніг!
+Raptor Mount	Сідлання раптора
+Ride a raptor!!!	Осідлайте раптора!!!
+"Repair"	Ремонт
+Removes all damage!	Ремонтує всі пошкодження!
+Shield Bash	Удар щитом
+Kick = Shield Bash	Копняк = удар щитом
+Shield	Щит
+Unlocks a shield!	Розблоковує щит!
+Shield II	Щит ІІ
+Increased shield Size!	Збільшує розмір щита!
+Size I	Розмір I
+Bigger is better!	Більший - кращий!
+Spear	Спис
+Unlocks the spear!	Розблоковує спис!
+Summon Ally	Summon Ally
+Summon a friendly ally!	Summon a friendly ally!
+Sword	Меч
+Unlocks the sword!	Розблоковує меч!
+Unlocked by:	Вимоги:
+Unlock by: Story Mode Chapter 2!	Розблокування: Пройдіть 2 главу історії!
+Raptor Challenge	Випробування раптора
+Meet the Flame Raptor! Hello!	Meet the Flame Raptor! Hello!
+Laser Challenge	Випробування лазера
+Feel the power of LASER!	Відчуй силу ЛАЗЕРА!
+Inferno Challenge	Випробування пекельного вогню
+10 brutally hard levels that will set you ON FIRE!	10 brutally hard levels that will set you ON FIRE!
+Endless Bow Challenge	Нескінченне випробування лука
+Can you reach Titanium using only the bow???	Can you reach Titanium using only the bow???
+Endless Hammer Challenge	Нескінченне випробування молота
+Can you reach Titanium using only the hammer???	Can you reach Titanium using only the hammer???
+Kick Only Challenge	Випробування копняків
+Can you kick these 10 levels?	Чи можете ви проко́пати ці 10 рівнів?
+Endless Spear Challenge	Нескінченне випробування списа
+Can you reach Titanium using only the spear???	Чи зможете ви дійти до складності «Титан» використовуючи лише спис???
+Random Upgrade Challenge	Випробування випадкових покращень
+Happy construction day Upgrade Bot!!! Can you beat level 20??	Happy construction day Upgrade Bot!!! Can you beat level 20??
+Happy construction day Upgrade Bot!!! Can you reach Insanium??	Happy construction day Upgrade Bot!!! Can you reach Insanium??
+Mind Transfer Challenge	Випробування переміщення свідомості
+Swap bodies with your killer!	Обміняйтесь тілами з вашим вбивцею!
+Raptor Insanity	Рапторне божевілля
+Flame Raptors: Insanely hard version!	Вогняні раптори: Безумно складна версія!
+Greatsword Challenge	Випробування великого меча
+Practice offline with the majestic sword of multiplayer!	Практикуйтесь офлайн з величезним мечем мережевої гри!
+Endless Armor Challenge	Нескінченне випробування броні
+Everyone is armored. Can you reach Titanium?	Всі броньовані. Чи зможете ви дійти до складності «Титан»?
+Bow Only Challenge	Випробування лука
+Can you reach Insanium with only a bow?	Can you reach Insanium with only a bow?
+Hammer Challenge	Випробування молота
+Can you reach Insanium with only a hammer?	Чи зможете ви дійти до складності «Безумій» лише з молотом?
+Can you reach Insanium using only the spear???	Чи зможете ви дійти до складності «Безумій» лише зі списом???
+Raptor Insanity Challenge	Випробування рапторного божевілля
+The Flame Raptors will set you all ON FIRE!	The Flame Raptors will set you all ON FIRE!
+One Weapon Challenge	Випробування однієї зброї
+Only one weapon per player! Can you reach Insanium?	Тільки одна зброя на гравця! Чи зможете ви дійти до складності «Безумій»?
+skin	skin
+skinReward	{0} skin
+Reward:	Нагорода:
+A nice trophy!	Гарний трофей!
+COMPLETED!	ЗАВЕРШЕНО!
+PLAY!	ГРАТИ!
+Hello	Привіт
+Goodbye	Прощай
+Nod	Nod
+Nope	Ніт
+ComeHere	Йди сюди
+GoAway	Йти геть
+Hug	Обійми
+RobotDance	Танець робота
+WellDone	Чудова робота
+WhereIsTheWater	Де вода?
+HappyDance	Щасливий танок
+ImBest	Я найкращий
+Sorry	Вибач
+DestroyYou	Destroy You
+Sit	Sit
+LetsFight	Let's Fight
+Noooooooo	Noooooooo
+WatchOut	Watch Out
+TeamRevives	Team Revives
+ErrorError	Error Error
+ThankYou	Thank You
+FunkyPillarDance	Funky Pillar Dance
+SwordShowoff	Sword Showoff
+TimeToHammer	Time To Hammer
+SpearShowoff	Spear Showoff
+BowShowoff	Bow Showoff
+KickDance	Гопак
+IAmOnFire	I Am On Fire
+Help	Help
+ILikeYou	I Like You
+WoofWoof	Woof Woof
+ILikeGarbage	I Like Garbage
+WeDidIt	Ми це зробили
+Boom	Бум
+FlappyArms	Пташечка
+BurnItDown	Burn It Down
+ILikeThisLevel	Мені подобається цей рівень
+Fool	Дурень
+TisButAScratch	Це лиш подряпина
+Greetings	Привітання
+HowAreYou	Як ти?
+UpgradeBotDance	Тацень робопокращувача
+Random	Випадковий
+googletranslatenote	Note: All strings are currently translated by Google Translate!<br><br>A professional translation is coming. :)
+Default Human	Звичайна людина
+Sword 1	Мечник 1
+Sword 2	Мечник 2
+Sword 3	Мечник 3
+Sword 4	Мечник 4
+Sword 5	Меч 5
+Bow 1	Лучник 1
+Bow 2	Лучник 2
+Bow 3	Лучник 3
+Bow 4	Лучник 4
+Bow 5	Лучник 5
+Hammer 1	Молотоносець 1
+Hammer 2	Молтоносець 2
+Hammer 3	Молотоносець 3
+Hammer 4	Молтоносець 4
+Hammer 5	Молтоносець 5
+Jetpack Hammer	Реактивний молотоносець
+Jetpack Spear 1	Реактивний списоносець 1
+Jetpack Spear 2	Реактивний списоносець 2
+Jetpack 1	Jetpack 1
+Jetpack 2	Jetpack 2
+Jetpack Bow	Реактивний лучник
+Kick Bot 1	Копальник 1
+Kick Bot 2	Копальник 2
+Spear 1	Списоносець 1
+Spear 2	Списоносець 2
+Spear 3	Списоносець 3
+Spear 4	Списоносець 4
+Spear 5	Списоносець 5
+Business Bot	Бізнес-бот
+Swing Weapon	Удар зброєю
+Kick	Копняк
+Special Attack (flame breath, laser)	Спеціальна атака (вогняний подих, лазер)
+Jetpack	Реактивний прискорювач
+Use	Використати
+Jump	Стрибок
+Switch to Weapon 1	Перемкнутися на зброю 1
+Switch to Weapon 2	Перемкнутися на зброю 2
+Switch to Weapon 3	Перемкнутися на зброю 3
+Switch to Weapon 4	Перемкнутися на зброю 4
+Transfer Consciousness	Transfer Consciousness
+Next Weapon	Наступна зброя
+Next Ability	Наступна здібність
+Move Vertical	Рухатися вертикально
+Move Horizontal	Рухатися горизонтально
+Look Vertical	Огляд: Вертикальний
+Look Horizontal	Огляд: Горизонтальний
+Vote Up	Голосувати за
+Vote Down	Голосувати проти
+Rotate Weapon	Rotate Weapon
+Skip Level	Пропустити рівень
+Select Emote	Вибір емоції
+Move Up	Рух: Уверх
+Move Down	Рух: Униз
+Move Left	Рух: Ліворуч
+Move Right	Рух: Праворуч
+Look Up	Огляд: Уверх
+Look Down	Огляд: Униз
+Look Left	Огляд: Ліворуч
+Look Right	Огляд: Праворуч
+Rotate Weapon Left	Rotate Weapon Left
+Rotate Weapon Right	Rotate Weapon Right
+RewiredControllerRemap	-
+Submit feedback!	Надіслати відгук!
+translationfeedback	Ми все ще працюємо над перекладом гри!<br>Будь ласка, дайте нам знати про будь-які помилки тут:
+translationsarenew	Знайшли помилку в перекладі?
+translationstatusnote	We have translated chapter 1 and all of the UI.<br>Try it and tell us what you think!
+feedbackform1	Відгук щодо перекладу!
+feedbackform2	Noticed something lacking in the translation of the game? Report it here!
+feedbackform3	Будь ласка, залишайте відгук англійською! :)
+feedbackform4	Have general feedback not related to translations? Leave it in the forums:
+feedbackform5	Example: The human info screen lists my profession as relieur but my human is a woman and it should be relieuse.
+feedbackform6	Яка мова?
+feedbackform7	Feedback Type
+feedbackform8	Where is the problematic translation? What should it be instead? Why?
+feedbackform9	Spelling / Grammar Error
+feedbackform10	Alternative phrasing suggestion
+feedbackform11	Request for supporting a different language
+feedbackform12	Інше
+YOU ARE BANNED!	ВИ ЗАБЛОКОВАНІ!
+bannedMessage	Вам заблокували доступ до мережевої гри!<br><br>Якщо ви хочете більше інформації, або вважаєте, що це помилка, зв'яжіться з нами:<br><br>banned@doborog.com<br><br>та надайте своє ім'я користувача Steam.
+workshopVersionIncompatible	Несумісність версії<br><br>Оновіть гру!
+Downloading	Завантажується
+challengeNotCompleted	Not<br><br>Completed
+Twitch Username	Twitch Username
+Sign Up	Sign Up
+Auth Token	Auth Token
+(Not your password!)	(Not your password!)
+Get My Token	Get My Token
+Remember me	Remember me
+Sign In	Sign In
+LOGIN FAILED!	LOGIN FAILED!
+twitchLoginFailExplanation	Check your firewall settings. The connection attempt failed or the Twitch chat server timed out.
+Checking...	Checking...
+Full!	Full!
+Found!	Found!
+Not found!	Not found!
+VS	VS
+Nobody	Nobody
+Copy	Копіювати
+Copied!	Copied!
+Not Enough Energy!	Not Enough Energy!
+Arm lost — two required for bow!	Arm lost — two required for bow!
+Arm lost — two required for hammer!	Arm lost — two required for hammer!
+Need two legs to kick!	Для копняків треба дві ноги!
+Can't kick with shield!	Неможливо копнути з щитом!
+Photo Mode not enabled!	Photo Mode not enabled!
+Photo Mode Waiting for KILL! :D	Photo Mode Waiting for KILL! :D
+Jumping disabled by mag boots!	Jumping disabled by mag boots!
+singleWinCount	{0} перемога
+multipleWinsCount	{0} перемог
+Challenge Complete!	Випробування виконано!
+Upgrade Unlocked: {0}	Покращення розблоковано: {0}
+Keep Playing	Продовжити
+info / comment	info / comment
+The game crashed! ;(	Гра зламалася! :'(
+Erik will be interested in this techno-gibberish:	Erik will be interested in this techno-gibberish:
+pleaseRestart	To make sure nothing else goes wrong, please restart the game.
+Help us fix this bug!	Допоможіть нам виправити цю помилку!
+bugInfo	If you take a screenshot of this screen and send it to bugs@doborog.com we will hunt it down ASAP!<br><br>Please describe what you were doing right before it happened if you can.
+Upgrade Available!	Доступне покращення!
+Go Fight!	До бою!
+Please Return to the Elevator	Будь ласка, поверніть до підіймача
+FEMALE_accountant	Бухгалтерка
+FEMALE_actor	Актриса
+FEMALE_air steward	air stewardess
+FEMALE_animator	Аніматор
+FEMALE_architect	Архітектор
+FEMALE_assistant	Асистент
+FEMALE_author	Письменниця
+FEMALE_baker	Пекарка
+FEMALE_biologist	Біологиня
+FEMALE_builder	Будівельниця
+FEMALE_butcher	забійниця
+FEMALE_career counselor	Радник з кар'єри
+FEMALE_caretaker	Доглядач
+FEMALE_chef	Шеф-кухарка
+FEMALE_civil servant	Держслужбовиця
+FEMALE_clerk	Клерк
+FEMALE_comic book writer	Авторка коміксів
+FEMALE_company director	Директорка компанії
+FEMALE_computer programmer	Програмістка
+FEMALE_cook	Кухарка
+FEMALE_decorator	Архітекторка-декораторка
+FEMALE_dentist	Дантистка
+FEMALE_designer	Дизайнерка
+FEMALE_diplomat	Дипломатка
+FEMALE_director	Режисер
+FEMALE_doctor	Лікар
+FEMALE_economist	Економіст
+FEMALE_editor	Редактор
+FEMALE_electrician	Електрик
+FEMALE_engineer	Інженер
+FEMALE_executive	executive
+FEMALE_farmer	Фермер
+FEMALE_film director	Кінорежисер
+FEMALE_fisherman	fisherwoman
+FEMALE_fishmonger	Продавець риби
+FEMALE_flight attendant	Бортпровідниця
+FEMALE_garbage man	garbage woman
+FEMALE_geologist	Геолог
+FEMALE_hairdresser	Перукар
+FEMALE_head teacher	Головний вчитель
+FEMALE_jeweler	Ювелір
+FEMALE_journalist	Журналіст
+FEMALE_judge	Суддя
+FEMALE_juggler	Жонглер
+FEMALE_lawyer	Адвокат
+FEMALE_lecturer	Лектор
+FEMALE_lexicographer	Лексикограф
+FEMALE_library assistant	Бібліотекар
+FEMALE_magician	Фокусник
+FEMALE_makeup artist	Візажист
+FEMALE_manager	Менеджер
+FEMALE_miner	Шахтар
+FEMALE_musician	Музикант
+FEMALE_nurse	Медбрат
+FEMALE_optician	Оптик
+FEMALE_painter	Художник
+FEMALE_personal assistant	Персональний помічник
+FEMALE_photographer	Фотограф
+FEMALE_pilot	Пілот
+FEMALE_plumber	Сантехнік
+FEMALE_police officer	Офіцер поліції
+FEMALE_politician	Політик
+FEMALE_porter	Швейцар
+FEMALE_printer	друкар
+FEMALE_prison officer / warder	Тюремний офіцер / вартовий
+FEMALE_professional gambler	Професійний азартний гравець
+FEMALE_puppeteer	Ляльковик
+FEMALE_receptionist	receptionist
+FEMALE_sailor	Матрос
+FEMALE_salesperson	Продавець
+FEMALE_scientist	Вчений
+FEMALE_secretary	Секретар
+FEMALE_shop assistant	Консультант
+FEMALE_sign language Interpreter	sign language Interpreter
+FEMALE_singer	Співак
+FEMALE_soldier	Солдат
+FEMALE_solicitor	solicitor
+FEMALE_surgeon	Хірург
+FEMALE_tailor	Кравець
+FEMALE_teacher	Вчитель
+FEMALE_telephone operator	Телефонний оператор
+FEMALE_telephonist	Телефоніст
+FEMALE_translator	Перекладач
+FEMALE_travel agent	travel agent
+FEMALE_trucker	Далекобійник
+FEMALE_TV cameraman	TV camerawoman
+FEMALE_TV presenter	TV presenter
+FEMALE_vet	Ветеринар
+FEMALE_waiter	Офіціант
+FEMALE_web designer	Веб дизайнер
+FEMALE_writer	Письменник
+FEMALE_actor	Актор
+FEMALE_puppeteer	Ляльковик
+FEMALE_marionetteer	Актор-лялькар
+FEMALE_actuary	actuary
+FEMALE_administrative worker	Адміністративна працівниця
+FEMALE_advertising manager	Рекламна менеджерка
+FEMALE_aerial rigger	Вежомонтажниця
+FEMALE_agricultural adviser	Радниця з питань сільського господарства
+FEMALE_agronomist	Агроном
+FEMALE_air traffic controller	Авіадиспетчерця
+FEMALE_air traffic safety technician	Технікиня з безпеки повітряного транспорту
+FEMALE_aircraft instrument technician	Авіатехнікиня
+FEMALE_aircraft mechanic	Авіамеханікиня
+FEMALE_airline clerk	Службовиця авіакомпанії
+FEMALE_ammunition and explosives operative	Керівниця вибуховими приладами
+FEMALE_animal technician	Зоотехнікиня
+FEMALE_animator	Аніматор
+FEMALE_anthropologist	Антропологиня
+FEMALE_applications manager	Менеджерка програм
+FEMALE_apprentice training officer	apprentice training officer
+FEMALE_archeologist	археологиня
+FEMALE_architect	Архітектор
+FEMALE_art critic and historian	Мистецтвознавиця та історик
+FEMALE_art glazier	Художниця по склу
+FEMALE_art metalworker	Митець по металу
+FEMALE_art photographer	art photographer
+FEMALE_art restorer	Артреставратор
+FEMALE_articled clerk	articled clerk
+FEMALE_artificial flower maker	artificial flower maker
+FEMALE_artistic promotions manager	artistic promotions manager
+FEMALE_assessor	assessor
+FEMALE_assistant housekeeper	assistant housekeeper
+FEMALE_assistant printing worker	assistant printing worker
+FEMALE_astrologer	Астролог
+FEMALE_astronomer	Астроном
+FEMALE_athlete	Атлет
+FEMALE_auctioneer	Аукціонер
+FEMALE_audio graphic designer	Аудіо графічний дизайнер
+FEMALE_auditor	Аудитор
+FEMALE_auto-electrician	Автоелектрик
+FEMALE_baker	Пекарка
+FEMALE_bank clerk	Банківський клерк
+FEMALE_banking expert	banking expert
+FEMALE_hairdresser	Перукар
+FEMALE_bartender	bartender
+FEMALE_basket-maker	basket-maker
+FEMALE_beautician	beautician
+FEMALE_beekeeper	Бджоляр
+FEMALE_bibliographer	bibliographer
+FEMALE_biochemist	Біохімік
+FEMALE_biologist	Біолог
+FEMALE_biotechnologist	Біотехнік
+FEMALE_biscuit maker	biscuit maker
+FEMALE_blacksmith	Коваль
+FEMALE_blast-furnaceman	blast-furnacewoman
+FEMALE_blasting works engineer	blasting works engineer
+FEMALE_boatman	boat captain
+FEMALE_boiler operator	Оператор бойлера
+FEMALE_bookbinder	bookbinder
+FEMALE_bookkeeper	bookkeeper
+FEMALE_bookmaker	bookmaker
+FEMALE_botanist	Ботанік
+FEMALE_brewer and maltster	brewer and maltster
+FEMALE_bricklayer	Цегляр
+FEMALE_broadcaster	broadcaster
+FEMALE_brush-maker	brush-maker
+FEMALE_building electrician	building electrician
+FEMALE_building tinsmith	building tinsmith
+FEMALE_butcher	М'ясник
+FEMALE_sausage-maker	sausage-maker
+FEMALE_butler	butler
+FEMALE_button maker	button maker
+FEMALE_taxi dispatcher	taxi dispatcher
+FEMALE_cabinet maker	cabinet maker
+FEMALE_cable car driver	cable car driver
+FEMALE_cable manufacture labourer	cable manufacture labourer
+FEMALE_camera mechanic	camera mechanic
+FEMALE_camera operator	camera operator
+FEMALE_canning worker	canning worker
+FEMALE_capital markets clerk	capital markets clerk
+FEMALE_captain of an aircraft	Капітан літака
+FEMALE_car mechanic	Аавтомеханік
+FEMALE_car service worker	car service worker
+FEMALE_care assistant	care assistant
+FEMALE_career diplomat	career diplomat
+FEMALE_diplomat	Дипломат
+FEMALE_guidance counsellor	guidance counsellor
+FEMALE_caretaker	Доглядач
+FEMALE_carpenter	Столяр
+FEMALE_cartographer	Ккартограф
+FEMALE_cellulose operator	cellulose operator
+FEMALE_ceramic model maker	Виробник керамічних моделей
+FEMALE_ceramic painter	Художник по кераміці
+FEMALE_ceramicist	Кераміст
+FEMALE_ceramics maker	ceramics maker
+FEMALE_charter agent	charter agent
+FEMALE_cheese maker	Сировар
+FEMALE_chemical researcher	chemical researcher
+FEMALE_chemical technologist	chemical technologist
+FEMALE_children's nurse	Дитячий медбрат
+FEMALE_chimney sweep	chimney sweep
+FEMALE_chipboard production operative	chipboard production operative
+FEMALE_choir master	choir master
+FEMALE_choreographer	choreographer
+FEMALE_circus artiste	circus artiste
+FEMALE_circus performer	circus performer
+FEMALE_cleaner	Прибирач
+FEMALE_cloakroom attendant	cloakroom attendant
+FEMALE_coffee roaster	coffee roaster
+FEMALE_coffeehouse keeper	coffeehouse keeper
+FEMALE_café owner	Власник кафе
+FEMALE_commentator	Коментатор
+FEMALE_commercial lawyer	commercial lawyer
+FEMALE_company lawyer	Адвокат для компанії
+FEMALE_composer	Композитор
+FEMALE_computer engineer	Комп'ютерний інженер
+FEMALE_computer equipment operator	Оператор комп'ютерного обладнання
+FEMALE_computer network manager	Менеджер мереж
+FEMALE_computer programmer	Програміст
+FEMALE_concrete worker	concrete worker
+FEMALE_conductor	conductor
+FEMALE_confectioner	confectioner
+FEMALE_conservator	conservator
+FEMALE_construction manager	construction manager
+FEMALE_cook	Кухар
+FEMALE_corrosion control fitter	corrosion control fitter
+FEMALE_court executive officer	court executive officer
+FEMALE_craft ceramicist	craft ceramicist
+FEMALE_craft gilder	craft gilder
+FEMALE_craft glass etcher	craft glass etcher
+FEMALE_craft glassmaker	craft glassmaker
+FEMALE_craft metalworker and brazier	craft metalworker and brazier
+FEMALE_craft mosaic maker	craft mosaic maker
+FEMALE_craft plasterer	craft plasterer
+FEMALE_craft stonemason	craft stonemason
+FEMALE_craft upholsterer	craft upholsterer
+FEMALE_crane driver	crane driver
+FEMALE_crate maker	crate maker
+FEMALE_criminal investigator	Слідчий
+FEMALE_crop treatment operative	crop treatment operative
+FEMALE_croupier	Круп'є
+FEMALE_customs officer	Офіцер митниці
+FEMALE_cutler	cutler
+FEMALE_dairy worker	Молочник
+FEMALE_dance teacher	Вчитель танцю
+FEMALE_dancer	Ттанцюрист
+FEMALE_data transfer appliance technician	Технік передачі даних
+FEMALE_debt collector	Колектор
+FEMALE_decorator-paperhanger	decorator-paperhanger
+FEMALE_dental surgery assistant	Помічник зубного хірурга
+FEMALE_dental technician	dental technician
+FEMALE_dentist	Дантист
+FEMALE_dental surgeon	Зубний хірург
+FEMALE_dietician	Дієтолог
+FEMALE_digger	Шахтар
+FEMALE_director	Режисер
+FEMALE_disc jockey	disc jockey
+FEMALE_dish washer	dish washer
+FEMALE_dispatch clerk	dispatch clerk
+FEMALE_dispatcher	dispatcher
+FEMALE_diver	diver
+FEMALE_dog trainer	dog trainer
+FEMALE_doorkeeper	doorkeeper
+FEMALE_draughtsperson	draughtsperson
+FEMALE_dresser	dresser
+FEMALE_driller	Бурильник
+FEMALE_drilling rig operator	drilling rig operator
+FEMALE_driver of motor vehicles	driver of motor vehicles
+FEMALE_driver's mate	driver's mate
+FEMALE_driving instructor	Інструктор з водіння
+FEMALE_dust control technician	Технік боротьби з пилом
+FEMALE_ecologist	Еколог
+FEMALE_economist	Економіст
+FEMALE_editor	Редактор
+FEMALE_educational specialist	educational specialist
+FEMALE_electrical equipment inspector	electrical equipment inspector
+FEMALE_electrical fitter	electrical fitter
+FEMALE_electrician	Електрик
+FEMALE_electroceramic operative	electroceramic operative
+FEMALE_electronic mechanic	electronic mechanic
+FEMALE_electroplating operator	electroplating operator
+FEMALE_employment agent	employment agent
+FEMALE_enamel worker	enamel worker
+FEMALE_engineering fitter	engineering fitter
+FEMALE_entertainment officer	entertainment officer
+FEMALE_environmental inspector	environmental inspector
+FEMALE_ergonomist	ergonomist
+FEMALE_ethnographer	ethnographer
+FEMALE_exhibitions organizer	exhibitions organizer
+FEMALE_faith healer	faith healer
+FEMALE_farm worker	farm worker
+FEMALE_farmer	Фермер
+FEMALE_fashion designer	fashion designer
+FEMALE_feed production operator	feed production operator
+FEMALE_film critic	film critic
+FEMALE_film designer	film designer
+FEMALE_film or videotape editor	film or videotape editor
+FEMALE_film projectionist	film projectionist
+FEMALE_financial analyst	financial analyst
+FEMALE_financial officer	financial officer
+FEMALE_fine artist	fine artist
+FEMALE_fire prevention officer	fire prevention officer
+FEMALE_fish farmer	fish farmer
+FEMALE_fish warden	fish warden
+FEMALE_fisherman	fisherwoman
+FEMALE_fitter of glass instruments	fitter of glass instruments
+FEMALE_fitter of gas pipelines	fitter of gas pipelines
+FEMALE_fitter of steel structures	fitter of steel structures
+FEMALE_flight attendant	Бортпровідниця
+FEMALE_flight engineer	flight engineer
+FEMALE_floor fitter	floor fitter
+FEMALE_flower grower	flower grower
+FEMALE_flying instructor	flying instructor
+FEMALE_food industry PM	food industry PM
+FEMALE_food industry technologist	food industry technologist
+FEMALE_foreign exchange clerk	foreign exchange clerk
+FEMALE_forest manager	forest manager
+FEMALE_forestry machine operator	forestry machine operator
+FEMALE_forestry worker	forestry worker
+FEMALE_fortune teller	fortune teller
+FEMALE_foster parent	foster parent
+FEMALE_foundry worker	foundry worker
+FEMALE_fringe/trimmings maker	fringe/trimmings maker
+FEMALE_fruit farmer	fruit farmer
+FEMALE_funeral service assistant	funeral service assistant
+FEMALE_fur coat seamstress	fur coat seamstress
+FEMALE_furnace operator	furnace operator
+FEMALE_furrier	furrier
+FEMALE_gardener	gardener
+FEMALE_gas industry inspector	gas industry inspector
+FEMALE_general labourer	general labourer
+FEMALE_geneticist	geneticist
+FEMALE_geographer	geographer
+FEMALE_geologist	Геолог
+FEMALE_geophysicist	geophysicist
+FEMALE_glass decorator	glass decorator
+FEMALE_glass jewellery maker	glass jewellery maker
+FEMALE_glass making machine operator	glass making machine operator
+FEMALE_glass melter	glass melter
+FEMALE_glass painter	glass painter
+FEMALE_glass production worker	glass production worker
+FEMALE_glasscutter	glasscutter
+FEMALE_glassworker	glassworker
+FEMALE_glazier	glazier
+FEMALE_goldsmith	goldsmith
+FEMALE_government licensing official	government licensing official
+FEMALE_graphic designer	graphic designer
+FEMALE_gravedigger	gravedigger
+FEMALE_guide	guide
+FEMALE_gunsmith	gunsmith
+FEMALE_hand embroiderer	hand embroiderer
+FEMALE_hand lacemaker	hand lacemaker
+FEMALE_harbour guard	harbour guard
+FEMALE_hardener	hardener
+FEMALE_harpooner	harpooner
+FEMALE_hatter	hatter
+FEMALE_heating and ventilating fitter	heating and ventilating fitter
+FEMALE_heating engineer	heating engineer
+FEMALE_herbalist	herbalist
+FEMALE_high-rise work specialist	high-rise work specialist
+FEMALE_historian	historian
+FEMALE_historical monuments custodian	historical monuments custodian
+FEMALE_horse breeder	horse breeder
+FEMALE_host	host
+FEMALE_hotel porter	hotel porter
+FEMALE_hotel receptionist	hotel receptionist
+FEMALE_hydrologist	hydrologist
+FEMALE_ice-cream maker	ice-cream maker
+FEMALE_image consultant	image consultant
+FEMALE_industrial designer	industrial designer
+FEMALE_officer in rail transport	officer in rail transport
+FEMALE_information assistant	information assistant
+FEMALE_insulation worker	insulation worker
+FEMALE_insurance clerk	insurance clerk
+FEMALE_insurance sales person	insurance sales person
+FEMALE_interior designer	interior designer
+FEMALE_interpreter and translator	interpreter and translator
+FEMALE_investment clerk	investment clerk
+FEMALE_invoice clerk	invoice clerk
+FEMALE_jeweller	jeweller
+FEMALE_jewellery maker	jewellery maker
+FEMALE_joiner and cabinetmaker	joiner and cabinetmaker
+FEMALE_judge	Суддя
+FEMALE_keeper of records	keeper of records
+FEMALE_keeper of service animals	keeper of service animals
+FEMALE_knitter	knitter
+FEMALE_land surveyor	land surveyor
+FEMALE_landscape architect	landscape architect
+FEMALE_laundry worker	laundry worker
+FEMALE_lecturer	Лектор
+FEMALE_lecturer in vocational courses	lecturer in vocational courses
+FEMALE_researcher in linguistics	researcher in linguistics
+FEMALE_librarian	librarian
+FEMALE_information scientist	information scientist
+FEMALE_lifeguard	Рятівник
+FEMALE_swimming instructor	Інструктор з плавання
+FEMALE_lift attendant	lift attendant
+FEMALE_lift fitter	lift fitter
+FEMALE_lighting technician	lighting technician
+FEMALE_lightning conductor fitter	lightning conductor fitter
+FEMALE_lithographer	lithographer
+FEMALE_livestock farmer	livestock farmer
+FEMALE_lottery ticket street vendor	lottery ticket street vendor
+FEMALE_machine shop worker	machine shop worker
+FEMALE_machinery inspector	machinery inspector
+FEMALE_maker of non-woven textiles	maker of non-woven textiles
+FEMALE_make-up artist and wigmaker	make-up artist and wigmaker
+FEMALE_management accountant	management accountant
+FEMALE_management consultant	management consultant
+FEMALE_manager	Менеджер
+FEMALE_marine engineer	Морський інженер
+FEMALE_marine hotel manager	marine hotel manager
+FEMALE_marketing manager	marketing manager
+FEMALE_masseur/masseuse	masseur/masseuse
+FEMALE_master of ceremonies	master of ceremonies
+FEMALE_materials handler	materials handler
+FEMALE_mathematician	mathematician
+FEMALE_medical laboratory assistant	medical laboratory assistant
+FEMALE_mechanic	Механік
+FEMALE_mechanic	Механік
+FEMALE_mechanical engineering designer	mechanical engineering designer
+FEMALE_mechatronic engineer	mechatronic engineer
+FEMALE_metal engraver	metal engraver
+FEMALE_metal grinder	metal grinder
+FEMALE_metal refiner	metal refiner
+FEMALE_metal turner	metal turner
+FEMALE_metal worker	metal worker
+FEMALE_metallurgist	metallurgist
+FEMALE_meteorologist	meteorologist
+FEMALE_metrologist	metrologist
+FEMALE_microbiologist	microbiologist
+FEMALE_midwife	midwife
+FEMALE_miller	miller
+FEMALE_milling-machine operator	milling-machine operator
+FEMALE_mine rescue service mechanic	mine rescue service mechanic
+FEMALE_mine ventilation technician	mine ventilation technician
+FEMALE_miner	Шахтар
+FEMALE_mining air control technician	mining air control technician
+FEMALE_mining electrician	mining electrician
+FEMALE_mining finisher	mining finisher
+FEMALE_mining machine operator	mining machine operator
+FEMALE_mining mechanic	mining mechanic
+FEMALE_mining rescue worker	mining rescue worker
+FEMALE_minerals surveyor	minerals surveyor
+FEMALE_fashion model	fashion model
+FEMALE_modeller	modeller
+FEMALE_motor vehicle bodybuilder	motor vehicle bodybuilder
+FEMALE_mountain guide	mountain guide
+FEMALE_multimedia designer	multimedia designer
+FEMALE_multimedia programmer	multimedia programmer
+FEMALE_municipal police officer	municipal police officer
+FEMALE_municipal services worker	municipal services worker
+FEMALE_municipal street cleaner	municipal street cleaner
+FEMALE_art gallery curator	art gallery curator
+FEMALE_music director	music director
+FEMALE_musical instrument mechanic	musical instrument mechanic
+FEMALE_musician	Музикант
+FEMALE_musicologist	musicologist
+FEMALE_nanny	nanny
+FEMALE_naturalist guide	naturalist guide
+FEMALE_newspaper editor	newspaper editor
+FEMALE_nuclear power station operator	nuclear power station operator
+FEMALE_nurse	Медбрат
+FEMALE_nursery school teacher	nursery school teacher
+FEMALE_nutritionist	nutritionist
+FEMALE_office junior	office junior
+FEMALE_customer services operator	customer services operator
+FEMALE_operational analyst	operational analyst
+FEMALE_optical component maker	optical component maker
+FEMALE_optical instrument mechanic	optical instrument mechanic
+FEMALE_ore crusher	ore crusher
+FEMALE_orthopaedic shoemaker	orthopaedic shoemaker
+FEMALE_prosthetic technician	prosthetic technician
+FEMALE_orthotist	orthotist
+FEMALE_out-of-school educator	out-of-school educator
+FEMALE_packer	packer
+FEMALE_paediatrician	paediatrician
+FEMALE_palmists	palmists
+FEMALE_paper worker	paper worker
+FEMALE_paramedic	paramedic
+FEMALE_patent agent	patent agent
+FEMALE_paver	paver
+FEMALE_pawnbroker	pawnbroker
+FEMALE_personnel officer	personnel officer
+FEMALE_pest control officer	pest control officer
+FEMALE_pharmacist	pharmacist
+FEMALE_philosopher	philosopher
+FEMALE_photographer	Фотограф
+FEMALE_photographic reporter	photographic reporter
+FEMALE_physicist	physicist
+FEMALE_physiotherapist	physiotherapist
+FEMALE_piano tuner	piano tuner
+FEMALE_pilot	Пілот
+FEMALE_pipe fitter	pipe fitter
+FEMALE_pizza maker	pizza maker
+FEMALE_plumber	Сантехнік
+FEMALE_plywood maker	plywood maker
+FEMALE_police assistant	police assistant
+FEMALE_police investigator	police investigator
+FEMALE_police officer	Офіцер поліції
+FEMALE_political scientist	political scientist
+FEMALE_pollster	pollster
+FEMALE_post office counter clerk	post office counter clerk
+FEMALE_postal service worker	postal service worker
+FEMALE_postal transport worker	postal transport worker
+FEMALE_postal worker	postal worker
+FEMALE_postmaster	postmaster
+FEMALE_poultry breeder	poultry breeder
+FEMALE_poultry butcher	poultry butcher
+FEMALE_powder metallurgist	powder metallurgist
+FEMALE_power engineering specialist	power engineering specialist
+FEMALE_power station supervisor	power station supervisor
+FEMALE_power station operator	power station operator
+FEMALE_power system worker	power system worker
+FEMALE_power truck driver	power truck driver
+FEMALE_prefab construction worker	prefab construction worker
+FEMALE_press officer	press officer
+FEMALE_pricing officer	pricing officer
+FEMALE_priest	priest
+FEMALE_primary school teacher	primary school teacher
+FEMALE_printer	друкар
+FEMALE_printing machine mechanic	printing machine mechanic
+FEMALE_printing technician	printing technician
+FEMALE_prison guard	prison guard
+FEMALE_private detective	private detective
+FEMALE_producer	producer
+FEMALE_producer of leather goods	producer of leather goods
+FEMALE_product designer	product designer
+FEMALE_production technologist	production technologist
+FEMALE_professional soldier	professional soldier
+FEMALE_prompter	prompter
+FEMALE_property manager	property manager
+FEMALE_props master	props master
+FEMALE_psychiatrist	psychiatrist
+FEMALE_psychologist	psychologist
+FEMALE_psychotherapist	psychotherapist
+FEMALE_public administration officer	public administration officer
+FEMALE_public notary	public notary
+FEMALE_public relations manager	public relations manager
+FEMALE_publican	publican
+FEMALE_publisher	publisher
+FEMALE_purchasing officer	purchasing officer
+FEMALE_quality control technician	quality control technician
+FEMALE_quality inspector	quality inspector
+FEMALE_radio operator	radio operator
+FEMALE_radiotherapist	radiotherapist
+FEMALE_rail transport worker	rail transport worker
+FEMALE_rail vehicle mechanic	rail vehicle mechanic
+FEMALE_wagon inspector	wagon inspector
+FEMALE_railway electrician	railway electrician
+FEMALE_railway engine mechanic	railway engine mechanic
+FEMALE_railway freight handler	railway freight handler
+FEMALE_railway guard	railway guard
+FEMALE_railway operative	railway operative
+FEMALE_booking office clerk	booking office clerk
+FEMALE_railway track construction fitter	railway track construction fitter
+FEMALE_railway yard worker	railway yard worker
+FEMALE_real estate agent	real estate agent
+FEMALE_referee	referee
+FEMALE_refrigeration engineer	refrigeration engineer
+FEMALE_refuse collector	refuse collector
+FEMALE_registrar	registrar
+FEMALE_removal worker	removal worker
+FEMALE_reproduction technician	reproduction technician
+FEMALE_retoucher	retoucher
+FEMALE_river basin keeper	river basin keeper
+FEMALE_road sign assistant	road sign assistant
+FEMALE_road transport technician	road transport technician
+FEMALE_rolling-mill operator	rolling-mill operator
+FEMALE_roofer	roofer
+FEMALE_room maid	room maid
+FEMALE_rope maker	rope maker
+FEMALE_rotating machine fitter	rotating machine fitter
+FEMALE_rubber operator	rubber operator
+FEMALE_safety electrician	safety electrician
+FEMALE_safety engineer	safety engineer
+FEMALE_sales assistant	sales assistant
+FEMALE_sales manager	sales manager
+FEMALE_sales representative	sales representative
+FEMALE_scaffolder	scaffolder
+FEMALE_scene painter	scene painter
+FEMALE_scene-shifter	scene-shifter
+FEMALE_script editor	script editor
+FEMALE_script writer	script writer
+FEMALE_sculptor	sculptor
+FEMALE_seaman	Lady of the sea
+FEMALE_secondary school teacher	secondary school teacher
+FEMALE_secretary	Секретар
+FEMALE_section supervisor	section supervisor
+FEMALE_security guard	security guard
+FEMALE_service mechanic	service mechanic
+FEMALE_sewerage system cleaner	sewerage system cleaner
+FEMALE_sewing machinist	sewing machinist
+FEMALE_shepherd	shepherd
+FEMALE_goatherd	goatherd
+FEMALE_shift engineer	shift engineer
+FEMALE_ship fitter	ship fitter
+FEMALE_ship's captain	ship's captain
+FEMALE_ship's officer	ship's officer
+FEMALE_shoemaker	shoemaker
+FEMALE_shop cashier	shop cashier
+FEMALE_shunter	shunter
+FEMALE_shunting team manager	shunting team manager
+FEMALE_school caretaker	school caretaker
+FEMALE_school inspector	school inspector
+FEMALE_silkworm breeder	silkworm breeder
+FEMALE_singer	Співак
+FEMALE_smith	smith
+FEMALE_social worker	social worker
+FEMALE_sociologist	sociologist
+FEMALE_solicitor	solicitor
+FEMALE_songwriter	songwriter
+FEMALE_sound effects technician	sound effects technician
+FEMALE_sound engineer	sound engineer
+FEMALE_spa resort attendant	spa resort attendant
+FEMALE_special needs teacher	special needs teacher
+FEMALE_special effects engineer	special effects engineer
+FEMALE_special needs teacher	special needs teacher
+FEMALE_specialist in animal husbandry	specialist in animal husbandry
+FEMALE_spectacle frame maker	spectacle frame maker
+FEMALE_speech therapist	speech therapist
+FEMALE_spinner	spinner
+FEMALE_stable hand	stable hand
+FEMALE_stage costume maker	stage costume maker
+FEMALE_stage designer	stage designer
+FEMALE_stage manager	stage manager
+FEMALE_standards engineer	standards engineer
+FEMALE_state attorney	state attorney
+FEMALE_station manager	station manager
+FEMALE_statistician	statistician
+FEMALE_stockbroker	stockbroker
+FEMALE_stonemason	stonemason
+FEMALE_storekeeper	storekeeper
+FEMALE_stove fitter	stove fitter
+FEMALE_sugar maker	sugar maker
+FEMALE_surgical toolmaker	surgical toolmaker
+FEMALE_surveyor's assistant	surveyor's assistant
+FEMALE_sweet factory worker	sweet factory worker
+FEMALE_systems designer	systems designer
+FEMALE_systems engineer	systems engineer
+FEMALE_tailor	Кравець
+FEMALE_lion tamer	lion tamer
+FEMALE_tanner	tanner
+FEMALE_tannery worker	tannery worker
+FEMALE_tax specialist	tax specialist
+FEMALE_technical editor	technical editor
+FEMALE_telecommunications cable fitter	telecommunications cable fitter
+FEMALE_telecommunications technician	telecommunications technician
+FEMALE_switchboard operator	switchboard operator
+FEMALE_teller	teller
+FEMALE_textile printer	textile printer
+FEMALE_textile refiner	textile refiner
+FEMALE_textile technologist	textile technologist
+FEMALE_textiles dyer	textiles dyer
+FEMALE_the doctor	the doctor
+FEMALE_ticket collector	ticket collector
+FEMALE_tinsmith	tinsmith
+FEMALE_tobacco technologist	tobacco technologist
+FEMALE_tool maker	tool maker
+FEMALE_town planner	town planner
+FEMALE_track engineer	track engineer
+FEMALE_tracklayer	tracklayer
+FEMALE_tractor driver	tractor driver
+FEMALE_trading standards officer	trading standards officer
+FEMALE_traffic police officer	traffic police officer
+FEMALE_train dispatcher	train dispatcher
+FEMALE_train driver	train driver
+FEMALE_trainee	trainee
+FEMALE_trainer	trainer
+FEMALE_tram driver	tram driver
+FEMALE_transport supervisor	transport supervisor
+FEMALE_travel agency clerk	travel agency clerk
+FEMALE_travel courier	travel courier
+FEMALE_tunneller	tunneller
+FEMALE_tutor	tutor
+FEMALE_typesetter	typesetter
+FEMALE_it's complicated	it's complicated
+FEMALE_upholsterer	upholsterer
+FEMALE_valuer	valuer
+FEMALE_varnisher	varnisher
+FEMALE_veterinary surgeon	veterinary surgeon
+FEMALE_veterinary technician	veterinary technician
+FEMALE_viniculturist	viniculturist
+FEMALE_wages clerk	wages clerk
+FEMALE_waiter	Офіціант
+FEMALE_wardrobe mistress	wardrobe mistress
+FEMALE_warehouse clerk	warehouse clerk
+FEMALE_waste incineration plant worker	waste incineration plant worker
+FEMALE_water management controller	water management controller
+FEMALE_water meter reader	water meter reader
+FEMALE_watercourse manager	watercourse manager
+FEMALE_watch-maker	watch-maker
+FEMALE_watchman	security guard
+FEMALE_weaver	weaver
+FEMALE_weigher	weigher
+FEMALE_weir and dam operator	weir and dam operator
+FEMALE_welding operator	welding operator
+FEMALE_well digger	well digger
+FEMALE_whaler	whaler
+FEMALE_window cleaner	window cleaner
+FEMALE_window-dresser	window-dresser
+FEMALE_winery worker/wine maker	winery worker/wine maker
+FEMALE_wire-drawer	wire-drawer
+FEMALE_wood carver	wood carver
+FEMALE_wood industry technologist	wood industry technologist
+FEMALE_woodcutting manager	woodcutting manager
+FEMALE_woodworking operator	woodworking operator
+FEMALE_foundry worker	foundry worker
+FEMALE_Olympian	Olympian
+FEMALE_Ice cream taster	Ice cream taster
+FEMALE_Mercenary	Найманець
+FEMALE_Adult film creator	Adult film creator
+FEMALE_Hunter	Мисливець
+FEMALE_Ornithologist	Ornithologist
+FEMALE_Urban Planner	Urban Planner
+FEMALE_Civil Engineer	Civil Engineer
+FEMALE_Coach	Coach
+FEMALE_Hot Dog Eater	Поїдач хотдогів
+FEMALE_Retired	Пенсіонер
+FEMALE_Between Jobs	Between Jobs
+FEMALE_prophet	prophet
+BattleRoyale	До останнього бота
+EndlessCoop	Нескінченний кооператив
+CoopChallenge	Кооперативні випробування
+Want Armor?	Хочете броню?
+Update: Now in {Language}!	Update: Now in English!
+Gameplay Trailer	Gameplay Trailer
+Start Match!	Початок матчу!
+Final Zone!	Остання зона!
+Press	Натисніть
+to transfer consciousness!	, щоб перемістити свідомість!
+START MISSION	START MISSION
+NEXT HUMAN	НАСТУПНА ЛЮДИНА
+RESET	СКИНУТИ
+BACK	НАЗАД
+errorGamesFull	Games are full and new servers are starting up, try again in a minute!
+errorIncompatibleVersion	Несумісність версії. Спробуйте оновити свою гру в Steam, або повторити спробу пізніше.
+errorMatchmaking	Щось пішло не так під час пошуку. Спробуйте оновити свою гру. PlayFab Error:
+errorTimeout	Timed out while connecting. Try restarting Steam to update the game client or changing your firewall settings.
+errorCustomDuelCreate	Помилка створення власного коду дуелі.
+errorCustomDuelJoin	Помилка отримання власного коду дуелі.
+errorRegionsRequest	Unable to request game server regions.
+errorNoRegions	No regions available, try restarting Steam and updating your game.
+errorPingRegions	Unable to ping regions.
+errorNewServersStarting	New servers starting up, try again in a minute!
+errorTimeoutLevelDownload	Timed out downloading required levels. Check your connection or firewall.
+errorLoginFailed	Login failed, check if Steam is running or try again.
+errorInvalidServerIP	Помилка! Невірний IP сервера.
+Player pushes garbage	Гравець штовхає останки
+Hide Special Objects	Приховати спеціальні об'єкти
+Humans harvested:	Зібрано людей:
+connection problem	Помилка з'єднання
+Laser temporarily disabled!	Лазер тимчасово вимкнено!
+Cross Network Play	Міжмережева гра
+Enable Cross Network Play	Enable Cross Network Play
+cross network ban xbox	Sorry, you’re currently prevented from playing with people on platforms other than Xbox Live.
+cross network info	Cross Network Play <color=#19D400>enabled</color><br><size=16>You can disable Cross Network Play in Settings.</size>
+Invite	Запросити
+Sent!	Надіслано!
+multiplayer session ban xbox	На жаль, на разі вам заборонено грати в онлайн мережеві ігри.
+multiplayer session no user xbox	An Xbox Live account is required to play a multiplayer match.
+multiplayer session login request error xbox	Sorry, we couldn't authorize your Xbox Live account. Try again later.
+Invite failed	Не вдалося запросити
+Connecting to game	Під'єднання до гри
+bannedMessageConsoles	You are banned from multiplayer!<br><br>If you want more information or believe this is an error, contact:<br><br>banned@doborog.com<br><br>and tell us your account identificator.
+PS4PlusSubscriptionRequieredMultiplayer	PlayStation®Plus subscription is required to access multiplayer features
+Authenticating user	Автентифікація користувача
+Joining invited game	Joining invited game
+cross network first time info	Players from other networks will be able to join your matches. You can change this later in the settings menu.
+errorTimeoutConsoles	Timed out while connecting. Try restarting the game client or change your network settings.
+UserNotLoggedIn	User is not logged in
+PS4SignInToNetwork	Sign in to PlayStation™Network
+Fire Resistance	Fire Resistance
+Fire spreads less.	Fire spreads less.
+errorIncompatibleVersionConsoles	Incompatible version. Try updating your game, or retrying later.
+errorNoRegionsConsoles	No regions available, try update your game or check network settings.
+errorLoginFailedConsoles	Login failed, check game version or network settings.
+Platinum Clone	Platinum Clone
+Platinum Clone Description	Is this human made out of Platinum? It must be since they got every single achievement in the Danger Zone. Incredible!
+PS4RecentlyMetMessage	Played {0} mode with me
+PS4RoomStatus	Game mode: {0}
+InviteToGame	Do you want to join me in Clone Drone in the Danger Zone?
+PlayerInGamePresenceStatus	Playing Clone Drone In The Danger Zone
+UnableToAccessFeature	Unable to access this feature
+SwitchUserIdInvalidMessage	UserID is invalid
+SwitchNsaInvalidMessage	Nintendo Account unavailable
+SwitchTokenCacheUnavailableMessage	Unable to check Nintendo Switch Online membership status
+SwitchNetworkCommunicationError	Network communication error
+SwitchUserAccountError	Nintendo Account error
+SwitchLinkToNintendoAccount	Ensure You are connected to Nintendo Account
+SwitchNintendoOnlineRequired	Nintendo Switch Online membership is required
+SwitchNintendoOnlineVerificationFailed	Failed to verify Nintendo Switch Online membership 
+Japanese	Японська
+Korean	Корейська
+French - France	Французька — Франція
+block user title	Block {0} from co-op matchmaking?
+block user cancel	Скасувати
+block user confirm	Заблокуйте їх!
+unblock user title	Unblock {0} for co-op matchmaking?
+unblock user message	You’ll be matched with them again in co-op.
+unblock user cancel	Скасувати
+unblock user confirm	Гаразд
+Enable	Увімкнено
+Disable	Вимкнено
+Manage blocked players	Керувати блокуваннями
+Blocked Players	Заблоковані гравці
+blockedPlayersDescription	These are the players you’ve blocked from co-op matchmaking.<br>Last Bot Standing does not support blocking people and you may still see them there.
+blockListLabel	Список заблокованих
+Block	Заблокувати
+Unblock	Розблокувати
+nextPageLabel	Наступна сторінка
+previousPageLabel	Попередня сторінка
+reportCheating	Махлювання
+reportToxicBehaviour	Токсична поведінка
+reportOther	Інше
+Select Reason	Оберіть причину
+Describe Their Behaviour	Опишіть його поведінку
+reportUsername	<color=#FF6815>Поскаржитися</color> {0}
+connectionErrorNoConnection	Connection to the server could not be established. Check your internet connection and try again later.
+errorNoSlotsAvailable	The match you want to join is full.
+VSync	VSync
+userSignIn	User signed in
+userSignInDescription	Signed in as {0}<br>Loading save data...
+noUserSignedIn	No user signed in
+noUserSignedInDescription	No user is currently signed in, you will not be able to save game progress until you log into an account.
+matchError	Couldn't join the match
+matchErrorFull	Матч уже повний.
+matchErrorInvalidMode	Invalid game mode requested.
+matchErrorNotFound	Матч не знайдено.
+block user message	You may still see them in Last Bot Standing games, but you are less likely to be matched in co-op.<br>You can manage your blocked users from Settings / Multiplayer.
+ToU_Title	Doborog<br>TERMS OF USE<br>LAST MODIFIED ON AUGUST 18, 2020
+TOU_Sector_01	<b>Important:</b> Please read these Terms of Use carefully before continuing to use this Game.<br><br>Section 19 of this Terms of Use Agreement contains a binding arbitration clause and class action waiver. If you live in the United States, this Section affects your rights about how to resolve disputes that you may have with us. <br><br><b>Please read it carefully.</b>
+TOU_Sector_02_SIEA	This Terms of Use (the “Agreement”) applies to the PlayStation 4 version of the Doborog Game “Clone Drone in the Danger Zone” (the “Service”), provided by Doborog LLC (“Doborog”).<br><br>Even though you may have purchased or licensed the Service through Sony Interactive Entertainment LLC or any of its current or former affiliates, including parents and subsidiaries, and any predecessor or successor entity to any of the foregoing (any of these, an “SIE Group Company”), no SIE Group Company is a party to this Agreement and no SIE Group Company has any obligations to you in connection with the Service.<br><br><b>Sony Interactive Entertainment America – Special Notice:</b> Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+TOU_Sector_02_SIEE	This Terms of Use (the “Agreement”) applies to the PlayStation 4 version of the Doborog Game “Clone Drone in the Danger Zone” (the “Service”), provided by Doborog LLC (“Doborog”).<br><br>Even though you may have purchased or licensed the Service through Sony Interactive Entertainment Europe Limited or any of its current or former affiliates, including parents and subsidiaries, and any predecessor or successor entity to any of the foregoing (any of these, an “SIE Group Company”), no SIE Group Company is a party to this Agreement and no SIE Group Company has any obligations to you in connection with the Service.<br><br><b>Sony Interactive Entertainment Europe – Special Notice:</b> Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+TOU_Sector_03	1. Acceptance of Terms
+TOU_Sector_04	By continuing to use the Service, you agree as follows:<br><br>        1.1. You understand and intend that this Agreement is a legally binding agreement and the equivalent of a signed, written contract;<br><br>        1.2. You will use the Service in accordance with applicable laws and regulations and in accordance with the terms and conditions in this Agreement as it may be amended by Doborog from time to time; and<br><br>        1.3. You understand, accept, and have received this Agreement and its terms and conditions, and acknowledge and demonstrate that you can access this Agreement.<br>If you do not agree with the terms and conditions in this Agreement, please discontinue all further use of the Service.
+TOU_Sector_05	2. Doborog’s License to You
+TOU_Sector_06	Doborog grants you a single, non-exclusive, non-transferable and limited personal license to access and use the Service only on a PlayStation platform that you own or control, or other such system that the Service is delivered to by PlayStation™Network. This license is conditioned on your continued compliance with the terms and conditions in this Agreement. You may not rent, lease, lend, sell, transfer, redistribute, or sublicense the Service and, if you sell or otherwise transfer a device on which any part of the Service is installed to a third party, you must remove the Service from such device before doing so. You may not copy, decompile, reverse-engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Service, any updates, or any part thereof (except as and only to the extent that any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open-sourced components included with the Service).
+TOU_Sector_07	3. Messages from Doborog
+TOU_Sector_08	You understand that you may receive business-related communications from Doborog through the Service or through email, such as product and other announcements, and administrative notices. You agree that these communications are not “unsolicited commercial email advertisements” and you agree to receive them. <br>Email messages will be accompanied by instructions for opting out.
+TOU_Sector_09	4. Your Account
+TOU_Sector_10	<br>        4.1. <b>Account Creation.</b> You need to register for an Account to use the Service. You may only create an Account if you are at least 16 years old. If you are at least 16 years of age but still a minor in your jurisdiction, your parent or legal guardian must establish an Account with us in order for you to access and use the Service. <br><br>You may create an Account for free by signing up through a registration form on the Service. You are solely responsible for the activity that occurs on your Account. You agree to keep your Account and devices secure and to notify Doborog <b>immediately</b> of any breach of security or unauthorized use of your Account.<br><br>        4.2. <b>Accurate Information.</b> When creating your Account, you promise to provide a valid email address and accurate information related to your Account. You promise to keep this information updated so that it is accurate at all times. <br><br>        4.3. <b>Suspension of Accounts.</b> Doborog may, at our sole discretion, suspend or terminate your Account or your access to the Service should your conduct, in our sole determination, fail to conform with this Agreement or for any other reason. <br><br>        4.4. <b>Your Username.</b> Doborog may force you to change any of your screen names if (i) it is the name of another person, with the intent to impersonate that person, (ii) it incorporates the rights of a third party without appropriate authorization, or (iii) Doborog deems it unacceptable by community standards. Users additionally agree that their usernames:
+TOU_Sector_11	• will not be vulgar or insulting;<br>    • will not have sexual or pornographic connotations;<br>    • will not to contain your real name;<br>   • will not resemble or imitate a registered trademark or other term protected by intellectual property laws;<br>    • will not to promote a commercial service;<br>   • will not to be spelled or spelled alternatively for the purpose of circumventing the rules imposed above; and<br>    • will not combine your name and surname, which, assembled, would contravene the rules provided above.
+TOU_Sector_12	<br>        4.5. <b>Account Privacy.</b> You agree that there is no expectation of privacy in connection with your interactions with other users in and through the Service. You further agree that the contents of any messages or other communication sent from your Account, whether in or through chats, forums, direct user-to-user communication, or by other means, may be accessed, reproduced, or distributed by Doborog as it sees fit. Doborog will fully cooperate with law enforcement and other governmental entities in policing the content of the Service. If you are under the age of 21, Doborog may release transcripts of your chats, or other in-Service communication, to your parents, guardian, or other adult authority figures.<br><br>        4.6. <b>No Account Purchases and Transfers.</b> You may not buy, sell, give, or trade any Account, nor attempt to buy, sell, give, or trade any Account. Doborog owns, has licensed, or otherwise has rights to all the content that appears in-Service, including Accounts.
+TOU_Sector_13	5. Your License to Doborog; Your Conduct
+TOU_Sector_14	<br>        5.1. <b>Your Content.</b> Any communications or material of any kind that you email, post, or otherwise transmit to Doborog or the public on or using the Service, including photographs, chat, emails, comments, voice recordings, data, questions, comments, or suggestions are known as your “Content.”<br><br>Doborog does not own your Content. By posting Content, you represent (i) that you are the owner of the Content or have all of the necessary rights to share them, and (ii) give Doborog permission to use, re-use, copy, adapt, abridge, amend, distribute, modify, translate, publish, perform, display, develop, reproduce, communicate to the public and to make your Content otherwise available in any form and by any media (whether now known or hereafter devised), including through any on-demand or broadcast service, whether on a commercial or non-commercial basis anywhere in the world. <br>        5.2. <b>Conduct Policy.</b> You are responsible for your conduct as a user of the Service. You agree that you will not engage in conduct (including the sharing of Content) which:
+TOU_Sector_15	• is threatening, bullying, defamatory, abusive, obscene, lewd, sexually provocative or suggestive, pornographic, or which in any manner could give rise to any civil or criminal liability under applicable law; <br>    • is or could be taken as slurs, hate speech, or attacks on individuals or groups on the basis of race, color, gender, age, religion, national origin, disability, sexual preferences, or gender identity; <br>   • constitutes spam (sending the same message multiple times or to multiple people, or sharing or sending the same content multiple times, will be treated as spam); <br>    • is a solicitation or advertisement for any lewd or inappropriate personal conduct, commercial product, or activity;<br>    • encourages or constitutes behavior that does not support a safe and comfortable environment for all users, which conduct may include but not be limited to bullying, vigilantism, engaging in any conduct or activity that is threatening, harmful, harassing, abusive, vulgar, hateful, defamatory, lewd, sexually provocative, suggestive, or explicit, inflammatory, profane, racially or ethnically objectionable or discriminatory, or in any manner encourages inappropriate, disrespectful, abusive, or unlawful conduct or otherwise makes the Service an uncomfortable experience for anyone; <br>    • restricts, inhibits, or discourages any other user from using the Service;<br>    • hacks, modifies or otherwise makes use of automation software (bots) or any other unauthorized third-party software designed to modify the Service experience; <br>    • violates any local, state, federal or international laws or gives rise to civil liability; <br>    • violates or infringes any rights of third parties (including but not limited to copyright, trademark, rights of privacy or publicity, defamation or any other proprietary right); <br>   • imposes an unreasonable or disproportionately large load on the Service or otherwise interferes with the Service; <br>    • is a “chain letter,” or constitutes “junk mail”; <br>    • specifies or claims that that you are affiliated with Doborog when you are not, including without limitation an “Administrator,” “Moderator,” “Game Master,” or any other employee or agent of Doborog; <br>    • requests login information from other users; <br>    • “spoofs” (use of any means to disguise your online identity or alter original attribute information, including, but not limited to duplicate accounts);<br>    • uses or possesses programs to “crack” the Service or other Internet security tools;<br>    • contains, or uploads files that contain, viruses, Trojan horses, worms, corrupted files or data, or any other similar software or programs that may damage or inhibit the operation of the Service; or <br>    • anything else that Doborog, in its sole determination, deems offensive or harmful to the Service or to Doborog’s integrity or business.
+TOU_Sector_16	6. Virtual Items
+TOU_Sector_17	Virtual goods, downloadable content, and virtual “tokens” or currency (collectively, “Virtual Items”) may be offered for purchase or otherwise earned through the Service. Your election to make a purchase with real currency will be an offer to Doborog to purchase at the prices and on the terms set forth on the Service. <br>You agree that you have no right or title in or to any Virtual Items. Doborog does not recognize any purported transfers of Virtual Items outside of the Service, or the purported sale, gift, or trade in the “real world” of anything that appears or originates in the Service. Virtual Items that may be originally acquired by “farming” are subject to confiscation by Doborog. You may not sell Virtual Items for “real” money, or exchange those Virtual Items for value outside of the Service. To be clear, Virtual Items have no real-world value and are licensed, not owned.<br>Under no circumstances will refunds be given for Virtual Items. All sales of Virtual Items are final when the transaction has been processed.
+TOU_Sector_18	7. Support Services
+TOU_Sector_19	Doborog may, in its sole discretion, provide you with customer and technical support services related to the Service (“Support Services”). Doborog is not required to provide Support Services unless otherwise required by applicable law. No failure to provide, or to continue to provide, Support Services will be a default of Doborog under this Agreement. Any supplemental software code provided to you as part of the Support Services will be treated as part of the Service, and as between you and Doborog will be and remain the sole property of Doborog and will be subject to the terms and conditions of this Agreement. <br>Doborog customer support may be reached by contacting us at support@doborog.com. No SIE Group Company has any obligation whatsoever, under any circumstances, to furnish any maintenance or support services with respect to the Service. You agree that you will look solely to Doborog in connection with Support Services.
+TOU_Sector_20	8. Modification, Termination, and Monitoring of the Service
+TOU_Sector_21	Doborog reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part of the Service) with or without notice at any time. You agree that Doborog will not be liable to you or any third party for any modification, suspension, or discontinuance of the Service.<br>Doborog reserves the right to monitor use of the Service to determine compliance with this Agreement, as well as the right to edit, refuse to post, or remove any Content, information, or materials, in whole or in part, at our sole discretion. We reserve the right to refuse access to the Service to anyone, for any reason, at any time.<br>Doborog may monitor your Content and other communications to evaluate the quality of service you receive, your compliance with the Agreement, the security of the Service, or for other reasons. You agree that such monitoring activities will not entitle you to any cause of action or other right with respect to the manner in which Doborog or its affiliates or agents monitor your Content and other communications and enforces or fails to enforce the terms of the Agreement. In no event will Doborog or any of its affiliates or agents be liable for any costs, damages, expenses, or any other liabilities incurred by you as a result of monitoring activities by Doborog or its affiliates or agents.
+TOU_Sector_22	9. Security of Data Transmission and Storage
+TOU_Sector_23	Electronic communications using the Service may not always be encrypted. You acknowledge that there is a risk that data, including email, electronic communications, and personal data, may be accessed by unauthorized third parties when communicated between you and Doborog or between you and other parties. Additionally, your communications and Content on the Service may be publicly available to other parties.<br>Doborog and its affiliates and agents are permitted, but not obligated, to review or retain your Content and other communications.
+TOU_Sector_24	10. Hyperlinks
+TOU_Sector_25	The Service may contain links to other sites and software applications, including through display advertisements (the “Linked Services”). Doborog does not control the Linked Services, and Doborog and its affiliates and agents make no representations whatsoever concerning the content, accuracy, security or privacy of those Linked Services. The fact that Doborog has provided a link to an external location is not an endorsement, authorization, sponsorship, or affiliation with respect to such Linked Services, its owners, or its providers. There are risks in using any information, software, or products found on the Internet, and Doborog cautions you to make sure you understand these risks before retrieving, using, relying upon, or purchasing anything via the Internet. You agree that under no circumstances will you hold Doborog or its affiliates or agents liable for any loss or damage caused by use of or reliance on any content, goods, or services available on Linked Services.
+TOU_Sector_26	11. Trademarks and Copyrights
+TOU_Sector_27	The Service is owned by Doborog and is protected by United States copyright laws and international treaty provisions. All Service content, trademarks, services marks, trade names, logos, and icons are proprietary to Doborog. Nothing contained in the Service should be seen as granting any license or right to use any trademark displayed in the Service without the written permission of Doborog or such third party that may own the trademarks displayed in the Service. Your use of the trademarks displayed in the Service, or any other content in the Service, except as provided in this Agreement, is strictly prohibited.<br>Intellectual property displayed through the Service is either the property of, or used with permission by, Doborog. You are prohibited from using or authorizing the use of this intellectual property unless specifically permitted under the Agreement. Any unauthorized use of this intellectual property may violate copyright laws, trademark laws, the laws of privacy and publicity, or other regulations and statutes.
+TOU_Sector_28	12. Copyright Complaints
+TOU_Sector_29	If you are a copyright owner or their agent, and believe that any content on the Service infringes on your copyrights, you may submit a DMCA notification in writing to our Copyright Agent with the following information described below. When we receive a notice alleging copyright infringement, we will take whatever action we deem appropriate, within our sole discretion, including removal of the allegedly infringing materials and termination of access for repeat infringers of copyright protected content.
+TOU_Sector_30	• A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;<br>    • Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are claimed, a list of those works on the Service;<br>    • Identification of the material that is claimed to be infringing and that is to be removed disabled, reasonably sufficient to permit us to locate the material;<br>    • Information reasonably sufficient to permit us to contact you, such as your email, address, or phone number;<br>    • A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and<br>    • A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+TOU_Sector_31	Our Copyright Agent may be reached by email at: support@doborog.com.
+TOU_Sector_32	13. Disclaimer of Warranties
+TOU_Sector_33	<b>Your use of the Service is entirely at your own risk. <br></b><br><br>The Service is provided by Doborog on an as-is basis. Doborog expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.<br><br>Doborog makes no warranty that (i) the Service will meet your requirements, (ii) that operation of the Service will be uninterrupted, timely, secure, or error-free, or (iii) the results that may be obtained from the use of the Service will be accurate or reliable. <br><br>No advice or information, whether oral or written, obtained by you from Doborog, or through the Service creates any warranty regarding the Service not expressly stated in this Agreement.
+TOU_Sector_34	Because some states or jurisdictions do not allow the disclaimer of implied warranties, the foregoing disclaimer may not apply to you.<br>Additionally, to the maximum extent permitted by applicable law, no SIE Group Company is a party to this Agreement. None of the SIE Group Company entities make, have made, and do not make any warranties, or assume any warranty obligation or other obligations whatsoever with respect to: (i) the Service; or (ii) any claims, losses, liabilities, damages, costs, or expenses attributable to the Service, including any warranties arising from claims of infringement of intellectual property or personal rights, products liability, or failure of the Service to perform, execute, or conform to any standard.
+TOU_Sector_35	14. Limitation of Liability
+TOU_Sector_36	You expressly understand and agree that neither Doborog nor any SIE Group Company is liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including damages for loss of profits, goods, goodwill, use, data, or other intangible losses (even if Doborog or the SIE Group Company has been advised of the possibility of such damages), resulting from the use or the inability to use the Service or any other matter relating to the Service, and without regard to whether such damages, or claims of damages arise based in contract, tort or otherwise.
+TOU_Sector_37	Neither Doborog nor any SIE Group Company have any liability with respect to the content of the Service or any part thereof, including errors or omissions contained in the Service, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information. The limitation of liability set forth herein may not be enforceable in certain jurisdictions, or under certain circumstances, as a matter of local law, and is not intended to replace or supersede local law.<br>You hereby expressly and irrevocably waive, and agree never to assert against any SIE Group Company any claims you may have under any theory of law or equity anywhere in the world in connection with rights licensed under this Agreement, your possession or use of the Service, or the content of the Service. Any claims arising out of the Service are subject to the limitations set forth in this Agreement (all of which are material terms of this Agreement) and may be brought only against Doborog. Any dispute will be subject to our Terms of Use, including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of California.
+TOU_Sector_38	15. Indemnification
+TOU_Sector_39	You agree to indemnify and hold Doborog and its affiliates, officers, agents, and employees harmless from any claim, demand, loss, costs, or expense, including attorneys’ fees, made by any person or entity arising out of your violation of this Agreement, state or federal laws or regulations, or any other person’s rights, including infringement of any copyright or violation of any proprietary or privacy right. Under no circumstances, including any negligent act, will Doborog or its affiliates or agents be liable for any damages of any kind that result from the use of, or the inability to use, the Service.
+TOU_Sector_40	16. Your Personal Information
+TOU_Sector_41	Certain personal and other information that we collect, process, and share is subject to our Privacy Policy.  As a condition of using the Service you agree to the terms of the Privacy Policy, as it may be changed from time to time. Our Privacy Policy, which is incorporated here by reference, is located at http://clonedroneinthedangerzone.com/privacy/. You agree that your use of the Service is subject to the Privacy Policy.
+TOU_Sector_42	17. Disclosures Required by Law
+TOU_Sector_43	Doborog reserves the right to disclose any information, including personally identifiable information about you, as necessary to satisfy any applicable law, regulation, legal process, or governmental request. Doborog reserves the right to fully cooperate with any law enforcement authorities or court order requesting or directing Doborog to disclose the identity of any user believed to be in violation of this Agreement.<br>By accepting this Agreement, you waive all rights and agree to hold Doborog harmless from any claims resulting from any action taken by Doborog during or as a result of its investigations or from any actions taken as a consequence of investigations by either Doborog or law enforcement authorities.
+TOU_Sector_44	18. Governing Law; Mediation; Jurisdiction
+TOU_Sector_45	The Agreement, and all future agreements you enter into with Doborog, unless otherwise indicated on such other agreement, will be governed by the laws of the State of California. This is the case regardless of whether you reside or transact business with Doborog, or any of its affiliates or agents, in the State of California or elsewhere. Unless a dispute would be governed by the terms of Section 19 below, you agree to submit to the personal and exclusive jurisdiction of the courts located within the city of San Francisco, California, USA.<br><br><b>For EU users only:</b> In the event of a dispute relating to the interpretation, performance, or validity of this Agreement, an amicable solution can be sought before any legal action. You can file your complaint with Doborog by sending a message via email to support@doborog.com. In case of failure, you can, within one year of the failed request, have recourse to an Alternative Dispute Resolution procedure by filing an online complaint on the European Commission’s Online Dispute Resolution website: https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage. In the event that out-of-court dispute resolutions fail, the dispute may be brought before the competent courts.
+TOU_Sector_46	19. Binding Arbitration
+TOU_Sector_47	Any dispute or claim relating in any way to your use of the Service (each, a “Claim”) will be resolved by binding arbitration, rather than in court (except that you may assert claims in small-claims court if your claims qualify). You agree that each Claim must be brought individually.<br><br>YOU AND DOBOROG AGREE THAT (i) THERE IS NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE ARBITRATED ON A CLASS ACTION BASIS OR TO UTILIZE CLASS ACTION PROCEDURES; (ii) THERE IS NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE BROUGHT IN A PURPORTED REPRESENTATIVE CAPACITY OR AS A PRIVATE ATTORNEY GENERAL; AND (iii) NO ARBITRATION MAY BE JOINED WITH ANY OTHER ARBITRATION.<br><br>The Federal Arbitration Act and federal arbitration law apply to this Agreement and this binding arbitration clause.<br><br>Arbitration is a process with no judge or jury – an arbitrator will review the arguments in the dispute and award damages and other relief just like a court would. The arbitrator must follow this Agreement as a court otherwise would. Court review of the arbitration award is limited under the Federal Arbitration Act.<br><br>To start an arbitration, you must send an email to support@doborog.com describing your Claim and requesting arbitration, or we may do the same by sending a written notice requesting arbitration to your address. The proceedings will be conducted through JAMS, using their Streamlined Arbitration Rules and Procedures. You can view these rules at jamsadr.com or by calling 800-352-5267. The payment of the initial filing fees will be made by the party filing the Claim, and any other filing and other fees will be apportioned as directed by the JAMS rules. The arbitration will take place in San Francisco, California, USA, unless the Parties agree to video, phone, or internet connection appearances.<br><br>Except as otherwise set forth below, you may seek any remedies available to you under federal, state or local laws in an arbitration action. As part of the arbitration, both you and Doborog will have the opportunity for discovery of non-privileged information that is relevant to the Claim. The arbitrator will provide a written statement of the arbitrator’s decision regarding the Claim, the award given (including any attorneys’ fees and costs awarded), and the arbitrator’s findings and conclusions on which the arbitrator’s decision is based.<br><br>Notwithstanding the terms of this Section, either of us may bring a lawsuit in court for equitable relief, for any misuse or infringement of intellectual property rights, or for any Claim related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use of the Service.<br><br>BY AGREEING TO THIS ARBITRATION PROVISION, YOU UNDERSTAND THAT YOU AND DOBOROG WAIVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL.<br><br>You and Doborog agree that if any portion this Section is found illegal or unenforceable, that portion will be severed and the remainder of the Section will be given full force and effect.
+TOU_Sector_48	20. SIE Group Companies as Third-Party Beneficiaries
+TOU_Sector_49	You acknowledge and agree that the SIE Group Companies are third party beneficiaries of this Agreement, and that, upon your acceptance of the terms and conditions of this Agreement, any of the foregoing third parties will have the right (and will be deemed to have accepted the right) to enforce this Agreement as a third party beneficiary.
+TOU_Sector_50	21. Miscellaneous Terms
+TOU_Sector_51	21.1. <b>Agreement Revisions.</b> This Agreement may only be revised in writing by Doborog, or by Doborog’s publication of a new version on the Service.<br>        21.2. <b>Force Majeure.</b> Doborog is not liable for any delay or failure to perform resulting from causes outside the reasonable control of Doborog, including without limitation any failure to perform hereunder due to unforeseen circumstances or cause beyond Doborog’s control such as acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation facilities, fuel, energy, labor, or materials. <br>        21.3. <b>No Partnership.</b> You agree that no joint venture, partnership, employment, or agency relationship exists between you and Doborog as a result of this Agreement or your use of the Service. <br>        21.4. <b>Assignment.</b> Doborog may assign this Agreement, in whole or in part, to any person or entity at any time with or without your consent. You may not assign the Agreement without Doborog’s prior written consent, and any unauthorized assignment by you will be null and void.<br>        21.5. <b>Severability.</b> If any part of this Agreement is determined to be void, invalid or unenforceable, then that portion will be severed, and the remainder of the Agreement will be given full force and effect. <br>        21.6. <b>Attorneys’ Fees.</b> In the event any litigation is brought by either party in connection with this Agreement, the prevailing party in such litigation will be entitled to recover from the other party all the reasonable costs, attorneys’ fees and other expenses incurred by such prevailing party in the litigation.<br>        21.7. <b>No Waiver.</b> Our failure to enforce any provision of this Agreement will in no way be construed to be a present or future waiver of such provision, nor in any way affect the right of any party to enforce every such provision thereafter. The express waiver by us of any provision, condition or requirement of this Agreement will not constitute a waiver of any future obligation to comply with such provision, condition or requirement. <br>        21.8. <b>Equitable Remedies.</b> You hereby agree that Doborog would be irreparably damaged if the terms of this Agreement were not specifically enforced, and therefore you agree that we will be entitled, without bond, other security, or proof of damages, to appropriate equitable remedies with respect to breaches of this Agreement, in addition to such other remedies as we may otherwise have available to us under applicable laws.<br>        21.9. <b>Entire Agreement.</b> This Agreement, including the documents expressly incorporated by reference, constitutes the entire agreement between you and Doborog with respect to the Service and supersedes all prior or contemporaneous communications, whether electronic, oral or written, between you and Doborog with respect to the Service.
+TOU_Sector_52	<b>DOBOROG<br>PRIVACY POLICY</b><br>Last Modified on August 18, 2020
+TOU_Sector_53	We ask that you read this privacy notice carefully, as it contains important information on who we are, how and why we collect, store, use, and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities in the event you have a complaint.
+TOU_Sector_54	1. Who we are
+TOU_Sector_55	Doborog, LLC (dba Doborog) (“Doborog,” “We,” or “Us”) collects, uses and is responsible for certain personal information about you, as part of the Doborog websites (located at doborog.com and clonedroneinthedangerzone.com) and the “Clone Drone in the Danger Zone” game (the “Game”) (collectively, the “Service”). <br><br>For those in the European Union, we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as controller of that personal information for the purposes of those laws.
+TOU_Sector_56	2. The Personal Information we collect and use
+TOU_Sector_57	<b>Information collected by us:</b> In the course of providing you with the Service, we collect the following personal information when you provide it to us:<br><br>    • Your name, email address, and username.<br>    • Your game save data, gameplay data, and other Game-related data<br><br>Information shared with us by others: If you connect a third-party service like Steam or PlayStation™Network to the Game or the Service and use it to log into the Game or the Service, your profile information from that third-party service will be shared with us. <br><br><b>How we use your Personal Information:</b> We use your personal information as follows:<br><br>    • Newsletters: Doborog may use your name and email address to send you commercial or marketing messages including, without limitation, newsletters and email communications about our products or services. We will also use your name and email address to contact you regarding any customer or technical support issues. <br>    • Cloud Save Back up: Doborog may store Game data at your request. Doborog may need you to provide identifiable information, like usernames and email addresses to access this data. <br>    • Steam Workshop: Doborog is a participant in Steam Workshop, which is integrated into versions of the Service which use the Steam platform. Because of this, we store the levels you create as part of the Level Editor/Steam Workshop. We also make this data publicly available to others after your submission(s), in connection with your Steam profile. This is all so others can enjoy the levels you share.<br><br><b>Who we share your Personal Information with:</b> We share your Personal Information with certain third parties as part of our operation of the Service. This data sharing enables you to purchase the Game and us to provide you with the Service in the optimal way. <br>Some of those third-party recipients may be based outside the European Economic Area — for further information, including how we safeguard your personal data when this occurs, see their individual privacy policies linked to above and the section entitled “Transfer of your Information out of the EEA,” below.<br><br>We share your Personal Information with the following third parties:<br><br><b>Gameplay Analytics:</b> We use analytics providers to track gameplay and other in-game metrics, in order to anonymously analyze player gameplay and tweak the game to maximize the player experience. These third-party providers are:<br><br>    • Unity Analytics – Privacy Policy ( https://unity3d.com/legal/privacy-policy )<br>    • Loggly – Privacy Policy ( https://www.loggly.com/about/privacy-policy/ )<br><br><b>Payment Processing and Bank Transfers:</b> We partner with other companies, such as Steam and Itch.io, to process payments for the Service. If you make a Game-related purchase through one of these third-party services, please review their privacy policy for information about how they collect, process, and share your billing information and other personal information. <br><br>    • Steam – Privacy Policy ( https://store.steampowered.com/privacy_agreement/ )<br>    • Itch.io – Privacy Policy ( https://itch.io/docs/legal/privacy-policy )<br><br><b>Gameplay Videos:</b> The Service may allow you to stream video of your gameplay. In doing so, you will have to connect with a third-party service like Twitch.tv or YouTube to broadcast that video. Before doing so, please review their privacy policy for information about how they collect, process, and share your personal information.<br><br>    • Twitch.tv – Privacy Policy ( https://www.twitch.tv/p/legal/privacy-notice/ )<br>    • YouTube – Privacy Policy ( https://policies.google.com/privacy )<br><br><b>Other Sharing:</b><br><br>We will share your Personal Information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Service, or (iii) such action is appropriate to protect the rights, property or safety of Doborog, its employees, clients, or users of the Service.<br><br>We will not share your personal information with any other third party.<br><br><b>How long your Personal Information will be kept:</b> We will keep your Personal Information for the length of time required to provide you with the Service, unless a longer retention period is required or permitted by law. Afterwards, we delete all aforementioned data in our possession within a reasonable timeframe. We do not verify the correctness of personal data that we collect or you provide.<br>Please note that some data may be retained if necessary to resolve disputes, enforce Doborog user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of the Service.<br><br><b>Reasons we can collect and use your Personal Information:</b> The laws in some jurisdictions require that we notify you of the lawful basis for collecting your Personal Information. <br>To the extent that such laws apply, we rely on the following as the lawful basis on which we collect and use your personal information:<br><br>    • <b>Consent:</b> At times we may collect, process, store, transfer or disclose your personal data on the basis of your implied or explicit consent.<br>    • <b>To fulfill our contractual obligations:</b> In order to fulfill our contractual obligations to you, we must collect, process, and store your personal data and information. We must handle your personal data in this manner to process purchases on the Service. <br><br>Additionally, we may at times have to transfer or receive your personal data to or from third parties, in order to fulfill other contractual obligations to you. For example, we may have to transfer or receive billing and payment information to or from payment processors for any purchases you make.<br>    • <b>Furtherance of legitimate interests:</b> We may collect, process, store, transfer or disclose your personal data in furtherance of those legitimate interests of ours which are not overridden by your interests or fundamental rights and freedoms as set forth in the applicable laws. These legitimate interests include, but are not limited to, (i) providing you with the Service, (ii) protecting our users, staff, and property from fraud and other harm, (iii) collecting information on how you use the Service in order to optimize the design and functionality of the Service, and (iv) communicating with you via e-mail for communications you have explicitly opted into (e.g., notifications about new products and services) or for important communications with you regarding the Service.<br>    • <b>Legal compliance:</b> We may collect, process, store, transfer or disclose your personal data to comply with our legal obligations.<br><br><b>Cookies:</b> When you use the Service, cookies may be used by us and by third parties to allow the Service to function, to collect useful information about visitors, and to help to make your user experience better.<br>Cookies are not spyware or adware, and can’t deliver viruses or run programs on your computer. You may configure your web browsers to accept, reject, or delete cookies, or to notify you when a cookie is being set. We may also use “pixel tags,” otherwise known as web beacons or clear gifs. These are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of website users.<br>For more information about our use of cookies, please see our cookie policy.<br><br><b>Google Analytics:</b> We may use third party web site analytic tools such as Google Analytics on the Service, that employ cookies to collect certain information concerning your use of the Service. If you wish to opt out of Google Analytics, you can do it by visiting https://tools.google.com/dlpage/gaoptout .<br><br><b>Depersonalized Information:</b> We may make your Personal Information non-personally identifiable by either combining or aggregating it with information about other users, or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information and is used to analyze usage and improve the Service.<br><br><b>Children’s Privacy:</b> We do not knowingly collect any personal information from children under the age of 13, allow them to create accounts, sign up for newsletters, make purchases, or browse the Service. In addition, we may limit how we collect, use, and store some of the information of EU users between 13 and 16. Doborog takes children’s privacy seriously and encourages parents to play an active role in their children’s online experience at all times. We urge parents to instruct their children never to give out their real names, addresses, or phone numbers, without parental permission, when on-line. If you have any concerns about your child’s personal information, please contact us at support@doborog.com.<br><br><b>Links to Other Sites:</b> The Service may contain links to other sites or services. If you click on a third-party link, you will be directed to that site or service. These external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites or services. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+TOU_Sector_58	3. Transfer of your Information out of the EEA
+TOU_Sector_59	Doborog is based in the United States. No matter where you are located, you consent to the processing, transfer and storage of your information in and to the U.S., and other countries, in accordance with the privacy policies of third parties with whom we share your Personal Information. The laws of the U.S. and other countries governing data collection and use may not be as comprehensive or protective as the laws of the country where you live.<br>If you would like further information, please contact us (see “How to contact us” below).
+TOU_Sector_60	4. EU Residents - Your Rights
+TOU_Sector_61	Under the laws of some jurisdictions, including the General Data Protection Regulation in the EEA, you have a number of important rights with regard to your Personal Information. <br><br>    • By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate. If we have asked for your consent to process your personal data, you may withdraw that consent at any time.<br>    • If we are processing your personal data for reasons of consent or to fulfill a contract, you can ask us to give you a copy of the information in a machine-readable format so that you can transfer it to another provider.<br>    • If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased. <br>    • You have the right to ask us to stop using your information for a period of time, if you believe we are not doing so lawfully.<br>    • Finally, in some circumstances, you can ask us not to reach decisions affecting you using automated processing or profiling.<br>If you would like to exercise any of those rights, please email us at support@doborog.com. We may ask for additional verification information, such as your username and other information required to be sure that you are the owner of that data.
+TOU_Sector_62	5. California Residents – Your Rights
+TOU_Sector_63	If you are a California resident, beginning on January 1, 2020, the California Consumer Privacy Act (CCPA) gives you the following rights: <br><br><b>Right to Know:</b> You can ask us what personal data we hold about you and request a copy of the information. This information includes:<br><br>      • The categories of personal information we have collected about you.<br>    • The categories of sources from which we collect the personal information.<br>    • The business or commercial purpose for collecting your personal information.<br>    • The categories of third parties with whom we share that information.<br>    • The specific pieces of personal information we have collected about you.<br><br><b>Right to Delete:</b> You can request that your personal information be erased. However, there are some exceptions to this right, in situations where we:<br><br>    • Need to complete the transaction for which the personal information was collected, provide a good or service that you requested, or that is reasonably anticipated within our ongoing business relationship with the consumer, or to otherwise perform a contract between us. <br>   • Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.<br>   • Debug to identify and repair errors that impair existing intended functionality.<br>    • Exercise free speech, ensure the right of another consumer to exercise their right of free speech, or exercise another right provided for by law.<br>    • Need to comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.<br>    • Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.<br>    • Enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with us.<br>    • Need to comply with a legal obligation.<br>    • Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.<br><br><b>Right to Opt Out:</b> Doborog does not sell any of your personal information for any purposes. <br><br><b>Other Rights:</b> In addition to the rights above, you also have the right to request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the calendar year preceding your request. This request is free and may be made only once a year. <br><br>You also have the right not to be discriminated against for exercising any of the rights of California residents listed in this section.<br><br>If you would like to exercise any of the rights listed above, please contact us at the addresses below in the section entitled “How to contact us.”
+TOU_Sector_64	6. Keeping your Personal Information secure
+TOU_Sector_65	We have taken steps to put appropriate security measures in place to prevent personal information from being accidentally lost, or used or accessed in an unauthorized way. <br>For example, we limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorized manner.<br>We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+TOU_Sector_66	7. How to complain
+TOU_Sector_67	We hope that we can resolve any questions or concern you raise about our use of your Personal Information. Please contact us via the methods listed below in the section entitled “How to contact us” to let us know about any of your questions or concerns, and we will get back to you to resolve the issue.<br>If you are an EU citizen, the General Data Protection Regulation also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live, or where any alleged infringement of data protection laws occurred. <br>You can find a list of the supervisory authorities and their contact information on website: <br>https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+TOU_Sector_68	8. Changes to this Privacy Notice
+TOU_Sector_69	This privacy notice was last updated on August 18, 2020.<br>We may change this privacy notice from time to time. When we do, we will inform you via email to the email address you have provided us with through your account, or by posting a message about the change on the Service.
+TOU_Sector_70	9. How to contact us
+TOU_Sector_71	Please contact us if you have any questions about this privacy notice or the information we hold about you.<br>If you wish to contact us, please send an email to support@doborog.com.
+TOU_AcknowledgeTab	I hereby acknowledge that I have read and understand the Terms of Use Agreement and Privacy Policy, and agree that my use of the Service is an acknowledgment of my agreement to be bound by the terms and conditions of this Terms of Use Agreement and the Privacy Policy.
+TOU_Agree	Я погоджуюся
+Trophies	Трофеї
+trophies!	Трофеї!
+ps4 left stick x	left stick x
+ps4 left stick y	left stick y
+ps4 right stick x	right stick x
+ps4 right stick y	right stick y
+ps4 R1 button	R1 button
+ps4 R2 button	R2 button
+ps4 R3 button	R3 button
+ps4 L1 button	L1 button
+ps4 L2 button	L2 button
+ps4 L3 button	L3 button
+ps4 cross button	cross button
+ps4 triangle button	triangle button
+ps4 circle button	circle button
+ps4 square button	square button
+ps4 up button	up button
+ps4 down button	down button
+ps4 left button	left button
+ps4 right button	right button
+ps4 r1	R1 button
+ps4 r2	R2 button
+ps4 r3	R3 button
+ps4 l1	L1 button
+ps4 l2	L2 button
+ps4 l3	L3 button
+ps4 cross	cross button
+ps4 triangle	triangle button
+ps4 circle	circle button
+ps4 square	square button
+ps4 d-pad up	up button
+ps4 d-pad down	down button
+ps4 d-pad left	left button
+ps4 d-pad right	right button
+ps4 OPTIONS button	OPTIONS button
+ps4 touch pad button	touch pad button
+x1 left stick x	left stick x
+x1 left stick y	left stick y
+x1 right stick x	right stick x
+x1 right stick y	right stick y
+x1 left shoulder	left bumper
+x1 left trigger	left trigger
+x1 left stick button	left stick button
+x1 right shoulder	right bumper
+x1 right trigger	right trigger
+x1 right stick button	right stick button
+x1 A	A
+x1 B	B
+x1 X	Х
+x1 Y	Y
+x1 d-pad up	D-Pad Up
+x1 d-pad down	D-Pad Down
+x1 d-pad left	D-Pad Left
+x1 d-pad right	D-Pad Right
+x1 menu	кнопка меню
+x1 view	кнопка перегляду
+switch left stick x old	лівий стік х
+switch left stick y old	лівий стік у
+switch right stick x old	right stick x
+switch right stick y old	right stick y
+switch L	L
+switch ZL	ZL
+switch left SL	SL (Joy-Con™ (L))
+switch right SL	SL (Joy-Con™ (R))
+switch left stick	left stick
+switch R	R
+switch ZR	ZR
+switch left SR	SR (Joy-Con™ (L))
+switch right SR	SR (Joy-Con™ (R))
+switch right stick	right stick
+switch A	A
+switch B	B
+switch X	Х
+switch Y	Y
+switch up button	up button
+switch down button	down button
+switch left button	left button
+switch right button	right button
+switch +control pad up	up button
+switch +control pad down	down button
+switch +control pad left	left button
+switch +control pad right	right button
+switch - button	− button
+switch + button	+ button
+systemDefaultLanguage	Мова системи
+blockListError	Couldn't retrieve block list
+blockListErrorDescription	There was a problem retrieving your block list. Check your internet connection and try again later.
+xboxChatMute	Mute<br>Voice Chat
+xboxChatUnmute	Unmute<br>Voice Chat
+Xbox Voice Chat	Xbox Voice Chat
+Enable Voice Chat	Enable Voice Chat
+Game Creator	Творець гри
+Game Dev / Marketing / Many things	Game Dev / Marketing / Many things
+Quality Assurance	Quality Assurance
+Art Director	Art Director
+Animator / Tech Artist	Animator / Tech Artist
+Artist	Artist
+Design Consultant	Design Consultant
+Assistant Writer	Assistant Writer
+Community Manager	Community Manager
+Project Manager	Project Manager
+Senior Unity Developer	Senior Unity Developer
+Unity Developer	Unity Developer
+Game Translation	Game Translation
+Production Baby	Production Baby
+Special Thanks	Особлива подяка
+All our Early Access Players! <3	All our Early Access Players! <3
+For all your feedback, support, and company!	For all your feedback, support, and company!
+This game would not exist without Picavoxel, created by	This game would not exist without Picavoxel, created by
+We all like, share and subscribe to	We all like, share and subscribe to
+All the YouTubers who have made videos of this game!	All the YouTubers who have made videos of this game!
+In loving memory of	In loving memory of
+Jonathan's Truck	Jonathan's Truck
+Marketing	Маркетинг
+Thanks for playing!	Дякуємо за гру!
+Emperor	Імператор
+ps4 left stick left	left stick left
+ps4 left stick right	left stick right
+ps4 left stick up	left stick up
+ps4 left stick down	left stick down
+ps4 right stick left	right stick left
+ps4 right stick right	right stick right
+ps4 right stick up	right stick up
+ps4 right stick down	right stick down
+ps4 share	share button
+x1 left stick left	left stick left
+x1 left stick right	left stick right
+x1 left stick up	left stick up
+x1 left stick down	left stick down
+x1 right stick left	right stick left
+x1 right stick right	right stick right
+x1 right stick up	right stick up
+x1 right stick down	right stick down
+switch left stick left	left stick left
+switch left stick right	left stick right
+switch left stick up	left stick up
+switch left stick down	left stick down
+switch right stick left	right stick left
+switch right stick right	right stick right
+switch right stick up	right stick up
+switch right stick down	right stick down
+Check your internet connection	Check your internet connection
+Fire Lasers:	Fire Lasers:
+Fire Missile:	Fire Missile:
+Roll:	Roll:
+Side thrusters:	Side thrusters:
+Evasive Maneuvers:	Evasive Maneuvers:
+Missile Locked!	Missile Locked!
+Jump to hyperspace!	Jump to hyperspace!
+Update Alliance Data	Update Alliance Data
+Emergency Hyper Jump	Emergency Hyper Jump
+Try the door...	Try the door...
+Force open the door!	Force open the door!
+Bang on the door!	Bang on the door!
+Bang on it.	Bang on it.
+Again...	Знову...
+Again!	Знову!
+AGAIN!!!	ЗНОВУ!!!
+Hug!	Обійми!
+Open	Open
+Hyperjump to Earth!	Hyperjump to Earth!
+Armor:Enable	Armor:Enable
+Mind Transfers:Restore	Mind Transfers:Restore
+ch3 story screen header	REMOTE TRANSFER IN PROGRESS
+ch3 story screen subject	SUBJECT:
+ch3 story screen destination	DESTINATION:
+ch3 story screen description	MINDSHAKE Initiated...<br>Synching.<br>Synching.<br>Access Code Required...<br><br>FDHUIAWHDFAIWUPYED@*AW(#&U*@#YIUJ<br>OVERRIDE ACCEPTED. Welcome!<br><br>INITIATING TRANSFER STAGE 1<br>DEACTIVATING HOST<br>BUFFER NODE A34 OPEN<br>BUFFERING<br>STARTING VESSEL DOWNLOAD<br>DO NOT POWER DOWN YOUR DEVICE
+ch3 story screen destination content	Battlecruiser D48, Node 422
+Traditional Chinese	Traditional Chinese
+Play Demo	Play Demo
+Woof! Question!	Woof! Question!
+Where did you hear about the game??	Where did you hear about the game??
+Please Select	Please Select
+Saw it on Steam	Saw it on Steam
+YouTube	YouTube
+TikTok	TikTok
+A friend told me!	A friend told me!
+I don't remember!	Я не пам'ятаю!
+Nice! Who did you watch?	Nice! Who did you watch?
+Enter text...	Введіть текст...
+Submit!	Submit!
+surveyThanks	Thanks!<br><br>That's super helpful!
+Enable Gyroscope	Enable Gyroscope
+Motion Sensor Function Aiming PS4	Motion Sensor Function Aiming
+Gyroscope Sensitivity	Gyroscope Sensitivity
+Motion Sensor Function Sensitivity PS4	Motion Sensor Function Sensitivity
+Invert Gyroscope	Invert Gyroscope
+Invert Motion Sensor Function PS4	Invert Motion Sensor Function
+Jan {0}	Jan {0}
+Feb {0}	Feb {0}
+Mar {0}	Mar {0}
+Apr {0}	Apr {0}
+May {0}	May {0}
+Jun {0}	Jun {0}
+Jul {0}	Jul {0}
+Aug {0}	Aug {0}
+Sep {0}	Sep {0}
+Oct {0}	Oct {0}
+Nov {0}	Nov {0}
+Dec {0}	Dec {0}
+We're on Tiktok!	We're on Tiktok!
+Follow @Doborog for more!	Follow @Doborog for more!
+Want to talk to other humans??	Want to talk to other humans??
+Join our Discord!	Join our Discord!
+Follow our Twitter!	Follow our Twitter!
+Clothing for humans!	Clothing for humans!
+Privacy Policy	Privacy Policy
+Developer LIVE!	Developer LIVE!
+Watch us build the game - Come Say Hello!	Watch us build the game - Come Say Hello!
+Dev Stream Archive	Dev Stream Archive
+Did you know we stream almost every day?!	Did you know we stream almost every day?!
+View full archive!	View full archive!
+lbsRules	- It’s YOU versus EVERYONE! Try to be the Last Bot Standing.<br>- No teaming up with others!<br>- 5 player minimum for wins to count!
+Rules:	Правила:
+More Info	Більше інформації
+Banned from Multiplayer!	Banned from Multiplayer!
+banWarningTitle	A friendly warning!
+banWarningMessage	You have been recently reported for {0} in {1}. Sometimes mistakes happen! No punishment has been applied now, but you may want to review the rules!
+temporaryBanMessage	You have been reported for {0} in {1}, and have been temporarily banned from multiplayer modes for {2} days (until {3}). You may want to review the rules!
+permanentBanMessage	You have been reported for {0} in {1}, and are permanently banned from multiplayer.
+speedhacking	speedhacking
+teaming	Кооперування
+hacking	hacking
+cheating	cheating
+ban evading	ban evading
+toxic behavior	Токсична поведінка
+trolling	Тролінг
+griefing	griefing
+bullying	Цькування
+having an offensive nickname	having an offensive nickname
+exploiting bugs	exploiting bugs
+out-of-game bad behavior	out-of-game bad behavior
+gameMode_MultiplayerDuel	Дуелі
+gameMode_BattleRoyale	До останнього бота
+gameMode_EndlessCoop	Co-op
+gameMode_CoopChallenge	Co-op
+bannedMessageGeneric	You are banned from multiplayer.<br><br>If you want more information or believe this is an error, contact:<br><br>banned@doborog.com and tell us your user name.
+Read the multiplayer rules!	Прочитайте правила мережевої гри!
+Buy game!	Купіть гру!
+Nobody live right now.	Nobody live right now.
+switch left stick x	left stick x axis
+switch left stick y	left stick y axis
+switch right stick x	right stick x axis
+switch right stick y	right stick y axis
+Report	Report
+Players in Match:	Players in Match:
+Saw and ad for it!	Saw and ad for it!
+Cool! Where did you see it?	Cool! Where did you see it?
+Facebook	Facebook
+Twitter	Twitter
+Tiktok	TikTok
+YouTube	YouTube
+Google	Google
+Reddit	Reddit
+Deselected Everything	Deselected Everything
+Selection Changed	Selection Changed
+Moved Object	Moved Object
+Rotated Object	Rotated Object
+Scaled Object	Scaled Object
+Use Relay Connection	Use Relay Connection
+relayInfo	Relay can help if you have connection issues but may increase your ping.
+Troubleshooting	Troubleshooting
+VerySecretEmote	Very Secret Emote
+MovesOfAWinner	Moves of a Winner!
+GLHF	GLHF
+EveryoneWins	Everyone Wins!
+demoBuyGame1	Купіть гру!
+demoBuyGame2	Відкрити сторінку в крамниці!
+demoAchievementsHeader	Available only in the full game
+cross network disabled info	Cross Network Play <color=#ff6666>disabled</color><br><size=16>You can enable Cross Network Play in Settings.</size>
+Reset Camera Positon	Reset Camera Positon
+Gyroscope Mode	Gyroscope Mode
+Motion Sensor Function Mode ps4	Motion Sensor Function Mode
+Gyro Disabled	Вимкнено
+Gyro When Using Bow	When Using Bow
+Gyro Always On	Завжди увімкнено
+Adventure	Adventure
+Threaded Voxel Destruction	Threaded Voxel Destruction
+defaultColor	Стандартний
+Adventures	Adventures
+Endless Levels	Нескінченні рівні
+Last Bot Standing Levels	До останнього бота
+lbsLevelsDescription	Last Bot Standing levels you subscribe to can be selected when you start a private match!
+endlessLevelsDescription	Endless Levels you subscribe to will be mixed in randomly when playing Endless Mode!
+Featured	Рекомендовані
+Trending	Популярні
+Latest	Найновіші
+Followed Authors	Followed Authors
+Your Subscriptions	Ваші підписки
+Browse Workshop Levels	Перегляд рівнів майстерні
+Browse Workshop	Перегляд майстерні
+Adventure Challenges	Adventure Challenges
+Arena Challenges	Arena Challenges
+Zombie 1	Zombie 1
+Co-op Zombie Challenge	Co-op Zombie Challenge
+Defeat the Co-op Zombie Challenge!	Defeat the Co-op Zombie Challenge!
+Zombie Challenge	Зомбі випробування
+Zombie robots! Stealth? Death trees!? Wow!	Zombie robots! Stealth? Death trees!? Wow!
+Page 3	Сторінка 3
+SearchingLastBot	Searching for Last Bot Standing matches...
+SearchingCoopEndless	Searching for Co-op Endless matches...
+SearchingCoopChallenges	Searching for Co-op Challenges...
+muteListError	Couldn't retrieve mute list
+muteListErrorDescription	There was a problem retrieving your mute list. Check your internet connection and try again later.
+mute user title	Mute {0}?
+mute user cancel	Скасувати
+mute user confirm	Mute them!
+unmute user title	Unmute {0}?
+unmute user message	You’ll be able to see their emotes again.
+unmute user cancel	Скасувати
+unmute user confirm	Гаразд
+Manage muted players	Manage muted players
+Muted Players	Muted Players
+mutedPlayersDescription	These are the players you've muted.<br>If you encounter them in multiplayer matches their emotes will be muted.
+muteListLabel	Mute List
+Mute	Mute
+Unmute	Unmute
+mute user message	If you encounter them in multiplayer matches, their emotes will be muted.<br>You can manage your muted users from Settings / Multiplayer.
+multiplayerDownMessage	Our multiplayer servers are currently down for maintenance.
+ItsOver	Все скінчено!
+IHaveTheHighGround	I have the high ground!
+YouUnderestimate	Ви недооцінюєте мою силу!
+LetsTryOurBest	Let's try our best
+WorkHard	Work Hard
+BehindYou	Позаду!
+RestInPieces	Rest in pieces!
+IChooseViolence	I choose violence
+UseSkinInSingleplayer	Використовувати в одиночній грі
+bannedFamilyShare	The owner of this copy of the game has been banned from multiplayer.<br><br>If you want more information or believe this is an error, contact:<br><br>banned@doborog.com<br><br>and tell us your Steam ID.
+NoAntiAliasing	No Anti Aliasing
+MSAA2X	2X MSAA
+MSAA4X	4X MSAA
+MSAA8X	8X MSAA
+Say Hello to a developer while they're streaming!	Click the Say Hello button when a developer is streaming!
+Did you know we stream?!	Did you know we stream?!
+watchElin	Watch Elin<br>build the game.
+watchDylan	Watch Dylan<br>build the game.
+watchJosh	Watch Josh<br>build the game.
+Ally Challenge	Ally Challenge
+Defeat the Ally Challenge!	Defeat the Ally Challenge!
+Allies help you. You'll need it!	Allies help you. You'll need it!
+Deleted Object	Deleted Object
+Created Object	Created Object
+Changed Inspector Value	Changed Inspector Value
+Deleted Keyframe	Deleted Keyframe
+Added Keyframe	Added Keyframe
+Edited Keyframe	Відредаговано кадр
+Moved Keyframe	Moved Keyframe
+Added Animation Track	Added Animation Track
+Removed Animation Track	Removed Animation Track
+Several Actions	Кілька дій
+Transformed Object	Transformed Object
+searchLibrary	Шукати в бібліотеці...
+history	Історія
+hideArena	Приховати арену
+Moved Animation Track	Moved Animation Track
+Spider-tron Challenge	Spider-tron Challenge
+Can you defeat the mighty spider-tron?	Can you defeat the mighty spider-tron?
+Defeat the Spider-tron Challenge!	Defeat the Spider-tron Challenge!
+SpiderDance	Танець павука
+Co-op Spider-tron Challenge	Co-op Spider-tron Challenge
+Defeat the Co-op Spider-tron Challenge!	Defeat the Co-op Spider-tron Challenge!

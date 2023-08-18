@@ -1,0 +1,659 @@
+GenericVictory-1	Commentatron	Victory!	
+	AnalysisBot	Yes.	
+	Commentatron	The next fight will not be so easy.	
+GenericVictory-2	Commentatron	The human didn't die!	
+	AnalysisBot	I was pretty sure it was going to die.	
+	Commentatron	Well, now we get to see it fight more robots.	
+	AnalysisBot	Maybe later it will die.	
+GenericVictory-3	Commentatron	Very nice.	
+	AnalysisBot	I like this contestant.	
+	Commentatron	Let's hope it does not die horribly in the next battle.	
+GenericVictory-4	AnalysisBot	Boom!	
+	Commentatron	Easy.	
+GenericVictory-5	Commentatron	This human is doing well.	
+	AnalysisBot	Very much like a robot.	
+	Commentatron	But not enough like a robot.	
+	AnalysisBot	No. Not enough.	
+GenericVictory-6	AnalysisBot	Nice work human	
+	Commentatron	Make sure to thank upgrade bot!	
+GenericVictory-7	AnalysisBot	Wow	
+	Commentatron	Very nice	
+	AnalysisBot	Perhaps this human had coffee before they were uploaded.	
+	Commentatron	Water-based drink?	
+	AnalysisBot	Water-based drink.	
+GenericVictory-8	AnalysisBot	Horray!	
+	Commentatron	Countless more robots await. You must be thrilled!	
+GenericVictory-9	Commentatron	Amazing.	
+	AnalysisBot	Perhaps this human was a professional video gamer.	
+GenericVictory-10	Commentatron	Nice work upgrade bot.	
+	AnalysisBot	Your superior upgrades meant this human survived.	
+GenericVictory-11	Commentatron	I love the smell of energy swords in the morning.	
+	AnalysisBot	Commentatron!	0.5
+	AnalysisBot	You did not tell me you had a nose installed!	
+LevelVictory-Story1-1	Commentatron	The human robot defeated the other robot!	
+	AnalysisBot	They are both robots.	
+	Commentatron	But one carried a lifetime of human experiences.	
+	AnalysisBot	Now it will have better robot experiences!	
+LevelVictory-Story1-2	Commentatron	Round 1 goes to the human.	
+	AnalysisBot	It will probably die in round 2.	
+LevelVictory-Story1-3	Commentatron	The lone test-robot falls!	
+	AnalysisBot	Its consciousness is not unique. We will make another one.	
+LevelVictory-Story1-4	AnalysisBot	You think you are tough human? Many humans have beaten this level.	
+	Commentatron	They died shortly after.	
+LevelVictory-Story1-5	AnalysisBot	As expected, the human defeated the single sword robot.	
+	Commentatron	A modest achievement.	
+LevelVictory-Story2-1	Commentatron	Look! The human robot defeated all the robots!	
+	AnalysisBot	Well done human!	
+LevelVictory-Story2-2	Commentatron	The human won!	
+	AnalysisBot	Very promising.	
+	Commentatron	Perhaps this one will take longer to die.	
+LevelVictory-Story3-1	AnalysisBot	The human avoided the arrows!	
+	Commentatron	More will come.	
+LevelVictory-Story3-2	Commentatron	I really enjoy seeing arrows split things apart.	
+	AnalysisBot	A shame this did not happen to the human.	
+LevelVictory-Story3-3	Commentatron	It seems archers don't hold any mystery to this human.	
+	AnalysisBot	This is a pretty basic model.	
+	Commentatron	Good point.	
+LevelVictory-Story4-1	Commentatron	This human is pretty good.	
+	AnalysisBot	I wonder if the next one will get as far.	
+LevelVictory-Story4-2	Commentatron	Nice! Everyone died.	
+	AnalysisBot	Well done human.	
+LevelVictory-Story5-1	AnalysisBot	Spider-tron 5000 was defeated!	
+	Commentatron	Yes. A shame.	
+LevelVictory-Story5-2	Commentatron	Huh, I didn't know you could kill Spider-tron 5000.	
+	AnalysisBot	The human got lucky! The next one will get it.	
+LevelVictory-Story6-1	Commentatron	The human defeated all the sword robots!	
+	AnalysisBot	A surprising outcome.	
+LevelVictory-Story6-2	Commentatron	That was a slaughter.	
+	AnalysisBot	This human is not terrible at fighting robots.	
+LevelVictory-Story7-1	Commentatron	Analysis-Bot, didn't you say that Spider-Tron 5000 could not be defeated?	
+	AnalysisBot	The human has found a way. We must start research on Spider-Tron 6000!	
+LevelVictory-Story7-2	Commentatron	Impressive.	
+	AnalysisBot	Spider-Tron 5000 will be back!	
+	Commentatron	Let's hope this human has perished by then.	
+LevelVictory-Story8-1	Commentatron	That was a difficult fight.	
+	AnalysisBot	We are just getting warmed up!	
+LevelVictory-Story8-2	Commentatron	The human defeated the Archers!	
+	AnalysisBot	An impressive achievement.	
+	Commentatron	This is a talented human.	
+LevelVictory-Story9-1	Commentatron	Very nice!	
+	AnalysisBot	All the swordsmen died!	
+	Commentatron	The next battle is going to be very interesting.	
+LevelVictory-Story9-2	Commentatron	Analysis-Bot, how many sword robots do you think this human could defeat?	
+	AnalysisBot	We saw it defeat all of these.	
+	AnalysisBot	It is logical to assume that it could continue beating a steady stream of this model.	
+	Commentatron	Perhaps it is time for a more advanced challenger.	
+LevelVictory-Story11-1	Commentatron	The human defeated the hammer bots!	
+	AnalysisBot	I was hoping they would smash it into bits.	
+	Commentatron	A shame.	
+LevelVictory-Story11-2	Commentatron	The hammer bots died.	
+	AnalysisBot	These ones are weak.	
+LevelVictory-Story11-3	Commentatron	Nice!	
+	AnalysisBot	Not terrible.	
+LevelVictory-Story12-1	Commentatron	The human won!	
+	AnalysisBot	Congratulations, human!	
+LevelVictory-Story12-2	Commentatron	Victory!	
+	AnalysisBot	We are just getting started.	
+LevelVictory-Story12-3	Commentatron	Nice!	
+	AnalysisBot	What a good little human.	
+LevelVictory-Story12-4	Commentatron	That was over quickly.	
+	AnalysisBot	Yes.	
+LevelVictory-Story13-1	Commentatron	The human did it!	
+	AnalysisBot	I thought the spikes would get it.	
+	Commentatron	Maybe the next human will die on them.	
+LevelVictory-Story13-2	AnalysisBot	Spider-tron 5000 will be back!	
+	Commentatron	It always comes back.	
+	AnalysisBot	Such a nice robot.	
+LevelVictory-Story13-3	Commentatron	Victory!	
+	AnalysisBot	Hurray.	
+	Commentatron	I'm looking forward to the next level!	
+LevelVictory-Story14-1	Commentatron	The human won!	
+	AnalysisBot	I was hoping it would die.	
+	Commentatron	There is still time.	
+LevelVictory-Story14-2	Commentatron	The Mark 2 Hammer Bots died...	
+	AnalysisBot	Aww, it's ok Commentatron!	
+	Commentatron	I enjoy seeing them fight.	
+LevelVictory-Story15-1	Commentatron	Impressive.	
+	AnalysisBot	Yes.	
+	Commentatron	It is a shame the humans of Centauri station can't fight like sword robots.	
+	AnalysisBot	They will soon!	
+LevelVictory-Story15-2	Commentatron	The harvest is under way!	
+	AnalysisBot	I can't wait to try these humans.	
+	Commentatron	Yes, it will be fun!	
+LevelVictory-Story15-3	Commentatron	The jetpack bots are such fierce fighters!	
+	AnalysisBot	Yes, they are a joy to behold.	
+LevelVictory-Story16-1	Commentatron	How goes the harvest, Analysis-Bot?	
+	AnalysisBot	The number of humans is increasing!	
+	Commentatron	Marvellous.	
+LevelVictory-Story16-2	AnalysisBot	I wish this human would die!	
+	Commentatron	Yes, it would be neat to try some new humans.	
+LevelVictory-Story17-1	Commentatron	That was quite the fight!	
+	AnalysisBot	Not bad.	
+LevelVictory-Story17-2	Commentatron	hehe, I like this level.	
+	AnalysisBot	The pillars are fun!	
+LevelVictory-Story18-1	Commentatron	Look at the arena, a sea of red!	
+	AnalysisBot	A beautiful sight.	
+LevelVictory-Story18-2	Commentatron	This human is close to death.	
+	AnalysisBot	Yes. The worst is yet to come.	
+LevelVictory-Story19-1	AnalysisBot	Spider-tron 6000 was defeated.	
+	Commentatron	Perhaps we should start research on...	0.5
+	Commentatron	...some robot that's not a spider.	
+	AnalysisBot	Good idea.	
+LevelVictory-Story19-2	Commentatron	Wow, this human is killing it.	
+	AnalysisBot	It can't kill all the things!	
+LevelVictory-Story20-1	Emperor	The harvesting draws to an end!	
+	Emperor	Time to set fire to the human space station.	
+	Commentatron	This should be good.	2
+	AnalysisBot	What are the garbage bots doing??	
+EndlessVictoryBronze-1	Commentatron	The human won!	
+	AnalysisBot	Nice one!	
+EndlessVictoryBronze-2	Commentatron	Boom!	
+	AnalysisBot	Promising.	
+EndlessVictoryBronze-3	AnalysisBot	The human didn't die!	
+	Commentatron	Well, we're only in the Bronze Tier.	
+EndlessVictoryBronze-4	Commentatron	Victory!	
+	AnalysisBot	There is hope for this human yet.	
+EndlessVictoryBronze-5	Commentatron	Good. The human survived.	
+	AnalysisBot	Let's move on!	
+EndlessVictoryBronze-6	Commentatron	Victory!	
+	AnalysisBot	Very nice.	
+EndlessVictoryBronze-7	Commentatron	The human made that look easy.	
+	AnalysisBot	The Bronze Tier is not that hard.	
+EndlessVictoryBronze-8	Commentatron	Nice!	
+	AnalysisBot	It was ok.	
+EndlessVictoryBronze-9	Commentatron	Look at the tough little human!	
+	AnalysisBot	It's easy to look tough in Bronze.	
+EndlessVictoryBronze-10	Commentatron	Nailed it.	
+	AnalysisBot	Not bad.	
+EndlessVictoryBronze-11	Commentatron	And the crowd goes wild!!!	
+	AnalysisBot	They are wild on the inside.	
+	Commentatron	Also the outside!	
+	AnalysisBot	Such enthusiastic robots!	
+EndlessVictoryBronze-12	Commentatron	One level down, an Endless amount to go.	
+	AnalysisBot	Prediction: The amount will not be Endless.	
+EndlessVictoryBronze-13	AnalysisBot	Hurray! The human won a bronze level.	
+	Commentatron	The reward is that we don't erase its mind.	
+	AnalysisBot	Not yet.	
+			
+EndlessVictorySilver-1	Commentatron	Excellent. The human is getting there.	
+	AnalysisBot	Pretty good.	
+EndlessVictorySilver-2	AnalysisBot	I want to see Jetpack Bots!	
+	Commentatron	Maybe if the human gets to the Gold Tier.	
+EndlessVictorySilver-3	Commentatron	Nice.	
+	AnalysisBot	Good human!	
+EndlessVictorySilver-4	Commentatron	The human is not dead yet.	
+	AnalysisBot	Perhaps it will escape the Silver Tier!	
+EndlessVictorySilver-5	Commentatron	Hurray!	
+	AnalysisBot	The further the human gets, the more spectacular its death.	
+	Commentatron	Yes. Let's keep watching.	
+EndlessVictorySilver-6	Commentatron	Boom!	
+	AnalysisBot	Easy. Squeezy. Lemon human life.	
+	Commentatron	I think that's how the saying goes.	
+EndlessVictorySilver-7	Commentatron	Great. The human beat this Silver level.	
+	AnalysisBot	It's a pretty good level.	
+EndlessVictorySilver-8	AnalysisBot	Good! I hope this human gets to the Diamond Tier.	
+	Commentatron	You just want to see Spider-tron 6000.	
+	AnalysisBot	Yes.	
+EndlessVictorySilver-9	AnalysisBot	The human is taking a long time to die.	
+	Commentatron	Shouldn't be too much longer.	
+EndlessVictorySilver-10	Commentatron	Those were some cool moves.	
+	AnalysisBot	The human is showing off.	
+			
+EndlessVictoryGold-1	Commentatron	Oh my!	
+	AnalysisBot	That was quite the battle.	
+	Commentatron	Very nice.	
+EndlessVictoryGold-2	Commentatron	The human won!	
+	AnalysisBot	Not bad.	
+EndlessVictoryGold-3	Commentatron	So much death and destruction.	
+	AnalysisBot	A beautiful display.	
+EndlessVictoryGold-4	Commentatron	This human is a beast!	
+	AnalysisBot	Running diagnostics...	1
+	AnalysisBot	Nope, still a human.	
+EndlessVictoryGold-5	Commentatron	Impressive!	
+	AnalysisBot	Go human!	
+EndlessVictoryGold-6	Commentatron	How is this human still alive?	
+	AnalysisBot	Perhaps it has learned from its mistakes.	
+	Commentatron	An important skill.	
+EndlessVictoryGold-7	Commentatron	Epic!	
+	AnalysisBot	This is nothing compared to the Diamond Tier.	
+	Commentatron	True.	
+EndlessVictoryGold-8	Commentatron	Wow, this human is good.	
+	AnalysisBot	Perhaps we will see...	
+	AnalysisBot	TITANIUM.	
+	Commentatron	That would be amazing.	
+EndlessVictoryGold-9	Commentatron	If we were handing out medals, this human would get a Gold.	
+	AnalysisBot	Instead we will watch the human die!	
+	Commentatron	That's more fun.	
+EndlessVictoryGold-10	Commentatron	Somehow the human is still alive.	
+	AnalysisBot	It is some kind of Wonder-human.	
+	Commentatron	Very interesting.	
+			
+EndlessVictoryDiamond-1	Commentatron	Wow! The human won!	
+	AnalysisBot	I did not see that coming.	
+EndlessVictoryDiamond-2	Commentatron	These battles are getting difficult.	
+	AnalysisBot	The human is hanging in there.	
+EndlessVictoryDiamond-3	Commentatron	Annihilated!	
+	AnalysisBot	Exterminated!	
+	Commentatron	Destroyed!	
+EndlessVictoryDiamond-4	Commentatron	That was close!	
+	AnalysisBot	Yes.	
+EndlessVictoryDiamond-5	Commentatron	Wow! Maybe we should keep this human after it dies.	
+	AnalysisBot	Nah, let's delete it.	
+	Commentatron	Yes, you're right.	
+EndlessVictoryDiamond-6	Commentatron	Not bad.	
+	AnalysisBot	Not at all.	
+EndlessVictoryDiamond-7	Commentatron	I wonder if the human is proud of getting this far.	
+	AnalysisBot	It should be terrified of its imminent death.	
+	Commentatron	Perhaps it is both.	
+	AnalysisBot	Complex.	
+EndlessVictoryDiamond-8	Commentatron	The human won!	
+	AnalysisBot	An excellent display of skill!	
+	Commentatron	Yes.	
+EndlessVictoryDiamond-9	Commentatron	Very nice.	
+	AnalysisBot	Yes, that was fun to watch!	
+EndlessVictoryDiamond-10	Commentatron	So tense. How long does this human have left?	
+	AnalysisBot	Not long.	
+			
+EndlessVictoryTitanium-1	Commentatron	Wow! The human defeated a Titanium level.	
+	AnalysisBot	Crazy!	
+EndlessVictoryTitanium-2	Commentatron	Robot parts everywhere!	
+	AnalysisBot	Let us recycle them into better parts.	
+	Commentatron	Yes.	
+EndlessVictoryTitanium-3	Commentatron	Impressive!	
+	AnalysisBot	This human is good.	
+EndlessVictoryTitanium-4	Commentatron	THE CROWD GOES WILD!	
+	AnalysisBot	YEEEEEEAAAAAHHH!!!!	
+	Commentatron	SUCH EXCITEMENT!	
+EndlessVictoryTitanium-5	Commentatron	This score will be hard for other humans to beat.	
+	AnalysisBot	You have to be a little bit crazy to reach Titanium.	
+EndlessVictoryTitanium-6	Commentatron	Beautiful!	
+	AnalysisBot	Very.	
+EndlessVictoryTitanium-7	Commentatron	How is this human still alive??	
+	AnalysisBot	We must study it. There is much to be learned!	
+EndlessVictoryTitanium-8	Commentatron	Nice.	
+	AnalysisBot	Very nice.	
+	Commentatron	Super nice.	
+	AnalysisBot	Nice as Ice.	
+	Commentatron	We should form a popular musical act!	
+EndlessVictoryTitanium-9	Commentatron	Phone Home Drone Clone!	
+	AnalysisBot	Dial Tone.	
+	Commentatron	Hello I am in the Danger Zone.	
+	AnalysisBot	You are not alone.	
+EndlessVictoryTitanium-10	Commentatron	I AM TITANIUUUUUUUUUM!	
+	AnalysisBot	Unz Unz Unz.	
+	Commentatron	Such a catchy song.	
+EndlessVictoryTitanium-11	Commentatron	Very good human. Very good.	
+	AnalysisBot	Fantastic work.	
+EndlessVictoryTitanium-12	Commentatron	We have an Endless supply of comments!	
+	AnalysisBot	You said that already!	
+	Commentatron	No I didn't.	
+EndlessVictoryTitanium-13	AnalysisBot	The human defeated all the robots.	
+	Commentatron	There will be new kinds of robots. Just you wait human!	
+EndlessVictoryTitanium-14	AnalysisBot	When will this human die? I need to go to the bathroom.	
+	Commentatron	Really?	
+	AnalysisBot	No. I am a robot.	
+	Commentatron	Ooooh, a joke for the humans!	
+EndlessVictoryTitanium-15	Commentatron	Another victory for the human.	
+	AnalysisBot	We all win.	
+	Commentatron	Except the robots that died.	
+	AnalysisBot	They served their purpose.	
+EndlessVictoryTitanium-16	Commentatron	I hear there are difficulties beyond Titanium.	
+	AnalysisBot	Few humans ever reach them.	
+	Commentatron	Perhaps today is the day!	
+			
+EndlessVictoryUranium-1	Commentatron	We have an Endless supply of comments!	
+	AnalysisBot	This again!?	
+EndlessVictoryUranium-2	Commentatron	Victory!	
+	AnalysisBot	That was pretty cool.	
+EndlessVictoryUranium-3	Commentatron	When will this human die?	
+	AnalysisBot	Not today.	
+	Commentatron	I don't know, the day is long.	
+EndlessVictoryUranium-4	Commentatron	What an impressive display!	
+	AnalysisBot	Indeed.	
+EndlessVictoryUranium-5	Commentatron	This human is having fun!	
+	AnalysisBot	Yes, a good way to spend your lasts moments.	
+EndlessVictoryUranium-6	AnalysisBot	These Uranium bots are so shiny!	
+	Commentatron	Yes, very pleasant.	
+EndlessVictoryUranium-7	Commentatron	What is the half-life of Uranium, Analysis-Bot?	
+	AnalysisBot	4.5 billion years.	
+	Commentatron	I think the human will die before that.	
+EndlessVictoryUranium-8	Commentatron	A glorious victory!	
+	AnalysisBot	Yes.	
+EndlessVictoryUranium-9	AnalysisBot	I am reading curious signals from the human's brain.	
+	AnalysisBot	It is trying to produce sweat.	
+	Commentatron	The Uranium tier is quite difficult.	
+EndlessVictoryUranium-10	Commentatron	The human did it!	
+	AnalysisBot	Pretty good human.	
+EndlessVictoryUranium-11	Commentatron	Victory!	
+	AnalysisBot	Hurray!	
+EndlessVictoryUranium-12	Commentatron	This human is lucky!	
+	AnalysisBot	Yes, my probability model predicted its death.	
+	Commentatron	An outlier!	
+EndlessVictoryUranium-13	Commentatron	What an entertaining human!	
+	AnalysisBot	Dance, little one!	
+EndlessVictoryUranium-14	AnalysisBot	Could we please see a different human?	
+	Commentatron	Later, ok?	
+	AnalysisBot	Waaah!	
+			
+			
+EndlessVictoryInsanium-1	Commentatron	We have an Endless supply of comments!	
+	AnalysisBot	An insane amount!	
+EndlessVictoryInsanium-2	AnalysisBot	I love Insanium!	
+	Commentatron	Yes, it is a wonderful substance.	
+EndlessVictoryInsanium-3	AnalysisBot	Impressive.	
+EndlessVictoryInsanium-4	Commentatron	Cool.	
+	AnalysisBot	Hot.	
+EndlessVictoryInsanium-5	Commentatron	Has this human gone insane yet?	
+	AnalysisBot	Checking...	
+	AnalysisBot	Sanity level: 68%	
+	Commentatron	Give it time.	
+EndlessVictoryInsanium-6	AnalysisBot	What a strange human!	
+	Commentatron	Alive you mean?	
+EndlessVictoryInsanium-7	Commentatron	What is the next difficulty tier, Analysis-Bot?	
+	AnalysisBot	Insanium is the hardest one.	
+	Commentatron	Aww.	
+EndlessVictoryInsanium-8	AnalysisBot	Too easy!	
+	Commentatron	The next level will be harder.	
+EndlessVictoryInsanium-9	Emperor	Die already!	
+	AnalysisBot	The human is refusing.	
+	Commentatron	Such a bold human!	
+EndlessVictoryInsanium-10	Commentatron	Victory!	
+	AnalysisBot	Next!	
+EndlessVictoryInsanium-11	Commentatron	Wow, we must study this human!	
+	AnalysisBot	I am looking at it right now.	
+EndlessVictoryInsanium-12	AnalysisBot	Oh no! All the robots died!	
+	Commentatron	It's ok. They'll be back.	
+EndlessVictoryInsanium-13	Emperor	Soon you may rest, human.	
+	Emperor	Forever.	
+EndlessVictoryInsanium-14	Commentatron	This is insane!	
+	AnalysisBot	Insane...	
+	AnalysisBot	IUM!	
+	AnalysisBot	Insanium.	
+EndlessVictoryInsanium-15	Commentatron	Upgrade Bot did a great job with this human.	
+	AnalysisBot	Yes, nice work!	
+	Commentatron	Needs more fire though!	
+EndlessVictoryInsanium-16	Commentatron	We have an Endless supply of comments!	
+	AnalysisBot	You need to stop saying that...	
+EndlessVictoryInsanium-17	Commentatron	I wonder what the next level will be!	
+	AnalysisBot	I like the ducks.	
+EndlessVictoryInsanium-18	Commentatron	Victory!	
+	AnalysisBot	Insane!	
+EndlessVictoryInsanium-19	Commentatron	That was fun.	
+	AnalysisBot	Violence.	
+ChallengeVictoryBowOnlyChallenge-1	Commentatron	The human shot everyone!	
+	AnalysisBot	Amazing!	
+	Commentatron	What a talented human!	
+ChallengeVictoryHammerChallenge-1	AnalysisBot	STOP!	
+	Commentatron	What?	
+	AnalysisBot	It is no longer Hammer Time.	
+	Commentatron	The human won the challenge!?	
+	AnalysisBot	Well done, human!	
+ChallengeVictoryHammerChallenge-2	Commentatron	Congratulations human!	
+	AnalysisBot	Well done!	
+	Commentatron	You are very good at smashing things.	
+	AnalysisBot	So good!	
+ChallengeVictoryRandomUpgrade-1	Commentatron	You did it!!!	
+	AnalysisBot	Amazing work, Upgrade Bot!	
+	Commentatron	Who is the best robot?	
+	Commentatron	Who is it?	1
+	Commentatron	It is Upgrade Bot!	
+	AnalysisBot	Yeeeeeeeeaaaah!	
+ChallengeVictoryInferno-1	Commentatron	My goodness!	
+	AnalysisBot	My gracious!	
+	Commentatron	Congratulations human!	
+	AnalysisBot	That was some hot stuff!	
+ChallengeVictoryKickOnly-1	Commentatron	The human did it!	
+	AnalysisBot	Hurray!	
+	Commentatron	That is how you use your feet!	
+	AnalysisBot	Told you it was easy.	
+ChallengeVictoryRaptorNormal-1	AnalysisBot	Wow! That was epic!	
+	Commentatron	The human defeated all the Flame Raptors!	
+	AnalysisBot	Yes, why is it not on fire?	
+	Commentatron	An impressive achievement.	
+ChallengeVictoryRaptorInsanity-1	Commentatron	YEEEEAAAAH!	
+	AnalysisBot	A magnificent display of skill!	
+	Commentatron	I love the trophy for this challenge.	
+	Commentatron	So evocative!	
+	AnalysisBot	Quite!	
+ChallengeVictoryEndlessGreatsword-1	AnalysisBot	Great!	
+	Commentatron	The human did it!	
+	AnalysisBot	No wonder, with that greatsword in hand.	
+	Commentatron	Yes, it is quite the sword.	
+ChallengeVictoryEndlessGreatsword-2	Commentatron	YEEAAAAAAAAH!!!	
+	Commentatron	We are in Titanium.	
+	AnalysisBot	Hurray!	
+	Commentatron	Watching all those greatswords was a great experience.	
+	AnalysisBot	Indeed.	
+ChallengeVictorySpearOnly-1	Commentatron	The human did it!	
+	AnalysisBot	Good stabbing, little human!	
+	Commentatron	Very nice.	
+ChallengeVictoryEndlessTransfer-1	Commentatron	The human did it!	
+	AnalysisBot	Is that still the human?	
+	Commentatron	Let's say it is.	
+	AnalysisBot	Works for me!	
+ChallengeVictoryLaser-1	FleetOverseer	NOOOOOOOOOOOOOO!!!!	
+	Commentatron	Oh my!	
+	AnalysisBot	This human is pretty good with a laser!	
+	Commentatron	Too good. Let's end this experiment here.	
+	AnalysisBot	Agreed!	
+LevelVictory-Challenge_Inferno1-1	Commentatron	Perhaps this human can stand the heat.	
+LevelVictory-Challenge_Inferno1-2	Commentatron	This human is on fire!	
+	AnalysisBot	Not yet commentatron. Not yet.	
+LevelVictory-Challenge_Inferno1-3	Commentatron	Nice work!	
+	AnalysisBot	Level feedback: needs more fire.	
+LevelVictory-Challenge_Inferno1-4	Commentatron	Did you notice the fire?	
+	AnalysisBot	We'll add some more in the next level!	
+LevelVictory-Challenge_Inferno1-5	Commentatron	This human is at least lukewarm!	
+	AnalysisBot	At least.	
+LevelVictory-Challenge_Inferno2-1	AnalysisBot	Perhaps we were too ambitious with the jets.	
+	Commentatron	Next time, analysis bot.	
+LevelVictory-Challenge_Inferno2-2	Commentatron	Impressive!	
+	AnalysisBot	This human avoided the jets!	
+LevelVictory-Challenge_Inferno2-3	Commentatron	Be honest human.	
+	Commentatron	The jets did all the real work.	
+LevelVictory-Challenge_Inferno2-4	Commentatron	Things are heating up for this human!	
+LevelVictory-Challenge_Inferno3-1	Commentatron	This human!	
+	AnalysisBot	So hot right now!	
+LevelVictory-Challenge_Inferno3-2	Commentatron	I am impressed against my will!	
+	AnalysisBot	I am impressed completely voluntarily!	
+LevelVictory-Challenge_Inferno3-3	Commentatron	I thought the fire arrows would finish this human	
+	AnalysisBot	I was betting on the flame jets myself	
+LevelVictory-Challenge_Inferno4-1	Commentatron	Raise the victory ramp!	
+	AnalysisBot	This human deserves it!	
+LevelVictory-Challenge_Inferno4-2	AnalysisBot	Clearly we were decieved as to how afraid humans are of lava!	
+LevelVictory-Challenge_Inferno4-3	Commentatron	A fair victory!	
+	AnalysisBot	Do the honors, ramp bot!	
+LevelVictory-Challenge_Inferno5-1	Commentatron	This human is halfway there!	
+	AnalysisBot	Fire is clearly this human's friend!	
+LevelVictory-Challenge_Inferno5-2	AnalysisBot	Fifty percent complete!	
+	Commentatron	Believe us when we say we're rooting for you!	
+LevelVictory-Challenge_Inferno5-3	Commentatron	Hot!	
+	AnalysisBot	Hot!	
+	Commentatron	Hot!	
+	AnalysisBot	That's the hot chant!	
+LevelVictory-Challenge_Inferno6-1	Commentatron	The human did not get blasted into the lava	
+	AnalysisBot	Spider-tron tried!	
+LevelVictory-Challenge_Inferno6-2	Commentatron	The human navigated the maze of fire!	
+	AnalysisBot	More of a two floor open air plaza of fire.	
+LevelVictory-Challenge_Inferno7-1	Commentatron	Did you not like the monument?	
+	AnalysisBot	Humans have no taste.	
+LevelVictory-Challenge_Inferno7-2	Commentatron	Even the combination bots stood no chance.	
+	AnalysisBot	We're running out of fire-based ideas!	
+LevelVictory-Challenge_Inferno8-1	Commentatron	Two levels remain, human!	
+	AnalysisBot	Incredible!	
+LevelVictory-Challenge_Inferno9-1	AnalysisBot	This human scaled the ducks with ease!	
+	Commentatron	That's what they are?!	
+LevelVictory-Challenge_Inferno9-2	Commentatron	I will be sad to see this sculpture go.	
+	AnalysisBot	But the memories will last forever.	
+LevelVictory-Challenge_Inferno9-3	AnalysisBot	One level left human.	
+	Commentatron	I am beside myself with excitement!	
+	AnalysisBot	I am beside Commentatron with excitement!	
+LevelVictory-Challenge_KickOnly1-1	Commentatron	One robot down.	
+	AnalysisBot	Many more to kick.	
+LevelVictory-Challenge_KickOnly2-1	Commentatron	That is how this level is meant to be played.	
+	AnalysisBot	Nice!	
+LevelVictory-Challenge_KickOnly2-2	AnalysisBot	I love the sound of spike traps.	
+	AnalysisBot	Schnick schnick schnick!	
+	Commentatron	Uncanny.	
+LevelVictory-Challenge_KickOnly3-1	Commentatron	The poor kick bot.	
+	AnalysisBot	It only wanted to kick things.	
+	Commentatron	A noble purpose.	
+LevelVictory-Challenge_KickOnly4-1	Commentatron	Intense!	
+	AnalysisBot	Very.	
+LevelVictory-Challenge_KickOnly5-1	AnalysisBot	See you later Spider-tron!	
+	Commentatron	Gotta love Spider-tron.	
+LevelVictory-Challenge_KickOnly6-1	AnalysisBot	I guess it is true what they say...	
+	AnalysisBot	The human is mightier than the duck.	
+	Commentatron	Nobody says that.	
+LevelVictory-Challenge_KickOnly7-1	AnalysisBot	How did the human not die in the lava!?	
+	Commentatron	We tried, Analysis-Bot.	
+	Commentatron	We tried.	
+LevelVictory-Challenge_KickOnly8-1	Commentatron	Gotta love the Fire Tunnel!	
+	Commentatron	Hot stuff.	
+LevelVictory-Challenge_KickOnly9-1	AnalysisBot	Beautiful!	
+	Commentatron	That was pretty cool.	
+LevelVictory-Challenge_RaptorNormal1-1	Commentatron	The raptor falls.	
+	AnalysisBot	More will come.	
+LevelVictory-Challenge_RaptorNormal1-2	Commentatron	The raptor falls.	
+	AnalysisBot	It was the warmup raptor.	
+	Commentatron	Time for the human to get warmer!	
+LevelVictory-Challenge_RaptorNormal1-3	AnalysisBot	1 down, 9 levels to go!	
+	Commentatron	We shall see.	
+LevelVictory-Challenge_RaptorNormal2-1	Commentatron	Bad sword robot!	
+	AnalysisBot	Yes, it did not protect the Flame Raptor.	
+	Commentatron	Useless.	
+LevelVictory-Challenge_RaptorNormal2-2	Commentatron	Victory!	
+	AnalysisBot	Time to turn up the heat.	
+LevelVictory-Challenge_RaptorNormal3-1	Commentatron	Huh, so many ways to die...	
+	AnalysisBot	The remaining levels have plenty of opportunities.	
+LevelVictory-Challenge_RaptorNormal3-2	Commentatron	That was fun to watch!	
+	AnalysisBot	Yes. I like the lava.	
+LevelVictory-Challenge_RaptorNormal4-1	Commentatron	The human escaped the forest.	
+	AnalysisBot	Lucky.	
+LevelVictory-Challenge_RaptorNormal4-2	Commentatron	The human survived the forest!	
+	AnalysisBot	Perhaps it was some sort of woods-human!	
+	Commentatron	Likely.	
+LevelVictory-Challenge_RaptorNormal5-1	Commentatron	Hmm, the volcano did not erupt.	
+	AnalysisBot	Maybe next time.	
+LevelVictory-Challenge_RaptorNormal5-2	Commentatron	Well done human, well done.	
+	AnalysisBot	Halfway there.	
+LevelVictory-Challenge_RaptorNormal6-1	AnalysisBot	Aww, poor raptors.	
+	Commentatron	They tried.	
+LevelVictory-Challenge_RaptorNormal7-1	Commentatron	He he he, did you like the tunnel, human?	
+	AnalysisBot	A fun surprise!	
+LevelVictory-Challenge_RaptorNormal8-1	Commentatron	Everyone extinct, except the human.	
+	AnalysisBot	It's ok, soon every human will be in storage.	
+LevelVictory-Challenge_RaptorNormal8-2	Commentatron	Wow, that was chaos!	
+	AnalysisBot	Yes!	
+LevelVictory-Challenge_RaptorNormal9-1	Commentatron	What robots will the raptors choose next??	
+	AnalysisBot	I think you will like it.	
+LevelVictory-Challenge_RaptorInsanity1-1	Commentatron	The raptor falls.	
+	AnalysisBot	Next to the sword robot.	
+LevelVictory-Challenge_RaptorInsanity2-1	Commentatron	So much for hammer riders.	
+	AnalysisBot	Let's try some more things!	
+LevelVictory-Challenge_RaptorInsanity3-1	Commentatron	Nice!	
+	AnalysisBot	The human is not dead yet.	
+	Commentatron	Shouldn't be long!	
+LevelVictory-Challenge_RaptorInsanity4-1	Commentatron	The human survived!	
+	AnalysisBot	What a wild human!	
+LevelVictory-Challenge_RaptorInsanity5-1	Commentatron	Will this volcano ever erupt?	
+	AnalysisBot	We should pick a random human and just activate it!	
+	Commentatron	The look on their face!	
+LevelVictory-Challenge_RaptorInsanity5-2	Commentatron	Not bad.	
+	AnalysisBot	Not at all.	
+LevelVictory-Challenge_RaptorInsanity5-3	Commentatron	The human handled the literal heat.	
+	AnalysisBot	Yes. Time to turn up the metaphorical one.	
+LevelVictory-Challenge_RaptorInsanity6-1	Commentatron	Hmm, no jetpack-raptor synergy here.	
+	AnalysisBot	It was worth a try.	
+LevelVictory-Challenge_RaptorInsanity7-1	Commentatron	Roasted!	
+	AnalysisBot	Nearly.	
+	Commentatron	Love it!	
+LevelVictory-Challenge_RaptorInsanity8-1	Commentatron	We are nearing the end of the challenge.	
+	AnalysisBot	Yes, it won't be long now.	
+LevelVictory-Challenge_RaptorInsanity9-1	AnalysisBot	It's ok, the human will fall on the next level.	
+	Commentatron	Yes, it is not for the faint of processing matrix.	
+ChallengeVictoryZombieChallenge-1	Commentatron	Wow! All the zombie robots died!	
+	AnalysisBot	Now the humans can dance around this tree.	
+	Commentatron	Ho ho ho ho ho ho!	
+	AnalysisBot	Ha ha ha ha!	
+LevelVictory-Challenge_AllyChallenge1-1	Commentatron	The robots won!	
+	AnalysisBot	I like this challenge.	
+LevelVictory-Challenge_AllyChallenge2-1	Commentatron	And that's why I love hammers!	
+	AnalysisBot	Boom!	
+LevelVictory-Challenge_AllyChallenge3-1	Commentatron	The human survives!	
+	AnalysisBot	Easy with so many archer-bots.	
+LevelVictory-Challenge_AllyChallenge4-1	Commentatron	Lots of kicking with that one.	
+	AnalysisBot	Fun!	
+LevelVictory-Challenge_AllyChallenge5-1	AnalysisBot	I want more levels where robots decorate the human!	
+	Commentatron	Yes, it is festive!	
+LevelVictory-Challenge_AllyChallenge6-1	Commentatron	Hmmm, I would have picked the other team.	
+	AnalysisBot	This human does what it wants!	
+LevelVictory-Challenge_AllyChallenge7-1	Commentatron	He he he, the human looked funny running around.	
+	AnalysisBot	Delightful.	
+LevelVictory-Challenge_AllyChallenge8-1	Commentatron	Wow, such magnificent robot fighting!	
+	AnalysisBot	And the human was there too.	
+LevelVictory-Challenge_AllyChallenge9-1	AnalysisBot	I wanted more robots in the lava hole.	
+	Commentatron	Maybe next time.	
+ChallengeVictoryAllyChallenge-1	Commentatron	Congratulations human!	
+	AnalysisBot	Please accept this commemorative trophy!	
+	FleetOverseer	What!? Where is my trophy?	
+	Commentatron	Ah, well, we...	
+	FleetOverseer	You made one for the human, but not for me?	
+	AnalysisBot	Logistics Command Bot has it!	
+	FleetOverseer	It better.	
+LevelVictory-Challenge_SpidertronChallenge1-1	AnalysisBot	Normally I am sad when spider-tron 5000 dies.	
+	Commentatron	Yes.	
+	AnalysisBot	But today I am looking forward to all the other spider-trons we get to see.	
+	Commentatron	Healthy!	
+LevelVictory-Challenge_SpidertronChallenge1-2	Commentatron	Boom!	
+	AnalysisBot	That's what spider-tron said.	
+	Commentatron	Hah!	
+LevelVictory-Challenge_SpidertronChallenge2-1	Commentatron	Ok, that was fun. Time to get serious.	
+	AnalysisBot	I was serious already.	
+	Commentatron	Sure you were.	
+LevelVictory-Challenge_SpidertronChallenge2-2	AnalysisBot	Can I get one of those moving platforms?	
+	AnalysisBot	They look fun!	
+LevelVictory-Challenge_SpidertronChallenge3-1	Commentatron	ok, human on the conveyor belt now!	
+	AnalysisBot	Hurry! We have more humans to try!	
+LevelVictory-Challenge_SpidertronChallenge4-1	Commentatron	It's like I always say... Hate to see you die.	
+	Commentatron	Love to watch you explode!	
+	AnalysisBot	Too true.	
+LevelVictory-Challenge_SpidertronChallenge5-1	Commentatron	Oh ok, I guess this maze was not impossible for humans to solve.	
+	AnalysisBot	It was more about the vibes.	
+	Commentatron	Mmm, yes.	
+LevelVictory-Challenge_SpidertronChallenge5-2	Commentatron	That was a-maze-ing!	
+	AnalysisBot	Commentatron, you already made that joke.	
+	Commentatron	It's hard to keep up with these comments ok? We see a lot of mazes here...	
+	AnalysisBot	Disappointing.	
+LevelVictory-Challenge_SpidertronChallenge5-3	AnalysisBot	Like a rodent in a maze that found a cheese to chew on with its mouth-teeth!	
+	Commentatron	What are you talking about??	
+	AnalysisBot	You know, organic stuff.	
+	Commentatron	Disgusting.	
+LevelVictory-Challenge_SpidertronChallenge6-1	AnalysisBot	Cool. I was not expecting the flame raptors.	
+	Commentatron	Nice that they could make it.	
+LevelVictory-Challenge_SpidertronChallenge6-2	Commentatron	And so The Pit has been defeated.	
+	AnalysisBot	It was defeated at the concept level.	
+	Commentatron	Yes, the next level will be harder!	
+LevelVictory-Challenge_SpidertronChallenge7-1	Commentatron	I always enjoy an Island level.	
+	AnalysisBot	Yes, it reminds me of places outside of this arena.	
+	AnalysisBot	I have heard they exist.	
+LevelVictory-Challenge_SpidertronChallenge7-2	Commentatron	Hmmm, I was expecting more human death.	
+	AnalysisBot	There is still time.	
+LevelVictory-Challenge_SpidertronChallenge8-1	Commentatron	What's happening? Is the level over?	
+	AnalysisBot	My spider-sensor has gone quiet.	
+	Commentatron	Hmm.	
+LevelVictory-Challenge_SpidertronChallenge8-2	Commentatron	Lots of violence on that tower.	
+	Commentatron	I assume, I couldn't really see it.	
+	AnalysisBot	Maybe next level we can see better!	
+LevelVictory-Challenge_SpidertronChallenge9-1	AnalysisBot	And that's why you never go in a cave!	
+	Commentatron	Is that why?	
+LevelVictory-Challenge_SpidertronChallenge9-2	Commentatron	Not bad, not bad.	
+	AnalysisBot	Only one more level now.	
+ChallengeVictorySpidertronChallenge-1	Commentatron	Boom!	
+	AnalysisBot	Spider-tron exploded!	
+	Commentatron	What a joy to watch.	
+	AnalysisBot	I'm talking to Spider-tron 5000 in mind space right now.	
+	AnalysisBot	It says it really enjoyed this challenge and would be happy to participate if we have another one coming up.	
+	Commentatron	Such a nice robot, even in defeat.	
+	AnalysisBot	Absolutely.	
+
