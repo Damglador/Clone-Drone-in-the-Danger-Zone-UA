@@ -12,7 +12,7 @@ Gameplay	Ігролад
 Graphics	Графіка
 Sound	Аудіо
 Controls	Керування
-Multiplayer	Багатокористувацька гра
+Multiplayer	Мережева гра
 Language	Мова
 Change Language	Змінити мову
 YOU LOSE!	ВИ ПРОГРАЛИ!
@@ -29,7 +29,7 @@ twitchPrizePool	Prize Pool:
 No winners!	Ніхто не переміг!
 GAME OVER BET SETTLED!	GAME OVER BET SETTLED!
 CLONE CREATED!	КЛОНА СТВОРЕНО!
-by	by
+by	від
 Bronze	Бронза
 Silver	Срібло
 Gold	Золото
@@ -38,13 +38,13 @@ Titanium	Титан
 Uranium	Уран
 Insanium	Безумій
 Sections	Секції
-Arena Level	Рівень Арени
+Arena Level	Рівень арени
 Last Bot Standing	До останнього бота
 LightSettings	Світло
 Arena	Арена
 Play	Грати
 Upload Level	Завантажити рівень
-Make Challenges	Створити Випробування
+Make Challenges	Створити випробування
 Position	Позиція
 Rotation	Обертання
 Scale	Розмір
@@ -58,10 +58,10 @@ Show All	Показати все
 CURRENT GROUP:	ПОТОЧНА ГРУПА:
 Enemy Spawn Layouts:	Enemy Spawn Layouts:
 Difficulty	Складність
-steamSub	Ви маєте прийняти Угоду Підписника Steam!
+steamSub	Ви маєте прийняти угоду підписника Steam!
 View agreement	Переглянути угоду
 Checklist	Checklist
-Add 15 Spawn Targets	Add 15 Spawn Targets
+Add 15 Spawn Targets	Додати 15 точок відродження
 Add Waiting Room Location	Додати локацію кімнати очікування
 Add Upgrade Drops	Додати випадіння покращень
 Add Final Area!	Додати фінальну зону!
@@ -83,9 +83,9 @@ Change level?	Змінити рівень?
 editLevelWarning	Редагування цього рівня означає, що вам доведеться пройти його знову, щоб опублікувати його!
 undo changes	скасувати зміни
 Yes, make changes!	Так, змініть!
-Verts:	Вершини:
+Verts:	Вершин:
 Tris:	Tris:
-Objects:	Об'єкти:
+Objects:	Об'єктів:
 Animation	Анімації
 Challenges	Випробування
 New	Нове
@@ -106,15 +106,15 @@ Mind Transfer On Death	Перенесення свідомості при сме
 Num Mind Transfers:	Num Mind Transfers:
 Select Level to Add	Виберіть рівень, щоб додати
 levelTagSelectHeading	Як коментатори мають описувати ваш рівень?
-Select Speech Sequence	Select Speech Sequence
-SequenceID	SequenceID
+Select Speech Sequence	Виберіть послідовність мовлення
+SequenceID	ID послідовності
 View Spreadsheet	Переглянути таблицю
 Save before closing?	Зберегти перед закриттям?
 cancel	Скасувати
 discard changes	відхилити зміни
 yes, save first!	Так, спочатку збережіть!
 Confirm deletion?	Підтвердити видалення?
-deleteConfirmNumItems	Do you want to delete the <color=#ffff00>{0} selected items</color>?
+deleteConfirmNumItems	Ви дійсно хочете видалити <color=#ffff00>{0} вибраних предметів</color>?
 Nevermind	Неважливо
 Yes, Delete	Так, видалити
 End of Chapter 1.	Кінець 1 глави.
@@ -123,8 +123,8 @@ End of Chapter 2!	Кінець 2 глави!
 Continue	Продовжити
 End of Chapter 3!	Кінець 3 глави!
 End of Chapter 4!	Кінець 4 глави!
-(to be continued...)	(буде продовження...)
-Main Menu	Головне Меню
+(to be continued...)	(продовження буде...)
+Main Menu	Головне меню
 Ping:	Пінг:
 Ping	Пінг
 Kills:	Вбивств:
@@ -139,7 +139,7 @@ You are dead!	Ви померли!
 Spectate	Стежити
 Next Game!	Наступна гра!
 Waiting for humans	Очікування людей
-Humans:	Люди:
+Humans:	Людей:
 This is the practice area!!!	Це місце для практикування!!!
 Starting Match!	Початок матчу!
 CONNECTION ERROR	ПОМИЛКА З'ЄДНАННЯ
@@ -152,7 +152,7 @@ Horizontal Attack	Горизонтальна атака
 Dash forward	Ривок вперед
 blockingNote	Блокування відбувається автоматично, коли мечі стикаються!
 OK!	Гаразд!
-Connecting...	З’єднання...
+Connecting...	З'єднання...
 Try Again	Повторити спробу
 Region (from settings):	Регіон (з налаштувань):
 Regions:	Регіони:
@@ -161,7 +161,7 @@ Downloading levels...	Завантаження рівнів...
 Cleaning up last game...	Очищення попередньої гри...
 Checking best region...	Знаходження кращого регіону...
 Matchmaking!	Створення матчу!
-Connecting...	З’єднання...
+Connecting...	З'єднання...
 Uploading Level	Завантаження рівня
 Connected!	З'єднано!
 WEAPON UNLOCKED!	РОЗБЛОКОВАНО ЗБРОЮ!
@@ -177,7 +177,7 @@ Kick!	Копняки!
 Change Direction	Змінити напрямок
 Flame Breath:	Вогняне дихання:
 Kick:	Копняк:
-Dismount:	Dismount:
+Dismount:	Спішитися:
 Laser:	Лазер:
 FLAME BREATH UNLOCKED!	ВОГНЯНЕ ДИХАННЯ РОЗБЛОКОВАНО!
 Breathe Fire!	Дихайте вогнем!
@@ -204,9 +204,9 @@ Invite your friends!	Запросіть своїх друзів!
 Show code	Показати код
 SERVER DISCONNECTED!	СЕРВЕР ВІДКЛЮЧЕНО!
 Level:	Рівень:
-Tier:	Рівень:
+Tier:	Ранг:
 Human:	Людина:
-High Scoring Humans:	Люди з найвищими показниками:
+High Scoring Humans:	Найкращі люди:
 Next Human!	Наступна людина!
 info	інформація
 lost playing:	lost playing:
@@ -218,7 +218,7 @@ Available:	Доступно:
 EXIT	ВИЙТИ
 CLICK TO UPGRADE!	НАТИСНІТЬ ЩОБ ПОКРАЩИТИ!
 LEVEL REACHED:	ДОСЯГНУТО РІВЕНЬ:
-wellDoneHumans	Гарна робота,<br> люди!
+wellDoneHumans	Гарна робота,<br>люди!
 Play again!	Грати знову!
 Return to game	Повернутися в гру
 Settings	Налаштування
@@ -235,7 +235,7 @@ unsubscribe	відписатися
 just played:	щойно зіграно:
 next up:	наступна:
 Photo Mode	Фоторежим
-photoModeInstructions	WASD - Move <br>Mouse - Pan <br>Q/E - Tilt <br>Scroll - Zoom <br>Shift - Run <br> <br>` (backtick) - Exit Photo Mode <br>L - Trigger on kill
+photoModeInstructions	WASD - Рух<br>Миша - Камера уверх-униз<br>Q/E - Нахил<br>Колесико - Наближення<br>Shift - Прискорення<br> <br> ` - Вийти з фото режиму<br>L - Активувати при вбивстві
 photoModeInstructions2	C - Приховати це
 Play Singleplayer	Одиночна гра
 Play Multiplayer	Мережева гра
@@ -249,7 +249,7 @@ Level Editor	Редактор рівнів
 Credits	Автори
 Quit	Вийти
 Choose your game mode!	Виберіть ігровий режим!
-Join Random game	Приєднатися до випадкової гри
+Join Random game	Випадкове лобі
 Find players quickly!	Знайти гравців швидко!
 Found game!!!	Знайдено гру!!!
 noOpenGames	Зараз немає відкритих ігор.<br>Спробуйте створити свою!
@@ -266,63 +266,63 @@ Challenge your friend!	Випробуйте свого друга!
 Story Mode	Історія
 The start of an epic tale of human defiance!	Початок епічної історії про людську непокору!
 Endless Mode	Нескінченний режим
-Escalating challenges. Can you reach Titanium?	Escalating challenges. Can you reach Titanium?
+Escalating challenges. Can you reach Titanium?	Нескінченна гра з висхідною складністю. Чи зможете ви дійти Титану?
 Challenges	Випробування
 Unlock new abilities by completing challenges!	Розблокуйте нові вміння, проходячи випробування!
 Twitch Mode	Режим Twitch
 A live audience bets on how you will die.	Глядачі трансляції роблять ставки, як ви помрете.
-experimentalWarning	You are playing in an experimental branch!<br><br>Expect things to be unfinished and full of bugs.
+experimentalWarning	Ви граєте на експериментальній гілці!<br><br>Будьте готові до не завершених речей та купи помилок.
 There's a NEW VERSION!!!	Вийшла НОВА ВЕРСІЯ!!!
-Current:	Current:
+Current:	Поточний:
 NEW:	НОВЕ:
 Download	Звантажити
 Blog	Блог
 twitchConnected	Зараз гра під'єднана до Twitch!<br><br>Ваші глядачі можуть взаємодіяти двома способами:
 Start Game!	Почати гру!
-new viewer starting coins:	new viewer starting coins:
-coins earned per minute:	coins earned per minute:
+new viewer starting coins:	Монет для нових глядачів:
+coins earned per minute:	Отримання монет за хвилину:
 chat mods can admin	chat mods can admin
 Enemy Settings	Налаштування ворогів
-Enemies per round:	К-сть ворогів за раунд:
-Start	Розпочати
-tier adds	tier adds
-extension overlay	extension overlay
+Enemies per round:	Кількість ворогів на раунд:
+Start	Починаючи з
+tier adds	аж до
+extension overlay	Розширений оверлей
 install	Завантажити
 step 1:	Крок 1:
 step 2:	Крок 2:
 activate!	Активувати!
-extensionInterface	give viewers an awesome<br>visual interface!
+extensionInterface	Дайте глядачам чудовий<br>візуальний інтерфейс!
 type in the chat	Напишіть в чат
-commandsInstructions	see commands by typing: <color=red>!commands</color>
+commandsInstructions	Перегляньте команди прописавши: <color=red>!commands</color>
 Co-op Challenges!	Кооперативні випробування!
 Select your Challenge!	Виберіть ваше випробування!
 Join Random	Доєднатися до випадкового
 Quickly finds someone to play with!	Швидко знаходить з ким пограти!
-Join undefeated	Приєднайтеся до непереможних
-Join a challenge you haven't beaten!	Join a challenge you haven't beaten!
+Join undefeated	Тільки не пройдені
+Join a challenge you haven't beaten!	Доєднайтесь до випробувань, які ви не пройшли!
 Challenges	Випробування
 Workshop Challenges	Випробування з майстерні
 Get More!	Отримати більше!
 subscribeToGetStarted	Subscribe to some community-made Steam Workshop challenges to get started!
-Explore Workshop Challenges!	Explore Workshop Challenges!
-challengeInstructions	1. Find a Challenge<br><br>2. Click Subscribe<br><br>3. Visit here (may take a second for Steam to download the challenge)
+Explore Workshop Challenges!	Дослідіть випробування майстерні!
+challengeInstructions	1. Знайдіть випробування<br><br>2. Натисніть «Підписатися»<br><br>3. Верніться сюди (завантаження випробування може зайняти кілька секунд)
 Story Mode	Історія
-storyWillContinue	The story is in development, and will continue with chapter 5 in a future update!
-storyCongrats	Congratulations on<br>beating Story Mode!
+storyWillContinue	Історія в розробці та скоро буде оновлення з продовження з 5-ю главою!
+storyCongrats	Вітаємо з<br>проходженням історії!
 Continue	Продовжити
 New Game	Нова гра
 Chapter	Глава
 Level	Рівень
 Change Difficulty:	Складність:
-(Changes which enemies spawn.)	(Змінює ворогів, які з'являтимуться.)
+(Changes which enemies spawn.)	(Визначає, які вороги будуть з'являтися)
 Normal	Нормальна
 Hard	Складна
-Insane	Безумна
+Insane	Божевільна
 Restart Chapter 1	Перезапустити главу 1
 Restart Chapter 2	Перезапустити главу 2
 Restart Chapter 3	Перезапустити главу 3
 Restart Chapter 4	Перезапустити главу 4
-Restart Chapter 5	Перезапуск глави 5
+Restart Chapter 5	Перезапустити главу 5
 Restart Chapter:	Перезапустити главу:
 Watch Live!	Дивитися наживо!
 DEVELOPER LIVE!	СТРІМ РОЗРОБНИКІВ!
@@ -334,7 +334,7 @@ FRESH!	FRESH!
 Game Creator:	Творець гри:
 Quality Assurance:	Перевірка якості:
 Game Developer:	Розробник гри:
-Art Director:	Art Director:
+Art Director:	Арт директор:
 Animator / Tech artist:	Аніматор / тех. художник:
 Design Consultant:	Консультант з дизайну:
 Assistant Writer:	Помічник письменник:
@@ -349,7 +349,7 @@ not found!	не знайдено!
 Private Game:	Приватна гра:
 Private Game	Приватна гра
 Total Wins:	Всього перемог:
-Next Garbage Bot:	Наступний Смітєбот:
+Next Garbage Bot:	Наступний смітєбот:
 Rules: Public games, Min 5 players	Правила: Публічні ігри, мінімумі 5 гравців
 go!	вперед!
 Play!	Грай!
@@ -379,7 +379,7 @@ Hide Game UI	Приховати інтерфейс
 Fast	Швидко
 Good	Добре
 Beautiful	Гарно
-Garbage	Сміття
+Garbage	Уламки
 Keep all garbage	Зберігати всі уламки
 Remove some garbage	Видаляти трохи уламків
 Remove all garbage	Видалити всі уламки
@@ -415,7 +415,7 @@ Emote Settings	Налаштування емоцій
 Active Emotes	Активні емоції
 Voice Synthesizer:	Синтезатор голосу:
 Pitch adjustment	Pitch adjustment
-Twitch Enemy Settings	Twitch Enemy Settings
+Twitch Enemy Settings	Налаштування ворогів з Twitch
 twitchMaxViewers	Max viewer Spawns Per Round and first tier allowed
 Playtest successful!	Тест успішний!
 Back to Level Editor	Повернутися до редактора рівнів
@@ -442,7 +442,7 @@ controllerDisconnectedDetails PS4	Контролер був від'єднани�
 A controller was disconnected!	Контролер був від'єднаний!
 A controller was disconnected! PS4	Контролер був від'єднаний!
 Workshop level:	Рівень Майстерні:
-playtest	playtest
+playtest	Тест гри
 Next human:	Наступна людина:
 Current Human:	Поточна людина:
 Next Human:	Наступна людина:
@@ -479,7 +479,7 @@ economist	Економіст
 editor	Редактор
 electrician	Електрик
 engineer	Інженер
-executive	executive
+executive	Виконавчий
 farmer	Фермер
 film director	Кінорежисер
 fisherman	Рибалка
@@ -512,30 +512,30 @@ plumber	Сантехнік
 police officer	Офіцер поліції
 politician	Політик
 porter	Швейцар
-printer	друкар
+printer	Друкар
 prison officer / warder	Тюремний офіцер / вартовий
 professional gambler	Професійний азартний гравець
 puppeteer	Ляльковик
-receptionist	receptionist
+receptionist	Портьє
 sailor	Матрос
 salesperson	Продавець
 scientist	Вчений
 secretary	Секретар
 shop assistant	Консультант
-sign language Interpreter	sign language Interpreter
+sign language Interpreter	Сурдоперекладач
 singer	Співак
 soldier	Солдат
-solicitor	solicitor
+solicitor	Повірений
 surgeon	Хірург
 tailor	Кравець
 teacher	Вчитель
 telephone operator	Телефонний оператор
 telephonist	Телефоніст
 translator	Перекладач
-travel agent	travel agent
+travel agent	Туристичний агент
 trucker	Далекобійник
-TV cameraman	TV cameraman
-TV presenter	TV presenter
+TV cameraman	Оператор ТБ
+TV presenter	Телеведучий
 vet	Ветеринар
 waiter	Офіціант
 web designer	Веб дизайнер
@@ -543,7 +543,7 @@ writer	Письменник
 actor	Актор
 puppeteer	Ляльковик
 marionetteer	Актор-лялькар
-actuary	actuary
+actuary	Актуарій
 administrative worker	Адміністративний працівник
 advertising manager	Рекламний менеджер
 aerial rigger	Вежоможнтажник
@@ -559,16 +559,16 @@ animal technician	Зоотехнік
 animator	Аніматор
 anthropologist	Антрополог
 applications manager	Менеджер програм
-apprentice training officer	apprentice training officer
-archeologist	археолог
+apprentice training officer	Офіцер тренінгу новобранців
+archeologist	Археолог
 architect	Архітектор
 art critic and historian	Мистецтвознавець та історик
 art glazier	Художник по склу
 art metalworker	Митець по металу
-art photographer	art photographer
+art photographer	Фотограф
 art restorer	Артреставратор
-articled clerk	articled clerk
-artificial flower maker	artificial flower maker
+articled clerk	Юрист-стажер
+artificial flower maker	Створювач штучних квітів
 artistic promotions manager	artistic promotions manager
 assessor	assessor
 assistant housekeeper	assistant housekeeper
@@ -580,7 +580,7 @@ auctioneer	Аукціонер
 audio graphic designer	Аудіо графічний дизайнер
 auditor	Аудитор
 auto-electrician	Автоелектрик
-baker	пекар
+baker	Пекар
 bank clerk	Банківський клерк
 banking expert	banking expert
 hairdresser	Перукар
@@ -588,7 +588,7 @@ bartender	bartender
 basket-maker	basket-maker
 beautician	beautician
 beekeeper	Бджоляр
-bibliographer	bibliographer
+bibliographer	Бібліограф
 biochemist	Біохімік
 biologist	Біолог
 biotechnologist	Біотехнік
@@ -609,20 +609,20 @@ brush-maker	brush-maker
 building electrician	building electrician
 building tinsmith	building tinsmith
 butcher	М'ясник
-sausage-maker	sausage-maker
+sausage-maker	Виробник сосисок
 butler	butler
-button maker	button maker
-taxi dispatcher	taxi dispatcher
+button maker	Виробник кнопок
+taxi dispatcher	Диспетчер таксі
 cabinet maker	cabinet maker
 cable car driver	cable car driver
 cable manufacture labourer	cable manufacture labourer
 camera mechanic	camera mechanic
-camera operator	camera operator
+camera operator	Оператор камери
 canning worker	canning worker
 capital markets clerk	capital markets clerk
 captain of an aircraft	Капітан літака
 car mechanic	Аавтомеханік
-car service worker	car service worker
+car service worker	Працівник СТО
 care assistant	care assistant
 career diplomat	career diplomat
 diplomat	Дипломат
@@ -649,7 +649,7 @@ circus performer	circus performer
 cleaner	Прибирач
 cloakroom attendant	cloakroom attendant
 coffee roaster	coffee roaster
-coffeehouse keeper	coffeehouse keeper
+coffeehouse keeper	Власник кав'ярня
 café owner	Власник кафе
 commentator	Коментатор
 commercial lawyer	commercial lawyer
@@ -660,7 +660,7 @@ computer equipment operator	Оператор комп'ютерного обла�
 computer network manager	Менеджер мереж
 computer programmer	Програміст
 concrete worker	concrete worker
-conductor	conductor
+conductor	Кондуктор
 confectioner	confectioner
 conservator	conservator
 construction manager	construction manager
@@ -676,8 +676,8 @@ craft mosaic maker	craft mosaic maker
 craft plasterer	craft plasterer
 craft stonemason	craft stonemason
 craft upholsterer	craft upholsterer
-crane driver	crane driver
-crate maker	crate maker
+crane driver	Машиніст крана
+crate maker	Виробник ящиків
 criminal investigator	Слідчий
 crop treatment operative	crop treatment operative
 croupier	Круп'є
@@ -697,17 +697,17 @@ dietician	Дієтолог
 digger	Шахтар
 director	Режисер
 disc jockey	disc jockey
-dish washer	dish washer
+dish washer	Посудомийщик
 dispatch clerk	dispatch clerk
 dispatcher	dispatcher
-diver	diver
-dog trainer	dog trainer
-doorkeeper	doorkeeper
-draughtsperson	draughtsperson
-dresser	dresser
+diver	Дайвер
+dog trainer	Дресувальник
+doorkeeper	Консьєрж
+draughtsperson	Кресляр
+dresser	Костюмер
 driller	Бурильник
-drilling rig operator	drilling rig operator
-driver of motor vehicles	driver of motor vehicles
+drilling rig operator	Оператор бурової установки
+driver of motor vehicles	Водій моторного транспорту
 driver's mate	driver's mate
 driving instructor	Інструктор з водіння
 dust control technician	Технік боротьби з пилом
@@ -719,27 +719,27 @@ electrical equipment inspector	electrical equipment inspector
 electrical fitter	electrical fitter
 electrician	Електрик
 electroceramic operative	electroceramic operative
-electronic mechanic	electronic mechanic
+electronic mechanic	Електрик
 electroplating operator	electroplating operator
-employment agent	employment agent
+employment agent	Агент з працевлаштування
 enamel worker	enamel worker
 engineering fitter	engineering fitter
 entertainment officer	entertainment officer
 environmental inspector	environmental inspector
-ergonomist	ergonomist
-ethnographer	ethnographer
+ergonomist	Ергономіст
+ethnographer	Етнограф
 exhibitions organizer	exhibitions organizer
 faith healer	faith healer
-farm worker	farm worker
+farm worker	Працівник ферми
 farmer	Фермер
 fashion designer	fashion designer
 feed production operator	feed production operator
-film critic	film critic
-film designer	film designer
+film critic	Кінокритик
+film designer	Дизайнер фільмів
 film or videotape editor	film or videotape editor
 film projectionist	film projectionist
-financial analyst	financial analyst
-financial officer	financial officer
+financial analyst	Фінансовий аналітик
+financial officer	Фінансовий офіцер
 fine artist	fine artist
 fire prevention officer	fire prevention officer
 fish farmer	fish farmer
@@ -749,47 +749,47 @@ fitter of glass instruments	fitter of glass instruments
 fitter of gas pipelines	fitter of gas pipelines
 fitter of steel structures	fitter of steel structures
 flight attendant	Бортпровідниця
-flight engineer	flight engineer
+flight engineer	Авіаінженер
 floor fitter	floor fitter
 flower grower	flower grower
 flying instructor	flying instructor
 food industry PM	food industry PM
 food industry technologist	food industry technologist
 foreign exchange clerk	foreign exchange clerk
-forest manager	forest manager
+forest manager	Лісовий менеджер
 forestry machine operator	forestry machine operator
 forestry worker	forestry worker
-fortune teller	fortune teller
+fortune teller	Ворожбит
 foster parent	foster parent
 foundry worker	foundry worker
 fringe/trimmings maker	fringe/trimmings maker
-fruit farmer	fruit farmer
+fruit farmer	Фруктовий фермер
 funeral service assistant	funeral service assistant
 fur coat seamstress	fur coat seamstress
 furnace operator	furnace operator
-furrier	furrier
-gardener	gardener
-gas industry inspector	gas industry inspector
+furrier	Хутровик
+gardener	Садівник
+gas industry inspector	Інспектор газопромисловості
 general labourer	general labourer
-geneticist	geneticist
-geographer	geographer
+geneticist	Генетик
+geographer	Географ
 geologist	Геолог
-geophysicist	geophysicist
-glass decorator	glass decorator
-glass jewellery maker	glass jewellery maker
-glass making machine operator	glass making machine operator
-glass melter	glass melter
-glass painter	glass painter
+geophysicist	Геофізик
+glass decorator	Декоратор скла
+glass jewellery maker	Виробник скляних прикрас
+glass making machine operator	Оператор склоробної машини
+glass melter	Виробник скла
+glass painter	Фарбувальник скла
 glass production worker	glass production worker
-glasscutter	glasscutter
+glasscutter	Різник скла
 glassworker	glassworker
 glazier	glazier
-goldsmith	goldsmith
+goldsmith	Коваль по золоту
 government licensing official	government licensing official
-graphic designer	graphic designer
-gravedigger	gravedigger
-guide	guide
-gunsmith	gunsmith
+graphic designer	Графічний дизайнер
+gravedigger	Могильник
+guide	Інструктор
+gunsmith	Зброяр
 hand embroiderer	hand embroiderer
 hand lacemaker	hand lacemaker
 harbour guard	harbour guard
@@ -800,16 +800,16 @@ heating and ventilating fitter	heating and ventilating fitter
 heating engineer	heating engineer
 herbalist	herbalist
 high-rise work specialist	high-rise work specialist
-historian	historian
+historian	Історик
 historical monuments custodian	historical monuments custodian
-horse breeder	horse breeder
-host	host
-hotel porter	hotel porter
-hotel receptionist	hotel receptionist
-hydrologist	hydrologist
-ice-cream maker	ice-cream maker
+horse breeder	Коняр
+host	Хост
+hotel porter	Готельний портьє
+hotel receptionist	Адміністратор готелю
+hydrologist	Гідролог
+ice-cream maker	Виробник морозива
 image consultant	image consultant
-industrial designer	industrial designer
+industrial designer	Промисловий дизайнер
 officer in rail transport	officer in rail transport
 information assistant	information assistant
 insulation worker	insulation worker
@@ -819,8 +819,8 @@ interior designer	interior designer
 interpreter and translator	interpreter and translator
 investment clerk	investment clerk
 invoice clerk	invoice clerk
-jeweller	jeweller
-jewellery maker	jewellery maker
+jeweller	Ювелір
+jewellery maker	Виробник прикрас
 joiner and cabinetmaker	joiner and cabinetmaker
 judge	Суддя
 keeper of records	keeper of records
@@ -832,7 +832,7 @@ laundry worker	laundry worker
 lecturer	Лектор
 lecturer in vocational courses	lecturer in vocational courses
 researcher in linguistics	researcher in linguistics
-librarian	librarian
+librarian	Бібліотекар
 information scientist	information scientist
 lifeguard	Рятівник
 swimming instructor	Інструктор з плавання
@@ -856,7 +856,7 @@ marketing manager	marketing manager
 masseur/masseuse	masseur/masseuse
 master of ceremonies	master of ceremonies
 materials handler	materials handler
-mathematician	mathematician
+mathematician	Математик
 medical laboratory assistant	medical laboratory assistant
 mechanic	Механік
 mechanic	Механік
@@ -884,8 +884,8 @@ mining machine operator	mining machine operator
 mining mechanic	mining mechanic
 mining rescue worker	mining rescue worker
 minerals surveyor	minerals surveyor
-fashion model	fashion model
-modeller	modeller
+fashion model	Модель
+modeller	Модельєр
 motor vehicle bodybuilder	motor vehicle bodybuilder
 mountain guide	mountain guide
 multimedia designer	multimedia designer
@@ -900,7 +900,7 @@ musician	Музикант
 musicologist	musicologist
 nanny	nanny
 naturalist guide	naturalist guide
-newspaper editor	newspaper editor
+newspaper editor	Редактор газети
 nuclear power station operator	nuclear power station operator
 nurse	Медбрат
 nursery school teacher	nursery school teacher
@@ -919,14 +919,14 @@ packer	packer
 paediatrician	paediatrician
 palmists	palmists
 paper worker	paper worker
-paramedic	paramedic
+paramedic	Парамедик
 patent agent	patent agent
 paver	paver
 pawnbroker	pawnbroker
 personnel officer	personnel officer
 pest control officer	pest control officer
-pharmacist	pharmacist
-philosopher	philosopher
+pharmacist	Фармацевт
+philosopher	Філософ
 photographer	Фотограф
 photographic reporter	photographic reporter
 physicist	physicist
@@ -945,7 +945,7 @@ pollster	pollster
 post office counter clerk	post office counter clerk
 postal service worker	postal service worker
 postal transport worker	postal transport worker
-postal worker	postal worker
+postal worker	Поштовий працівник
 postmaster	postmaster
 poultry breeder	poultry breeder
 poultry butcher	poultry butcher
@@ -956,7 +956,7 @@ power station operator	power station operator
 power system worker	power system worker
 power truck driver	power truck driver
 prefab construction worker	prefab construction worker
-press officer	press officer
+press officer	Пресофіцер
 pricing officer	pricing officer
 priest	priest
 primary school teacher	primary school teacher
@@ -980,7 +980,7 @@ public administration officer	public administration officer
 public notary	public notary
 public relations manager	public relations manager
 publican	publican
-publisher	publisher
+publisher	Видавець
 purchasing officer	purchasing officer
 quality control technician	quality control technician
 quality inspector	quality inspector
@@ -988,7 +988,7 @@ radio operator	radio operator
 radiotherapist	radiotherapist
 rail transport worker	rail transport worker
 rail vehicle mechanic	rail vehicle mechanic
-wagon inspector	wagon inspector
+wagon inspector	Інспектор вагонів
 railway electrician	railway electrician
 railway engine mechanic	railway engine mechanic
 railway freight handler	railway freight handler
@@ -1049,11 +1049,11 @@ silkworm breeder	silkworm breeder
 singer	Співак
 smith	smith
 social worker	social worker
-sociologist	sociologist
-solicitor	solicitor
-songwriter	songwriter
+sociologist	Соціолог
+solicitor	Повірений
+songwriter	Написання пісень
 sound effects technician	sound effects technician
-sound engineer	sound engineer
+sound engineer	Звукоінженер
 spa resort attendant	spa resort attendant
 special needs teacher	special needs teacher
 special effects engineer	special effects engineer
@@ -1068,7 +1068,7 @@ stage designer	stage designer
 stage manager	stage manager
 standards engineer	standards engineer
 state attorney	state attorney
-station manager	station manager
+station manager	Менеджер станції
 statistician	statistician
 stockbroker	stockbroker
 stonemason	stonemason
@@ -1101,22 +1101,22 @@ tobacco technologist	tobacco technologist
 tool maker	tool maker
 town planner	town planner
 track engineer	track engineer
-tracklayer	tracklayer
-tractor driver	tractor driver
+tracklayer	Дорогоклад
+tractor driver	Водій трактора
 trading standards officer	trading standards officer
 traffic police officer	traffic police officer
-train dispatcher	train dispatcher
-train driver	train driver
+train dispatcher	Розбір поїздів
+train driver	Машиніст
 trainee	trainee
-trainer	trainer
+trainer	Тренер
 tram driver	tram driver
 transport supervisor	transport supervisor
 travel agency clerk	travel agency clerk
 travel courier	travel courier
-tunneller	tunneller
-tutor	tutor
+tunneller	Тунельник
+tutor	Репетитор
 typesetter	typesetter
-it's complicated	it's complicated
+it's complicated	Все складно
 upholsterer	upholsterer
 valuer	valuer
 varnisher	varnisher
@@ -1131,8 +1131,8 @@ waste incineration plant worker	waste incineration plant worker
 water management controller	water management controller
 water meter reader	water meter reader
 watercourse manager	watercourse manager
-watch-maker	watch-maker
-watchman	watchman
+watch-maker	Виробник годинників
+watchman	Сторожовий
 weaver	weaver
 weigher	weigher
 weir and dam operator	weir and dam operator
@@ -1143,23 +1143,23 @@ window cleaner	window cleaner
 window-dresser	window-dresser
 winery worker/wine maker	winery worker/wine maker
 wire-drawer	wire-drawer
-wood carver	wood carver
-wood industry technologist	wood industry technologist
+wood carver	Різьбяр
+wood industry technologist	Деревотехнік
 woodcutting manager	woodcutting manager
 woodworking operator	woodworking operator
 foundry worker	foundry worker
-Olympian	Olympian
-Ice cream taster	Ice cream taster
+Olympian	Олімпієць
+Ice cream taster	Дегустатор морозива
 Mercenary	Найманець
 Adult film creator	Adult film creator
 Hunter	Мисливець
-Ornithologist	Ornithologist
+Ornithologist	Орнітолог
 Urban Planner	Urban Planner
-Civil Engineer	Civil Engineer
-Coach	Coach
+Civil Engineer	Цивільний інженер
+Coach	Тренер
 Hot Dog Eater	Поїдач хотдогів
 Retired	Пенсіонер
-Between Jobs	Between Jobs
+Between Jobs	Між роботами
 prophet	prophet
 Black	Чорний
 Red	Червоний
@@ -1242,7 +1242,7 @@ Rescue the War Cubes!	Rescue the War Cubes!
 This is not co-op!	Це не кооператив!
 Kick a clone towards the Elevator.	Зако́пайте клона в підіймач.
 Fool!	Дурень!
-Jump into the Emperor's forcefield!	Jump into the Emperor's forcefield!
+Jump into the Emperor's forcefield!	Стрибніть в силове поле Імператора!
 Team Player	Командний гравець
 Get 3 Team Revives in a public co-op game!	Зберіть 3 відродження команди в публічній кооперативній грі!
 POWER OVERWHELMING	POWER OVERWHELMING
@@ -1253,9 +1253,9 @@ I think it's dead now	Думаю, воно вже мертве
 Hit garbage on the ground repeatedly!	Зробіть нарізку із залишків роботів на землі!
 How do you like it??	Подобається??
 Kick a kick bot to death!	Зако́пайте робота до смерті!
-The garbage is MINE!	Останки МОЇ!
-Kill all the garbage bots.	Kill all the garbage bots.
-Bow Master	Майстер луку
+The garbage is MINE!	Уламки МОЇ!
+Kill all the garbage bots.	Вбийте всіх сміттєботів.
+Bow Master	Майстер лука
 Kill 500 enemies with a Bow!	Вбийте 500 ворогів луком!
 I am on FIRE!	Я ПАЛАЮ!
 Kill 300 enemies with Flame Breath!	Вбийте 300 ворогів вогняним диханням!
@@ -1278,11 +1278,11 @@ Mind transfer into a Flame raptor!	Перемістіть свідомість �
 M-m-m-m-multikill!	М-м-м-м-мультивбивство!
 Kill 3 enemies with one attack!	Вбийте 3 ворогів однією атакою!
 They don't call it Sanium.	They don't call it Sanium.
-Reach Insanium in Endless Mode!	Дійдіть до складності «Безумій»!
-Meet people, go insane!	Meet people, go insane!
-Reach Insanium in a public co-op match!	Дійдіть до складності «Безумій» в кооперативному матчі!
+Reach Insanium in Endless Mode!	Дійдіть до Безумію!
+Meet people, go insane!	Групове божевілля!
+Reach Insanium in a public co-op match!	Дійдіть до Безумію в кооперативному матчі!
 I am Titanium!	Я і є титан!
-Reach Titanium in Endless Mode!	Дійдіть до складності «Титан» в нескінченному режимі!
+Reach Titanium in Endless Mode!	Дійдіть до Титану в нескінченному режимі!
 Hello Doborog!	Привіт Doborog!
 Say Hello to Doborog when he's streaming!	Натисніть кнопку «Привітайся!» під час трансляції Doborog!
 So close!	Так близько!
@@ -1328,7 +1328,7 @@ Energy Recharge II	Відновлення енергії II
 Fire Arrows I	Вогняні стріли I
 Arrows are ON FIRE!	Стріли ПАЛАЮТЬ!
 Fire Arrows II	Вогняні стріли II
-Fire spreads further!	Вогонь розповсюджується далі!
+Fire spreads further!	Вогонь розповсюджується більше!
 Fire Hammer	Вогняний молот
 Hammer is ON FIRE!	Молот ПАЛАЄ!
 Fire Spear	Вогняний спис
@@ -1371,29 +1371,29 @@ Size I	Розмір I
 Bigger is better!	Більший - кращий!
 Spear	Спис
 Unlocks the spear!	Розблоковує спис!
-Summon Ally	Summon Ally
-Summon a friendly ally!	Summon a friendly ally!
+Summon Ally	Виклик союзника
+Summon a friendly ally!	Викликає союзника!
 Sword	Меч
 Unlocks the sword!	Розблоковує меч!
 Unlocked by:	Вимоги:
 Unlock by: Story Mode Chapter 2!	Розблокування: Пройдіть 2 главу історії!
 Raptor Challenge	Випробування раптора
-Meet the Flame Raptor! Hello!	Meet the Flame Raptor! Hello!
+Meet the Flame Raptor! Hello!	Привітайся з вогняним раптором! Привіт!
 Laser Challenge	Випробування лазера
 Feel the power of LASER!	Відчуй силу ЛАЗЕРА!
 Inferno Challenge	Випробування пекельного вогню
-10 brutally hard levels that will set you ON FIRE!	10 brutally hard levels that will set you ON FIRE!
+10 brutally hard levels that will set you ON FIRE!	10 брутальних, складних рівнів, що заставлять тебе ПАЛАТИ!
 Endless Bow Challenge	Нескінченне випробування лука
-Can you reach Titanium using only the bow???	Can you reach Titanium using only the bow???
+Can you reach Titanium using only the bow???	Чи зможете ви дійти до Титану лише з луком???
 Endless Hammer Challenge	Нескінченне випробування молота
-Can you reach Titanium using only the hammer???	Can you reach Titanium using only the hammer???
+Can you reach Titanium using only the hammer???	Чи зможете ви дійти до Титану лише з молотом???
 Kick Only Challenge	Випробування копняків
 Can you kick these 10 levels?	Чи можете ви проко́пати ці 10 рівнів?
 Endless Spear Challenge	Нескінченне випробування списа
-Can you reach Titanium using only the spear???	Чи зможете ви дійти до складності «Титан» використовуючи лише спис???
+Can you reach Titanium using only the spear???	Чи зможете ви дійти до Титану використовуючи лише спис???
 Random Upgrade Challenge	Випробування випадкових покращень
 Happy construction day Upgrade Bot!!! Can you beat level 20??	Happy construction day Upgrade Bot!!! Can you beat level 20??
-Happy construction day Upgrade Bot!!! Can you reach Insanium??	Happy construction day Upgrade Bot!!! Can you reach Insanium??
+Happy construction day Upgrade Bot!!! Can you reach Insanium??	Щасливий день робопокращувача!!! Чи зможете ви дійти до Безумію??
 Mind Transfer Challenge	Випробування переміщення свідомості
 Swap bodies with your killer!	Обміняйтесь тілами з вашим вбивцею!
 Raptor Insanity	Рапторне божевілля
@@ -1401,25 +1401,25 @@ Flame Raptors: Insanely hard version!	Вогняні раптори: Безум�
 Greatsword Challenge	Випробування великого меча
 Practice offline with the majestic sword of multiplayer!	Практикуйтесь офлайн з величезним мечем мережевої гри!
 Endless Armor Challenge	Нескінченне випробування броні
-Everyone is armored. Can you reach Titanium?	Всі броньовані. Чи зможете ви дійти до складності «Титан»?
+Everyone is armored. Can you reach Titanium?	Всі броньовані. Чи зможете ви дійти до Титану?
 Bow Only Challenge	Випробування лука
-Can you reach Insanium with only a bow?	Can you reach Insanium with only a bow?
+Can you reach Insanium with only a bow?	Чи зможете ви дійти до Безумію лише з луком?
 Hammer Challenge	Випробування молота
-Can you reach Insanium with only a hammer?	Чи зможете ви дійти до складності «Безумій» лише з молотом?
-Can you reach Insanium using only the spear???	Чи зможете ви дійти до складності «Безумій» лише зі списом???
+Can you reach Insanium with only a hammer?	Чи зможете ви дійти до Безумію лише з молотом?
+Can you reach Insanium using only the spear???	Чи зможете ви дійти до Безумію лише зі списом???
 Raptor Insanity Challenge	Випробування рапторного божевілля
-The Flame Raptors will set you all ON FIRE!	The Flame Raptors will set you all ON FIRE!
+The Flame Raptors will set you all ON FIRE!	Полум'яні раптори спалять тебе ДО ТЛА!
 One Weapon Challenge	Випробування однієї зброї
-Only one weapon per player! Can you reach Insanium?	Тільки одна зброя на гравця! Чи зможете ви дійти до складності «Безумій»?
+Only one weapon per player! Can you reach Insanium?	Тільки одна зброя на гравця! Чи зможете ви дійти до Безумію?
 skin	skin
-skinReward	{0} skin
+skinReward	Вигляд «{0}»
 Reward:	Нагорода:
 A nice trophy!	Гарний трофей!
 COMPLETED!	ЗАВЕРШЕНО!
 PLAY!	ГРАТИ!
 Hello	Привіт
 Goodbye	Прощай
-Nod	Nod
+Nod	Ага
 Nope	Ніт
 ComeHere	Йди сюди
 GoAway	Йти геть
@@ -1430,29 +1430,29 @@ WhereIsTheWater	Де вода?
 HappyDance	Щасливий танок
 ImBest	Я найкращий
 Sorry	Вибач
-DestroyYou	Destroy You
-Sit	Sit
-LetsFight	Let's Fight
-Noooooooo	Noooooooo
-WatchOut	Watch Out
-TeamRevives	Team Revives
-ErrorError	Error Error
-ThankYou	Thank You
+DestroyYou	Знищу тебе
+Sit	Сісти
+LetsFight	Давай битися
+Noooooooo	Ні-і-і-і-і-і-і-і
+WatchOut	Обережно
+TeamRevives	Відродження команди
+ErrorError	Помилка Помилка
+ThankYou	Дякую
 FunkyPillarDance	Funky Pillar Dance
-SwordShowoff	Sword Showoff
-TimeToHammer	Time To Hammer
-SpearShowoff	Spear Showoff
-BowShowoff	Bow Showoff
+SwordShowoff	Показ меча
+TimeToHammer	Час молота
+SpearShowoff	Показ списа
+BowShowoff	Показ лука
 KickDance	Гопак
-IAmOnFire	I Am On Fire
-Help	Help
-ILikeYou	I Like You
-WoofWoof	Woof Woof
-ILikeGarbage	I Like Garbage
+IAmOnFire	Я у вогні
+Help	Допоможіть
+ILikeYou	Ти мені подобаєшся
+WoofWoof	Гав-гав
+ILikeGarbage	Я люблю сміття
 WeDidIt	Ми це зробили
 Boom	Бум
 FlappyArms	Пташечка
-BurnItDown	Burn It Down
+BurnItDown	Спалити
 ILikeThisLevel	Мені подобається цей рівень
 Fool	Дурень
 TisButAScratch	Це лиш подряпина
@@ -1466,25 +1466,25 @@ Sword 1	Мечник 1
 Sword 2	Мечник 2
 Sword 3	Мечник 3
 Sword 4	Мечник 4
-Sword 5	Меч 5
+Sword 5	Мечник 5
 Bow 1	Лучник 1
 Bow 2	Лучник 2
 Bow 3	Лучник 3
 Bow 4	Лучник 4
 Bow 5	Лучник 5
 Hammer 1	Молотоносець 1
-Hammer 2	Молтоносець 2
+Hammer 2	Молотоносець 2
 Hammer 3	Молотоносець 3
-Hammer 4	Молтоносець 4
-Hammer 5	Молтоносець 5
+Hammer 4	Молотоносець 4
+Hammer 5	Молотоносець 5
 Jetpack Hammer	Реактивний молотоносець
 Jetpack Spear 1	Реактивний списоносець 1
 Jetpack Spear 2	Реактивний списоносець 2
-Jetpack 1	Jetpack 1
-Jetpack 2	Jetpack 2
+Jetpack 1	Реактивний мечник 1
+Jetpack 2	Реактивний мечник 2
 Jetpack Bow	Реактивний лучник
-Kick Bot 1	Копальник 1
-Kick Bot 2	Копальник 2
+Kick Bot 1	Копнякобот 1
+Kick Bot 2	Копнякобот 2
 Spear 1	Списоносець 1
 Spear 2	Списоносець 2
 Spear 3	Списоносець 3
@@ -1534,7 +1534,7 @@ feedbackform3	Будь ласка, залишайте відгук англій�
 feedbackform4	Have general feedback not related to translations? Leave it in the forums:
 feedbackform5	Example: The human info screen lists my profession as relieur but my human is a woman and it should be relieuse.
 feedbackform6	Яка мова?
-feedbackform7	Feedback Type
+feedbackform7	Тип відгуку
 feedbackform8	Where is the problematic translation? What should it be instead? Why?
 feedbackform9	Spelling / Grammar Error
 feedbackform10	Alternative phrasing suggestion
@@ -1545,45 +1545,45 @@ bannedMessage	Вам заблокували доступ до мережевої
 workshopVersionIncompatible	Несумісність версії<br><br>Оновіть гру!
 Downloading	Завантажується
 challengeNotCompleted	Not<br><br>Completed
-Twitch Username	Twitch Username
-Sign Up	Sign Up
-Auth Token	Auth Token
-(Not your password!)	(Not your password!)
-Get My Token	Get My Token
-Remember me	Remember me
-Sign In	Sign In
-LOGIN FAILED!	LOGIN FAILED!
+Twitch Username	Ім'я користувача Twitch
+Sign Up	Зареєструватися
+Auth Token	Токен автентифікації
+(Not your password!)	(НЕ ПАРОЛЬ!)
+Get My Token	Отримати мій токен
+Remember me	Запам'ятати мене
+Sign In	Увійти
+LOGIN FAILED!	ПОМИЛКА ВХОДУ!
 twitchLoginFailExplanation	Check your firewall settings. The connection attempt failed or the Twitch chat server timed out.
-Checking...	Checking...
-Full!	Full!
-Found!	Found!
-Not found!	Not found!
+Checking...	Перевірка...
+Full!	Переповнений!
+Found!	Знайдено!
+Not found!	Не знайдено!
 VS	VS
 Nobody	Nobody
 Copy	Копіювати
-Copied!	Copied!
-Not Enough Energy!	Not Enough Energy!
-Arm lost — two required for bow!	Arm lost — two required for bow!
-Arm lost — two required for hammer!	Arm lost — two required for hammer!
+Copied!	Скопійовано!
+Not Enough Energy!	Не вистачає енергії!
+Arm lost — two required for bow!	Відсутня рука — лук потребує дві руки!
+Arm lost — two required for hammer!	Відсутня рука — молот потребує дві руки!
 Need two legs to kick!	Для копняків треба дві ноги!
 Can't kick with shield!	Неможливо копнути з щитом!
-Photo Mode not enabled!	Photo Mode not enabled!
-Photo Mode Waiting for KILL! :D	Photo Mode Waiting for KILL! :D
-Jumping disabled by mag boots!	Jumping disabled by mag boots!
+Photo Mode not enabled!	Фоторежим не увімкнено!
+Photo Mode Waiting for KILL! :D	Фоторежим очікує ВБИВСТВ! :D
+Jumping disabled by mag boots!	Стрибки вимкнені магнітними чоботами!
 singleWinCount	{0} перемога
 multipleWinsCount	{0} перемог
 Challenge Complete!	Випробування виконано!
 Upgrade Unlocked: {0}	Покращення розблоковано: {0}
 Keep Playing	Продовжити
-info / comment	info / comment
+info / comment	Інформація / коментар
 The game crashed! ;(	Гра зламалася! :'(
 Erik will be interested in this techno-gibberish:	Erik will be interested in this techno-gibberish:
-pleaseRestart	To make sure nothing else goes wrong, please restart the game.
+pleaseRestart	Щоб впевнитися, що на далі все буде добре, будь ласка, перезапустіть гру.
 Help us fix this bug!	Допоможіть нам виправити цю помилку!
 bugInfo	If you take a screenshot of this screen and send it to bugs@doborog.com we will hunt it down ASAP!<br><br>Please describe what you were doing right before it happened if you can.
 Upgrade Available!	Доступне покращення!
 Go Fight!	До бою!
-Please Return to the Elevator	Будь ласка, поверніть до підіймача
+Please Return to the Elevator	Будь ласка, поверніться до підіймача
 FEMALE_accountant	Бухгалтерка
 FEMALE_actor	Актриса
 FEMALE_air steward	air stewardess
@@ -1614,7 +1614,7 @@ FEMALE_economist	Економіст
 FEMALE_editor	Редактор
 FEMALE_electrician	Електрик
 FEMALE_engineer	Інженер
-FEMALE_executive	executive
+FEMALE_executive	Виконавчий
 FEMALE_farmer	Фермер
 FEMALE_film director	Кінорежисер
 FEMALE_fisherman	fisherwoman
@@ -1651,26 +1651,26 @@ FEMALE_printer	друкар
 FEMALE_prison officer / warder	Тюремний офіцер / вартовий
 FEMALE_professional gambler	Професійний азартний гравець
 FEMALE_puppeteer	Ляльковик
-FEMALE_receptionist	receptionist
+FEMALE_receptionist	Портьє
 FEMALE_sailor	Матрос
 FEMALE_salesperson	Продавець
 FEMALE_scientist	Вчений
 FEMALE_secretary	Секретар
 FEMALE_shop assistant	Консультант
-FEMALE_sign language Interpreter	sign language Interpreter
+FEMALE_sign language Interpreter	Сурдоперекладач
 FEMALE_singer	Співак
 FEMALE_soldier	Солдат
-FEMALE_solicitor	solicitor
+FEMALE_solicitor	Повірений
 FEMALE_surgeon	Хірург
 FEMALE_tailor	Кравець
 FEMALE_teacher	Вчитель
 FEMALE_telephone operator	Телефонний оператор
 FEMALE_telephonist	Телефоніст
 FEMALE_translator	Перекладач
-FEMALE_travel agent	travel agent
+FEMALE_travel agent	Туристичний агент
 FEMALE_trucker	Далекобійник
 FEMALE_TV cameraman	TV camerawoman
-FEMALE_TV presenter	TV presenter
+FEMALE_TV presenter	Телеведучий
 FEMALE_vet	Ветеринар
 FEMALE_waiter	Офіціант
 FEMALE_web designer	Веб дизайнер
@@ -1678,7 +1678,7 @@ FEMALE_writer	Письменник
 FEMALE_actor	Актор
 FEMALE_puppeteer	Ляльковик
 FEMALE_marionetteer	Актор-лялькар
-FEMALE_actuary	actuary
+FEMALE_actuary	Актуарій
 FEMALE_administrative worker	Адміністративна працівниця
 FEMALE_advertising manager	Рекламна менеджерка
 FEMALE_aerial rigger	Вежомонтажниця
@@ -1694,16 +1694,16 @@ FEMALE_animal technician	Зоотехнікиня
 FEMALE_animator	Аніматор
 FEMALE_anthropologist	Антропологиня
 FEMALE_applications manager	Менеджерка програм
-FEMALE_apprentice training officer	apprentice training officer
+FEMALE_apprentice training officer	Офіцер тренінгу новобранців
 FEMALE_archeologist	археологиня
 FEMALE_architect	Архітектор
 FEMALE_art critic and historian	Мистецтвознавиця та історик
 FEMALE_art glazier	Художниця по склу
 FEMALE_art metalworker	Митець по металу
-FEMALE_art photographer	art photographer
+FEMALE_art photographer	Фотограф
 FEMALE_art restorer	Артреставратор
-FEMALE_articled clerk	articled clerk
-FEMALE_artificial flower maker	artificial flower maker
+FEMALE_articled clerk	Юрист-стажер
+FEMALE_artificial flower maker	Створювач штучних квітів
 FEMALE_artistic promotions manager	artistic promotions manager
 FEMALE_assessor	assessor
 FEMALE_assistant housekeeper	assistant housekeeper
@@ -1723,7 +1723,7 @@ FEMALE_bartender	bartender
 FEMALE_basket-maker	basket-maker
 FEMALE_beautician	beautician
 FEMALE_beekeeper	Бджоляр
-FEMALE_bibliographer	bibliographer
+FEMALE_bibliographer	Бібліограф
 FEMALE_biochemist	Біохімік
 FEMALE_biologist	Біолог
 FEMALE_biotechnologist	Біотехнік
@@ -1744,20 +1744,20 @@ FEMALE_brush-maker	brush-maker
 FEMALE_building electrician	building electrician
 FEMALE_building tinsmith	building tinsmith
 FEMALE_butcher	М'ясник
-FEMALE_sausage-maker	sausage-maker
+FEMALE_sausage-maker	Виробник сосисок
 FEMALE_butler	butler
-FEMALE_button maker	button maker
-FEMALE_taxi dispatcher	taxi dispatcher
+FEMALE_button maker	Виробник кнопок
+FEMALE_taxi dispatcher	Диспетчер таксі
 FEMALE_cabinet maker	cabinet maker
 FEMALE_cable car driver	cable car driver
 FEMALE_cable manufacture labourer	cable manufacture labourer
 FEMALE_camera mechanic	camera mechanic
-FEMALE_camera operator	camera operator
+FEMALE_camera operator	Оператор камери
 FEMALE_canning worker	canning worker
 FEMALE_capital markets clerk	capital markets clerk
 FEMALE_captain of an aircraft	Капітан літака
 FEMALE_car mechanic	Аавтомеханік
-FEMALE_car service worker	car service worker
+FEMALE_car service worker	Працівник СТО
 FEMALE_care assistant	care assistant
 FEMALE_career diplomat	career diplomat
 FEMALE_diplomat	Дипломат
@@ -1784,7 +1784,7 @@ FEMALE_circus performer	circus performer
 FEMALE_cleaner	Прибирач
 FEMALE_cloakroom attendant	cloakroom attendant
 FEMALE_coffee roaster	coffee roaster
-FEMALE_coffeehouse keeper	coffeehouse keeper
+FEMALE_coffeehouse keeper	Власник кав'ярня
 FEMALE_café owner	Власник кафе
 FEMALE_commentator	Коментатор
 FEMALE_commercial lawyer	commercial lawyer
@@ -1795,7 +1795,7 @@ FEMALE_computer equipment operator	Оператор комп'ютерного о
 FEMALE_computer network manager	Менеджер мереж
 FEMALE_computer programmer	Програміст
 FEMALE_concrete worker	concrete worker
-FEMALE_conductor	conductor
+FEMALE_conductor	Кондуктор
 FEMALE_confectioner	confectioner
 FEMALE_conservator	conservator
 FEMALE_construction manager	construction manager
@@ -1811,8 +1811,8 @@ FEMALE_craft mosaic maker	craft mosaic maker
 FEMALE_craft plasterer	craft plasterer
 FEMALE_craft stonemason	craft stonemason
 FEMALE_craft upholsterer	craft upholsterer
-FEMALE_crane driver	crane driver
-FEMALE_crate maker	crate maker
+FEMALE_crane driver	Машиніст крана
+FEMALE_crate maker	Виробник ящиків
 FEMALE_criminal investigator	Слідчий
 FEMALE_crop treatment operative	crop treatment operative
 FEMALE_croupier	Круп'є
@@ -1832,17 +1832,17 @@ FEMALE_dietician	Дієтолог
 FEMALE_digger	Шахтар
 FEMALE_director	Режисер
 FEMALE_disc jockey	disc jockey
-FEMALE_dish washer	dish washer
+FEMALE_dish washer	Посудомийщик
 FEMALE_dispatch clerk	dispatch clerk
 FEMALE_dispatcher	dispatcher
-FEMALE_diver	diver
-FEMALE_dog trainer	dog trainer
-FEMALE_doorkeeper	doorkeeper
-FEMALE_draughtsperson	draughtsperson
-FEMALE_dresser	dresser
+FEMALE_diver	Дайвер
+FEMALE_dog trainer	Дресувальник
+FEMALE_doorkeeper	Консьєрж
+FEMALE_draughtsperson	Кресляр
+FEMALE_dresser	Костюмер
 FEMALE_driller	Бурильник
-FEMALE_drilling rig operator	drilling rig operator
-FEMALE_driver of motor vehicles	driver of motor vehicles
+FEMALE_drilling rig operator	Оператор бурової установки
+FEMALE_driver of motor vehicles	Водій моторного транспорту
 FEMALE_driver's mate	driver's mate
 FEMALE_driving instructor	Інструктор з водіння
 FEMALE_dust control technician	Технік боротьби з пилом
@@ -1854,27 +1854,27 @@ FEMALE_electrical equipment inspector	electrical equipment inspector
 FEMALE_electrical fitter	electrical fitter
 FEMALE_electrician	Електрик
 FEMALE_electroceramic operative	electroceramic operative
-FEMALE_electronic mechanic	electronic mechanic
+FEMALE_electronic mechanic	Електрик
 FEMALE_electroplating operator	electroplating operator
-FEMALE_employment agent	employment agent
+FEMALE_employment agent	Агент з працевлаштування
 FEMALE_enamel worker	enamel worker
 FEMALE_engineering fitter	engineering fitter
 FEMALE_entertainment officer	entertainment officer
 FEMALE_environmental inspector	environmental inspector
-FEMALE_ergonomist	ergonomist
-FEMALE_ethnographer	ethnographer
+FEMALE_ergonomist	Ергономіст
+FEMALE_ethnographer	Етнограф
 FEMALE_exhibitions organizer	exhibitions organizer
 FEMALE_faith healer	faith healer
-FEMALE_farm worker	farm worker
+FEMALE_farm worker	Працівник ферми
 FEMALE_farmer	Фермер
 FEMALE_fashion designer	fashion designer
 FEMALE_feed production operator	feed production operator
-FEMALE_film critic	film critic
-FEMALE_film designer	film designer
+FEMALE_film critic	Кінокритик
+FEMALE_film designer	Дизайнер фільмів
 FEMALE_film or videotape editor	film or videotape editor
 FEMALE_film projectionist	film projectionist
-FEMALE_financial analyst	financial analyst
-FEMALE_financial officer	financial officer
+FEMALE_financial analyst	Фінансовий аналітик
+FEMALE_financial officer	Фінансовий офіцер
 FEMALE_fine artist	fine artist
 FEMALE_fire prevention officer	fire prevention officer
 FEMALE_fish farmer	fish farmer
@@ -1884,47 +1884,47 @@ FEMALE_fitter of glass instruments	fitter of glass instruments
 FEMALE_fitter of gas pipelines	fitter of gas pipelines
 FEMALE_fitter of steel structures	fitter of steel structures
 FEMALE_flight attendant	Бортпровідниця
-FEMALE_flight engineer	flight engineer
+FEMALE_flight engineer	Авіаінженер
 FEMALE_floor fitter	floor fitter
 FEMALE_flower grower	flower grower
 FEMALE_flying instructor	flying instructor
 FEMALE_food industry PM	food industry PM
 FEMALE_food industry technologist	food industry technologist
 FEMALE_foreign exchange clerk	foreign exchange clerk
-FEMALE_forest manager	forest manager
+FEMALE_forest manager	Лісовий менеджер
 FEMALE_forestry machine operator	forestry machine operator
 FEMALE_forestry worker	forestry worker
-FEMALE_fortune teller	fortune teller
+FEMALE_fortune teller	Ворожбит
 FEMALE_foster parent	foster parent
 FEMALE_foundry worker	foundry worker
 FEMALE_fringe/trimmings maker	fringe/trimmings maker
-FEMALE_fruit farmer	fruit farmer
+FEMALE_fruit farmer	Фруктовий фермер
 FEMALE_funeral service assistant	funeral service assistant
 FEMALE_fur coat seamstress	fur coat seamstress
 FEMALE_furnace operator	furnace operator
-FEMALE_furrier	furrier
-FEMALE_gardener	gardener
-FEMALE_gas industry inspector	gas industry inspector
+FEMALE_furrier	Хутровик
+FEMALE_gardener	Садівник
+FEMALE_gas industry inspector	Інспектор газопромисловості
 FEMALE_general labourer	general labourer
-FEMALE_geneticist	geneticist
-FEMALE_geographer	geographer
+FEMALE_geneticist	Генетик
+FEMALE_geographer	Географ
 FEMALE_geologist	Геолог
-FEMALE_geophysicist	geophysicist
-FEMALE_glass decorator	glass decorator
-FEMALE_glass jewellery maker	glass jewellery maker
-FEMALE_glass making machine operator	glass making machine operator
-FEMALE_glass melter	glass melter
-FEMALE_glass painter	glass painter
+FEMALE_geophysicist	Геофізик
+FEMALE_glass decorator	Декоратор скла
+FEMALE_glass jewellery maker	Виробник скляних прикрас
+FEMALE_glass making machine operator	Оператор склоробної машини
+FEMALE_glass melter	Виробник скла
+FEMALE_glass painter	Фарбувальник скла
 FEMALE_glass production worker	glass production worker
-FEMALE_glasscutter	glasscutter
+FEMALE_glasscutter	Різник скла
 FEMALE_glassworker	glassworker
 FEMALE_glazier	glazier
-FEMALE_goldsmith	goldsmith
+FEMALE_goldsmith	Коваль по золоту
 FEMALE_government licensing official	government licensing official
-FEMALE_graphic designer	graphic designer
-FEMALE_gravedigger	gravedigger
-FEMALE_guide	guide
-FEMALE_gunsmith	gunsmith
+FEMALE_graphic designer	Графічний дизайнер
+FEMALE_gravedigger	Могильник
+FEMALE_guide	Інструктор
+FEMALE_gunsmith	Зброяр
 FEMALE_hand embroiderer	hand embroiderer
 FEMALE_hand lacemaker	hand lacemaker
 FEMALE_harbour guard	harbour guard
@@ -1935,16 +1935,16 @@ FEMALE_heating and ventilating fitter	heating and ventilating fitter
 FEMALE_heating engineer	heating engineer
 FEMALE_herbalist	herbalist
 FEMALE_high-rise work specialist	high-rise work specialist
-FEMALE_historian	historian
+FEMALE_historian	Історик
 FEMALE_historical monuments custodian	historical monuments custodian
-FEMALE_horse breeder	horse breeder
-FEMALE_host	host
-FEMALE_hotel porter	hotel porter
-FEMALE_hotel receptionist	hotel receptionist
-FEMALE_hydrologist	hydrologist
-FEMALE_ice-cream maker	ice-cream maker
+FEMALE_horse breeder	Коняр
+FEMALE_host	Хост
+FEMALE_hotel porter	Готельний портьє
+FEMALE_hotel receptionist	Адміністратор готелю
+FEMALE_hydrologist	Гідролог
+FEMALE_ice-cream maker	Виробник морозива
 FEMALE_image consultant	image consultant
-FEMALE_industrial designer	industrial designer
+FEMALE_industrial designer	Промисловий дизайнер
 FEMALE_officer in rail transport	officer in rail transport
 FEMALE_information assistant	information assistant
 FEMALE_insulation worker	insulation worker
@@ -1954,8 +1954,8 @@ FEMALE_interior designer	interior designer
 FEMALE_interpreter and translator	interpreter and translator
 FEMALE_investment clerk	investment clerk
 FEMALE_invoice clerk	invoice clerk
-FEMALE_jeweller	jeweller
-FEMALE_jewellery maker	jewellery maker
+FEMALE_jeweller	Ювелір
+FEMALE_jewellery maker	Виробник прикрас
 FEMALE_joiner and cabinetmaker	joiner and cabinetmaker
 FEMALE_judge	Суддя
 FEMALE_keeper of records	keeper of records
@@ -1967,7 +1967,7 @@ FEMALE_laundry worker	laundry worker
 FEMALE_lecturer	Лектор
 FEMALE_lecturer in vocational courses	lecturer in vocational courses
 FEMALE_researcher in linguistics	researcher in linguistics
-FEMALE_librarian	librarian
+FEMALE_librarian	Бібліотекар
 FEMALE_information scientist	information scientist
 FEMALE_lifeguard	Рятівник
 FEMALE_swimming instructor	Інструктор з плавання
@@ -1991,7 +1991,7 @@ FEMALE_marketing manager	marketing manager
 FEMALE_masseur/masseuse	masseur/masseuse
 FEMALE_master of ceremonies	master of ceremonies
 FEMALE_materials handler	materials handler
-FEMALE_mathematician	mathematician
+FEMALE_mathematician	Математик
 FEMALE_medical laboratory assistant	medical laboratory assistant
 FEMALE_mechanic	Механік
 FEMALE_mechanic	Механік
@@ -2019,8 +2019,8 @@ FEMALE_mining machine operator	mining machine operator
 FEMALE_mining mechanic	mining mechanic
 FEMALE_mining rescue worker	mining rescue worker
 FEMALE_minerals surveyor	minerals surveyor
-FEMALE_fashion model	fashion model
-FEMALE_modeller	modeller
+FEMALE_fashion model	Модель
+FEMALE_modeller	Модельєр
 FEMALE_motor vehicle bodybuilder	motor vehicle bodybuilder
 FEMALE_mountain guide	mountain guide
 FEMALE_multimedia designer	multimedia designer
@@ -2035,7 +2035,7 @@ FEMALE_musician	Музикант
 FEMALE_musicologist	musicologist
 FEMALE_nanny	nanny
 FEMALE_naturalist guide	naturalist guide
-FEMALE_newspaper editor	newspaper editor
+FEMALE_newspaper editor	Редактор газети
 FEMALE_nuclear power station operator	nuclear power station operator
 FEMALE_nurse	Медбрат
 FEMALE_nursery school teacher	nursery school teacher
@@ -2054,14 +2054,14 @@ FEMALE_packer	packer
 FEMALE_paediatrician	paediatrician
 FEMALE_palmists	palmists
 FEMALE_paper worker	paper worker
-FEMALE_paramedic	paramedic
+FEMALE_paramedic	Парамедик
 FEMALE_patent agent	patent agent
 FEMALE_paver	paver
 FEMALE_pawnbroker	pawnbroker
 FEMALE_personnel officer	personnel officer
 FEMALE_pest control officer	pest control officer
-FEMALE_pharmacist	pharmacist
-FEMALE_philosopher	philosopher
+FEMALE_pharmacist	Фармацевт
+FEMALE_philosopher	Філософ
 FEMALE_photographer	Фотограф
 FEMALE_photographic reporter	photographic reporter
 FEMALE_physicist	physicist
@@ -2080,7 +2080,7 @@ FEMALE_pollster	pollster
 FEMALE_post office counter clerk	post office counter clerk
 FEMALE_postal service worker	postal service worker
 FEMALE_postal transport worker	postal transport worker
-FEMALE_postal worker	postal worker
+FEMALE_postal worker	Поштовий працівник
 FEMALE_postmaster	postmaster
 FEMALE_poultry breeder	poultry breeder
 FEMALE_poultry butcher	poultry butcher
@@ -2091,7 +2091,7 @@ FEMALE_power station operator	power station operator
 FEMALE_power system worker	power system worker
 FEMALE_power truck driver	power truck driver
 FEMALE_prefab construction worker	prefab construction worker
-FEMALE_press officer	press officer
+FEMALE_press officer	Пресофіцер
 FEMALE_pricing officer	pricing officer
 FEMALE_priest	priest
 FEMALE_primary school teacher	primary school teacher
@@ -2115,7 +2115,7 @@ FEMALE_public administration officer	public administration officer
 FEMALE_public notary	public notary
 FEMALE_public relations manager	public relations manager
 FEMALE_publican	publican
-FEMALE_publisher	publisher
+FEMALE_publisher	Видавець
 FEMALE_purchasing officer	purchasing officer
 FEMALE_quality control technician	quality control technician
 FEMALE_quality inspector	quality inspector
@@ -2123,7 +2123,7 @@ FEMALE_radio operator	radio operator
 FEMALE_radiotherapist	radiotherapist
 FEMALE_rail transport worker	rail transport worker
 FEMALE_rail vehicle mechanic	rail vehicle mechanic
-FEMALE_wagon inspector	wagon inspector
+FEMALE_wagon inspector	Інспектор вагонів
 FEMALE_railway electrician	railway electrician
 FEMALE_railway engine mechanic	railway engine mechanic
 FEMALE_railway freight handler	railway freight handler
@@ -2184,11 +2184,11 @@ FEMALE_silkworm breeder	silkworm breeder
 FEMALE_singer	Співак
 FEMALE_smith	smith
 FEMALE_social worker	social worker
-FEMALE_sociologist	sociologist
-FEMALE_solicitor	solicitor
-FEMALE_songwriter	songwriter
+FEMALE_sociologist	Соціолог
+FEMALE_solicitor	Повірений
+FEMALE_songwriter	Написання пісень
 FEMALE_sound effects technician	sound effects technician
-FEMALE_sound engineer	sound engineer
+FEMALE_sound engineer	Звукоінженер
 FEMALE_spa resort attendant	spa resort attendant
 FEMALE_special needs teacher	special needs teacher
 FEMALE_special effects engineer	special effects engineer
@@ -2203,7 +2203,7 @@ FEMALE_stage designer	stage designer
 FEMALE_stage manager	stage manager
 FEMALE_standards engineer	standards engineer
 FEMALE_state attorney	state attorney
-FEMALE_station manager	station manager
+FEMALE_station manager	Менеджер станції
 FEMALE_statistician	statistician
 FEMALE_stockbroker	stockbroker
 FEMALE_stonemason	stonemason
@@ -2236,22 +2236,22 @@ FEMALE_tobacco technologist	tobacco technologist
 FEMALE_tool maker	tool maker
 FEMALE_town planner	town planner
 FEMALE_track engineer	track engineer
-FEMALE_tracklayer	tracklayer
-FEMALE_tractor driver	tractor driver
+FEMALE_tracklayer	Дорогоклад
+FEMALE_tractor driver	Водій трактора
 FEMALE_trading standards officer	trading standards officer
 FEMALE_traffic police officer	traffic police officer
-FEMALE_train dispatcher	train dispatcher
-FEMALE_train driver	train driver
+FEMALE_train dispatcher	Розбір поїздів
+FEMALE_train driver	Машиніст
 FEMALE_trainee	trainee
-FEMALE_trainer	trainer
+FEMALE_trainer	Тренер
 FEMALE_tram driver	tram driver
 FEMALE_transport supervisor	transport supervisor
 FEMALE_travel agency clerk	travel agency clerk
 FEMALE_travel courier	travel courier
-FEMALE_tunneller	tunneller
-FEMALE_tutor	tutor
+FEMALE_tunneller	Тунельник
+FEMALE_tutor	Репетитор
 FEMALE_typesetter	typesetter
-FEMALE_it's complicated	it's complicated
+FEMALE_it's complicated	Все складно
 FEMALE_upholsterer	upholsterer
 FEMALE_valuer	valuer
 FEMALE_varnisher	varnisher
@@ -2266,7 +2266,7 @@ FEMALE_waste incineration plant worker	waste incineration plant worker
 FEMALE_water management controller	water management controller
 FEMALE_water meter reader	water meter reader
 FEMALE_watercourse manager	watercourse manager
-FEMALE_watch-maker	watch-maker
+FEMALE_watch-maker	Виробник годинників
 FEMALE_watchman	security guard
 FEMALE_weaver	weaver
 FEMALE_weigher	weigher
@@ -2278,23 +2278,23 @@ FEMALE_window cleaner	window cleaner
 FEMALE_window-dresser	window-dresser
 FEMALE_winery worker/wine maker	winery worker/wine maker
 FEMALE_wire-drawer	wire-drawer
-FEMALE_wood carver	wood carver
-FEMALE_wood industry technologist	wood industry technologist
+FEMALE_wood carver	Різьбяр
+FEMALE_wood industry technologist	Деревотехнік
 FEMALE_woodcutting manager	woodcutting manager
 FEMALE_woodworking operator	woodworking operator
 FEMALE_foundry worker	foundry worker
-FEMALE_Olympian	Olympian
-FEMALE_Ice cream taster	Ice cream taster
+FEMALE_Olympian	Олімпієць
+FEMALE_Ice cream taster	Дегустатор морозива
 FEMALE_Mercenary	Найманець
 FEMALE_Adult film creator	Adult film creator
 FEMALE_Hunter	Мисливець
-FEMALE_Ornithologist	Ornithologist
+FEMALE_Ornithologist	Орнітолог
 FEMALE_Urban Planner	Urban Planner
-FEMALE_Civil Engineer	Civil Engineer
-FEMALE_Coach	Coach
+FEMALE_Civil Engineer	Цивільний інженер
+FEMALE_Coach	Тренер
 FEMALE_Hot Dog Eater	Поїдач хотдогів
 FEMALE_Retired	Пенсіонер
-FEMALE_Between Jobs	Between Jobs
+FEMALE_Between Jobs	Між роботами
 FEMALE_prophet	prophet
 BattleRoyale	До останнього бота
 EndlessCoop	Нескінченний кооператив
@@ -2323,7 +2323,7 @@ errorNewServersStarting	New servers starting up, try again in a minute!
 errorTimeoutLevelDownload	Timed out downloading required levels. Check your connection or firewall.
 errorLoginFailed	Login failed, check if Steam is running or try again.
 errorInvalidServerIP	Помилка! Невірний IP сервера.
-Player pushes garbage	Гравець штовхає останки
+Player pushes garbage	Гравець штовхає уламки
 Hide Special Objects	Приховати спеціальні об'єкти
 Humans harvested:	Зібрано людей:
 connection problem	Помилка з'єднання
@@ -2342,20 +2342,20 @@ Connecting to game	Під'єднання до гри
 bannedMessageConsoles	You are banned from multiplayer!<br><br>If you want more information or believe this is an error, contact:<br><br>banned@doborog.com<br><br>and tell us your account identificator.
 PS4PlusSubscriptionRequieredMultiplayer	PlayStation®Plus subscription is required to access multiplayer features
 Authenticating user	Автентифікація користувача
-Joining invited game	Joining invited game
+Joining invited game	Приєднання за запрошенням
 cross network first time info	Players from other networks will be able to join your matches. You can change this later in the settings menu.
 errorTimeoutConsoles	Timed out while connecting. Try restarting the game client or change your network settings.
 UserNotLoggedIn	User is not logged in
 PS4SignInToNetwork	Sign in to PlayStation™Network
-Fire Resistance	Fire Resistance
-Fire spreads less.	Fire spreads less.
+Fire Resistance	Вогнестійкість
+Fire spreads less.	Вогонь менше розповсюджується.
 errorIncompatibleVersionConsoles	Incompatible version. Try updating your game, or retrying later.
 errorNoRegionsConsoles	No regions available, try update your game or check network settings.
 errorLoginFailedConsoles	Login failed, check game version or network settings.
-Platinum Clone	Platinum Clone
+Platinum Clone	Платиновий клон
 Platinum Clone Description	Is this human made out of Platinum? It must be since they got every single achievement in the Danger Zone. Incredible!
 PS4RecentlyMetMessage	Played {0} mode with me
-PS4RoomStatus	Game mode: {0}
+PS4RoomStatus	Режим гри: {0}
 InviteToGame	Do you want to join me in Clone Drone in the Danger Zone?
 PlayerInGamePresenceStatus	Playing Clone Drone In The Danger Zone
 UnableToAccessFeature	Unable to access this feature
@@ -2394,15 +2394,15 @@ Select Reason	Оберіть причину
 Describe Their Behaviour	Опишіть його поведінку
 reportUsername	<color=#FF6815>Поскаржитися</color> {0}
 connectionErrorNoConnection	Connection to the server could not be established. Check your internet connection and try again later.
-errorNoSlotsAvailable	The match you want to join is full.
-VSync	VSync
-userSignIn	User signed in
-userSignInDescription	Signed in as {0}<br>Loading save data...
-noUserSignedIn	No user signed in
+errorNoSlotsAvailable	Матч, до якого ви хочете приєднатися повний.
+VSync	Вертикальна синхронізація
+userSignIn	Користувач увійшов
+userSignInDescription	Ви увійшли як {0}<br>Завантаження даних збереження...
+noUserSignedIn	Користувач не ввійшов
 noUserSignedInDescription	No user is currently signed in, you will not be able to save game progress until you log into an account.
-matchError	Couldn't join the match
+matchError	Не вдалося приєднатися до матчу
 matchErrorFull	Матч уже повний.
-matchErrorInvalidMode	Invalid game mode requested.
+matchErrorInvalidMode	Невірний запит на ігровий режим.
 matchErrorNotFound	Матч не знайдено.
 block user message	You may still see them in Last Bot Standing games, but you are less likely to be matched in co-op.<br>You can manage your blocked users from Settings / Multiplayer.
 ToU_Title	Doborog<br>TERMS OF USE<br>LAST MODIFIED ON AUGUST 18, 2020
@@ -2684,7 +2684,7 @@ We're on Tiktok!	We're on Tiktok!
 Follow @Doborog for more!	Follow @Doborog for more!
 Want to talk to other humans??	Want to talk to other humans??
 Join our Discord!	Join our Discord!
-Follow our Twitter!	Follow our Twitter!
+Follow our Twitter!	Слідкуйте за нами в Twitter!
 Clothing for humans!	Clothing for humans!
 Privacy Policy	Privacy Policy
 Developer LIVE!	Developer LIVE!
@@ -2707,15 +2707,15 @@ cheating	cheating
 ban evading	ban evading
 toxic behavior	Токсична поведінка
 trolling	Тролінг
-griefing	griefing
+griefing	Грифінг
 bullying	Цькування
-having an offensive nickname	having an offensive nickname
+having an offensive nickname	Образливе ім'я
 exploiting bugs	exploiting bugs
 out-of-game bad behavior	out-of-game bad behavior
 gameMode_MultiplayerDuel	Дуелі
 gameMode_BattleRoyale	До останнього бота
-gameMode_EndlessCoop	Co-op
-gameMode_CoopChallenge	Co-op
+gameMode_EndlessCoop	Кооператив
+gameMode_CoopChallenge	Кооператив
 bannedMessageGeneric	You are banned from multiplayer.<br><br>If you want more information or believe this is an error, contact:<br><br>banned@doborog.com and tell us your user name.
 Read the multiplayer rules!	Прочитайте правила мережевої гри!
 Buy game!	Купіть гру!
@@ -2724,8 +2724,8 @@ switch left stick x	left stick x axis
 switch left stick y	left stick y axis
 switch right stick x	right stick x axis
 switch right stick y	right stick y axis
-Report	Report
-Players in Match:	Players in Match:
+Report	Поскаржитися
+Players in Match:	Гравці у матчі:
 Saw and ad for it!	Saw and ad for it!
 Cool! Where did you see it?	Cool! Where did you see it?
 Facebook	Facebook
@@ -2759,7 +2759,7 @@ Gyro Always On	Завжди увімкнено
 Adventure	Adventure
 Threaded Voxel Destruction	Threaded Voxel Destruction
 defaultColor	Стандартний
-Adventures	Adventures
+Adventures	Пригоди
 Endless Levels	Нескінченні рівні
 Last Bot Standing Levels	До останнього бота
 lbsLevelsDescription	Last Bot Standing levels you subscribe to can be selected when you start a private match!
@@ -2767,21 +2767,21 @@ endlessLevelsDescription	Endless Levels you subscribe to will be mixed in random
 Featured	Рекомендовані
 Trending	Популярні
 Latest	Найновіші
-Followed Authors	Followed Authors
+Followed Authors	Улюблені автори
 Your Subscriptions	Ваші підписки
 Browse Workshop Levels	Перегляд рівнів майстерні
 Browse Workshop	Перегляд майстерні
 Adventure Challenges	Adventure Challenges
 Arena Challenges	Arena Challenges
-Zombie 1	Zombie 1
-Co-op Zombie Challenge	Co-op Zombie Challenge
-Defeat the Co-op Zombie Challenge!	Defeat the Co-op Zombie Challenge!
+Zombie 1	Зомбі 1
+Co-op Zombie Challenge	Ко-оп зомбі випробування
+Defeat the Co-op Zombie Challenge!	Пройдіть кооперативне зомбі випробування!
 Zombie Challenge	Зомбі випробування
 Zombie robots! Stealth? Death trees!? Wow!	Zombie robots! Stealth? Death trees!? Wow!
 Page 3	Сторінка 3
-SearchingLastBot	Searching for Last Bot Standing matches...
-SearchingCoopEndless	Searching for Co-op Endless matches...
-SearchingCoopChallenges	Searching for Co-op Challenges...
+SearchingLastBot	Пошук матчів «До останнього бота»...
+SearchingCoopEndless	Пошук кооперативних нескінченних матчів...
+SearchingCoopChallenges	Пошук кооперативних випробувань...
 muteListError	Couldn't retrieve mute list
 muteListErrorDescription	There was a problem retrieving your mute list. Check your internet connection and try again later.
 mute user title	Mute {0}?
@@ -2802,7 +2802,7 @@ multiplayerDownMessage	Our multiplayer servers are currently down for maintenanc
 ItsOver	Все скінчено!
 IHaveTheHighGround	I have the high ground!
 YouUnderestimate	Ви недооцінюєте мою силу!
-LetsTryOurBest	Let's try our best
+LetsTryOurBest	Постараймось
 WorkHard	Work Hard
 BehindYou	Позаду!
 RestInPieces	Rest in pieces!
@@ -2814,15 +2814,15 @@ MSAA2X	2X MSAA
 MSAA4X	4X MSAA
 MSAA8X	8X MSAA
 Say Hello to a developer while they're streaming!	Click the Say Hello button when a developer is streaming!
-Did you know we stream?!	Did you know we stream?!
-watchElin	Watch Elin<br>build the game.
-watchDylan	Watch Dylan<br>build the game.
-watchJosh	Watch Josh<br>build the game.
-Ally Challenge	Ally Challenge
-Defeat the Ally Challenge!	Defeat the Ally Challenge!
-Allies help you. You'll need it!	Allies help you. You'll need it!
-Deleted Object	Deleted Object
-Created Object	Created Object
+Did you know we stream?!	Ви знали, що ми проводимо трансляції?!
+watchElin	Спостерігайте, як<br>Елін працює над грою.
+watchDylan	Спостерігайте, як<br>Ділан працює над грою.
+watchJosh	Спостерігайте, як<br>Джош працює над грою.
+Ally Challenge	Випробування союзників
+Defeat the Ally Challenge!	Пройдіть випробування союзників!
+Allies help you. You'll need it!	Союзники вам допоможуть. Вам вона знадобиться!
+Deleted Object	Видалено об'єкт
+Created Object	Створений об'єкт
 Changed Inspector Value	Changed Inspector Value
 Deleted Keyframe	Deleted Keyframe
 Added Keyframe	Added Keyframe
